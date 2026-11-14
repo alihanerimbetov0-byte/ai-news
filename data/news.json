@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:51:52.036334+00:00",
+ "updated": "2026-11-14T18:55:25.966152+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 7
   },
   {
    "source": "Google AI",
@@ -54,12 +54,12 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "source": "OpenAI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 3
+   "count": 6
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,72 @@
   }
  ],
  "items": [
+  {
+   "id": "3fe3b3445ce6",
+   "title": "Samsung вложит $34 млрд в производство памяти HBM — новый комплекс построят в Южной Корее",
+   "summary": "Южнокорейская компания ускорила строительство комплекса в Оньяне на год: расширение производства должно помочь нарастить выпуск памяти для ИИ-ускорителей Samsung начала строительство нового предприятия по упаковке…",
+   "link": "https://www.ixbt.com/news/2026/11/14/samsung-vlozit-34-mlrd-v-proizvodstvo-pamiati-hbm-novyi-kompleks-postroiat-v-iuznoi-koree.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741557/media-463c4c540cb66e87121a5c7e11a85d1450eb6678f204c50799d8150fde13fc5b.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-14T18:41:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "a15c20e72680",
+   "title": "Агентоцентричные бизнес-процессы. Да? Нет? Не знаю?",
+   "summary": "Все люди, как известно, делятся на две категории: на тех, кто делит людей на категории и на тех, кто такой ерундой не занимается. И вот в последнее время нестерпимо хочется примкнуть к первым.",
+   "link": "https://habr.com/ru/articles/1107910/?utm_campaign=1107910&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8f/e0/19/8fe01905ae0f5672f387215f2980db8a.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-14T17:30:53+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "7134e7e1ad67",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-14T17:30:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "f4c3e64a0c69",
+   "title": "Внешность почти как у Mac Studio, 192 ГБ ОЗУ и цена свыше 7000 долларов. Представлен обновлённый Beelink GTR9 Pro",
+   "summary": "Там 192 ГБ ОЗУ Компания Beelink обновила свой мини-ПК GTR9 Pro, выполненный в стиле Mac Studio, оснастив его процессором Ryzen AI Max+ 495. Конечно же, заодно и огромным объёмом памяти.",
+   "link": "https://www.ixbt.com/news/2026/11/14/vnesnost-pocti-kak-u-mac-studio-192-gb-ozu-i-cena-svyse-7000-dollarov-predstavlen-obnovlennyi-beelink-gtr9-pro.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741525/media-bdaef741e7b28e49b69f182531f1dd82af95f6f2d2147ad096e79c710ffa9514.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-14T17:23:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "31ee6f35b7ca",
+   "title": "Достаточно «Искры» одной…",
+   "summary": "Почему я начал делать эту штуку? От жадности и от лени. Нам начали упорно на работе пропихивать модную игрушку (чтобы мы же её и оплачивали).",
+   "link": "https://habr.com/ru/articles/1107906/?utm_campaign=1107906&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b5/c7/7e/b5c77e2eaef1648fd04c27512b3c40fb.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-14T17:15:33+00:00",
+   "category": "other"
+  },
+  {
+   "id": "2fa2eb16b84f",
+   "title": "SpaceX уволила 60 разработчиков Grok Imagine, оставив ИИ-генератор почти без команды",
+   "summary": "Компания Илона Маска переключает ресурсы с создания видео и изображений на ИИ-программирование и автономных агентов SpaceX уволила 60 сотрудников, работавших над Grok Imagine.",
+   "link": "https://www.ixbt.com/news/2026/11/14/spacex-uvolila-60-razrabotcikov-grok-imagine-ostaviv-ii-generator-pocti-bez-komandy.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741512/ai-image-yqz7mztsapotqmk979m9jy3t.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-14T16:54:00+00:00",
+   "category": "models"
+  },
   {
    "id": "d586df59cc4d",
    "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
@@ -184,6 +250,17 @@
    "lang": "ru",
    "date": "2026-11-14T15:20:00+00:00",
    "category": "hardware"
+  },
+  {
+   "id": "d46b516a4c83",
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.",
+   "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-14T15:00:00+00:00",
+   "category": "business"
   },
   {
    "id": "6fd4cff2f5ec",
@@ -2076,28 +2153,6 @@
    "lang": "en",
    "date": "2026-11-05T00:00:00+00:00",
    "category": "models"
-  },
-  {
-   "id": "2550523e2a0e",
-   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-   "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position.",
-   "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-04T18:50:55+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "5afc49da7bd4",
-   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-   "summary": "",
-   "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/c1ik58RednXjcqrx5s2Fo.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-04T17:50:10+00:00",
-   "category": "other"
   }
  ]
 }
