@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:55:25.966152+00:00",
+ "updated": "2026-11-14T20:49:01.341108+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,39 @@
   }
  ],
  "items": [
+  {
+   "id": "50f53a6d695a",
+   "title": "Флот спутников под управлением ИИ: стартап из Сиэтла запустил платформу для космических группировок",
+   "summary": "Constellation Space обещает увеличить объём данных со спутников на 36% за один сеанс связи.",
+   "link": "https://www.ixbt.com/news/2026/11/14/flot-sputnikov-pod-upravleniem-ii-startap-iz-sietla-zapustil-platformu-dlia-kosmiceskix-gruppirovok.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741582/media-c65f41648d4451568ef61351f2da0fa51f89aee40bca5dba5e35f0aae8e7ba5b.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-14T19:51:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "5abbbdf82072",
+   "title": "Семь способов обмануть себя метриками: как я измерял точность ИИ-проверки ЕГЭ",
+   "summary": "В первой части я рассказал, как устроена проверка второй части ЕГЭ по обществознанию в моём боте: модель размечает ответ, код считает балл.",
+   "link": "https://habr.com/ru/articles/1107926/?utm_campaign=1107926&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/2d/65/2a/2d652a1f35811e6c544d66cd52323133.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-14T19:42:09+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a60709173eb7",
+   "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+   "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces.",
+   "link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_logos-5.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-14T19:05:17+00:00",
+   "category": "business"
+  },
   {
    "id": "3fe3b3445ce6",
    "title": "Samsung вложит $34 млрд в производство памяти HBM — новый комплекс построят в Южной Корее",
