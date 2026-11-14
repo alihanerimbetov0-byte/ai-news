@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:02:17.954527+00:00",
+ "updated": "2026-11-14T14:52:27.731518+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,83 @@
   }
  ],
  "items": [
+  {
+   "id": "6fd4cff2f5ec",
+   "title": "Эпизод 2. Подсмотрено у мозга: предсказание, азбука, план",
+   "summary": "Продолжаем решать интересную RL-задачу: агент должен сам научиться играть в Atari Frostbite по сырым видеокадрам, чтобы набрать 136k+ очков и одолеть SOTA модель MEME-200 [4]. Меня зовут Михаил Кочеров.",
+   "link": "https://habr.com/ru/articles/1107874/?utm_campaign=1107874&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/53/b2/d5/53b2d525629f8c6ac71c1207feda263d.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-14T14:16:52+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2fb87a8da43b",
+   "title": "Скандал в Nvidia ударил по китайским ИИ-компаниям — рынок испугался, что США перекроют им кислород",
+   "summary": "Акции китайских разработчиков искусственного интеллекта упали на фоне кризиса в руководстве Nvidia: инвесторы опасаются, что Вашингтон ограничит доступ китайских компаний к её ускорителям в зарубежных центрах обработки…",
+   "link": "https://3dnews.ru/1151307",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/14/1151307/nvidia.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-14T14:03:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "4defa314d946",
+   "title": "OpenAI распустила команду робототехники — управлять роботами будет универсальный GPT",
+   "summary": "OpenAI расформировала свое отдельное подразделение по робототехнике, объяснив этот шаг изменением концепции.",
+   "link": "https://3dnews.ru/1151306",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/14/1151306/steve-a-johnson-_0iV9LmPDn0-unsplash.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-14T13:48:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e7792da26d89",
+   "title": "ИИ-система за $875 млн будет помогать управлять воздушным движением по всей территории США",
+   "summary": "FAA распространяет систему ИИ на всю территорию США после первых заявленных результатов в Вашингтоне.",
+   "link": "https://www.ixbt.com/news/2026/11/14/ii-sistema-za-875-mln-budet-pomogat-upravliat-vozdusnym-dvizeniem-po-vsei-territorii-ssa.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741482/media-ed7456f2e6bb5cb11cce06e0259cfb81119c12c7bc6921c11afb97e7b58cdc94.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-14T13:47:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "53b037676717",
+   "title": "Разблокировали аккаунт Claude по апелляции",
+   "summary": "Это не инструкция, как избежать блокировки или как гарантированно вернуть аккаунт. Делюсь личным опытом, который может быть полезен.",
+   "link": "https://habr.com/ru/articles/1107868/?utm_campaign=1107868&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/29/bc/14/29bc147965f7579ca756b834b4bab103.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-14T13:25:42+00:00",
+   "category": "models"
+  },
+  {
+   "id": "82ab3d6d0794",
+   "title": "Beware the New AI-Fueled Ransomware Boom",
+   "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+   "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+   "image": null,
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-14T13:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "6b72b309455a",
+   "title": "LLM-беседа: явление пользователю: обзор экспериментов",
+   "summary": "В каком образе LLM-беседа является пользователю? Чем форма такого образа определяется? Этот вопрос экспериментально исследовался многими – см. список литературы ниже.",
+   "link": "https://habr.com/ru/articles/1107858/?utm_campaign=1107858&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c4/8e/02/c48e025c03df3dcc26c36db617700846.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-14T12:59:16+00:00",
+   "category": "models"
+  },
   {
    "id": "9df1e3dcf4e4",
    "title": "Тринадцать LLM на русских отзывах: как я выбирал модель и почему не поверил судье",
