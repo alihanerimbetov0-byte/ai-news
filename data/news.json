@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:57:02.098604+00:00",
+ "updated": "2026-11-14T13:02:17.954527+00:00",
  "categories": [
   {
    "id": "models",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "source": "OpenAI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 10
+   "count": 7
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,28 @@
   }
  ],
  "items": [
+  {
+   "id": "9df1e3dcf4e4",
+   "title": "Тринадцать LLM на русских отзывах: как я выбирал модель и почему не поверил судье",
+   "summary": "Я делаю сервис, который отвечает на отзывы покупателей на Wildberries, Ozon и Яндекс Маркете.",
+   "link": "https://habr.com/ru/articles/1107856/?utm_campaign=1107856&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/39/10/db/3910dbfe28c74b92012d86493c05653e.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-14T12:50:45+00:00",
+   "category": "models"
+  },
+  {
+   "id": "567fa298898a",
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last.",
+   "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0%2C13.348952787954%2C100%2C73.302094424093&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-14T12:00:00+00:00",
+   "category": "hardware"
+  },
   {
    "id": "6c855aac4f9d",
    "title": "[Перевод] Как ускорить локальную LLM на 50% без покупки новой видеокарты",
@@ -1922,17 +1944,6 @@
    "lang": "en",
    "date": "2026-11-04T17:50:10+00:00",
    "category": "other"
-  },
-  {
-   "id": "f5f168ec4f0c",
-   "title": "Securing the agentic enterprise with data lineage",
-   "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes.",
-   "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR_Cyberhaven_V4_Cover.png?w=840",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-04T13:00:00+00:00",
-   "category": "tools"
   }
  ]
 }
