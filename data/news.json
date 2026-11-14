@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T20:49:01.341108+00:00",
+ "updated": "2026-11-14T22:47:41.323071+00:00",
  "categories": [
   {
    "id": "models",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 7
+   "count": 10
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,61 @@
   }
  ],
  "items": [
+  {
+   "id": "febb151a8ec4",
+   "title": "Почему с ИИ мы всё ещё пишем плохой софт",
+   "summary": "ИИ помогает искать баги и делать рефакторинг. Но к пятнице снова нужна новая фича, а разбор старого кода откладывают. После стрима про качество кода я решил разобраться, почему мы так используем болванчика.",
+   "link": "https://habr.com/ru/articles/1107946/?utm_campaign=1107946&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/53/4d/b9/534db927bd9c8e1d5cb231d3ef3ed06c.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-14T22:42:26+00:00",
+   "category": "other"
+  },
+  {
+   "id": "999243402cdc",
+   "title": "Пополнять карту «Тройка» теперь можно через чат с «Алисой AI»",
+   "summary": "«Алиса AI» добралась до московского транспорта Пассажиры Москвы и Московской области получили новый способ пополнения транспортной карты «Тройка» — теперь это можно сделать прямо в чате с голосовым помощником «Алиса…",
+   "link": "https://www.ixbt.com/news/2026/11/15/popolniat-kartu-troika-teper-mozno-cerez-cat-s-alisoi-ai.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741606/media-e46faef35bb7e853cf76c20506dfdb5eb72c03014b88228d1c9d8674e720e60d.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-14T21:55:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "926f5ccdbc36",
+   "title": "Gemini 4 Carbon за два часа превратила iPhone Duo в ноутбук с Windows 11 — даже джейлбрейк не понадобился",
+   "summary": "На iPhone Duo запустили полноценную Windows 11 — для систем на платформе ARM Руководитель продуктового направления и дизайна Google AI Studio Аммаар Реши продемонстрировал необычный эксперимент: ему удалось запустить…",
+   "link": "https://www.ixbt.com/news/2026/11/15/gemini-4-carbon-za-dva-casa-prevratila-iphone-duo-v-noutbuk-s-windows-11-daze-dzeilbreik-ne-ponadobilsia.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741604/media-ccfc981ee7fc641721259d467522da1ab901c6d3a381898539e3701b551f249c.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-14T21:50:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "31a0b97a499c",
+   "title": "Важнейшая «фишка» One UI 9.5: в смартфонах Samsung Galaxy появится продвинутый ИИ-ассистент, который сможет выполнять многие функции самостоятельно",
+   "summary": "По сути пользователи устройств под управлением One UI 9.5 получат персонального цифрового секретаря Samsung разрабатывает новую системную платформу Personal Agent Core, которая должна вывести возможности искусственного…",
+   "link": "https://www.ixbt.com/news/2026/11/15/vazneisaia-fiska-one-ui-95-v-smartfonax-samsung-galaxy-poiavitsia-prodvinutyi-ii-assistent-kotoryi-smozet-vypolniat-mnogie-funkcii-samostoiatelno.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741603/media-dc19020d750774cd708b27de0b72f6f15f4f6fe53bd2d0faa8f64f462ab06cd3.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-14T21:47:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "a4a92fbcda03",
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-14T21:41:22+00:00",
+   "category": "hardware"
+  },
   {
    "id": "50f53a6d695a",
    "title": "Флот спутников под управлением ИИ: стартап из Сиэтла запустил платформу для космических группировок",
