@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:44:33.044666+00:00",
+ "updated": "2026-11-14T11:57:02.098604+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 7
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,28 @@
   }
  ],
  "items": [
+  {
+   "id": "6c855aac4f9d",
+   "title": "[Перевод] Как ускорить локальную LLM на 50% без покупки новой видеокарты",
+   "summary": "На GTC Berlin 2026 участники воркшопа NVIDIA смогли ускорить генерацию Qwen3-32B с 16,4 до 24,5 токена в секунду, не меняя оборудование. Для этого использовали FP8 вместо BF16.",
+   "link": "https://habr.com/ru/articles/1107848/?utm_campaign=1107848&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1107848/ecb15e7035c040b57845b96da71987fe/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-14T11:55:35+00:00",
+   "category": "models"
+  },
+  {
+   "id": "5fbd01446a43",
+   "title": "Живое ТЗ и храповик: как заставить ИИ-агента не ломать то, что работает",
+   "summary": "TL;DR. Пять месяцев ИИ-агент пишет производственное планирование для завода, который раньше жил в Excel. Я не читаю код вообще.",
+   "link": "https://habr.com/ru/articles/1107842/?utm_campaign=1107842&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/83/11/4e/83114ebb63063acd452d3eee8e4c98ba.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-14T11:45:47+00:00",
+   "category": "tools"
+  },
   {
    "id": "703d5a8bd206",
    "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
