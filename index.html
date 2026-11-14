@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ИИ Дайджест</title>
+<meta name="description" content="Все новости про искусственный интеллект коротко и понятно: модели, продукты, бизнес, исследования, законы и железо.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='24' fill='%236d5dfc'/><text x='50' y='66' font-size='46' text-anchor='middle' fill='white' font-family='Arial' font-weight='700'>ИИ</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f6fa; --surface:#fff; --surface-2:#eeeef5; --text:#14141f; --muted:#666679; --line:#e3e3ec;
+  --accent:#6d5dfc; --accent-soft:#ecebff; --shadow:0 1px 2px rgba(20,20,40,.05),0 6px 24px rgba(20,20,40,.06);
+  --c-models:#6d5dfc; --c-tools:#0ea5a4; --c-business:#e08a00; --c-research:#2f7de1; --c-policy:#d9455f; --c-hardware:#5b8c2a; --c-other:#7a7a8c;
+}
+:root[data-theme="dark"]{
+  --bg:#0d0d14; --surface:#16161f; --surface-2:#20202c; --text:#ececf4; --muted:#9a9aae; --line:#2a2a38;
+  --accent:#8b7dff; --accent-soft:#25224a; --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 30px rgba(0,0,0,.35);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0d0d14; --surface:#16161f; --surface-2:#20202c; --text:#ececf4; --muted:#9a9aae; --line:#2a2a38;
+    --accent:#8b7dff; --accent-soft:#25224a; --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 30px rgba(0,0,0,.35);
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;cursor:pointer}
+.wrap{max-width:1240px;margin:0 auto;padding:0 16px}
+
+/* header */
+header{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 86%,transparent);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;gap:12px;height:62px}
+.logo{display:flex;align-items:center;gap:10px;font-weight:800;font-size:18px;letter-spacing:-.02em;white-space:nowrap}
+.logo i{display:grid;place-items:center;width:34px;height:34px;border-radius:10px;background:var(--accent);color:#fff;font-style:normal;font-size:14px}
+.search{flex:1;max-width:420px;margin-left:auto;position:relative}
+.search input{width:100%;height:40px;border-radius:12px;border:1px solid var(--line);background:var(--surface);color:var(--text);padding:0 14px 0 38px;font:inherit;outline:none}
+.search input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.search svg{position:absolute;left:12px;top:11px;width:18px;height:18px;color:var(--muted)}
+.icon-btn{width:40px;height:40px;border-radius:12px;border:1px solid var(--line);background:var(--surface);display:grid;place-items:center;flex:none}
+.icon-btn svg{width:18px;height:18px}
+
+/* tabs */
+.tabs{display:flex;gap:8px;overflow-x:auto;padding:12px 0;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:none;display:flex;align-items:center;gap:8px;height:36px;padding:0 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);font-weight:600;font-size:14px;white-space:nowrap}
+.tab .dot{width:8px;height:8px;border-radius:50%;background:var(--c)}
+.tab .n{color:var(--muted);font-weight:500;font-size:12px}
+.tab[aria-pressed="true"]{background:var(--text);color:var(--bg);border-color:var(--text)}
+.tab[aria-pressed="true"] .n{color:inherit;opacity:.7}
+
+.toolbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding:6px 0 14px;color:var(--muted);font-size:13px}
+.seg{display:inline-flex;background:var(--surface-2);border-radius:10px;padding:3px}
+.seg button{border:0;background:none;padding:5px 12px;border-radius:8px;font-size:13px;font-weight:600;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--surface);color:var(--text);box-shadow:var(--shadow)}
+.toolbar .upd{margin-left:auto}
+
+/* hero */
+.hero{display:grid;grid-template-columns:1.4fr 1fr;gap:16px;margin-bottom:28px}
+.hero .main{position:relative;border-radius:20px;overflow:hidden;min-height:360px;background:var(--surface-2);box-shadow:var(--shadow);display:flex;align-items:flex-end}
+.hero .main img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.hero .main::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 30%,rgba(0,0,0,.82))}
+.hero .main .txt{position:relative;z-index:1;padding:24px;color:#fff}
+.hero .main h2{margin:8px 0;font-size:clamp(20px,2.6vw,30px);line-height:1.2;letter-spacing:-.02em}
+.hero .main p{margin:0;opacity:.88;max-width:640px}
+.hero .side{display:grid;gap:12px;align-content:start}
+.mini{display:grid;grid-template-columns:96px 1fr;gap:12px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:10px}
+.mini .ph{width:96px;height:72px;border-radius:10px}
+.mini h3{margin:2px 0 0;font-size:14px;line-height:1.3;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+
+/* groups + grid */
+.group-title{display:flex;align-items:baseline;gap:10px;margin:8px 0 14px;font-size:20px;font-weight:800;letter-spacing:-.02em}
+.group-title span{font-size:13px;font-weight:500;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;margin-bottom:32px}
+.card{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--line);border-radius:18px;overflow:hidden;transition:transform .15s,box-shadow .15s}
+.card:hover{transform:translateY(-2px);box-shadow:var(--shadow)}
+.card .ph{aspect-ratio:16/9}
+.card .body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:8px;flex:1}
+.card h3{margin:0;font-size:16px;line-height:1.32;letter-spacing:-.01em}
+.card p{margin:0;color:var(--muted);font-size:14px}
+.card .foot{margin-top:auto;display:flex;align-items:center;gap:8px;padding-top:6px}
+.card .foot a.read{font-weight:600;color:var(--accent);font-size:13px}
+.card .foot .sp{flex:1}
+.pin{border:0;background:none;padding:4px;color:var(--muted);display:grid;place-items:center;border-radius:8px}
+.pin svg{width:18px;height:18px}
+.pin[aria-pressed="true"]{color:var(--accent)}
+.pin[aria-pressed="true"] svg{fill:currentColor}
+.small-link{font-size:12px;color:var(--muted)}
+.small-link:hover{color:var(--text)}
+
+.ph{position:relative;overflow:hidden;background:linear-gradient(135deg,color-mix(in srgb,var(--c) 35%,var(--surface-2)),var(--surface-2));display:grid;place-items:center}
+.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.ph b{font-size:22px;font-weight:800;color:color-mix(in srgb,var(--c) 70%,var(--text));opacity:.75}
+
+.meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:12px;color:var(--muted)}
+.hero .main .meta{color:rgba(255,255,255,.85)}
+.badge{display:inline-flex;align-items:center;gap:6px;height:22px;padding:0 9px;border-radius:999px;font-size:11.5px;font-weight:700;background:color-mix(in srgb,var(--c) 14%,transparent);color:color-mix(in srgb,var(--c) 85%,var(--text))}
+.hero .main .badge{background:var(--c);color:#fff}
+.lang{font-size:10px;font-weight:700;border:1px solid var(--line);border-radius:5px;padding:0 4px;letter-spacing:.04em}
+
+.empty{text-align:center;color:var(--muted);padding:80px 16px}
+.empty b{display:block;font-size:18px;color:var(--text);margin-bottom:6px}
+footer{border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);font-size:13px}
+footer .src{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+footer .src span{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:2px 8px}
+footer .src span.bad{opacity:.5;text-decoration:line-through}
+
+.skeleton{height:280px;border-radius:18px;background:linear-gradient(90deg,var(--surface) 25%,var(--surface-2) 50%,var(--surface) 75%);background-size:200% 100%;animation:sh 1.2s infinite}
+@keyframes sh{to{background-position:-200% 0}}
+
+@media (max-width:860px){
+  .hero{grid-template-columns:1fr}
+  .hero .main{min-height:300px}
+}
+@media (max-width:560px){
+  .logo span{display:none}
+  .bar{gap:8px}
+  .search{max-width:none}
+  .toolbar .upd{margin-left:0;width:100%}
+  .grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="bar">
+      <a class="logo" href="./"><i>ИИ</i><span>Дайджест</span></a>
+      <label class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Поиск: OpenAI, Gemini, чипы…" autocomplete="off">
+      </label>
+      <button class="icon-btn" id="theme" title="Сменить тему" aria-label="Сменить тему">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+    </div>
+    <nav class="tabs" id="tabs" aria-label="Разделы"></nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="toolbar">
+    <div class="seg" id="langSeg" role="group" aria-label="Язык источника">
+      <button data-lang="all" aria-pressed="true">Все</button>
+      <button data-lang="ru">На русском</button>
+      <button data-lang="en">Мировые</button>
+    </div>
+    <div class="seg" id="periodSeg" role="group" aria-label="Период">
+      <button data-p="1">24 ч</button>
+      <button data-p="3">3 дня</button>
+      <button data-p="0" aria-pressed="true">Всё</button>
+    </div>
+    <span class="upd" id="upd"></span>
+  </div>
+  <div id="content">
+    <div class="grid"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    Новости собираются автоматически из открытых RSS-лент и обновляются каждые 2 часа. Нажмите на карточку, чтобы открыть оригинал.
+    <div class="src" id="sources"></div>
+  </div>
+</footer>
+
+<script>
+(() => {
+  const CAT_COLORS = {models:"--c-models",tools:"--c-tools",business:"--c-business",research:"--c-research",policy:"--c-policy",hardware:"--c-hardware",other:"--c-other"};
+  const store = {
+    get(k, d){ try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+  };
+  const state = { cat: "all", lang: "all", period: 0, q: "", pins: new Set(store.get("pins", [])) };
+  let DATA = { items: [], categories: [] };
+  let pinned = store.get("pinnedItems", {}); // id -> item (чтобы закреплённое не пропало после обновления)
+
+  // ---------- тема
+  const root = document.documentElement;
+  const savedTheme = store.get("theme", null);
+  if (savedTheme) root.dataset.theme = savedTheme;
+  document.getElementById("theme").onclick = () => {
+    const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+    root.dataset.theme = dark ? "light" : "dark";
+    store.set("theme", root.dataset.theme);
+  };
+
+  // ---------- утилиты
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const catLabel = id => (DATA.categories.find(c => c.id === id) || {}).label || "Разное";
+  const color = id => `var(${CAT_COLORS[id] || "--c-other"})`;
+  function ago(iso){
+    const m = Math.round((Date.now() - new Date(iso)) / 60000);
+    if (m < 1) return "только что";
+    if (m < 60) return `${m} мин назад`;
+    const h = Math.round(m / 60);
+    if (h < 24) return `${h} ч назад`;
+    const d = Math.round(h / 24);
+    if (d === 1) return "вчера";
+    return new Date(iso).toLocaleDateString("ru-RU", {day:"numeric", month:"long"});
+  }
+  function dayGroup(iso){
+    const d = new Date(iso), now = new Date();
+    const start = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    if (d >= start) return "Сегодня";
+    if (d >= new Date(start - 864e5)) return "Вчера";
+    if (d >= new Date(start - 6 * 864e5)) return "На этой неделе";
+    return "Ранее";
+  }
+  const translateUrl = u => `https://translate.google.com/translate?sl=auto&tl=ru&u=${encodeURIComponent(u)}`;
+
+  function ph(it, cls = ""){
+    const initial = esc((it.source || "?").trim()[0]);
+    const img = it.image ? `<img src="${esc(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : "";
+    return `<div class="ph ${cls}" style="--c:${color(it.category)}"><b>${initial}</b>${img}</div>`;
+  }
+  function meta(it){
+    return `<div class="meta"><span class="badge" style="--c:${color(it.category)}">${esc(catLabel(it.category))}</span>
+      <span>${esc(it.source)}</span><span>·</span><span>${ago(it.date)}</span>${it.lang === "en" && !it.ai ? '<span class="lang">EN</span>' : ""}</div>`;
+  }
+  const pinIcon = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 3h12v18l-6-4-6 4z"/></svg>`;
+
+  function card(it){
+    const on = state.pins.has(it.id);
+    const tr = it.lang === "en" && !it.ai ? `<a class="small-link" href="${translateUrl(it.link)}" target="_blank" rel="noopener">Перевести</a>` : "";
+    return `<article class="card">
+      <a href="${esc(it.link)}" target="_blank" rel="noopener">${ph(it)}</a>
+      <div class="body">
+        ${meta(it)}
+        <a href="${esc(it.link)}" target="_blank" rel="noopener"><h3>${esc(it.title)}</h3></a>
+        ${it.summary ? `<p>${esc(it.summary)}</p>` : ""}
+        <div class="foot">
+          <a class="read" href="${esc(it.link)}" target="_blank" rel="noopener">Читать →</a>${tr}
+          <span class="sp"></span>
+          <button class="pin" data-pin="${it.id}" aria-pressed="${on}" title="${on ? "Открепить" : "Закрепить"}" aria-label="Закрепить">${pinIcon}</button>
+        </div>
+      </div></article>`;
+  }
+
+  // ---------- фильтры
+  function filtered(){
+    const q = state.q.trim().toLowerCase();
+    const minDate = state.period ? Date.now() - state.period * 864e5 : 0;
+    let list = state.cat === "pinned"
+      ? [...state.pins].map(id => DATA.items.find(i => i.id === id) || pinned[id]).filter(Boolean)
+      : DATA.items;
+    return list.filter(it =>
+      (state.cat === "all" || state.cat === "pinned" || it.category === state.cat) &&
+      (state.lang === "all" || it.lang === state.lang) &&
+      (!minDate || new Date(it.date) >= minDate) &&
+      (!q || `${it.title} ${it.summary} ${it.source} ${it.title_orig || ""}`.toLowerCase().includes(q))
+    );
+  }
+
+  function renderTabs(){
+    const base = DATA.items.filter(it => state.lang === "all" || it.lang === state.lang);
+    const count = id => base.filter(i => i.category === id).length;
+    const tabs = [{id:"all", label:"Все новости", n: base.length}]
+      .concat(DATA.categories.map(c => ({...c, n: count(c.id)})).filter(c => c.n))
+      .concat([{id:"pinned", label:"Закреплённые", n: state.pins.size}]);
+    document.getElementById("tabs").innerHTML = tabs.map(t =>
+      `<button class="tab" data-cat="${t.id}" aria-pressed="${state.cat === t.id}" style="--c:${t.id === "all" || t.id === "pinned" ? "var(--accent)" : color(t.id)}">
+        ${t.id === "all" ? "" : t.id === "pinned" ? "📌" : '<span class="dot"></span>'}${esc(t.label)} <span class="n">${t.n}</span></button>`).join("");
+  }
+
+  function render(){
+    renderTabs();
+    const list = filtered();
+    const el = document.getElementById("content");
+    if (!list.length){
+      el.innerHTML = `<div class="empty"><b>${state.cat === "pinned" ? "Пока ничего не закреплено" : "Ничего не нашлось"}</b>
+        ${state.cat === "pinned" ? "Нажмите на закладку на карточке, чтобы сохранить новость сюда." : "Попробуйте другой раздел или запрос."}</div>`;
+      return;
+    }
+    let html = "", rest = list;
+    // главная история — свежая и с картинкой
+    if (state.cat !== "pinned" && !state.q && list.length > 6){
+      const top = list.slice(0, 12).find(i => i.image) || list[0];
+      const side = list.filter(i => i !== top).slice(0, 4);
+      rest = list.filter(i => i !== top && !side.includes(i));
+      html += `<section class="hero">
+        <a class="main" href="${esc(top.link)}" target="_blank" rel="noopener" style="--c:${color(top.category)}">
+          ${top.image ? `<img src="${esc(top.image)}" alt="" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
+          <div class="txt">${meta(top)}<h2>${esc(top.title)}</h2><p>${esc(top.summary)}</p></div>
+        </a>
+        <div class="side">${side.map(it => `<a class="mini" href="${esc(it.link)}" target="_blank" rel="noopener">
+          ${ph(it)}<div>${meta(it)}<h3>${esc(it.title)}</h3></div></a>`).join("")}</div>
+      </section>`;
+    }
+    const groups = new Map();
+    for (const it of rest){ const g = dayGroup(it.date); if (!groups.has(g)) groups.set(g, []); groups.get(g).push(it); }
+    for (const [g, items] of groups){
+      html += `<h2 class="group-title">${g} <span>${items.length}</span></h2><div class="grid">${items.map(card).join("")}</div>`;
+    }
+    el.innerHTML = html;
+  }
+
+  // ---------- события
+  document.getElementById("tabs").addEventListener("click", e => {
+    const b = e.target.closest("[data-cat]"); if (!b) return;
+    state.cat = b.dataset.cat; render(); scrollTo({top: 0, behavior: "smooth"});
+  });
+  function seg(id, key, attr, parse = v => v){
+    const box = document.getElementById(id);
+    box.addEventListener("click", e => {
+      const b = e.target.closest("button"); if (!b) return;
+      box.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b));
+      state[key] = parse(b.dataset[attr]); render();
+    });
+  }
+  seg("langSeg", "lang", "lang");
+  seg("periodSeg", "period", "p", Number);
+  let t; document.getElementById("q").addEventListener("input", e => { clearTimeout(t); t = setTimeout(() => { state.q = e.target.value; render(); }, 150); });
+  document.getElementById("content").addEventListener("click", e => {
+    const b = e.target.closest("[data-pin]"); if (!b) return;
+    const id = b.dataset.pin;
+    if (state.pins.has(id)){ state.pins.delete(id); delete pinned[id]; }
+    else { state.pins.add(id); pinned[id] = DATA.items.find(i => i.id === id); }
+    store.set("pins", [...state.pins]); store.set("pinnedItems", pinned);
+    render();
+  });
+
+  // ---------- загрузка
+  fetch("data/news.json?" + Date.now()).then(r => r.json()).then(d => {
+    DATA = d;
+    document.getElementById("upd").textContent = "Обновлено " + ago(d.updated);
+    document.getElementById("sources").innerHTML = (d.sources || []).map(s =>
+      `<span class="${s.ok ? "" : "bad"}">${esc(s.source)}</span>`).join("");
+    render();
+  }).catch(() => {
+    document.getElementById("content").innerHTML = `<div class="empty"><b>Не удалось загрузить новости</b>Если вы открыли файл напрямую с диска — запустите локальный сервер (см. README).</div>`;
+  });
+})();
+</script>
+</body>
+</html>
