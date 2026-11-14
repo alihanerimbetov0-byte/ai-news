@@ -16,9 +16,9 @@
 
 ## Запуск сайта (GitHub Pages)
 
-1. **Settings → Pages → Build and deployment → Source: Deploy from a branch**, ветка `main`, папка `/ (root)`.
+1. **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 2. **Settings → Actions → General → Workflow permissions → Read and write permissions** (чтобы бот мог сохранять новости).
-3. Вкладка **Actions → «Обновить новости» → Run workflow** — первый запуск вручную.
+3. Сайт опубликуется сам при следующем обновлении (или: Actions → «Обновить новости» → Run workflow).
 
 Через минуту сайт будет на `https://alihanerimbetov0-byte.github.io/ai-news/`.
 
