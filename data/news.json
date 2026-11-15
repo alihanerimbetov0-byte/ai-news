@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:54:26.338365+00:00",
+ "updated": "2026-11-15T13:05:07.730664+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 9
+   "count": 6
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,127 @@
   }
  ],
  "items": [
+  {
+   "id": "4c525e5e54fa",
+   "title": "An overview of Jensen Huang’s messy days",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien.",
+   "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&strip=all&crop=0%2C14.751764993408%2C100%2C70.496470013184&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-15T13:00:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "3f0043f07ce7",
+   "title": "Справка llama.cpp: основные команды и параметры",
+   "summary": "Справка по Common Params (Общие параметры) llama.cpp . Параметры этой категории в основном полностью пересекаются между всеми утилитами: llama-cli, llama-completion, llama-server .",
+   "link": "https://habr.com/ru/articles/1108044/?utm_campaign=1108044&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/48/8b/20/488b20205e28ad96993bdd46e818b8f2.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-15T12:39:52+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6234ee386bdd",
+   "title": "ИИ в команде: что мы ожидаем друг от друга",
+   "summary": "С нейронками мы можем быстрее выполнять задачи, глубже разбираться в проблемах и находить решения, которые раньше упустили бы.",
+   "link": "https://habr.com/ru/articles/1108042/?utm_campaign=1108042&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/6c/19/44/6c19440b8299372485b46a7b3a0da8c8.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-15T12:27:54+00:00",
+   "category": "other"
+  },
+  {
+   "id": "691d7476508d",
+   "title": "Холст, масло, ИИ",
+   "summary": "Всем привет, меня зовут Павел Соколов, я главный редактор журнала Онлайн Патент. А также иногда пишу фикшн. И сегодня хочу написать про наболевшее: использовании ИИ при создании художественных (и не очень) текстов.",
+   "link": "https://habr.com/ru/companies/onlinepatent/articles/1108040/?utm_campaign=1108040&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a1/90/6e/a1906eab5346e6043e770fb535b86310.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-15T12:22:45+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ea9739082c61",
+   "title": "Справочник по параметрам llama.cpp (llama cli, completion, server)",
+   "summary": "Справочник по основным командам и параметрам llama.cpp . Затрагиваются основные утилиты для инференса: llama-cli , llama-completion , llama-server .",
+   "link": "https://habr.com/ru/articles/1107998/?utm_campaign=1107998&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8b/21/60/8b2160f00f3cda3489e2556e248fcab4.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-15T12:20:33+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ce45af1cfb5f",
+   "title": "Слезы ментейнера или awesome-ai-security-tools после ёPRSTCON",
+   "summary": "Сергей Гордейчик В мае на ёPRSTCON мы договорились собрать инструменты кибербезопасности на базе ИИ и средства защиты самих моделей и агентов.",
+   "link": "https://habr.com/ru/articles/1108034/?utm_campaign=1108034&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/2e/ac/32/2eac325004308fd315174d8bc7846411.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-15T12:09:15+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0a0eb0d9ab0e",
+   "title": "AI DJs Completely Kill My Groove",
+   "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+   "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+   "image": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-15T12:00:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "68dce595988d",
+   "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+   "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ.",
+   "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-15T11:35:12+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "a1b40369442d",
+   "title": "Четыре SIM-карты и связь со спутниками: Huawei раскрыла подробности о модеме Balong AI в составе флагманской мобильной платформы Kirin 9050",
+   "summary": "Balong AI, согласно данным Huawei, ускоряет передачу данных в перегруженных сетях на 83% Huawei начала раскрывать подробности об однокристальной системе Kirin 9050.",
+   "link": "https://www.ixbt.com/news/2026/11/15/cetyre-sim-karty-i-sviaz-so-sputnikami-huawei-raskryla-podrobnosti-o-modeme-balong-ai-v-sostave-flagmanskoi-mobilnoi-platformy-kirin-9050.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741796/media-d60bd644005e520cc2c0ff562d612ef6188161bc93343ef2783da17d9fd4b87b.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T11:26:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "fd252e616a38",
+   "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+   "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+   "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+   "image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-15T11:00:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "fa88fc089f92",
+   "title": "Ускоряем AI модель на процессоре Qwen3.8-Flash-Next Gyro",
+   "summary": "Существует много различных проектов и вариантов по ускорению генерации AI. Но в большинстве случаев они используют тюнинг модели, а так же использование внешней видео карты.",
+   "link": "https://habr.com/ru/articles/1108016/?utm_campaign=1108016&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/eb/b2/7c/ebb27c19318f32ad786ca0e7a0941174.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-15T10:57:30+00:00",
+   "category": "models"
+  },
   {
    "id": "a04aaf1b9d75",
    "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
