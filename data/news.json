@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T08:58:20.745631+00:00",
+ "updated": "2026-11-15T10:54:26.338365+00:00",
  "categories": [
   {
    "id": "models",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "source": "Хабр · ML",
@@ -109,6 +109,94 @@
  ],
  "items": [
   {
+   "id": "a04aaf1b9d75",
+   "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+   "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service.",
+   "link": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_impact_australian_jobs.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-15T10:45:58+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "7f1ee00082c9",
+   "title": "Рынок этики живых и электронных систем",
+   "summary": "В 2018 году Amazon и Google с разницей в две недели научили своих голосовых помощников — Alexa и Google Assistant — благодарить детей за «пожалуйста».",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1107048/?utm_campaign=1107048&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/45/67/6c/45676c1d8abbc32f419a967d65b0d89e.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-15T10:30:04+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "c40e9b309d0e",
+   "title": "Геопространственный риск: что городские признаки добавляют к истории инцидентов",
+   "summary": "Можно ли улучшить прогноз криминальных инцидентов, дополнив их историю характеристиками городской среды? На открытых данных Лимы строим ежедневные оценки риска для 2 120 ячеек H3.",
+   "link": "https://habr.com/ru/articles/1108000/?utm_campaign=1108000&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4b/3d/24/4b3d24b97d96335dd621ee495dca4d20.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-15T10:23:08+00:00",
+   "category": "business"
+  },
+  {
+   "id": "9df963b0bc22",
+   "title": "ИИ обернулся против Хуанга: экс-глава Nvidia стал главным героем ИИ-мемов",
+   "summary": "Дженсен Хуанг (Jensen Huang), один из главных популяризаторов искусственного интеллекта, на этой неделе оказался главным героем большого количества мемов, созданных с помощью разных ИИ-инструментов.",
+   "link": "https://3dnews.ru/1151325",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/15/1151325/512.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-15T10:07:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "e6266ff25ee5",
+   "title": "Эти игры на PS5 станут выглядеть лучше. Sony объявила список проектов, которые в ближайшее время получат поддержку QSSR",
+   "summary": "В список вошло шесть игр Компания Sony, как и обещала, начала расширять список игр на PS5 с поддержкой ИИ-апскейлера QSSR , который представили пару недель назад.",
+   "link": "https://www.ixbt.com/news/2026/11/15/eti-igry-na-ps5-stanut-vygliadet-lucse-sony-obieiavila-spisok-proektov-kotorye-v-blizaisee-vremia-polucat-podderzku-qssr.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741774/media-9e554296bf59ed440ba1e38e33ae51a687997f80c8d9056867e1dfdc087aa746.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T10:07:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "5ecf69042f64",
+   "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+   "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5.",
+   "link": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/meituan-logo-wall-chatgpt-5.6.jpg",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-15T10:06:06+00:00",
+   "category": "models"
+  },
+  {
+   "id": "bba7570574fe",
+   "title": "Cloudflare открыла исходный код Kitesurf — браузерного движка для AI‑агентов",
+   "summary": "Cloudflare открыла исходный код экспериментального браузерного движка Kitesurf для AI‑агентов. Теперь разработчики могут модифицировать код, запускать движок локально и использовать его в собственных облачных системах.",
+   "link": "https://habr.com/ru/articles/1107996/?utm_campaign=1107996&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3f/47/b7/3f47b7dc870d55355f6c360c84d44d9b.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-15T09:23:52+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "e4c4e910fe74",
+   "title": "SoftBank потерял более $3 млрд на газовых турбинах для ИИ-дата-центров: компания зарезервировала оборудование мощностью свыше 13 ГВт — почти на 50% больше необходимого",
+   "summary": "Ажиотаж вокруг энергоснабжения ИИ-дата-центров уже привёл к дорогостоящим ошибкам в оценке спроса SoftBank сообщил о квартальном убытке в $7,1 млрд, более половины которого связано с потерями на оборудовании для…",
+   "link": "https://www.ixbt.com/news/2026/11/15/softbank-poterial-bolee-3-mlrd-na-gazovyx-turbinax-dlia-ii-data-centrov-kompaniia-zarezervirovala-oborudovanie-moshhnostiu-svyse-13-gvt-pocti-na-50-bolse-neobxodimogo.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741755/media-3b68fabb0411e78f47a717cf5741f316eae9ce040749db4cf4bbde84cd89148c.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T09:05:00+00:00",
+   "category": "hardware"
+  },
+  {
    "id": "da336d70581f",
    "title": "Про нейросети и контент",
    "summary": "Нейросети это как второй мозг или, смотря как использовать, как поисковик на стеройдах - спрашивай, проверяй, уточней, эксперементируй сколько угодно. Здорово же!",
@@ -117,6 +205,17 @@
    "source": "Хабр · ИИ",
    "lang": "ru",
    "date": "2026-11-15T08:57:24+00:00",
+   "category": "other"
+  },
+  {
+   "id": "dfd221f95c6c",
+   "title": "У Uber украли данные почти 8000 водителей, включая водительские удостоверения",
+   "summary": "Утечка произошла через стороннего поставщика Fireworks AI: злоумышленники получили доступ к клиентским базам данных Uber подтвердила утечку персональных данных водителей и курьеров после взлома инфраструктуры стороннего…",
+   "link": "https://www.ixbt.com/news/2026/11/15/u-uber-ukrali-dannye-pocti-8000-voditelei-vkliucaia-voditelskie-udostovereniia.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741748/media-6c7be3fe9019849c550ff1686d0ec29aa2eb64544b7b39a47825d671e5490518.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T08:52:00+00:00",
    "category": "other"
   },
   {
