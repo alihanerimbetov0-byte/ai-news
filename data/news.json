@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:52:06.839392+00:00",
+ "updated": "2026-11-15T18:56:39.123391+00:00",
  "categories": [
   {
    "id": "models",
@@ -44,12 +44,12 @@
   {
    "source": "DeepMind",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "source": "Google AI",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "source": "Hugging Face",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 9
+   "count": 7
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,39 @@
   }
  ],
  "items": [
+  {
+   "id": "1c10d73ade79",
+   "title": "На PlayStation 4 запустили ИИ-модель Qwen3.5-9B с 9 млрд параметров",
+   "summary": "У консоли всего 8 ГБ унифицированной памяти PlayStation 4 вышла в далёком 2013 году, но это не помешало энтузиасту Леонардо Алегрия создать проект, который позволяет запускать на этой консоли ИИ-модель с 9 млрд…",
+   "link": "https://www.ixbt.com/news/2026/11/15/na-playstation-4-zapustili-ii-model-qwen35-9b-s-9-mlrd-parametrov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741972/media-818ac30aa68921fbb95ec71da56bfda37df61c3238071c330c3a9aae9d198e8d.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T18:28:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3c6cd27f8421",
+   "title": "Массовая декомпиляция игр и ПО",
+   "summary": "Нейронные модели сильно повлияли на программную разработку, информационную безопасность и смежные отрасли.",
+   "link": "https://habr.com/ru/companies/globalsign/articles/1108102/?utm_campaign=1108102&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/2a/06/12/2a061258c32cf50dbd0cb5f38ac02bb7.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-15T17:32:06+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3b635ebc0d23",
+   "title": "ИИ научился предсказывать внезапную смерть — он обнаружил сигнал в обычной ЭКГ, который стандартный скрининг пропускает",
+   "summary": "Разница в результатах измеримая: в выделенной алгоритмом группе годовая частота внезапной сердечной смерти составила 7% против 4,6% у группы, выявляемой традиционными методами Учёные из Калифорнийского университета в…",
+   "link": "https://www.ixbt.com/news/2026/11/15/ii-naucilsia-predskazyvat-vnezapnuiu-smert-on-obnaruzil-signal-v-obycnoi-ekg-kotoryi-standartnyi-skrining-propuskaet.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741938/media-47454e3d180147b1a4191319307006fa10681d6e341ca95cba19e11550f7ffdc.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T17:16:00+00:00",
+   "category": "research"
+  },
   {
    "id": "6923729093f3",
    "title": "Экономика идей в эпоху вайб-кодинга — почему код подешевел, а бизнес нет",
@@ -2615,17 +2648,6 @@
    "lang": "en",
    "date": "2026-11-06T00:00:00+00:00",
    "category": "other"
-  },
-  {
-   "id": "825a50d1c0ad",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "summary": "",
-   "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
-   "source": "DeepMind",
-   "lang": "en",
-   "date": "2026-11-05T17:05:16+00:00",
-   "category": "models"
   }
  ]
 }
