@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:47:41.323071+00:00",
+ "updated": "2026-11-15T01:18:28.382041+00:00",
  "categories": [
   {
    "id": "models",
@@ -54,7 +54,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "source": "MIT Tech Review",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "acaf00569e86",
+   "title": "Where was Nvidia’s security team?",
+   "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former…",
+   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-15T00:08:07+00:00",
+   "category": "hardware"
+  },
   {
    "id": "febb151a8ec4",
    "title": "Почему с ИИ мы всё ещё пишем плохой софт",
@@ -2229,17 +2240,6 @@
    "source": "DeepMind",
    "lang": "en",
    "date": "2026-11-05T17:05:16+00:00",
-   "category": "models"
-  },
-  {
-   "id": "89209ab642b1",
-   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "summary": "",
-   "link": "https://huggingface.co/blog/phonon-tts",
-   "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-05T00:00:00+00:00",
    "category": "models"
   }
  ]
