@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:16:17.429884+00:00",
+ "updated": "2026-11-15T08:58:20.745631+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 7
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,50 @@
   }
  ],
  "items": [
+  {
+   "id": "da336d70581f",
+   "title": "Про нейросети и контент",
+   "summary": "Нейросети это как второй мозг или, смотря как использовать, как поисковик на стеройдах - спрашивай, проверяй, уточней, эксперементируй сколько угодно. Здорово же!",
+   "link": "https://habr.com/ru/articles/1107990/?utm_campaign=1107990&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1107990/60d07b6bf5480c43c54bba1e9ed60e73/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-15T08:57:24+00:00",
+   "category": "other"
+  },
+  {
+   "id": "30f6a9ed7123",
+   "title": "Стартап привлечёт тепло океана для питания плавучих ИИ-дата-центров: Drogue уже привлекла $20 млн",
+   "summary": "Многомегаваттная установка будет вырабатывать электричество за счёт разницы температур поверхностной и глубинной воды.",
+   "link": "https://www.ixbt.com/news/2026/11/15/startap-privlecet-teplo-okeana-dlia-pitaniia-plavucix-ii-data-centrov-drogue-uze-privlekla-20-mln.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741743/media-dca9e89189d888662668ab56e82bf78ec3f342146ac98b46c83b85116e8813e1.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T08:40:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "9fb9a6d0cacc",
+   "title": "Монтируем LLM как жесткий диск. Бесконечная файловая система на Python + FUSE",
+   "summary": "Ни для кого не секрет, что языковые модели врут, и врут очень убедительно, часто даже с подробностями. Еще год назад если бы вы попросили у LLM ссылку на исследование, то получили бы статью, которую никто не писал.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1107570/?utm_campaign=1107570&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a2/08/ff/a208ffb285f33888a5ab4a6cc62c41c7.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-15T08:00:51+00:00",
+   "category": "models"
+  },
+  {
+   "id": "467c3d99de5e",
+   "title": "Скорость автоматизированных атак растёт: время передачи доступа между злоумышленниками сократилось до секунд, а устранение уязвимостей по-прежнему занимает недели",
+   "summary": "Старые системы киберзащиты не успевают за атаками ИИ-агенты меняют темп кибератак настолько быстро, что привычные методы оценки эффективности защиты перестают работать.",
+   "link": "https://www.ixbt.com/news/2026/11/15/skorost-avtomatizirovannyx-atak-rastet-vremia-peredaci-dostupa-mezdu-zloumyslennikami-sokratilos-do-sekund-a-ustranenie-uiazvimostei-po-preznemu-zanimaet-nedeli.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741722/media-623578c3cb3fb9ecfc6e7cf5f1cf0af95636d8ef0709b8d573c157ef9eb267f5.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T07:26:00+00:00",
+   "category": "business"
+  },
   {
    "id": "010ad6c418a2",
    "title": "Погружение в большие языковые модели (часть 1)",
