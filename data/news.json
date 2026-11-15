@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T18:56:39.123391+00:00",
+ "updated": "2026-11-15T20:49:56.010498+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -108,6 +108,50 @@
   }
  ],
  "items": [
+  {
+   "id": "2f1f5cbf7ce8",
+   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+   "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly.",
+   "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "image": null,
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-15T20:43:49+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "cc70f763eed6",
+   "title": "Apple готовит конкурента M**a Ray-Ban: очки с Siri AI будут тоньше и получат наилучшее качество звука",
+   "summary": "Apple готовит умные очки с поддержкой Siri, которые также станут частью всей экосистемы компании и составят конкуренцию очкам M**a Ray-Ban.",
+   "link": "https://3dnews.ru/1151332",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/15/1151332/65475.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-15T20:26:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "d9bb72c7b4b4",
+   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+   "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+   "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-15T20:20:57+00:00",
+   "category": "other"
+  },
+  {
+   "id": "1207b5c1c70b",
+   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-15T19:15:43+00:00",
+   "category": "hardware"
+  },
   {
    "id": "1c10d73ade79",
    "title": "На PlayStation 4 запустили ИИ-модель Qwen3.5-9B с 9 млрд параметров",
