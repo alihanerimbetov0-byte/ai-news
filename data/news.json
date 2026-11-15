@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T14:53:46.472788+00:00",
+ "updated": "2026-11-15T16:52:06.839392+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,72 @@
   }
  ],
  "items": [
+  {
+   "id": "6923729093f3",
+   "title": "Экономика идей в эпоху вайб-кодинга — почему код подешевел, а бизнес нет",
+   "summary": "Частная клиника платит больше 4 миллионов рублей в год за white-label приложение, аналог DocDoc. Обновления есть, кастомизация ограничена.",
+   "link": "https://habr.com/ru/articles/1108084/?utm_campaign=1108084&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cd/5c/91/cd5c91016e2ebd4506c3b15e6c4053e0.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-15T16:31:12+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "708d7bad7f85",
+   "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+   "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do.",
+   "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-15T15:42:03+00:00",
+   "category": "models"
+  },
+  {
+   "id": "226a6df5b6fa",
+   "title": "ИИ за неделю — Claude Fable 5.2, Gemini и новые бенчмарки: 9–15 ноября",
+   "summary": "За эту неделю вышло сразу несколько интересных обновлений. Anthropic показала модель, которая координирует тысячи агентов и берётся за научные задачи. Google продолжает переносить Gemini из чатов в физический мир.",
+   "link": "https://habr.com/ru/companies/bothub/articles/1108060/?utm_campaign=1108060&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ae/af/7d/aeaf7dd145b4d1ebe458f251d3d6a34c.jpeg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-15T15:37:50+00:00",
+   "category": "models"
+  },
+  {
+   "id": "cb6bd62e19a8",
+   "title": "Вайбкодинг для самых маленьких. Часть 1",
+   "summary": "Что такое вайбкодинг и действительно ли для создания собственных приложений больше не нужно уметь программировать?",
+   "link": "https://habr.com/ru/articles/1107966/?utm_campaign=1107966&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/46/b3/39/46b339bb4a1fc1183f77ae4771aed077.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-15T15:30:24+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "61b61804017b",
+   "title": "Какие слои что знают: сравниваем RWKV-7 и трансформеры послойными пробами",
+   "summary": "Где языковая модель хранит порядок слов, грамматику и смысл — и зависит ли это от архитектуры?",
+   "link": "https://habr.com/ru/articles/1108076/?utm_campaign=1108076&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/19/3e/18/193e180554956191331d90d1256e0976.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-15T15:06:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "5ed8ffb3c3e3",
+   "title": "Браузер, но не для людей: Cloudflare открыла исходный код Kitesurf — браузера для ИИ-агентов",
+   "summary": "По данным Cloudflare, для массового использования ИИ-агентов он подходит лучше Chromium Cloudflare открыла исходный код Kitesurf — браузера, разработанного специально для ИИ-агентов.",
+   "link": "https://www.ixbt.com/news/2026/11/15/brauzer-no-ne-dlia-liudei-cloudflare-otkryla-isxodnyi-kod-kitesurf-brauzera-dlia-ii-agentov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741897/media-b8de6c8f6c06b4a59f28cfc9fc5e7bb5edcda126bc5177c8fba29f447c778f07.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T14:58:00+00:00",
+   "category": "tools"
+  },
   {
    "id": "c5ae74389b55",
    "title": "ИИ помог украсть 100 млн евро? Хакеры ограбили французский банк через его же платёжную систему — глава банковской группы считает, что злоумышленникам помогал ИИ",
