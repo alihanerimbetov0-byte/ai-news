@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:05:07.730664+00:00",
+ "updated": "2026-11-15T14:53:46.472788+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 7
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 6
+   "count": 9
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,39 @@
   }
  ],
  "items": [
+  {
+   "id": "c5ae74389b55",
+   "title": "ИИ помог украсть 100 млн евро? Хакеры ограбили французский банк через его же платёжную систему — глава банковской группы считает, что злоумышленникам помогал ИИ",
+   "summary": "Французский банк пережил беспрецедентную кибератаку Французская банковская группа Credit Mutuel Arkea потеряла около 100 млн евро в результате сложной кибератаки.",
+   "link": "https://www.ixbt.com/news/2026/11/15/ii-pomog-ukrast-100-mln-evro-xakery-ograbili-francuzskii-bank-cerez-ego-ze-plateznuiu-sistemu-glava-bankovskoi-gruppy-scitaet-cto-zloumyslennikam-pomogal-ii.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741887/media-52af009ba59d8319ce4e5404701acc23db42d7683581270e5a85a12fcce99d8e.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T13:50:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "d5f6ee83bf25",
+   "title": "ЦБ запустит ИИ-помощника для сравнения банковских продуктов в начале 2027 года. Первые полгода его внедрение будет добровольным",
+   "summary": "Сервис появится в приложениях и на сайтах банков, поможет оценивать финансовые предложения и связанные с ними риски Банк России рассчитывает, что в начале 2027 года в приложениях и на сайтах банков появится ИИ-помощник…",
+   "link": "https://www.ixbt.com/news/2026/11/15/cb-zapustit-ii-pomoshhnika-dlia-sravneniia-bankovskix-produktov-v-nacale-2027-goda-pervye-polgoda-ego-vnedrenie-budet-dobrovolnym.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741885/media-db56f78dc67a9b00504348a74d700116327190bea65bf6b4cf5505b65f0ad52c.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T13:44:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "c0fe80bc2172",
+   "title": "Очень мощный мотор 1,1 кВт, карбоновая вилка и гидравлические тормоза: представлен электровелосипед Berria Mistral Essential Apex",
+   "summary": "Он оснащен 12-скоростной трансмиссией Компания Berria выпустила новый электрический велосипед Mistral Essential Apex. Новинка доступна в двух версиях — шоссейной и гравийной.",
+   "link": "https://www.ixbt.com/news/2026/11/15/ocen-moshhnyi-motor-11-kvt-karbonovaia-vilka-i-gidravliceskie-tormoza-predstavlen-elektrovelosiped-berria-mistral-essential-apex.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741884/media-d2ada7f33a1c886542ef3054b3fdcc1423f9089794f473d63f817e41cfc5494e.webp",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-15T13:39:00+00:00",
+   "category": "models"
+  },
   {
    "id": "4c525e5e54fa",
    "title": "An overview of Jensen Huang’s messy days",
