@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T02:57:40.261740+00:00",
+ "updated": "2026-11-15T05:04:22.745955+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 7
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "source": "Хабр · ML",
