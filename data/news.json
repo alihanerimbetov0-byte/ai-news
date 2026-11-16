@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:40:00.162631+00:00",
+ "updated": "2026-11-16T08:57:22.989742+00:00",
  "categories": [
   {
    "id": "models",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 6
+   "count": 3
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,171 @@
   }
  ],
  "items": [
+  {
+   "id": "0d039c324d6d",
+   "title": "Amazon представила технологию Prime 360 для трансляций НБА",
+   "summary": "Amazon внедрит новую систему камер на базе искусственного интеллекта перед началом второго сезона трансляций баскетбольных матчей на платформе Prime Video. Они позволят воссоздавать игровой эпизод в виде 3D‑сцены.",
+   "link": "https://habr.com/ru/articles/1108250/?utm_campaign=1108250&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/0b/a1/3a/0ba13abfab931b501b2c5f5e3f88f427.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T08:27:32+00:00",
+   "category": "other"
+  },
+  {
+   "id": "a30cbea73673",
+   "title": "Нужен ли собственный шлюз поверх OpenAI API BotHub",
+   "summary": "Если вы пользуетесь API моделей, то могли столкнуться с вопросом — прямой вызов API через OpenAI-совместимый шлюз или создать свою прослойку?",
+   "link": "https://habr.com/ru/companies/bothub/articles/1108246/?utm_campaign=1108246&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4d/df/7e/4ddf7e33b57a15663fcec6fc7f4cb4b9.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T08:07:56+00:00",
+   "category": "models"
+  },
+  {
+   "id": "03e016174203",
+   "title": "Google представила два новых TPU для ИИ-агентов и защищенных вычислений",
+   "summary": "Google расширила восьмое поколение своих ИИ-ускорителей двумя новыми системами — TPU 8tx и TPU 8i Max.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1108192/?utm_campaign=1108192&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ca/1f/78/ca1f7812037d5b2602bbd3a1caa9bb56.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T08:00:30+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "015a1deec213",
+   "title": "AI-агент для разработки интеграций на DATAREON Platform: практика внедрения dtrn-mcp в «УралАгроГрупп»",
+   "summary": "Покажем, как получить в команду разработчика интеграций, который работает 24/7, помнит всю историю проекта и не выходит за пределы закрытого контура.",
+   "link": "https://habr.com/ru/companies/w_code/articles/1108222/?utm_campaign=1108222&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c5/f4/59/c5f459e5f8df098ed017652d9d0bd05b.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T07:38:07+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "5ed570a3e037",
+   "title": "Руководители технологических компаний подписали петицию с требованием вернуть Дженсена Хуанга на пост гендира Nvidia",
+   "summary": "Илон Маск, Тим Суини и ряд других руководителей технологических компаний подписали петицию с требованием вернуть Дженсена Хуанга на пост генерального директора Nvidia. В настоящему момент петиция собрала более 172 тыс.",
+   "link": "https://habr.com/ru/articles/1108218/?utm_campaign=1108218&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/46/a9/39/46a9393211fc55fda9d2e32b99d23c19.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T07:35:03+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "3e3f344a5c38",
+   "title": "Нейросеть на железе со свалки, или Как Bonsai 2 27B проиграла Qwen3 8B",
+   "summary": "У меня было 8 гигабайт видеопамяти на старой майнинговой NVIDIA P104-100 семнадцатого года, древний i7-3770 родом из двенадцатого, знающий только AVX, ровно 15,5 гигабайта оперативной памяти, NVMe-накопитель и HDD — его…",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1107236/?utm_campaign=1107236&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c2/e2/93/c2e29323ed94d6910a0997db71f9db7e.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T07:10:25+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ad677e857281",
+   "title": "Как меняется CAPTCHA в эпоху ИИ",
+   "summary": "Каждый свой рабочий день я начинаю не с чашки кофе, а со всплывающей сетки из картинок. Надпись снизу просит меня выбрать все светофоры на иллюстрации. Я кликаю.",
+   "link": "https://habr.com/ru/companies/ruvds/articles/1106182/?utm_campaign=1106182&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a5/15/1b/a5151b292c6785405b7441f67ed40419.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T07:01:24+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c0e9d0491819",
+   "title": "Как мы с ИИ искали антиэнтропию и куда он меня завёл",
+   "summary": "Это рассказ о домашнем проекте, который вырос из одного вопроса к нейросети. Полгода, два стенда, десятки плат ESP32, одна найденная ошибка и пока честный ноль в результатах.",
+   "link": "https://habr.com/ru/articles/1108196/?utm_campaign=1108196&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/0c/60/92/0c6092a5af227b8230579f6c835eea68.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T06:50:03+00:00",
+   "category": "other"
+  },
+  {
+   "id": "175244a76663",
+   "title": "sd.cpp вместо Forge Neo: что умеют девять моделей на 16 и 8 ГБ",
+   "summary": "Stable-diffusion.cpp: один бинарник на C++ вместо гигабайтов Python, модели в GGUF под 8 и 16 ГБ видеопамяти. Заодно сравнил девять локальных моделей на одних и тех же промптах — скорость, быстрый режим.",
+   "link": "https://habr.com/ru/articles/1108188/?utm_campaign=1108188&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/29/26/19/2926199eb002fea087d7f366d9f40feb.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T06:35:31+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2b9088357a1f",
+   "title": "У SOC отобрали время: ИИ-агент оставил защите вдвое меньше времени на реакцию",
+   "summary": "Алерт пришёл в 03:12. Дежурный L1 открыл его в 03:30, увидел подозрительный запрос к веб-порталу и пошёл смотреть соседние события. К этому моменту всё уже закончилось.",
+   "link": "https://habr.com/ru/articles/1108186/?utm_campaign=1108186&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/62/ce/4a/62ce4a4b9c344130309b94f6bc12993d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T06:28:57+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "7435e226484e",
+   "title": "Представлен SSD Orico FlashMem FM9800, оптимизированный для работы с ИИ",
+   "summary": "Накопитель PCIe 5.0 получил специальную область для хранения весов ИИ-моделей и промежуточных данных Компания Orico представила твердотельный накопитель FlashMem FM9800, предназначенный в том числе для работы с…",
+   "link": "https://www.ixbt.com/news/2026/11/16/predstavlen-ssd-orico-flashmem-fm9800-optimizirovannyi-dlia-raboty-s-ii.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742196/media-f64540eedef130c6bc9a24aad2d18a27f24b93d49b3694921bc48a84c5645503.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-16T06:25:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "48f2f75270c4",
+   "title": "Samsung готовит Galaxy Claw: искусственный интеллект научится самостоятельно выполнять задачи на смартфоне",
+   "summary": "Новая функция Galaxy AI сможет управлять приложениями, отправлять сообщения и создавать расписания автоматических действий Samsung готовит новую функцию Galaxy Claw для платформы Galaxy AI, которая позволит…",
+   "link": "https://www.ixbt.com/news/2026/11/16/samsung-gotovit-galaxy-claw-iskusstvennyi-intellekt-naucitsia-samostoiatelno-vypolniat-zadaci-na-smartfone.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742190/media-003f4aba14f59b0462f02ab88b78bf4730772b49af21253cc8ed8455f7f12a50.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-16T06:14:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "4c26d88e89dc",
+   "title": "Браузерный онлайн-шутер «руками» ИИ-агента",
+   "summary": "Приветствую всех, в первую очередь тех, кто хочет почитать статью без нейрослопа , написанную руками, как это было когда-то раньше, а так же всех, кто ищет вдохновение на свой проект или просто зашел почитать про мой…",
+   "link": "https://habr.com/ru/articles/1108052/?utm_campaign=1108052&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/45/44/25/454425a8554e626087f7481cce85cb80.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T06:03:19+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "a8e481142d3b",
+   "title": "Как проверить реальную эффективность ИИ-автоматизации",
+   "summary": "Вы внедрили ИИ в отдел аналитики. Сотрудники начали готовить документы втрое быстрее, руководство довольно, в презентациях появляются красивые цифры об экономии рабочего времени.",
+   "link": "https://habr.com/ru/articles/1108026/?utm_campaign=1108026&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/43/79/b2/4379b25e88dab7fde9b8e232ff333606.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T06:01:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "03917129c05b",
+   "title": "Alibaba выпустили Qwen4-Max",
+   "summary": "Alibaba представили Qwen4-Max , новую флагманскую модель с контекстом на 1 млн токенов и поддержкой изображений. В тестах команды она расходует до 50% меньше токенов, чем Qwen3.8-Max.",
+   "link": "https://habr.com/ru/articles/1108180/?utm_campaign=1108180&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/50/eb/cb/50ebcbe410a9f435579adfad29cc50ad.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T05:49:14+00:00",
+   "category": "models"
+  },
   {
    "id": "5e0ea848e030",
    "title": "Уволили специалистов ради ИИ. А кто через пять лет будет ставить ему задачи?",
