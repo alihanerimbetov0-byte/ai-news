@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T03:07:55.186852+00:00",
+ "updated": "2026-11-16T05:40:00.162631+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -108,6 +108,28 @@
   }
  ],
  "items": [
+  {
+   "id": "5e0ea848e030",
+   "title": "Уволили специалистов ради ИИ. А кто через пять лет будет ставить ему задачи?",
+   "summary": "Компании увольняют маркетологов, SEO-специалистов и программистов и отдают их работу ИИ-агентам. Расчёт простой: когда мода на ИИ пройдёт, людей можно будет нанять обратно за пару недель. Я в это не верю.",
+   "link": "https://habr.com/ru/articles/1108164/?utm_campaign=1108164&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/62/66/6a/62666a7046a3ab5701a76984b2e33ad1.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T05:00:15+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "a6c7a938b2ba",
+   "title": "Дообучать LLM или дать ей документы: сначала выясните, что сломалось",
+   "summary": "«Давайте дообучим модель на наших данных» — эту фразу я слышу почти в каждом разговоре о внедрении LLM. Обычно к этому моменту лечение уже выбрано, а диагноза ещё нет. Допустим, агент ошибся в условиях возврата товара.",
+   "link": "https://habr.com/ru/articles/1107846/?utm_campaign=1107846&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/eb/97/8a/eb978a338db956b6a893d8d8133fee2c.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T05:00:14+00:00",
+   "category": "models"
+  },
   {
    "id": "77828770ffb5",
    "title": "Apple launches new app to study how people use AI for health",
