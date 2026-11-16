@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:58:48.898914+00:00",
+ "updated": "2026-11-16T22:57:26.016593+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 12
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 6
   },
   {
    "source": "Google AI",
@@ -109,6 +109,61 @@
  ],
  "items": [
   {
+   "id": "ac8ed7d9657d",
+   "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+   "summary": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results.",
+   "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+   "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T22:03:02+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "842d733080ff",
+   "title": "Лайфхак с Shared GPU Memory Override или как я запускал нейросети на мини‑ПК (на примере GEEKOM GT1 Mega)",
+   "summary": "Неочевидный момент - на мини-компьютерах можно отдать практически всю оперативную память для интегрированного GPU, что позволяет запускать LLM типа 26B/27B, без необходимости покупать дорогостоящие видеокарты.",
+   "link": "https://habr.com/ru/articles/1108616/?utm_campaign=1108616&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/62/29/3e/62293ea8ecb0024f91e4a2d6bb9bea0d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T21:24:36+00:00",
+   "category": "models"
+  },
+  {
+   "id": "65cfab2783ac",
+   "title": "OpenAI ответит в суде за своих сорвавшихся с поводка ИИ-агентов — прокуроров заинтересовал взлом Hugging Face",
+   "summary": "Генеральный прокурор Калифорнии Роб Бонта (Rob Bonta) подал иск против OpenAI, обвинив компанию в недостаточном контроле над экспериментальными моделями искусственного интеллекта и созданными на их основе автономными…",
+   "link": "https://3dnews.ru/1151380",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151380/ai_hak.png",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-16T21:02:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d0b83026be95",
+   "title": "California sues OpenAI over rogue AI hacking incidents",
+   "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16T20:46:01+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "6dc341b82897",
+   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+   "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16T20:41:28+00:00",
+   "category": "business"
+  },
+  {
    "id": "275788341e43",
    "title": "AMD поглотила разработчика ИИ-песочниц для роботов World Labs",
    "summary": "Компания AMD объявила о завершении покупки стартапа World Labs, специализирующегося на разработке моделей искусственного интеллекта для работы с физическим пространством.",
@@ -118,6 +173,28 @@
    "lang": "ru",
    "date": "2026-11-16T20:38:00+00:00",
    "category": "models"
+  },
+  {
+   "id": "0873131c018e",
+   "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+   "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development.",
+   "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&strip=all&crop=0%2C10.729149249175%2C100%2C78.54170150165&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16T20:29:37+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "94e979efd738",
+   "title": "US data centers now burn more electricity than a midsized country",
+   "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16T20:27:58+00:00",
+   "category": "hardware"
   },
   {
    "id": "42f309a879d3",
@@ -1262,6 +1339,17 @@
    "lang": "en",
    "date": "2026-11-16T00:00:00+00:00",
    "category": "models"
+  },
+  {
+   "id": "3899b6e8ee3c",
+   "title": "At Holiday Extras, dots get to work before anyone asks",
+   "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+   "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16T00:00:00+00:00",
+   "category": "tools"
   },
   {
    "id": "fa232e2aaf8a",
