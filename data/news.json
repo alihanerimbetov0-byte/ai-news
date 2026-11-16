@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:35:19.554990+00:00",
+ "updated": "2026-11-16T03:07:55.186852+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "77828770ffb5",
+   "title": "Apple launches new app to study how people use AI for health",
+   "summary": "Apple's new app for a study will answer everyday medical questions",
+   "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T01:30:00+00:00",
+   "category": "research"
+  },
   {
    "id": "f7214e14d1e1",
    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
