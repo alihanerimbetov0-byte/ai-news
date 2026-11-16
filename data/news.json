@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:17:35.103905+00:00",
+ "updated": "2026-11-16T17:24:08.009277+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 6
   },
   {
    "source": "Google AI",
@@ -54,12 +54,12 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "source": "OpenAI",
@@ -108,6 +108,182 @@
   }
  ],
  "items": [
+  {
+   "id": "98a6b9391539",
+   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+   "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T17:10:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "ae0ec1fddbe6",
+   "title": "Независимые как понятия, зависимые как операции: параметры семплирования в LLM-инференсе",
+   "summary": "Инфраструктура вывода больших языковых моделей традиционно оптимизируется по пропускной способности и задержке: KV-кэш, CUDA-графы, батчинг, квантизация, параллелизм.",
+   "link": "https://habr.com/ru/articles/1108348/?utm_campaign=1108348&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/12/65/5e/12655e02f0d7668134be20c54a4ccc43.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T17:04:11+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6d05b4dbd591",
+   "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+   "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T17:02:43+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f26f2a4dfd6b",
+   "title": "Broadening access to AI for scientists",
+   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+   "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16T17:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b1c71d07875a",
+   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+   "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+   "link": "https://openai.com/index/strengthening-online-child-safety",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16T17:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "63e5e5cd2656",
+   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+   "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T17:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "9c9fe7afd068",
+   "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+   "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts.",
+   "link": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-16T16:56:04+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1ffad9936947",
+   "title": "Jensen Huang Is Gone. Now What?",
+   "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+   "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+   "image": "https://media.wired.com/photos/6af78c75239676948e926fc2/master/pass/Big-Interview-UV-Solo-Katie-Lauren-Business.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-16T16:12:51+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "2e4299b08e3f",
+   "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+   "summary": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects.",
+   "link": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-16T16:10:22+00:00",
+   "category": "models"
+  },
+  {
+   "id": "adba844aff17",
+   "title": "Building trustworthy AI by fencing it in, not predicting it",
+   "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them.",
+   "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?w=840",
+   "source": "MIT Tech Review",
+   "lang": "en",
+   "date": "2026-11-16T16:04:28+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "7903495cec0c",
+   "title": "США закручивают гайки: китайские компании больше не смогу арендовать ИИ-чипы Nvidia за рубежом без разрешения",
+   "summary": "США представили новые правила, которые должны ограничить доступ китайских компаний к передовым ИИ-ускорителям Nvidia через зарубежные дата-центры.",
+   "link": "https://3dnews.ru/1151358",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151358/nvidia_dgx_800x600.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-16T15:55:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "7163ff8dd6d1",
+   "title": "Audible turns to AI to help users discover audiobooks",
+   "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+   "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Audible_Audio_Discovery_Still.jpeg?resize=1200,824",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T15:52:19+00:00",
+   "category": "other"
+  },
+  {
+   "id": "3d4b6d586e04",
+   "title": "Веду финансы без единого пропуска уже 580 дней. Или еще один неочевидный плюс AI",
+   "summary": "До появления AI я многие привычки, которые требовали регулярной записи, бросал через 10-20 дней. Будь то учет калорий, ведение финансов или регулярный таск трекинг Например, учет финансов я пробовал вести лет с 16.",
+   "link": "https://habr.com/ru/articles/1108502/?utm_campaign=1108502&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/75/7f/bd/757fbde29683222eef58b1b17e61525d.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T15:40:56+00:00",
+   "category": "other"
+  },
+  {
+   "id": "a90d581852ea",
+   "title": "Как мы воевали с ударениями в русской TTS-озвучке: гейт перед синтезом, текстовые подмены и открытые вопросы",
+   "summary": "Делаю «Канал 15» — рацию-компаньон для Euro Truck Simulator 2: восемнадцать выдуманных дальнобойщиков болтают в эфире у игрока, отвечают на голос и запоминают его между рейсами.",
+   "link": "https://habr.com/ru/articles/1108538/?utm_campaign=1108538&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1108538/130e94496a9cfc3fa05ab6802cd74aee/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T15:38:57+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ea8f4b7ee435",
+   "title": "DeepSeek ввела лимиты для бесплатных пользователей после рекордного роста нагрузки",
+   "summary": "Компания DeepSeek ужесточила лимиты использования для бесплатных пользователей своего приложения и веб-версии.",
+   "link": "https://3dnews.ru/1151359",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151359/deepseek-logo.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-16T15:26:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d8056e9f1987",
+   "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+   "summary": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin.",
+   "link": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude-2.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-16T15:25:48+00:00",
+   "category": "models"
+  },
   {
    "id": "43465bb55600",
    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
@@ -371,6 +547,17 @@
    "lang": "ru",
    "date": "2026-11-16T12:01:21+00:00",
    "category": "other"
+  },
+  {
+   "id": "f891bd93f3d2",
+   "title": "Science at the Frontier: How scientists use ChatGPT",
+   "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+   "link": "https://openai.com/index/science-at-the-frontier",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16T12:00:00+00:00",
+   "category": "research"
   },
   {
    "id": "f7f1275644c4",
@@ -855,6 +1042,17 @@
    "lang": "en",
    "date": "2026-11-16T00:00:00+00:00",
    "category": "tools"
+  },
+  {
+   "id": "853b24ff0d6e",
+   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+   "summary": "",
+   "link": "https://huggingface.co/blog/openrouter",
+   "image": "https://huggingface.co/blog/assets/openrouter/thumbnail.jpg",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-16T00:00:00+00:00",
+   "category": "models"
   },
   {
    "id": "fa232e2aaf8a",
@@ -2681,6 +2879,17 @@
    "lang": "en",
    "date": "2026-11-13T08:00:00+00:00",
    "category": "tools"
+  },
+  {
+   "id": "ebd9eb949639",
+   "title": "Our first phase of embedded assessments",
+   "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+   "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-13T08:00:00+00:00",
+   "category": "models"
   },
   {
    "id": "567f19656aac",
