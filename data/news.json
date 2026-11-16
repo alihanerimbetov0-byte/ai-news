@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:24:08.009277+00:00",
+ "updated": "2026-11-16T19:07:48.437503+00:00",
  "categories": [
   {
    "id": "models",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "source": "OpenAI",
@@ -108,6 +108,83 @@
   }
  ],
  "items": [
+  {
+   "id": "7234ed3b159b",
+   "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+   "summary": "Moonshot AI is done chasing coding benchmarks, it says.",
+   "link": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/moonshot_ai_sciences.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-16T18:52:55+00:00",
+   "category": "models"
+  },
+  {
+   "id": "9c493a96e3fa",
+   "title": "The open-source movement wants Jensen Huang back",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here .",
+   "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "lang": "en",
+   "date": "2026-11-16T18:38:47+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0b5fe7dce536",
+   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+   "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+   "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T18:11:10+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "e99602db85f6",
+   "title": "Цифровые двойники (Digital Twin) в инженерных системах — Часть 1. Управление документацией",
+   "summary": "В последние годы технология Digital Twin превратилась в один из главных трендов промышленной автоматизации.",
+   "link": "https://habr.com/ru/articles/1108160/?utm_campaign=1108160&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c5/81/79/c5817909e8088c698a9b65e6458b6857.PNG",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T18:09:11+00:00",
+   "category": "other"
+  },
+  {
+   "id": "293ae32e7708",
+   "title": "Почему 94% ИИ-ответов игнорируют сайты самих компаний",
+   "summary": "У бизнеса сегодня появилась странная проблема: сайт спокойно держится в топ-10 поиска, но когда клиент спрашивает подрядчика у ChatGPT, Perplexity или в ИИ-сводке Google, компании в ответе просто нет.",
+   "link": "https://habr.com/ru/articles/1108582/?utm_campaign=1108582&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ef/10/f4/ef10f4bb9fe3ca9e152272051ac66b94.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T17:54:23+00:00",
+   "category": "other"
+  },
+  {
+   "id": "382fd6d93b95",
+   "title": "Инвесторы охладели к ИИ-буму: производители оборудования для дата-центров подешевели на $4,2 трлн",
+   "summary": "Производители оборудования и материалов для строительства дата-центров потеряли в совокупности $4,2 трлн рыночной стоимости с июня 2026 года.",
+   "link": "https://3dnews.ru/1151365",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151365/65434.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-16T17:42:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "690a9aa8938d",
+   "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+   "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+   "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T17:36:43+00:00",
+   "category": "models"
+  },
   {
    "id": "98a6b9391539",
    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
