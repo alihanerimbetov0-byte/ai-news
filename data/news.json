@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:57:22.989742+00:00",
+ "updated": "2026-11-16T11:33:05.351333+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "source": "OpenAI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,215 @@
   }
  ],
  "items": [
+  {
+   "id": "9099e588f5c2",
+   "title": "Сколько стоит построить дата-центр в космосе: экономика орбитального ЦОД на 13 кВт",
+   "summary": "Дискуссия о возможности космических дата-центров сейчас крутится вокруг стоимости доставки оборудования на орбиту. Сможет ли Starship снизить её настолько, чтобы такие проекты стали экономически выгодными?",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1108316/?utm_campaign=1108316&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e4/f9/a6/e4f9a6dfa53bcfe1d34d0aec0d73d59d.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T11:00:44+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "242d49a88f8c",
+   "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+   "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+   "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/master/pass/111226-Nvidia%20In%20Trouble.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-16T11:00:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "75d5907d4141",
+   "title": "Microsoft хочет наделить новую Xbox поддержкой нейронного рендеринга для снижения требований к аппаратному обеспечению",
+   "summary": "Подробностей пока нет Компания Microsoft рассказала, что активно работает над технологией нейронного рендеринга для своей будущей консоли Xbox. Что интересно, в том числе для потенциального снижения стоимости.",
+   "link": "https://www.ixbt.com/news/2026/11/16/microsoft-xocet-nadelit-novuiu-xbox-podderzkoi-neironnogo-renderinga-dlia-snizeniia-trebovanii-k-apparatnomu-obespeceniiu.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742480/media-2ae9411d25bf0475133918233818a7cacf18d1d9ddd2ec9cd67dc189d2d32766.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-16T11:00:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "8a6f608b01f4",
+   "title": "AI повсюду: зачем нужен QA, если всё может делать агент?",
+   "summary": "Год назад все задавались вопросом, стоит ли применять AI в тестировании? Сейчас вопрос другой: что ему доверить и как проверить, что он сделал всё правильно.",
+   "link": "https://habr.com/ru/companies/avito/articles/1108376/?utm_campaign=1108376&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7b/1c/60/7b1c60778f69cf0e8462a9d294d5e9ff.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T10:58:59+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "285dcd430e9c",
+   "title": "MCP: «USB-порт» для ИИ-агентов и почему его нужно охранять",
+   "summary": "Еще год назад, чтобы подключить ИИ-агента к CRM, почте или базе данных, под каждую систему писали отдельную интеграцию.",
+   "link": "https://habr.com/ru/companies/itglobalcom/articles/1108366/?utm_campaign=1108366&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7e/e6/4b/7ee64b702284521e6faaa91e6902e050.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T10:44:21+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "de23c36f35e7",
+   "title": "Австралийский конкурс по разработке видеоигр в сфере STEM отменили из‑за ИИ",
+   "summary": "Австралийский конкурс по разработке видеоигр в сфере STEM (Australian STEM Videogame Challenge) объявил , что из‑за распространения генеративного искусственного интеллекта соревнование 2026 года станет последним.",
+   "link": "https://habr.com/ru/articles/1108346/?utm_campaign=1108346&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d2/38/b1/d238b1b73a98ca9bfc6ba0ce4a2a274e.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T10:37:42+00:00",
+   "category": "other"
+  },
+  {
+   "id": "b7687f8c6d8b",
+   "title": "Представлена TINY 2.1 — маленькая языковая модель, которая работает под DOS на Pentium/486DX и помещается на дискету",
+   "summary": "Разработчик WollyMonjac с помощью нейросетей (Fable 5.2 и Opus 5.5) представил открытый проект TINY 2.1 — a transformer for DOS .",
+   "link": "https://habr.com/ru/articles/1108358/?utm_campaign=1108358&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7a/c1/35/7ac1352fd299b61787d2802532ec87f0.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T10:37:03+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1b35dcd4ba6d",
+   "title": "Требования, экономика и ИИ: обзор INFOSTART A&PM EVENT 2026",
+   "summary": "12–14 ноября в Санкт-Петербурге прошла INFOSTART A&PM EVENT 2026.",
+   "link": "https://habr.com/ru/companies/infostart/articles/1108354/?utm_campaign=1108354&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/33/31/d6/3331d69c22e6cda377777f91d518a689.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T10:33:20+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c7f97c5bb45f",
+   "title": "Агент сделал задачу. А откатить сможет? Разбор 5 докладов о надёжности AI агентов",
+   "summary": "Я посмотрел пять докладов инженеров Microsoft, Anthropic, Meta, Harvey и авторов UndoBench и EvoUndo.",
+   "link": "https://habr.com/ru/articles/1108290/?utm_campaign=1108290&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1108290/7a7a29d1984d74c07017ff962fd36ebe/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T10:23:41+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "74ef45ab7c5d",
+   "title": "Инвестиции под присмотром «Алисы»: «Т-Банк» подключил брокерские счета к ИИ",
+   "summary": "В дальнейшем интеграцию планируют дополнить торговыми операциями «Т-Банк» открыл клиентам «Т-Инвестиций» возможность подключать брокерские счета к «Алисе AI».",
+   "link": "https://www.ixbt.com/news/2026/11/16/investicii-pod-prismotrom-alisy-t-bank-podkliucil-brokerskie-sceta-k-ii.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742468/media-7189a6808b62c577864eb492d0e73a5f7f8abb957c828b3f3d0e1c43f691b2bc.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-16T10:22:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "098d3b4c9480",
+   "title": "Apple запустила приложение для изучения применения ИИ в вопросах здоровья",
+   "summary": "Apple запускает новое приложение, чтобы понять, как люди используют ИИ в сфере здравоохранения. Компания стремится изучить, насколько полезными для пользователей могут быть ответы, основанные на клинических данных.",
+   "link": "https://habr.com/ru/articles/1108334/?utm_campaign=1108334&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e1/0c/83/e10c83afe085d32fadc25460d06a6ff1.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T10:17:41+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "9ef86d066db5",
+   "title": "Project Helix останется полноценной консолью Xbox, но при этом научится запускать игры для ПК",
+   "summary": "Project Helix останется полноценной консолью Xbox, но при этом она сможет запускать игры для ПК.",
+   "link": "https://habr.com/ru/articles/1108342/?utm_campaign=1108342&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/12/b1/70/12b170732f4ffc76d49b1de6722eae4a.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T10:16:57+00:00",
+   "category": "other"
+  },
+  {
+   "id": "6619c17cbb5f",
+   "title": "Зачем ансамблю отрицательные веса: от портфельной теории до кредитного скоринга",
+   "summary": "Представим, что мы обучили две модели кредитного скоринга и хотим объединить их прогнозы. Казалось бы, всё просто: каждой модели назначаем положительный вес и получаем итоговую оценку вероятности дефолта.",
+   "link": "https://habr.com/ru/companies/alfa/articles/1108082/?utm_campaign=1108082&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/05/dd/66/05dd66d454cee1d06da3f6b8985f202c.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T09:37:05+00:00",
+   "category": "models"
+  },
+  {
+   "id": "146782b8e082",
+   "title": "«Сбер» запустил сертификацию по агентной разработке",
+   "summary": "«Сбер» открыл сертификационную программу по агентной разработке (Agentic Coding), которая оценивает навыки инженеров по управлению ИИ‑агентами.",
+   "link": "https://habr.com/ru/articles/1108300/?utm_campaign=1108300&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/dc/77/77/dc7777c2cd9858d62adabac7ad9e483f.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T09:35:55+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "3645ca3f1be4",
+   "title": "Asus представила робота Gallop, предназначенного для использования на предприятиях по производству электроники",
+   "summary": "Тайваньская Asus презентовала человекоподобного робота Gallop для автоматизации повторяющихся задач на предприятиях по производству электроники.",
+   "link": "https://habr.com/ru/articles/1108292/?utm_campaign=1108292&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/9c/9e/ea/9c9eea2563eb513e9811026f41388911.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T09:27:27+00:00",
+   "category": "other"
+  },
+  {
+   "id": "87302e3eb5d7",
+   "title": "Открытый ИИ потерял главного союзника: уход Хуанга может сыграть на руку OpenAI и Anthropic",
+   "summary": "Отставка Дженсена Хуанга (Jensen Huang) с поста генерального директора Nvidia может изменить расстановку сил на рынке.",
+   "link": "https://3dnews.ru/1151346",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151346/NVIDIA-VERA-RUBIN_02.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-16T09:14:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "f5faf0b6d7d8",
+   "title": "ИИ пишет код, CI стоит в очереди, а KMP работает за двоих",
+   "summary": "Мобильная разработка давно уже не только про Android и iOS. Теперь ещё и за нейронками надо поспевать, с KMP дружить и инфраструктуру мониторить, чтобы не легла от внезапно выросшей продуктивности команды.",
+   "link": "https://habr.com/ru/companies/X5Tech/articles/1106612/?utm_campaign=1106612&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/78/d9/94/78d994535cbaa4ad494ef7e577810e1c.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T09:11:36+00:00",
+   "category": "other"
+  },
+  {
+   "id": "2470a1a0375e",
+   "title": "У нас есть Claude дома — заметка о том, как я делал быстрый и дешёвый локальный LLM",
+   "summary": "Берём видеокарту RTX 5060 Ti 16 ГБ, 64 ГБ быстрой DDR5 памяти, запускаем небольшую Qwen3.8 27B Q3 во всю vram, с околонулевым контекстом, получаем неплохую скорость, пишем сапёр/змейку — и оно работает.",
+   "link": "https://habr.com/ru/companies/ruvds/articles/1106678/?utm_campaign=1106678&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/fa/f9/48/faf94854df9bb36664c780b525e88042.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T09:01:35+00:00",
+   "category": "models"
+  },
+  {
+   "id": "91e58e2ea930",
+   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+   "link": "https://openai.com/index/lvmh-media-division-partnership",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16T09:00:00+00:00",
+   "category": "other"
+  },
   {
    "id": "0d039c324d6d",
    "title": "Amazon представила технологию Prime 360 для трансляций НБА",
@@ -2955,17 +3164,6 @@
    "source": "Hugging Face",
    "lang": "en",
    "date": "2026-11-09T12:34:29+00:00",
-   "category": "other"
-  },
-  {
-   "id": "e804e0e79289",
-   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-   "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser.",
-   "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-06T10:00:00+00:00",
    "category": "other"
   }
  ]
