@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T22:50:18.391271+00:00",
+ "updated": "2026-11-16T01:35:19.554990+00:00",
  "categories": [
   {
    "id": "models",
@@ -54,7 +54,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "source": "MIT Tech Review",
@@ -108,6 +108,39 @@
   }
  ],
  "items": [
+  {
+   "id": "f7214e14d1e1",
+   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are.",
+   "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16T01:26:56+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "d64cc2f41ad9",
+   "title": "Хватит жечь токены на поиск файлов: как QMD помогает кодинг-агентам экономить до 40%",
+   "summary": "Я заметил что кодинг агенты перед выполнением задачи запускают \"find, rg --files, glob\" для поиска файлов и нужных классов и модулей. Потом поиск по содержимому файлов через \"rg, grep\". И на это сжигается много токенов.",
+   "link": "https://habr.com/ru/articles/1108142/?utm_campaign=1108142&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ee/b6/59/eeb659dbcc8d0e4d0ac5bec09fecb788.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T00:00:14+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "fa232e2aaf8a",
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-15T23:30:00+00:00",
+   "category": "hardware"
+  },
   {
    "id": "87d7014c15ee",
    "title": "A step toward defining the Standard Model on a lattice",
@@ -2735,17 +2768,6 @@
    "source": "MIT Tech Review",
    "lang": "en",
    "date": "2026-11-06T10:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "82196d4ece0a",
-   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-   "summary": "",
-   "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-   "image": "https://huggingface.co/blog/assets/open-asr-leaderboard-liva/thumbnail.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-06T00:00:00+00:00",
    "category": "other"
   }
  ]
