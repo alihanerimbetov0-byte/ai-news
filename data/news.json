@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T11:33:05.351333+00:00",
+ "updated": "2026-11-16T15:17:35.103905+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -49,7 +49,7 @@
   {
    "source": "Google AI",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "source": "Hugging Face",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "source": "OpenAI",
@@ -108,6 +108,292 @@
   }
  ],
  "items": [
+  {
+   "id": "43465bb55600",
+   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+   "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/us-commerce.jpg?w=564",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T15:02:34+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "ddcd69cce1ab",
+   "title": "Alibaba представила Qwen4-Max — флагманскую ИИ-модель с 2,4 трлн параметров и запретом на кибератаки",
+   "summary": "Компания Alibaba представила свою новую флагманскую ИИ-модель Qwen4-Max. Алгоритм с 2,4 трлн параметров в процессе работы задействует лишь 71 млрд параметров на токен, а также поддерживает обработку изображений.",
+   "link": "https://3dnews.ru/1151354",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151354/519.png",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-16T15:02:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "db11e3c0cbd6",
+   "title": "Корпоративная база знаний на базе ИИ",
+   "summary": "Корпоративная база знаний на базе ИИ отвечает сотрудникам на вопросы по внутренним документам компании и показывает, откуда взят ответ. Строится она по схеме RAG — поиск нужных фрагментов плюс языковая модель.",
+   "link": "https://habr.com/ru/companies/itglobalcom/articles/1108414/?utm_campaign=1108414&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8b/21/0f/8b210f92e4ba7cc6f11bbc60bb714a7c.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T14:49:16+00:00",
+   "category": "models"
+  },
+  {
+   "id": "cc64e684881c",
+   "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+   "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+   "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T14:48:13+00:00",
+   "category": "other"
+  },
+  {
+   "id": "f9f84d943ff4",
+   "title": "Можно ли обмануть ИИ-детектор: внимание на типографику",
+   "summary": "По результатам собственного тестирования продемонстрировано существенное влияние типографики текстов на вердикт российских вузовских ИИ-детекторов",
+   "link": "https://habr.com/ru/articles/1108500/?utm_campaign=1108500&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a3/56/32/a356322882ebe5e633d4795bec3944e5.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T14:38:07+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ab2ad8bee25a",
+   "title": "Harness² — новое поколение ИИ-агентов от Google Research",
+   "summary": "ИИ-агенты сейчас стремительно развиваются. Совсем недавно ИИ-агент был обычным чатом с LLM, где он творил что хотел.",
+   "link": "https://habr.com/ru/companies/bothub/articles/1108490/?utm_campaign=1108490&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/aa/c0/99/aac0994579aa2901c51c717284d31654.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T14:20:08+00:00",
+   "category": "models"
+  },
+  {
+   "id": "c0787d91eb5d",
+   "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+   "summary": "Jensen Huang is considering a comeback as Nvidia’s chief executive, as allies in Silicon Valley pressure the company’s board to reinstate him days after the tech executive resigned over reports he had affairs with a…",
+   "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-16T14:06:16+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "3e7f002c632e",
+   "title": "Запускаем языковую модель на ESP32 со скоростью 400 токенов/с — как это возможно?",
+   "summary": "ESP32-S3 — микроконтроллер за несколько сотен рублей: два ядра Xtensa LX7 на 240 МГц и 512 КБ внутренней SRAM.",
+   "link": "https://habr.com/ru/companies/timeweb/articles/1103622/?utm_campaign=1103622&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/6f/1b/fd/6f1bfdf7670e2cb442fb4f5d203c70c8.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T14:05:05+00:00",
+   "category": "models"
+  },
+  {
+   "id": "717626b76ea0",
+   "title": "New Ask Maps features to help with holiday travel and prep",
+   "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+   "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
+   "source": "Google AI",
+   "lang": "en",
+   "date": "2026-11-16T14:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "29a19e1aacc6",
+   "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+   "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it.",
+   "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Audible-audio-discovery-hero-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16T14:00:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "dd02c35afc86",
+   "title": "Google Maps can now create trip itineraries for you",
+   "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop.",
+   "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16T14:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "bdf97a5ff994",
+   "title": "Как накормить ИИ-агента кодом и не разориться на контексте: мой опыт без векторной магии",
+   "summary": "Как накормить ИИ-агента кодом и не разориться на контексте: мой опыт без векторной магии Практическое руководство по тому, как я подружилась с большими репозиториями без ML, pgvector (расширение Postgres для работы с…",
+   "link": "https://habr.com/ru/companies/alfastrah/articles/1108468/?utm_campaign=1108468&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1108468/1de9b173f8f36acf65070f2d2a697158/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T13:39:42+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "923a6f5032f2",
+   "title": "И так поймет: как сокращать промпты и считать потери",
+   "summary": "Чем подробнее промпт, тем лучше ответ, и вот уже к задаче добавляют контекст, роль, ограничения и еще пару пояснений на всякий случай.",
+   "link": "https://habr.com/ru/companies/bothub/articles/1108464/?utm_campaign=1108464&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c0/c1/4a/c0c14ad1144ad6c5227b4408ad0c4c82.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T13:32:12+00:00",
+   "category": "other"
+  },
+  {
+   "id": "4bcf217fbf46",
+   "title": "ИИ-тренажер судебного процесса ChatCourt",
+   "summary": "Привет, Хабр! Представь обычное домашнее задание в вузе. Преподаватель просит нейросеть составить задание, студент отдаёт её своей нейросети и сдаёт готовый ответ, а проверяет работу снова нейросеть.",
+   "link": "https://habr.com/ru/articles/1108458/?utm_campaign=1108458&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/43/9e/c9/439ec98f3e11198393889912e299d507.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T13:25:23+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "3dfaffa36cfa",
+   "title": "Пирамида ИИ, устроенная Nvidia. Весь сектор валится из-за измены Хуанга или…",
+   "summary": "Пока одни спорят, был ли роман, и считают количество любовниц Дженсена Хуанга, а другие уже откупают скидку на акции NVDA, мимо ушей многих пролетает суть - из-за чего именно крупные инвесторы сейчас сбрасывают акции…",
+   "link": "https://habr.com/ru/articles/1108440/?utm_campaign=1108440&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f7/6b/c3/f76bc37f9fd8a370fccc9f3e5c2312fa.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T13:07:41+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "03be0f4da17b",
+   "title": "Seedance 2.5: обзор нейросети и гайд по промптам с тестами на 5, 10 и 15 секунд",
+   "summary": "Seedance 2.5 - видеонейросеть ByteDance. Она делает ролик до 30 секунд сразу со звуком: по тексту, по картинкам или по двум кадрам, первому и последнему.",
+   "link": "https://habr.com/ru/companies/syntx_ai/articles/1107870/?utm_campaign=1107870&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/2f/d3/50/2fd350120b3d46f12fd7014732d4cd12.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T13:02:25+00:00",
+   "category": "other"
+  },
+  {
+   "id": "1c239b7f1641",
+   "title": "Qwen4-Max вышла. В чем отличие от Preview версии",
+   "summary": "16 ноября, спустя всего пять дней после показа превью-версии, Alibaba выпустила полноценную флагманскую модель Qwen4-Max.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1107620/?utm_campaign=1107620&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cc/5a/31/cc5a317f806c34055f39a6f03fb4a91c.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T13:01:12+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2b2bb87b4857",
+   "title": "The Nvidia scandal isn’t slowing down",
+   "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16T13:00:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "e6b37f5da94e",
+   "title": "Building AI that can work across the enterprise",
+   "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate.",
+   "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
+   "source": "MIT Tech Review",
+   "lang": "en",
+   "date": "2026-11-16T13:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1306d75e5372",
+   "title": "DeepSeek ограничивает бесплатный чат: пользователи жалуются на квоты",
+   "summary": "Пользователи DeepSeek сообщают о новых ограничениях в веб-версии и приложении. После исчерпания дневной квоты сервис предлагает подождать, а длинные диалоги и сообщения теперь дополнительно ограничены.",
+   "link": "https://habr.com/ru/companies/bothub/articles/1108436/?utm_campaign=1108436&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cb/e4/47/cbe447a45fa53176d1ddc92bf74d361d.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T12:56:28+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b54b57d735bd",
+   "title": "predict_proba похож на вероятность, пока его не проверить",
+   "summary": "Модель показывает хороший ROC AUC, но её predict_proba может серьёзно искажать реальную вероятность события.",
+   "link": "https://habr.com/ru/companies/otus/articles/1105236/?utm_campaign=1105236&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/82/66/03/8266035badc2154914552e32c3250170.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T12:46:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2580f4ff77d1",
+   "title": "Локальная LLM для кодинга в 2026: Mellum, OpenCode и AI-агенты прямо в IDE",
+   "summary": "Полгода назад я рассказывал , как запустить локальную LLM и подключить её к IDE. Статья собрала много просмотров и комментариев.",
+   "link": "https://habr.com/ru/companies/haulmont/articles/1108400/?utm_campaign=1108400&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ad/56/28/ad562875052443b75737dae0b68bcc42.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-16T12:30:54+00:00",
+   "category": "models"
+  },
+  {
+   "id": "8cd345b9ca86",
+   "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+   "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+   "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/dreamteam-co-founders.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T12:30:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "09b8d5488633",
+   "title": "Microsoft рассказала, с помощью чего попытается удержать цену консоли Project Helix следующего поколения",
+   "summary": "Microsoft делает ставку на нейронный рендеринг, чтобы справиться с ростом стоимости аппаратного обеспечения для своей консоли следующего поколения — Project Helix.",
+   "link": "https://3dnews.ru/1151351",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151351/Project-Helix.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-16T12:01:21+00:00",
+   "category": "other"
+  },
+  {
+   "id": "f7f1275644c4",
+   "title": "[Перевод] Деньги на ИИ иссякают",
+   "summary": "Не так давно Anthropic опубликовала заявку S-1, причем сделала это аж дважды, в черновом и чистовом вариантах. У кого-то эта публикация вызвала бешеный энтузиазм.",
+   "link": "https://habr.com/ru/articles/1103986/?utm_campaign=1103986&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/6f/fa/e1/6ffae1bfe1dd6a8a9c3967195f6f2f21.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T11:53:30+00:00",
+   "category": "other"
+  },
+  {
+   "id": "e2b1eb81c721",
+   "title": "Как я дал LLM доступ к своему ПК и… ничего не произошло (пока что)",
+   "summary": "Веб-чат с нейросетью может работать на твоём компьютере: запускать команды, читать и править файлы, смотреть на экран, а так же, работать сразу с несколькими пк. Нужно только дать ему руки и не забыть про тормоза.",
+   "link": "https://habr.com/ru/articles/1108392/?utm_campaign=1108392&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/67/66/25/6766257541a2bd1f5d35efc5a75c05c8.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-16T11:48:28+00:00",
+   "category": "models"
+  },
   {
    "id": "9099e588f5c2",
    "title": "Сколько стоит построить дата-центр в космосе: экономика орбитального ЦОД на 13 кВт",
@@ -472,6 +758,28 @@
    "category": "other"
   },
   {
+   "id": "b0ded74e06b0",
+   "title": "Advancing computer-use agents for healthcare teams",
+   "summary": "",
+   "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16T06:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "cfcc7acb02e9",
+   "title": "More ways to move care forward with ChatGPT for Healthcare",
+   "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+   "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16T06:00:00+00:00",
+   "category": "tools"
+  },
+  {
    "id": "03917129c05b",
    "title": "Alibaba выпустили Qwen4-Max",
    "summary": "Alibaba представили Qwen4-Max , новую флагманскую модель с контекстом на 1 млн токенов и поддержкой изображений. В тестах команды она расходует до 50% меньше токенов, чем Qwen3.8-Max.",
@@ -535,6 +843,17 @@
    "source": "Хабр · ML",
    "lang": "ru",
    "date": "2026-11-16T00:00:14+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "e3915f7e4cf0",
+   "title": "The King’s Trust and OpenAI launch £1m partnership",
+   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+   "link": "https://openai.com/index/the-kings-trust-and-openai",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16T00:00:00+00:00",
    "category": "tools"
   },
   {
