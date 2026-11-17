@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T09:15:01.877135+00:00",
+ "updated": "2026-11-17T11:12:40.813089+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 5
+   "count": 8
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,259 @@
   }
  ],
  "items": [
+  {
+   "id": "e126a0458813",
+   "title": "Google начала отключать Gems в личных аккаунтах Gemini",
+   "summary": "Вместо них компания предлагает Skills Компания Google начала переводить пользователей личных аккаунтов с Gemini Gems на новый формат Gemini Skills.",
+   "link": "https://www.ixbt.com/news/2026/11/17/google-nacala-otkliucat-gems-v-licnyx-akkauntax-gemini.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742932/media-cdd5209329278d25ccb2c188b997f0f4600f8305f64d563d9f126f01e884892c.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-17T11:08:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d26234322db9",
+   "title": "Concertina: как сложить Qwen3-4B в два раза обогнать модель, обученную на 36 трлн токенов",
+   "summary": "Исследователи предложили способ сжать большую языковую модель почти вдвое и сохранить около 85% ее качества, не тратя ресурсы на обучение с полного нуля.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1108608/?utm_campaign=1108608&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/33/4d/f6/334df65607578f219951dd0f2c72ad96.jpeg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T11:00:44+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b79f0ac15dde",
+   "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+   "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+   "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+   "image": "https://media.wired.com/photos/6af73f064e708cb7030f047d/master/pass/DSC_0242.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-17T11:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "6203f8f06a55",
+   "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+   "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+   "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+   "image": "https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-17T11:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "007f49734661",
+   "title": "Поисковая строка, которая понимает: гибрид подсказок и LLM-классификаторов в нишевом каталоге",
+   "summary": "У нишевого агрегатора мало данных: 65% посетителей не авторизованы, истории просмотров нет, а в каталоге всего три тысячи квестов.",
+   "link": "https://habr.com/ru/articles/1108808/?utm_campaign=1108808&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/16/6f/c8/166fc8b877e748dbdc018761a35e898f.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T10:59:58+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b651abe5ee4e",
+   "title": "Перед residual stream: токенизация, эмбеддинги и изнанка безопасности LLM",
+   "summary": "Одна запятая способна изменить язык ответа нейросети.",
+   "link": "https://habr.com/ru/articles/1108536/?utm_campaign=1108536&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/0c/f3/e8/0cf3e8bab6239163445a6e780b24664a.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T10:59:44+00:00",
+   "category": "models"
+  },
+  {
+   "id": "979aed56e50a",
+   "title": "Ни актеров, ни съёмок, ни кассовых сборов — созданный ИИ китайский блокбастер провалился в прокате",
+   "summary": "Китайская киноиндустрия на личном опыте получила наглядный урок: искусственный интеллект в кино — ещё не гарантия зрительского успеха.",
+   "link": "https://3dnews.ru/1151404",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151404/kino.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-17T10:56:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "2d8a4963e1d1",
+   "title": "Nvidia неожиданно представила чудовищный GPU Rubin HPC с рекордным количеством ядер CUDA, причём не для ИИ",
+   "summary": "Но и не для игр Компания Nvidia неожиданно представила новый невероятно крупный и сложный GPU, при этом не для игр, но и не для задач ИИ.",
+   "link": "https://www.ixbt.com/news/2026/11/17/nvidia-neozidanno-predstavila-cudovishhnyi-gpu-rubin-hpc-s-rekordnym-kolicestvom-iader-cuda-pricem-ne-dlia-ii.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742903/media-00f6fafa0a369e15903960a42f8c035d2c442d63d1a1028fad2f39a9cb67604f.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-17T10:48:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "ba3cf84247ee",
+   "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+   "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+   "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+   "image": "https://media.wired.com/photos/6afb9fde88d847b7d226d42b/master/pass/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-17T10:47:45+00:00",
+   "category": "business"
+  },
+  {
+   "id": "62db0a86ff64",
+   "title": "Курсы обещают нейровидео-миллионники на автопилоте. Я проверил на себе",
+   "summary": "Это третий пост серии «Месяц без найма». После Тредс и SEO я пошел в короткие видео: там и алгоритм щедрый, и человек смотрит, а не скроллит текст.",
+   "link": "https://habr.com/ru/articles/1108814/?utm_campaign=1108814&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/be/e0/e7/bee0e76dfe4fb7fe06896135e6ec0ff3.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T10:46:49+00:00",
+   "category": "research"
+  },
+  {
+   "id": "7f5164716430",
+   "title": "[Перевод] Программное обеспечение ломается на системном уровне",
+   "summary": "Вам не кажется, что последнее время программное обеспечение работает не слишком хорошо?",
+   "link": "https://habr.com/ru/articles/1108804/?utm_campaign=1108804&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/33/a3/3e/33a33e0eaf4ff4ae706350b45e1ab20f.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T10:42:15+00:00",
+   "category": "other"
+  },
+  {
+   "id": "cf1d08c2954a",
+   "title": "От галлюцинаций LLM к ошибкам мультиагентных систем: как обнаруживать ошибки в системах искусственного интеллекта?",
+   "summary": "Привет, Хабр! Меня зовут Максим Макаренко, я руковожу командой прикладных исследований в Sber AI Lab Сбера.",
+   "link": "https://habr.com/ru/companies/sberbank/articles/1104342/?utm_campaign=1104342&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a4/ae/b5/a4aeb5bd5f8a8af83f3d8e8777b447ec.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T10:21:23+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ab54ab45240b",
+   "title": "От картинки к релевантной странице: исследование мультимодальных эмбеддингов",
+   "summary": "Всем привет! Я Артем, Data Scientist в Raft Digital Solutions. Недавно я гонял три мультимодальных эмбеддера на сканах, таблицах и графиках.",
+   "link": "https://habr.com/ru/companies/raft/articles/1108640/?utm_campaign=1108640&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/bf/b4/2a/bfb42a5f05ffb3611df32bdbf76301d2.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T10:18:54+00:00",
+   "category": "research"
+  },
+  {
+   "id": "102eacf92bec",
+   "title": "«Я не сорвал дедлайн. Я его перенёс». Как закончилась эта война",
+   "summary": "Сотрудник переносил дедлайны и не получал ни одной просрочки. Руководитель решил вывести его на чистую воду. Началась настоящая война: проверки, новые правила и бесконечные оправдания.",
+   "link": "https://habr.com/ru/companies/yougile/articles/1108786/?utm_campaign=1108786&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7f/bd/29/7fbd29bfa18b1dd18504345a46c80a23.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T10:16:27+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "8f3c56e10ad6",
+   "title": "Где будет ИТ через год, если ИИ начнёт действовать сам: 10 трендов Gartner на 2027 год",
+   "summary": "К концу 2026 года, по прогнозу Gartner, автономные ИИ-агенты создадут 20% всех публичных коммитов, а значит, каждое пятое сохранённое изменение кода в открытых репозиториях напишет не человек.",
+   "link": "https://habr.com/ru/companies/simpleone/articles/1108726/?utm_campaign=1108726&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/dc/a7/93/dca793f847a6860d562a9f4877ef915a.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T10:10:21+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "4b41833e75f2",
+   "title": "За что на самом деле банят в Claude: я разобрал больше сотни случаев и вот что выяснил",
+   "summary": "Claude на экране iPhone Про блокировки в Claude я, к сожалению, знаю не понаслышке. Меня самого недавно забанили на тарифе Max, и узнал я об этом, когда Claude Code в один прекрасный день просто не заработал.",
+   "link": "https://habr.com/ru/companies/x-com/articles/1108782/?utm_campaign=1108782&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/48/58/dc/4858dc46fd72b9dbeb515e08285d5e2b.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T10:06:16+00:00",
+   "category": "models"
+  },
+  {
+   "id": "731df1716f64",
+   "title": "Microsoft выпустила .NET 11 с C# 15, новым типом union и улучшениями для ИИ-разработки",
+   "summary": "Microsoft выпустила .NET 11 — новую версию открытой платформы для разработки приложений. Вместе с ней представлен C# 15, а также обновились ASP.NET Core, Entity Framework Core, .NET MAUI и другие компоненты.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1108252/?utm_campaign=1108252&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d5/b8/ea/d5b8ea11425ae8abca8344665ffb8b8f.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T10:00:39+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "c240467bc11f",
+   "title": "Коробка с игрушками: что такое atmy.ai",
+   "summary": "В 2017 году я ходил по Красноярску с ручным прибором и измерял загрязнение воздуха. Сегодня я спрашиваю у ИИ-агента, что с воздухом в городе, и он сам берёт измерения с тысяч датчиков.",
+   "link": "https://habr.com/ru/articles/1108768/?utm_campaign=1108768&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3d/e3/76/3de3760a4df40705c95cac80793b881b.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T09:44:08+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "9c305861cf22",
+   "title": "Страхование будущего: как бороться с AI-мошенниками, как нейронки меняют бизнес, разработку и клиентский опыт",
+   "summary": "20 ноября AGIMA и Т-Страхование обсудят это на закрытом подкасте. В программе: — Как бороться с мошенниками, вооружёнными AI? — Что уже можно автоматизировать: от оценки рисков до выплат?",
+   "link": "https://habr.com/ru/companies/agima/articles/1108766/?utm_campaign=1108766&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/fc/7e/27/fc7e27447f60b3b886e39714dd5f4e8a.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T09:43:40+00:00",
+   "category": "business"
+  },
+  {
+   "id": "aa7f38bfde8c",
+   "title": "AutoGen2 (AG2) — создание и оркестрация ИИ-агентов",
+   "summary": "До определенного момента ИИ-воркфлоу выглядел как один промпт, один вызов модели и один ответ. Затем появились цепочки — summarize → extract → classify.",
+   "link": "https://habr.com/ru/companies/bothub/articles/1108762/?utm_campaign=1108762&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/fd/b2/cd/fdb2cd9493896b0da0070ab0c5810890.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T09:41:55+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d93a6790955f",
+   "title": "Сомнительная агентская разработка: что она может сделать с командами",
+   "summary": "\"Нельзя сомневаться. Сомнения порождают хаос и ведут тебя к гибели\" Почему-то эта фраза крутилась у меня в голове на протяжении последних пары лет. Почему? Я никак не мог ответить себе самому. И тут до меня дошло.",
+   "link": "https://habr.com/ru/articles/1108602/?utm_campaign=1108602&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/71/12/11/71121129d5312bad5204de9e8e585daf.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T09:41:33+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "2e3ededc5f9c",
+   "title": "«Google Карты» научились организовывать поездки и бронировать услуги с помощью ИИ",
+   "summary": "Обновления начали распространять на Android и iOS Google расширила возможности ИИ-помощника Ask Maps (Спросить Карты) в «Google Картах», добавив инструменты для планирования многодневных поездок, поиска свободного…",
+   "link": "https://www.ixbt.com/news/2026/11/17/google-karty-naucilis-organizovyvat-poezdki-i-bronirovat-uslugi-s-pomoshhiu-ii.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742879/media-dd7691c74498e6f426500924dd6ea3acd0fca37f2b562051ac5f905acc414dca.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-17T09:26:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "e7c6ba84ba0e",
+   "title": "Китай поставил дистилляцию американских ИИ-моделей на промышленный поток",
+   "summary": "Китайские организации находят всё более изощрённые способны использовать результаты работы передовых американских моделей искусственного интеллекта для обучения собственных аналогов.",
+   "link": "https://3dnews.ru/1151400",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151400/ai_1.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-17T09:14:00+00:00",
+   "category": "models"
+  },
   {
    "id": "7f5146611b8f",
    "title": "В Лос‑Анджелесе прошла первая в истории премия AI Music Awards",
@@ -4254,72 +4507,6 @@
    "lang": "en",
    "date": "2026-11-10T00:00:00+00:00",
    "category": "models"
-  },
-  {
-   "id": "a98763b80c84",
-   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-   "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-   "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-   "image": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
-   "source": "DeepMind",
-   "lang": "en",
-   "date": "2026-11-09T19:51:47+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3ec2e278915e",
-   "title": "The backlash about data centers might really just be about electricity",
-   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here .",
-   "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP23200525499640.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-09T19:35:33+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "4065836ff3f5",
-   "title": "Claude Code is accidentally exposing secrets all over GitHub",
-   "summary": "Claude Code is leaking sensitive information on public GitHub instances thanks to a partial oversight in the way its settings files are handled.",
-   "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-09T17:24:26+00:00",
-   "category": "models"
-  },
-  {
-   "id": "50d303e5bf84",
-   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-   "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI.",
-   "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303769670.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-09T17:05:43+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "b044ec790c18",
-   "title": "Innovating with AI in the special chemicals industry",
-   "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the…",
-   "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTRInfoysLubrizol-open-card-v3.png?resize=1200,600",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-09T13:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "7b1451fc786c",
-   "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-   "summary": "",
-   "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2f79bd8000a811c648a32/xZT8tg4be3bgZIx2EQS_m.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-09T12:34:29+00:00",
-   "category": "other"
   }
  ]
 }
