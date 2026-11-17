@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:24:45.099214+00:00",
+ "updated": "2026-11-17T02:58:36.382094+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 6
   },
   {
    "source": "Google AI",
