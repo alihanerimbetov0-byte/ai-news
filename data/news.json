@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:23:07.220205+00:00",
+ "updated": "2026-11-17T15:03:09.408098+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 6
   },
   {
    "source": "Google AI",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "source": "OpenAI",
@@ -108,6 +108,270 @@
   }
  ],
  "items": [
+  {
+   "id": "3e9a9c47a948",
+   "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+   "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland.",
+   "link": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/russian_influence_campaigns.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-17T15:02:03+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "27f55ceac514",
+   "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+   "summary": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices.",
+   "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-12.32.41-PM.jpg?w=942",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17T15:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "c9bf6b76d9b8",
+   "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+   "summary": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over 400,000 in 2025.",
+   "link": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_generated_abuse.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-17T14:59:50+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c3c0e5571157",
+   "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
+   "summary": "Isomorphic Labs has raised $5 billion, just six months after a $2.1 billion round. Alphabet's AI drug discovery company, led by Demis Hassabis, plans to use the funding to push its drug pipeline toward clinical trials.",
+   "link": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/Isomorphic-Labs-Funding.jpg",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-17T14:57:02+00:00",
+   "category": "business"
+  },
+  {
+   "id": "3424ffd2dab4",
+   "title": "Обновили pandas, и ноутбук работает без ошибок. Только считает уже другое",
+   "summary": "Обновление pandas может пройти без единой ошибки, а результаты анализа данных при этом изменятся.",
+   "link": "https://habr.com/ru/companies/otus/articles/1105238/?utm_campaign=1105238&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/df/d6/94/dfd694976aac350492212410a02ca70c.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T14:55:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "cd339e3d4080",
+   "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+   "summary": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July.",
+   "link": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_hugging_face_hack.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-17T14:54:10+00:00",
+   "category": "models"
+  },
+  {
+   "id": "aa11ef926ea3",
+   "title": "Почему The AI Scientist сбоит в 41% случаев: анатомия галлюцинаций в Autonomous AI и физическая истина в DeepTech",
+   "summary": "Почему автономный ИИ The AI Scientist сбоит в 41% экспериментов и генерирует антинаучные галлюцинации?",
+   "link": "https://habr.com/ru/articles/1108970/?utm_campaign=1108970&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/28/6e/fc/286efc339de546b5e019a3ae5c63e4f3.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T14:51:44+00:00",
+   "category": "research"
+  },
+  {
+   "id": "3ddd561d3db5",
+   "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+   "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+   "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17T14:50:58+00:00",
+   "category": "business"
+  },
+  {
+   "id": "8d6168624182",
+   "title": "Когда ИИ решает, что вам нельзя. От Codex до этикосферы Станислава Лема",
+   "summary": "Как попытка удалить несколько файлов заставила меня вспомнить классику научной фантастики и философии.",
+   "link": "https://habr.com/ru/articles/1108964/?utm_campaign=1108964&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a8/6f/a4/a86fa4a184b1691ae94b692d0f92ad96.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T14:49:04+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "9631676e3e33",
+   "title": "Открыли веса модели LongCat-2.5 на 1,6 трлн параметров, которую разворачивают не на NVIDIA",
+   "summary": "Китайская платформа доставки Meituan открыла веса мультимодальной MoE-модели LongCat-2.5 примерно на 1,6 трлн параметров, из которых около 48 млрд активны на токен, под свободной лицензией MIT.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1108958/?utm_campaign=1108958&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/90/0a/ef/900aefdf112ca1c883a0197ca4f09ac8.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T14:40:59+00:00",
+   "category": "models"
+  },
+  {
+   "id": "86f07be892b0",
+   "title": "Research Reports",
+   "summary": "To access a report, click on the corresponding image below.",
+   "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-3.15.07-PM-edited.png",
+   "source": "MIT Tech Review",
+   "lang": "en",
+   "date": "2026-11-17T14:39:46+00:00",
+   "category": "research"
+  },
+  {
+   "id": "3ae8d039f29f",
+   "title": "OpenAI удваивает число бесплатных подписок на ChatGPT для учёных до 200 тысяч, но теперь предлагает им ChatGPT Plus",
+   "summary": "В июле текущего года OpenAI запустила программу «ChatGPT для академических исследователей» (ChatGPT for Academic Researchers), которая предоставляет бесплатный доступ к ChatGPT 100 тыс.",
+   "link": "https://habr.com/ru/articles/1108960/?utm_campaign=1108960&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/92/cd/ec/92cdec535462731fb7bd47e6be8475d2.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T14:34:47+00:00",
+   "category": "research"
+  },
+  {
+   "id": "bcc5080f4e56",
+   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+   "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
+   "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17T14:26:46+00:00",
+   "category": "business"
+  },
+  {
+   "id": "05524f28f531",
+   "title": "Google пробует перенести ссылки на сайты в самый низ AI Overviews: почему сайту важнее, чтобы его назвали в ответе",
+   "summary": "Если сайт получает трафик из Google, ссылка на него в AI Overviews может переехать в самый низ ответа: Google сейчас проверяет такой вид.",
+   "link": "https://habr.com/ru/articles/1108948/?utm_campaign=1108948&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8e/74/0a/8e740a48e1363af9e738baed6f480bc1.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T14:24:06+00:00",
+   "category": "other"
+  },
+  {
+   "id": "2f7337baea25",
+   "title": "ИИ-ассистент для инженера АСУТП",
+   "summary": "Инжиниринг автоматизации становится узким местом: циклы инноваций сжимаются, сложность систем растёт, а опытных инженеров не хватает.",
+   "link": "https://habr.com/ru/companies/severstal/articles/1108930/?utm_campaign=1108930&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cd/f9/bc/cdf9bcbcfd0a896a4219721e77d2b2f1.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T14:05:54+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "1632fb5fec80",
+   "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+   "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2087335475.jpg?resize=1200,799",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17T14:05:30+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "52dafca01b6f",
+   "title": "ИИ для корпораций: как масштабировать решения и не разориться на ИТ-инфраструктуре",
+   "summary": "Привет, Хабр! Через пару недель, 30 ноября, мы проведем бесплатный вебинар «ИИ для корпораций: Как масштабировать решения и не разориться на ИТ-инфраструктуре». Главное — зарегистрируйтесь заранее .",
+   "link": "https://habr.com/ru/companies/rubytech/articles/1108924/?utm_campaign=1108924&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/16/80/17/168017bf724c02d4c2cf28d1dd370ebf.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T14:02:04+00:00",
+   "category": "other"
+  },
+  {
+   "id": "0e789c02d673",
+   "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+   "summary": "Researchers recently discovered unexpected behavior from Grok Bot, the AI agent platform from Elon Musk’s SpaceXSI.",
+   "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-17T14:00:29+00:00",
+   "category": "models"
+  },
+  {
+   "id": "38c9e2505124",
+   "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+   "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+   "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17T14:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "b81a16efe991",
+   "title": "«Сбер» представила «СберБум Трек» — портативную умную колонку с «ГигаЧатом» за 14 990 рублей",
+   "summary": "«Сбер» представил «СберБум Трек» — портативную умную колонку с помощником с искусственным интеллектом «ГигаЧат» и функциями персонализации.",
+   "link": "https://3dnews.ru/1151409",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151409/sber.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-17T13:59:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "8494475b15c1",
+   "title": "Впихнуть невпихуемое: что теряет Claude Code при сжатии контекста",
+   "summary": "Контекст кончается, Claude Code пишет «Compacting conversation» и через минуту продолжает как ни в чем не бывало. Агент вроде тот же. Но помнит ли он, какой файл мы правили час назад? О чем договорились?",
+   "link": "https://habr.com/ru/articles/1108922/?utm_campaign=1108922&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/94/3c/61/943c61eeca1604c3a9eb60da2b250103.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T13:52:34+00:00",
+   "category": "models"
+  },
+  {
+   "id": "c71e55d9e2a7",
+   "title": "Вышла Tencent Hy4 flash. Модель на 224B с памятью Engram уже доступна в ИИ-роутере Selectel",
+   "summary": "В ИИ-роутере Selectel, который дает единый доступ к моделям через OpenAI-совместимый API с оплатой за токены, появилась Hy4 flash. Это младшая модель семейства Hy4 китайской компании Tencent, представленная 16 ноября.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1108910/?utm_campaign=1108910&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/be/11/ce/be11ce3121c3b0c74774522655252415.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T13:35:52+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6e05b70feb86",
+   "title": "Манифест против нейрослопа",
+   "summary": "А вы для себя определили, где оно, мерило нейрослопа? Где заканчивается хороший текст, написанный с ИИ, и начинается слоп? Я часто использую нейросеть в своей работе и давно задумываюсь об этом.",
+   "link": "https://habr.com/ru/articles/1108904/?utm_campaign=1108904&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/9e/8c/40/9e8c406b45ae8543f862aaf265e19264.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T13:30:55+00:00",
+   "category": "other"
+  },
+  {
+   "id": "4b028b152bc9",
+   "title": "KandiShop: как за считанные секунды получить узнаваемые лица и читаемый текст на любых ИИ‑изображениях",
+   "summary": "Современные генеративные модели уже умеют по одной фотографии поместить человека или товар в любую сцену.",
+   "link": "https://habr.com/ru/companies/airi/articles/1108228/?utm_campaign=1108228&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/9d/3d/24/9d3d241fcebccf1861880c94b7f2d531.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T13:23:17+00:00",
+   "category": "models"
+  },
   {
    "id": "8e5bf770a028",
    "title": "Калифорния подала в суд на OpenAI из‑за инцидентов с потерей контроля над ИИ, включая взлом Hugging Face",
@@ -778,6 +1042,17 @@
    "lang": "en",
    "date": "2026-11-17T00:00:00+00:00",
    "category": "other"
+  },
+  {
+   "id": "58da9c66b145",
+   "title": "Introducing OpenAI for Chile",
+   "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+   "link": "https://openai.com/index/introducing-openai-for-chile",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-17T00:00:00+00:00",
+   "category": "policy"
   },
   {
    "id": "aae8c4832e63",
@@ -4232,281 +4507,6 @@
    "lang": "en",
    "date": "2026-11-12T17:44:33+00:00",
    "category": "other"
-  },
-  {
-   "id": "32933935200c",
-   "title": "AI chatbots are recommending fake retail websites, study finds",
-   "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-12T17:00:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "5f96a0ebfa7b",
-   "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-   "summary": "Smartglasses have always faced an uphill road to acceptance. Not only is propping a computer up on your nose an uncomfortable proposition, but the privacy aspect has been vexing people since the Google Glass days .",
-   "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-12T14:50:17+00:00",
-   "category": "models"
-  },
-  {
-   "id": "90d79223706e",
-   "title": "Gondola doubles revenue as its team builds more with Codex",
-   "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-   "link": "https://openai.com/business/customer-stories/gondola",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-12T12:00:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "0990939c7d6e",
-   "title": "Holiday Extras is rethinking what it can build with Codex",
-   "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-   "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/YQ7iIOI0bWh6X0QxSJfhc/52dfd3404ac0611fbab3c54ed6178bce/holiday-extras-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-12T09:30:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "b06379671ede",
-   "title": "Supporting research on AI and children’s safety",
-   "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-   "link": "https://openai.com/index/children-first-declaration",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-12T00:00:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "f28f90d2895a",
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-12T00:00:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "56dac742ff29",
-   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-   "summary": "",
-   "link": "https://huggingface.co/blog/3d-lora-finetuning",
-   "image": "https://huggingface.co/blog/assets/3d-lora-finetuning/thumbnail.gif",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-12T00:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d48e4f7a3199",
-   "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-   "summary": "Top chip manufacturer TSMC is ready to invest $1 billion in Anthropic and OpenAI.",
-   "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-11T18:16:40+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "8e4104a923ec",
-   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-   "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-11T18:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9e2e1c68cf1b",
-   "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-   "summary": "The last few years have seen significant debate over the widespread use of AI-powered tools in game development and the responsible disclosure of that usage to players.",
-   "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-11T17:37:32+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "97adab01dbf7",
-   "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-   "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-11T16:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "5b916f1bea87",
-   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-   "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-   "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-   "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo",
-   "source": "DeepMind",
-   "lang": "en",
-   "date": "2026-11-11T15:00:15+00:00",
-   "category": "other"
-  },
-  {
-   "id": "ef892408bebc",
-   "title": "Google DeepMind just mathematically verified key parts of Signal",
-   "summary": "Google DeepMind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees—a landmark development for the widely used cryptography and AI…",
-   "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-11T14:08:57+00:00",
-   "category": "research"
-  },
-  {
-   "id": "7e65614cc89a",
-   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-   "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
-   "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-11T09:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "80b38ea7da37",
-   "title": "ChatGPT Plus for veterans and servicemembers",
-   "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-   "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-11T08:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "b22522d14a17",
-   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-   "summary": "",
-   "link": "https://huggingface.co/blog/qvac/botpsy",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6468b319b2321e47d3267049/Emr86qw6NAueYLdIEiTTD.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-11T05:01:16+00:00",
-   "category": "models"
-  },
-  {
-   "id": "8c999d6885d2",
-   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-   "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-   "link": "https://openai.com/index/jiostar-vijay-seshadri",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-11T00:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "d2296a64c0dc",
-   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-   "summary": "",
-   "link": "https://huggingface.co/blog/token-pooling",
-   "image": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-11T00:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "cd1dc6d6e6bd",
-   "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-   "summary": "Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices.",
-   "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-10T22:35:01+00:00",
-   "category": "other"
-  },
-  {
-   "id": "b686da68349e",
-   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-   "summary": "Grok Build, the vibe-coding agent from SpaceXSI, is leaking data—some of it proprietary business information and other sensitive secrets—from thousands of its users, including the very same Elon Musk-owned company that…",
-   "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-10T21:12:59+00:00",
-   "category": "models"
-  },
-  {
-   "id": "c4b2e9a50337",
-   "title": "What happens to mathematics when AI becomes an oracle?",
-   "summary": "Our modern world runs on math, from social media algorithms, package delivery, and weather prediction to medical imaging and machine learning.",
-   "link": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-10T20:30:01+00:00",
-   "category": "research"
-  },
-  {
-   "id": "ac5a661efbfd",
-   "title": "Gemini Intelligence: New features, on more devices",
-   "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-   "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-10T19:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0b2e1c02de47",
-   "title": "Gemini 4 Carbon is now available",
-   "summary": "",
-   "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
-   "source": "DeepMind",
-   "lang": "en",
-   "date": "2026-11-10T16:03:47+00:00",
-   "category": "models"
-  },
-  {
-   "id": "004c51f512e0",
-   "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-   "summary": "Google DeepMind has revealed a new generation of the AI-powered Gemini Robotics platform. In the 2.5 release, Google says its robotic AI is getting tantalizingly close to completing real-world tasks as well as humans do.",
-   "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-10T15:00:39+00:00",
-   "category": "models"
-  },
-  {
-   "id": "c5fffc8a0cbd",
-   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-   "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-   "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-10T14:00:00+00:00",
-   "category": "models"
   }
  ]
 }
