@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T19:14:17.046153+00:00",
+ "updated": "2026-11-17T21:02:07.120931+00:00",
  "categories": [
   {
    "id": "models",
@@ -109,6 +109,127 @@
  ],
  "items": [
   {
+   "id": "50c4647eb965",
+   "title": "Flipper One — карманный ПК на Linux — стал хитом: всего за несколько часов на Kickstarter собрали 7,7 млн долларов",
+   "summary": "От аудита Wi-Fi до запуска нейросетей Создатели Flipper One запустили кампанию по сбору средств коллективного финансирования на Kickstarter, и интерес к устройству оказался очень высоким: уже в первый час поклонники…",
+   "link": "https://www.ixbt.com/news/2026/11/17/flipper-one-karmannyi-pk-na-linux-stal-xitom-vsego-za-neskolko-casov-na-kickstarter-sobrali-77-mln-dollarov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743097/media-c25f725ea1d3b5821f0165e5492ffeaf04dd684009080d7b9b2fc57aa1a2d6b7.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-17T20:39:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "3bcd1ac9ea4a",
+   "title": "OpenAI представила две «жутко умные» модели ИИ — GPT-6.2 Astra для профи и GPT-6.2 Sol для повседневных дел",
+   "summary": "OpenAI представила две новые модели искусственного интеллекта — GPT-6.2 Astra и GPT-6.2 Sol, ориентированные на выполнение сложных профессиональных задач и повседневных дел.",
+   "link": "https://3dnews.ru/1151437",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151437/gpt.png",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-17T20:38:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "8b7883c9ee9d",
+   "title": "Apple тестирует лимиты для Siri AI — за дополнительные сложные запросы придётся платить",
+   "summary": "Apple сегодня выпустила бета-версии операционных систем iOS 27.3, iPadOS 27.3 и macOS 27.3.",
+   "link": "https://3dnews.ru/1151436",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151436/siri-ai.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-17T20:34:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "d2f90fb918d9",
+   "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+   "summary": "On Monday, large trucks began circling the streets of Washington, DC, carrying billboards urging Congress to investigate the Trump administration’s ties with Nvidia’s disgraced CEO Jensen Huang.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-17T20:32:55+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "794837209e21",
+   "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+   "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors.",
+   "link": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_vals_sol.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-17T20:30:50+00:00",
+   "category": "models"
+  },
+  {
+   "id": "4b3ee5b0e45c",
+   "title": "OpenAI выпустила GPT-6.2: обгоняет Claude Opus 5.5 и стоит в разы дешевле. Но есть нюансы",
+   "summary": "17 ноября OpenAI представила две модели: GPT-6.2 Astra и GPT-6.2 Sol . Astra предназначена для сложных задач, программирования и агентных сценариев, а Sol - для повседневной работы, где важны скорость и экономичность.",
+   "link": "https://habr.com/ru/articles/1109080/?utm_campaign=1109080&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1109080/5d92017f9225faea1d4486a6a7adb572/",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T19:47:58+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3bdb9dca3a9b",
+   "title": "[Перевод] Представляем GPT-6.2 Astra и Sol",
+   "summary": "OpenAI представила GPT-6.2 Astra для сложных профессиональных задач и GPT-6.2 Sol для повседневной работы.",
+   "link": "https://habr.com/ru/articles/1109070/?utm_campaign=1109070&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/5e/71/2d/5e712d7f5488ac415e9f4714b2bc68bc.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T19:45:41+00:00",
+   "category": "models"
+  },
+  {
+   "id": "155bbbea4cfc",
+   "title": "Я заменил себя AI‑аватаром на YouTube и случайно создал эффект зловещей долины",
+   "summary": "Месяц назад мне пришла в голову идея сделать YouTube-канал без своего участия. Чтобы его вела моя цифровая копия. И самое интересное, что технически у меня все получилось.",
+   "link": "https://habr.com/ru/articles/1109028/?utm_campaign=1109028&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/88/22/6d/88226d461672c27ae9854289d9e545c0.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T19:41:07+00:00",
+   "category": "other"
+  },
+  {
+   "id": "d9a047affb02",
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+   "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17T19:32:11+00:00",
+   "category": "models"
+  },
+  {
+   "id": "295681ff85c0",
+   "title": "Будем покупать профессии? Как ИИ-платформы изменят рынок корпоративного ПО",
+   "summary": "Будем ли мы покупать «профессии» так же, как сегодня покупаем готовые решения на 1С? На примерах рекламной кампании и банковского конвейера разбираю, как ИИ-платформы могут изменить рынок корпоративного ПО.",
+   "link": "https://habr.com/ru/articles/1109074/?utm_campaign=1109074&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/68/ec/b9/68ecb97676533fec7d0f63725e8d5466.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T19:31:42+00:00",
+   "category": "other"
+  },
+  {
+   "id": "cb267a837c17",
+   "title": "Nvidia представила кластер из четырёх DGX Spark с 512 ГБ для запуска AI‑моделей размером до 700 млрд параметров",
+   "summary": "На конференции SC26 в Чикаго Nvidia представила DGX Spark HPC Developer Kit — кластер из четырёх компактных компьютеров DGX Spark с суммарными 512 ГБ памяти.",
+   "link": "https://habr.com/ru/articles/1109072/?utm_campaign=1109072&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ba/3b/c5/ba3bc525df6c6af41ba461c3c1d6182e.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T19:24:32+00:00",
+   "category": "models"
+  },
+  {
    "id": "0fc744e43d60",
    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
    "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
@@ -140,6 +261,17 @@
    "lang": "en",
    "date": "2026-11-17T18:48:23+00:00",
    "category": "models"
+  },
+  {
+   "id": "5641f9a79860",
+   "title": "Почему клиентская заявка теряется между отделами: ownership, handoff и наблюдаемость процесса",
+   "summary": "Клиент просит рассчитать поставку оборудования. Продажи пересылают письмо инженерам, инженеры — закупкам, закупки возвращают уточнение в продажи.",
+   "link": "https://habr.com/ru/articles/1109056/?utm_campaign=1109056&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7d/63/b1/7d63b1447abf4fb3435c7dfa0ef3de3a.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T18:40:09+00:00",
+   "category": "other"
   },
   {
    "id": "e29b0cad73ea",
@@ -4375,138 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-13T12:54:27+00:00",
    "category": "tools"
-  },
-  {
-   "id": "f240bb31094b",
-   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-   "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303769281.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-13T12:52:19+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "025949940b1f",
-   "title": "Jensen Huang didn’t show confidence in his successor, report says",
-   "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-   "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?resize=1200,676",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-13T12:28:23+00:00",
-   "category": "other"
-  },
-  {
-   "id": "9a32ea56f2cb",
-   "title": "У Anthropic Claude произошёл глобальный сбой вслед за сервисами Microsoft",
-   "summary": "Сервисы искусственного интеллекта Anthropic Claude оказались недоступны для тысяч пользователей по всему миру на фоне глобальных неполадок, которые затронули системы Microsoft.",
-   "link": "https://3dnews.ru/1151268",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/13/1151268/claude.png",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-13T12:28:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "5c1a1c8cd148",
-   "title": "Что нужно сегодня знать AI‑инженеру — это понимание тривиальности и нонсенса",
-   "summary": "AI-инженер должен сегодня уметь работать как с абсурдом, так и уметь выявлять нонсенс как место, где вероятнее всего могут обитать новые смыслы. Т.е.",
-   "link": "https://habr.com/ru/articles/1107538/?utm_campaign=1107538&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1107538/2a07757374417705c9323e4bd792ae4e/",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-13T12:27:11+00:00",
-   "category": "other"
-  },
-  {
-   "id": "cbae672049ca",
-   "title": "Некоторые сотрудники Nvidia призвали вернуть Дженсена Хуанга",
-   "summary": "Некоторые сотрудники Nvidia призывают восстановить в своих должностях Дженсена Хуанга, пишет Wired.",
-   "link": "https://habr.com/ru/articles/1107528/?utm_campaign=1107528&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/58/60/43/58604373e3fabea9609d3d408ca5cbe2.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-13T12:13:59+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "71dad9da95c2",
-   "title": "Let’s talk about Jensen Huang’s many affairs!",
-   "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-13T12:00:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "41eafb7e6a89",
-   "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-   "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-   "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-   "image": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/master/pass/Startup-Betting-on-AI-Microdramas-Culture.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-13T11:45:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "d349b9c48126",
-   "title": "Американские разработчики привили китайской ИИ-модели Alibaba Qwen3.8 западные ценности",
-   "summary": "Американская лаборатория искусственного интеллекта Nous Research провела процедуру дополнительного обучения для популярной ИИ-модели Alibaba Qwen3.8-27B, чтобы избавить её от «китайских корней».",
-   "link": "https://3dnews.ru/1151261",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/13/1151261/alibaba.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-13T10:02:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "75327edd8bb8",
-   "title": "Outlook, Teams и Copilot сломались по всему миру — Microsoft не может устранить сбой уже 12 часов",
-   "summary": "В минувший четверг Microsoft столкнулась с масштабным глобальным сбоем в работе сервисов Microsoft, включая Outlook, Teams и Copilot, который затронул тысячи пользователей в США, а затем распространился на…",
-   "link": "https://3dnews.ru/1151255",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/13/1151255/simon-ray-TICJQELFmg4-unsplash_-1.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-13T09:15:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "d1318183fe17",
-   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-   "link": "https://openai.com/business/customer-stories/shield",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/2k2eu0bdwRQBf4AXMBdKfl/44d9a8963dee51ba8283d49a0cfa4721/og.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-13T08:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "ebd9eb949639",
-   "title": "Our first phase of embedded assessments",
-   "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-   "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-13T08:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "567f19656aac",
-   "title": "Роскомнадзор вооружился ИИ за 2,27 млрд рублей — он будет искать VPN и запрещённый контент",
-   "summary": "Роскомнадзор развернул механизм фильтрации трафика на основе алгоритмов машинного обучения — на его внедрение были направлены 2,27 млрд руб.",
-   "link": "https://3dnews.ru/1151246",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/13/1151246/man-pc.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-13T06:46:00+00:00",
-   "category": "business"
   }
  ]
 }
