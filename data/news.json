@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:57:26.016593+00:00",
+ "updated": "2026-11-17T01:24:45.099214+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -108,6 +108,50 @@
   }
  ],
  "items": [
+  {
+   "id": "4c93142cece1",
+   "title": "Цена будущего: простота ≠ эффективность",
+   "summary": "За последние года разговор про нейросети прошел путь от \"это игрушка\" до \"это заменит всех как в Терминаторе\".",
+   "link": "https://habr.com/ru/articles/1108642/?utm_campaign=1108642&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/41/06/de/4106de680896e5ae6856b2edf6fa80f8.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T01:02:50+00:00",
+   "category": "other"
+  },
+  {
+   "id": "aae8c4832e63",
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+   "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-16T23:32:32+00:00",
+   "category": "business"
+  },
+  {
+   "id": "a59424729711",
+   "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+   "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry.",
+   "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0%2C10.748709970289%2C100%2C78.502580059422&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-16T23:17:34+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "c9bdcaf26509",
+   "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+   "summary": "A humanoid robotics company backed and advised by President Donald Trump’s son, Eric Trump, has reportedly missed payroll and may be on the brink of collapse after a funding shortfall.",
+   "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-16T22:58:27+00:00",
+   "category": "business"
+  },
   {
    "id": "ac8ed7d9657d",
    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
