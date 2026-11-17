@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T15:03:09.408098+00:00",
+ "updated": "2026-11-17T17:15:23.638536+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -49,7 +49,7 @@
   {
    "source": "Google AI",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "source": "Hugging Face",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,193 @@
   }
  ],
  "items": [
+  {
+   "id": "357d085ae06f",
+   "title": "Put Gemini to work for you",
+   "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp",
+   "source": "Google AI",
+   "lang": "en",
+   "date": "2026-11-17T17:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "827e27eaa18f",
+   "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+   "summary": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would.",
+   "link": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_healthcare_agents.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-17T16:55:47+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a513c3b2bdea",
+   "title": "Google makes it easier to use Gemini without training AI on your data",
+   "summary": "It can be hard to use Google products—or even the Internet itself—without coming into contact with Gemini AI. That is, of course, by design .",
+   "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-17T16:50:10+00:00",
+   "category": "models"
+  },
+  {
+   "id": "bc27ab6bd6d0",
+   "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+   "summary": "The US is tightening its chip export controls.",
+   "link": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/03/Datacenter-Remote.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-17T16:47:21+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "5fbc7d8ce285",
+   "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+   "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO.",
+   "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17T16:44:15+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "02c100e2f73a",
+   "title": "AlphaGenome 2 — как глубокое обучение помогает понять регуляцию генов и механизмы болезней",
+   "summary": "Каждая клетка нашего организма содержит почти одну и ту же последовательность ДНК.",
+   "link": "https://habr.com/ru/articles/1109018/?utm_campaign=1109018&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/40/3d/c0/403dc033728fd9e8f8ff838171b087d1.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T16:36:47+00:00",
+   "category": "other"
+  },
+  {
+   "id": "2c05c888d869",
+   "title": "Как ускорить A* в пробках в 10 раз",
+   "summary": "В три часа ночи A* ищет маршрут по Москве в 11 раз экономнее алгоритма Дейкстры: перебирает в 11 раз меньше перекрёстков. В половине девятого утра на тех же самых запросах от этого выигрыша остаётся 2,5 раза.",
+   "link": "https://habr.com/ru/articles/1109016/?utm_campaign=1109016&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cc/a8/04/cca804dbdbb437d15655169b67dfe82a.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T16:33:04+00:00",
+   "category": "research"
+  },
+  {
+   "id": "f70b9be32865",
+   "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+   "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+   "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-17T16:32:55+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "b6cbf36e3f62",
+   "title": "«Селдон»: как я учила модель предсказывать войны и девальвации и не подглядывать в будущее",
+   "summary": "У Айзека Азимова в «Основании» математик Гэри Селдон строит психоисторию — науку, которая не знает, что сделает отдельный человек, но считает вероятности больших исторических сдвигов.",
+   "link": "https://habr.com/ru/articles/1109014/?utm_campaign=1109014&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ed/e8/5d/ede85d944cc880ca24ae0b939f6570cd.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T16:31:48+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1da8f94fd329",
+   "title": "Тест от ИИ зелёный, а возврат не работает: разбираю черновик автотеста API и чиню его",
+   "summary": "Я пишу автотесты для API давно и последние месяцы всё чаще ревьюю тесты, которые написал не человек, а агент в IDE. Пишут они быстро и аккуратно.",
+   "link": "https://habr.com/ru/articles/1109006/?utm_campaign=1109006&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1109006/8d1edd208dce64ca411187bbb95942ec/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T16:22:42+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "cb8293f821d9",
+   "title": "The DOJ says it’s investigating Megaspeed",
+   "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an…",
+   "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461724/STK432_Government__CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-17T16:19:03+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "e0185595ee6e",
+   "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+   "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal.",
+   "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0%2C11.076427579259%2C100%2C77.847144841482&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-17T16:09:57+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "ae1f37c88c2d",
+   "title": "Своя LLM на Core i5-2400 без видеокарты: сказки за вечер, Qwen3.5 за 1 ч 44 мин",
+   "summary": "Изначально я хотел сделать проект для обучения LLM для себя — ради эксперимента. А в итоге он вырос в программу, в которой свою LLM может обучить любой человек. Делаю его с 8 июня 2026 года — и до сих пор.",
+   "link": "https://habr.com/ru/articles/1108996/?utm_campaign=1108996&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/64/8c/4f/648c4febe84e07560332a4e523f2b409.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T16:02:02+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a95016115c82",
+   "title": "Нас рекомендует ChatGPT. Проверяю, при каких запросах",
+   "summary": "Клиенты одного из проектов стали чаще говорить, что нас посоветовал GPT. Я проверил предложенный запрос на другом аккаунте и получил наш сайт первым.",
+   "link": "https://habr.com/ru/articles/1108574/?utm_campaign=1108574&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/21/a8/dd/21a8ddad7a960f2f6e505304b5116670.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T16:00:06+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6217f583d4c6",
+   "title": "Что поручить ИИ в финблоке: четыре области применения",
+   "summary": "Пока в компаниях решают, что считать ИИ-трансформацией и куда заселять ИИ-агентов , в финблоке всё по старому расписанию – нужно утрясать новый бюджет и объяснять, почему старый всё-таки вышел из берегов.",
+   "link": "https://habr.com/ru/articles/1107690/?utm_campaign=1107690&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/32/b5/db/32b5db871a7935bd6c351e20374da3b6.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T15:35:04+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "6777406d2987",
+   "title": "Как обезопасить данные в системах ИИ, если вы дварф из D&D",
+   "summary": "Привет, Хабр! Системы с искусственным интеллектом внедряются повсеместно.",
+   "link": "https://habr.com/ru/companies/infotecs_tech/articles/1108514/?utm_campaign=1108514&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/69/8c/cc/698cccffe3944d54c88d75787526310e.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T15:31:03+00:00",
+   "category": "other"
+  },
+  {
+   "id": "f31f82e66ede",
+   "title": "Как читать тексты в эпоху слопа",
+   "summary": "Генеративный искусственный интеллект значительно упростил создание нового контента.",
+   "link": "https://habr.com/ru/articles/1108980/?utm_campaign=1108980&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/webt/4b/f3/6c/4bf36c1bdd57fa0ee7e522b2b55a32a6.webp",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T15:19:18+00:00",
+   "category": "other"
+  },
   {
    "id": "3e9a9c47a948",
    "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
@@ -4320,193 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-12T20:01:00+00:00",
    "category": "models"
-  },
-  {
-   "id": "5b0f73df89a6",
-   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-   "link": "https://openai.com/business/customer-stories/amplitude",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/7xyAtQVA8C5CZGHW7aQidr/a71aedc6e0ed7395f081f75411af6d03/amplitude-wave-seo.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-12T20:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "75c7ee7437ec",
-   "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-   "summary": "Drone and missile strikes have inflicted unprecedented damage on data centers in Eastern Europe and the Middle East this year, disrupting cloud services for millions of people and permanently deleting some Amazon Web…",
-   "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-12T19:59:59+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "3b869b1138e3",
-   "title": "No, AI agents did not discover a previously unknown Maya site",
-   "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=2.4327168367347%2C0%2C95.134566326531%2C100&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-12T19:42:40+00:00",
-   "category": "research"
-  },
-  {
-   "id": "ce9a468b53e9",
-   "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-   "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-   "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/hydrogen-at-2.01.42-PM.jpg?resize=1200,589",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-12T19:27:45+00:00",
-   "category": "models"
-  },
-  {
-   "id": "77a7ce670b8c",
-   "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-   "summary": "Google is continuing its elemental AI naming scheme with the new Gemini 4 Hydrogen .",
-   "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-12T19:23:03+00:00",
-   "category": "models"
-  },
-  {
-   "id": "668a9d5716a7",
-   "title": "Увольнения, засилье ИИ и умершие надежды: исследование показало удручающее состояние игровой индустрии в 2026 году",
-   "summary": "Видеоигровая отрасль — сущность непостоянная и беспокойная, обречённая на вечные перемены. Руку на пульсе индустрии держит ежегодный отчёт организаторов конференции разработчиков игр Game Developers Conference (GDC).",
-   "link": "https://3dnews.ru/1151234",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/12/1151234/00.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-12T19:23:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "f7effce2db92",
-   "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-   "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-   "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Nectar_OliverL_3199.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-12T19:11:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "a88bddb17214",
-   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-   "summary": "",
-   "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6484ca4d5ff9a3d2ee52a83b/6KFZDHIJkxpICiErHLqAw.gif",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-12T19:07:35+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0d616058aa94",
-   "title": "Jensen Huang’s $470 Billion Affair",
-   "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-   "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-   "image": "https://media.wired.com/photos/6af4e95d91c3d23473376fc7/master/pass/Uncanny-Valley-Jensen-Spy-Business.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-12T18:59:58+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "3a3ea46b43b8",
-   "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-   "summary": "CHICAGO—Families joined protests in seven cities nationwide on Wednesday, rallying against what they see as Google’s bid to entrench its AI models in schools, turn kids of all ages into Gemini guinea pigs, and hook them…",
-   "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-12T18:57:45+00:00",
-   "category": "models"
-  },
-  {
-   "id": "baccdaa9b550",
-   "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-   "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a…",
-   "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-12T18:39:23+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d545fdc617b9",
-   "title": "Oh, Palantir is ‘progressive’ now, is it?",
-   "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-12T18:06:54+00:00",
-   "category": "other"
-  },
-  {
-   "id": "e1acab05b268",
-   "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-   "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-   "link": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-   "image": "https://media.wired.com/photos/6af50d1a5e386b9efd1b63f5/master/pass/Google-DeepMind-Staffers-Escalate-Unionization-Efforts-Business-2151467843.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-12T18:05:41+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "4bad5afe01a1",
-   "title": "Introducing Gemini 4 Hydrogen",
-   "summary": "",
-   "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
-   "source": "DeepMind",
-   "lang": "en",
-   "date": "2026-11-12T18:00:50+00:00",
-   "category": "models"
-  },
-  {
-   "id": "459a57b4750a",
-   "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-   "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-   "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-12T18:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "1ddbc0fb4982",
-   "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-   "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
-   "link": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
-   "image": "https://media.wired.com/photos/6af5f0e82e74be76ab295bc3/master/pass/111226-nvidia-jensen-huang-dollar-destroyed.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-12T17:59:15+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "96892311de09",
-   "title": "The Jensen Huang scandal is hardly over",
-   "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-12T17:44:33+00:00",
-   "category": "other"
   }
  ]
 }
