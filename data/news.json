@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T02:58:36.382094+00:00",
+ "updated": "2026-11-17T05:09:42.478969+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 12
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 4
+   "count": 5
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,28 @@
   }
  ],
  "items": [
+  {
+   "id": "9b3096321147",
+   "title": "США перекрывают Китаю доступ к передовым чипам через зарубежные дата-центры и посредников",
+   "summary": "Введены новые ограничения на поставки ИИ-чипов Nvidia в страны Юго-Восточной Азии Администрация Дональда Трампа объявила о новых ограничениях, направленных на предотвращение попадания передовых ИИ-чипов американских…",
+   "link": "https://www.ixbt.com/news/2026/11/17/ssa-perekryvaiut-kitaiu-dostup-k-peredovym-cipam-cerez-zarubeznye-data-centry-i-posrednikov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742744/media-4b9d87b2910bc65344cc3b54aa065e75669a3874de6c511e3f60b559281ef13f.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-17T05:06:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "680f5885c714",
+   "title": "Зияющие алгоритмы, или Обезьяна с гранатой: почему нам нужен манометр, а не запрет ИИ",
+   "summary": "«В души умеющих испанскому языку...",
+   "link": "https://habr.com/ru/articles/1108650/?utm_campaign=1108650&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ca/1e/da/ca1edab65fbbae06b3106ed11fb66e0a.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T04:26:32+00:00",
+   "category": "policy"
+  },
   {
    "id": "4c93142cece1",
    "title": "Цена будущего: простота ≠ эффективность",
