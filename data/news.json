@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:12:40.813089+00:00",
+ "updated": "2026-11-17T13:23:07.220205+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,138 @@
   }
  ],
  "items": [
+  {
+   "id": "8e5bf770a028",
+   "title": "Калифорния подала в суд на OpenAI из‑за инцидентов с потерей контроля над ИИ, включая взлом Hugging Face",
+   "summary": "Генеральный прокурор Калифорнии Роб Бонта подал иск против OpenAI. В документе утверждается, что компания подвергла общество опасности, выпустив свои передовые модели ИИ без надлежащих мер защиты и контроля.",
+   "link": "https://habr.com/ru/articles/1108898/?utm_campaign=1108898&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/81/1e/a3/811ea3b75ccfa5679e53cf414a98fc67.webp",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T13:11:05+00:00",
+   "category": "models"
+  },
+  {
+   "id": "9aa0117e7424",
+   "title": "Рекламный ролик товара из одного фото через API: конвейер на Seedance 2.0 и цифры брака",
+   "summary": "Задача, которая часто приходит от продавцов на маркетплейсах: есть одно фото товара, нужен вертикальный ролик на 15 секунд, на предметную съёмку бюджета нет.",
+   "link": "https://habr.com/ru/articles/1102048/?utm_campaign=1102048&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1102048/5c37185b00e8a717ae358106a2f45f1b/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T13:10:54+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "fd690c38e2ae",
+   "title": "[Перевод] Агенты тоже пользователи: зачем приложениям нужны оценки",
+   "summary": "Агенты пользуются API и инструментами от имени людей. Авторы Vercel объясняют, как построить сквозную оценку с Harbor, выбрать метрики и проанализировать результаты на примере заказа кофе.",
+   "link": "https://habr.com/ru/articles/1108886/?utm_campaign=1108886&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/45/ea/f9/45eaf984a4b4ec451c5a27bd967f7fbd.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T12:59:35+00:00",
+   "category": "business"
+  },
+  {
+   "id": "1d9a10233295",
+   "title": "Multi-GPU: когда стоит подключать несколько видеокарт и как использовать их эффективно",
+   "summary": "Если вы обучаете ML-модели, рано или поздно можете столкнуться с двумя ограничениями: обучение занимает слишком много времени или модели перестает хватать видеопамяти. В таких случаях можно перейти на Multi-GPU.",
+   "link": "https://habr.com/ru/companies/runity/articles/1108878/?utm_campaign=1108878&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f3/e0/b6/f3e0b6b1a7f396470f5b0c48d24ef397.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T12:32:28+00:00",
+   "category": "models"
+  },
+  {
+   "id": "888800bde028",
+   "title": "Быстрая Seedance 2.5 Flash против флагмана: дешевле на 35%, а что по качеству?",
+   "summary": "На 4 сценах из наших прошлых рейтингов быстрая версия видеомодели ByteDance сняла почти то же, что флагман. Токенов ушло на 35% меньше, а каждый ролик я получил в 3 раза быстрее.",
+   "link": "https://habr.com/ru/companies/syntx_ai/articles/1108586/?utm_campaign=1108586&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3b/c7/f5/3bc7f517a1ab92b3f59b5a4a29d31653.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T12:27:11+00:00",
+   "category": "other"
+  },
+  {
+   "id": "415585f9dddc",
+   "title": "Самое важное число: трекер пассивного дохода без сервера и подписок",
+   "summary": "Брокерское приложение каждый день показывает мне, сколько стоит портфель и на сколько он вырос или упал. А я хочу знать другое: сколько денег в месяц он приносит и когда на эти деньги можно будет жить.",
+   "link": "https://habr.com/ru/articles/1108872/?utm_campaign=1108872&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3d/b8/a9/3db8a9727d05ba61cf54e0beee62d868.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T12:21:18+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "b03cb043f722",
+   "title": "[Перевод] Qwen3.8 Flash на RTX 4090. Лучше обычного 27В?",
+   "summary": "В одном из экспериментов Kwangju Shin запустил Qwen3.8-27B примерно со 100 токенами в секунду.",
+   "link": "https://habr.com/ru/articles/1108870/?utm_campaign=1108870&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/be/23/87/be23875b1644619f2fec772351d5d427.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T12:21:17+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3df0824d9654",
+   "title": "Цена слова: почему нужно выращивать ИИ локально, а не использовать облака",
+   "summary": "Может ли человек общаться с нейросетью, именно общаться, а не «использовать»? Как программист я отвечаю на это первым и самым неприятным для себя образом: нет.",
+   "link": "https://habr.com/ru/articles/1108846/?utm_campaign=1108846&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/0d/19/6a/0d196a689a9201ba9797969deaa2313c.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T11:28:31+00:00",
+   "category": "other"
+  },
+  {
+   "id": "d57207af4c3a",
+   "title": "Тебя засунули головой в окно машины. Водитель — Anthropic",
+   "summary": "Ты открываешь Claude, а вместо ответа видишь вот это: Our automated systems detected a large number of signals associated with your account that violate our Usage Policy.",
+   "link": "https://habr.com/ru/articles/1108844/?utm_campaign=1108844&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/09/ab/dd/09abddf4a3b39a25a4e8d38fe51f4b7c.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T11:27:02+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6cd4d2453a74",
+   "title": "В рунете произошёл массовый сбой: проблемы у Timeweb, Google, Twitch, DeepSeek и других сервисов",
+   "summary": "Пользователи также жалуются на недоступность Discord, War Thunder и проблемы с интернетом «Ростелекома» В России зафиксированы масштабные перебои в работе крупных интернет-сервисов.",
+   "link": "https://www.ixbt.com/news/2026/11/17/v-runete-proizosel-massovyi-sboi-problemy-u-timeweb-google-twitch-deepseek-i-drugix-servisov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742941/media-07f7fffd641593501eb55f09392a8e46b706af5d00084eb7113fd3bee23cba93.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-17T11:23:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "63318d29b7b5",
+   "title": "Россияне массово жалуются на сбои Google, Deepseek, Twitch, Discord и «Ростелекома»",
+   "summary": "Из нескольких регионов России сегодня, 17 ноября 2026 года, стали поступать жалобы на проблемы с доступом к крупнейшим международным сервисам, в том числе Google, Deepseek, Twitch и Discord; сообщается также о сбоях в…",
+   "link": "https://3dnews.ru/1151408",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151408/dd.png",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-17T11:22:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1dd0ced90e76",
+   "title": "Пять иишек чинили один и тот же баг с публикацией сайта — двое справились, трое сделали ещё хуже",
+   "summary": "Придумал себе эксперимент. Дал исправление одного и того же бага с публикацией сайта на сервер пятью нейронкам. Две его починили (Claude Code и Codex), три сломали ещё больше.",
+   "link": "https://habr.com/ru/articles/1108838/?utm_campaign=1108838&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/5d/89/8d/5d898de447784ea0e6888218e9e48ebb.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T11:15:04+00:00",
+   "category": "models"
+  },
   {
    "id": "e126a0458813",
    "title": "Google начала отключать Gems в личных аккаунтах Gemini",
@@ -4374,138 +4506,6 @@
    "source": "Google AI",
    "lang": "en",
    "date": "2026-11-10T14:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "155d33cae726",
-   "title": "Google Cloud launches Gemini for healthcare.",
-   "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-10T13:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "ffd1be60b8ac",
-   "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-   "summary": "Impervious to battlefield jamming, drones physically connected to human operators by miles of fiber-optic cables have become such a common weapon of war in Ukraine that trees and fields are strewn with tangled cables…",
-   "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-10T12:15:32+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "428ac4b42c0b",
-   "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-   "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-   "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-   "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo",
-   "source": "DeepMind",
-   "lang": "en",
-   "date": "2026-11-10T12:02:28+00:00",
-   "category": "business"
-  },
-  {
-   "id": "46ecb159c153",
-   "title": "Helping caregivers use AI in everyday life",
-   "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-   "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-10T12:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "51d2fad24045",
-   "title": "Opening the datasets behind our AI weather models",
-   "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-   "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-   "image": "https://lh3.googleusercontent.com/ggsqfaBnOayx-i7z9Kj8AeZruz8BSo0N7tsnqwH8Z3REnHcDKBt-QSA3DR4UUM8lcwklWihSARoEN2AyQFhoRFGFlk2-0-xGuKt_rtGoFwpJg8LHVQ=w528-h297-n-nu-rw-lo",
-   "source": "DeepMind",
-   "lang": "en",
-   "date": "2026-11-10T11:13:04+00:00",
-   "category": "models"
-  },
-  {
-   "id": "5ca4dc7b6d88",
-   "title": "Introducing Businesses in ChatGPT",
-   "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-   "link": "https://openai.com/index/introducing-businesses-chatgpt",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-10T10:00:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "01a8528fa117",
-   "title": "Closing the AI guidance gap in education",
-   "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-   "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-10T09:00:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "4e3e5904c85a",
-   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-   "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-   "link": "https://openai.com/index/singapore-airlines-travel-work",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-10T08:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3588ceed4155",
-   "title": "Work at the Frontier: AI’s effect on freelance work",
-   "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-   "link": "https://openai.com/index/ai-effect-on-freelance-work",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-10T07:00:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "1ff74ee2cb10",
-   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-   "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-   "link": "https://openai.com/index/cogent-security",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-10T00:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "724fae925148",
-   "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-   "summary": "",
-   "link": "https://huggingface.co/blog/hub-gcp-marketplace",
-   "image": "https://huggingface.co/blog/assets/hub-gcp-marketplace/thumbnail.jpg",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-10T00:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "3229de0d9192",
-   "title": "Decision Models in Hugging Face",
-   "summary": "",
-   "link": "https://huggingface.co/blog/decision",
-   "image": "https://huggingface.co/blog/assets/decision/thumbnail.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-10T00:00:00+00:00",
    "category": "models"
   }
  ]
