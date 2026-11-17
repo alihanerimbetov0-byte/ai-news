@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T07:31:04.973342+00:00",
+ "updated": "2026-11-17T09:15:01.877135+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,94 @@
   }
  ],
  "items": [
+  {
+   "id": "7f5146611b8f",
+   "title": "В Лос‑Анджелесе прошла первая в истории премия AI Music Awards",
+   "summary": "В Лос‑Анджелесе провели первую премию AI Music Awards. Её организовала Sonic Intelligence Academy (SIQA). Церемонию провели в театре Mayan.",
+   "link": "https://habr.com/ru/articles/1108720/?utm_campaign=1108720&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/da/e0/db/dae0db0c2e07ca061750678d2db2b4d2.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T08:47:33+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "af00baff8700",
+   "title": "Колонка с характером и «ГигаЧатом» без интернета: Сбер выпустил портативную «СберБум Трек»",
+   "summary": "Работает до восьми часов без подзарядки Сбер представил портативную умную колонку «СберБум Трек» с голосовым помощником «ГигаЧат».",
+   "link": "https://www.ixbt.com/news/2026/11/17/kolonka-s-xarakterom-i-gigacatom-bez-interneta-sber-vypustil-portativnuiu-sberbum-trek.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742846/media-f62a1ae3ab8efcc477c72ed56cb25a5bc0ea6e9a286acf8695a89359834b6177.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-17T08:22:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "76254f04ca29",
+   "title": "Выжимаем из ИИ максимум с минимальным бюджетом, или Программировать может каждый",
+   "summary": "В 1839 году Луи Дагер представил миру дагеротип — «прародитель» современных фотоаппаратов.",
+   "link": "https://habr.com/ru/companies/domclick/articles/1099364/?utm_campaign=1099364&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e8/fb/35/e8fb35346be324f56ed363da884a741e.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T08:00:42+00:00",
+   "category": "other"
+  },
+  {
+   "id": "a076cf50493b",
+   "title": "Агенты тоже любят индивидуальный подход, или Почему для генерации кода не существует универсальной обвязки",
+   "summary": "Замечали ли вы, что одна и та же модель в одном ИИ-помощнике для написания кода прекрасно чинит баги, а в другом не вывозит простую задачу? Кажется, что в этом виновата сама модель. Но это не совсем так.",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1108618/?utm_campaign=1108618&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/46/3c/17/463c1709d11f413166d16a3829bc9539.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T07:59:06+00:00",
+   "category": "models"
+  },
+  {
+   "id": "13ab4367af00",
+   "title": "Apple изменит систему контроля безопасности Mac из‑за популярности ИИ‑программ",
+   "summary": "Apple анонсировала изменения в механизмах защиты компьютеров Mac.",
+   "link": "https://habr.com/ru/articles/1108686/?utm_campaign=1108686&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/01/d6/39/01d63989f2c061a6af553dd4006ba881.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T07:57:29+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "4aad9c9e28df",
+   "title": "Papa John’s предлагает клиентам бесплатную пиццу в обмен на фото доставленного заказа и отзыв для улучшения ИИ‑систем",
+   "summary": "Американская сеть ресторанов Papa John’s предлагает клиентам бесплатную пиццу в обмен на фотографию доставленного заказа и отзыв для улучшения систем искусственного интеллекта компании.",
+   "link": "https://habr.com/ru/articles/1108692/?utm_campaign=1108692&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/84/cf/3b/84cf3bd06ab51c811ec4b870fd439a99.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T07:43:36+00:00",
+   "category": "other"
+  },
+  {
+   "id": "685586391010",
+   "title": "Как ИИ меняет работу команд в финансовой сфере? Обсудим на митапе 3 декабря",
+   "summary": "3 декабря в 18:00 проведем очередной офлайн-митап по ИИ в Москве. В списке спикеров и экспертов — представители Сбера, Альфа-Банка, Газпромбанка, Т-Банка, КЕБ, Банка ВТБ.",
+   "link": "https://habr.com/ru/companies/dalee_group/articles/1108682/?utm_campaign=1108682&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/81/7b/b4/817bb436736d524ff74135cfde9b70bc.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T07:41:23+00:00",
+   "category": "other"
+  },
+  {
+   "id": "91725aaf9526",
+   "title": "Генерация тест-кейсов с ИИ: опыт команды ТестОпс",
+   "summary": "Поговорим о том, как от нейрослопа прийти к хорошим сгенерированным тест-кейсам. В любом ремесле качества добиваются кропотливыми итерациями по продукту, добавляя всё новые инструменты и проверки.",
+   "link": "https://habr.com/ru/companies/testops_tms/articles/1108594/?utm_campaign=1108594&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/32/ed/56/32ed566f35632c0678579b5e13148bc3.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T07:29:05+00:00",
+   "category": "tools"
+  },
   {
    "id": "19bc45728797",
    "title": "Claude Code и файл settings.local.json: как „не спрашивать снова“ выкладывает пароли на GitHub и что проверить у себя",
