@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T05:09:42.478969+00:00",
+ "updated": "2026-11-17T07:31:04.973342+00:00",
  "categories": [
   {
    "id": "models",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,160 @@
   }
  ],
  "items": [
+  {
+   "id": "19bc45728797",
+   "title": "Claude Code и файл settings.local.json: как „не спрашивать снова“ выкладывает пароли на GitHub и что проверить у себя",
+   "summary": "На прошлой неделе разбор компании Apiiro разошёлся по профильным СМИ: в публичных репозиториях на GitHub нашли больше тысячи копий локальных настроек Claude Code с паролями, токенами и ключами.",
+   "link": "https://habr.com/ru/articles/1108676/?utm_campaign=1108676&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1108676/a149904d56aa4b89f3951a464c20edd1/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T07:17:37+00:00",
+   "category": "models"
+  },
+  {
+   "id": "4a367b748fa1",
+   "title": "Оверклокеры применили ИИ для изменения BIOS материнской платы",
+   "summary": "Ресурс Hardware 360º использовал нейросеть ChatGPT Astra для декомпиляции и сравнения двух версий BIOS от ASRock: одной — с активной функцией SkyOC, и другой — с отключённой.",
+   "link": "https://habr.com/ru/articles/1108672/?utm_campaign=1108672&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/05/05/b8/0505b888cdae6acb060796abc2be17c7.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T07:17:26+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "2ef595957f59",
+   "title": "Как работают токены — снова махинации с лимитами",
+   "summary": "OpenAI и Anthropic грешат одним — постоянно меняют лимиты, которые входят в подписки. Причём официально эти объёмы они не публикуют, а значит, могут крутить их как хотят.",
+   "link": "https://habr.com/ru/companies/h3llo_cloud/articles/1105992/?utm_campaign=1105992&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/04/60/f9/0460f9d23aca5221be2b0b7537a4856c.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T07:12:51+00:00",
+   "category": "other"
+  },
+  {
+   "id": "9537409b8e84",
+   "title": "Всего 400 дата‑центров в США потребляют больше электроэнергии, чем весь штат Мичиган",
+   "summary": "Всего 400 центров обработки данных в США потребляют за один год больше электроэнергии, чем весь штат Мичиган, выяснили учёные Гарвардского университета.",
+   "link": "https://habr.com/ru/articles/1108670/?utm_campaign=1108670&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/72/0b/4c/720b4c38a46b13b0f495f21681f4c901.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T07:08:32+00:00",
+   "category": "research"
+  },
+  {
+   "id": "f1940019201f",
+   "title": "Галлюцинации недели: Claude Fable 5.2, Gemini 4 Hydrogen и отставка Дженсена Хуанга",
+   "summary": "В любом реалити есть зрительское голосование, и здесь оно тоже присутствует: петиция за возвращение Хуанга набрала больше 115 тысяч подписей, среди них почти 6 тысяч сотрудников Nvidia и Илон Маск.",
+   "link": "https://habr.com/ru/articles/1108486/?utm_campaign=1108486&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/07/e3/39/07e3392b25e4b90be884271d94e88cff.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T07:01:25+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0341faedc9ab",
+   "title": "HP начала продавать рабочую станцию ZGX Fury G1n с 748 ГБ памяти за 132 000 $",
+   "summary": "HP начала продажи ZGX Fury G1n AI Station — рабочей станции для локального запуска и дообучения крупных моделей ИИ. Внешне это обычный системный блок, но внутри — платформа NVIDIA ® GB300 Grace Blackwell Ultra.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1108232/?utm_campaign=1108232&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ab/45/eb/ab45eb1ab9cc874fda36bb5677790b7a.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T07:00:24+00:00",
+   "category": "models"
+  },
+  {
+   "id": "132b9ee3f595",
+   "title": "ИИ прочитает сообщения: в «Почте Mail» входящие письма превратились в умную ленту событий",
+   "summary": "ИИ собирает сведения о поездках, мероприятиях и записях в отдельные виджеты «Почта Mail» обновила стартовую страницу мобильного приложения, добавив ИИ-виджеты с информацией о предстоящих событиях и важных сообщениях.",
+   "link": "https://www.ixbt.com/news/2026/11/17/ii-procitaet-soobshheniia-v-pocte-mail-vxodiashhie-pisma-prevratilis-v-umnuiu-lentu-sobytii.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742579/media-00d8a15cc6732f78edc9780af86c892cf8b9f4258a93e8e81daf362ea000987a.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-17T07:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "d2ee2346a707",
+   "title": "«Домашние эксперименты — это здорово»: Сэм Альтман пожелал, чтобы у всех было много оперативной памяти",
+   "summary": "Гендиректор OpenAI Сэм Альтман (Sam Altman) вернулся к своим неоднозначным высказываниям по поводу оперативной памяти для ПК.",
+   "link": "https://3dnews.ru/1151392",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151392/altman.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-17T06:50:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "cd379d8ebd2d",
+   "title": "iPhone 16 Pro вырезает звук двигателя, даже если держать телефон совсем рядом",
+   "summary": "Подсказка «поднесите телефон вплотную» вылечила звук записи у 14 Pro Max / 15 Plus / 16 Plus. Но 16 Pro/Pro Max судя по всему аппаратно давят любой шум. Как я к этому пришел",
+   "link": "https://habr.com/ru/articles/1100412/?utm_campaign=1100412&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1100412/0ba52043f1c3b9c21a39d163782bda9c/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T06:45:23+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "a07ec2a67591",
+   "title": "Alibaba показала ИИ, который сам создаёт игры в Unreal Engine и Unity, запускает их и исправляет ошибки",
+   "summary": "Компания Alibaba рассказала о возможностях недавно представленной ИИ-модели Qwen4-Max в разработке игр и 3D-моделировании.",
+   "link": "https://3dnews.ru/1151383",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151383/654754.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-17T06:32:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "026f2daf1eaa",
+   "title": "Я хотел, чтобы ИИ сам вносил правки в Word. И у меня получилось",
+   "summary": "Я юрист и устал переносить правки из чата в Word. Сначала пытался заранее описать все допустимые изменения, но упёрся в особенности DOCX. Тогда дал модели возможность самой писать Python под конкретный документ.",
+   "link": "https://habr.com/ru/articles/1108612/?utm_campaign=1108612&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ea/8b/ce/ea8bced031b1760421f14b25021a937f.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-17T06:18:35+00:00",
+   "category": "models"
+  },
+  {
+   "id": "4ebdc7f1fa33",
+   "title": "OLED, ИИ и корпус 4,7 мм: в России стартовали продажи Huawei MatePad Pro 12\"",
+   "summary": "Стоимость начинается от 95 тысяч рублей Оператор МТС объявил о старте продаж планшета Huawei MatePad Pro 12\" на российском рынке.",
+   "link": "https://www.ixbt.com/news/2026/11/17/oled-ii-i-korpus-47-mm-v-rossii-startovali-prodazi-huawei-matepad-pro-12.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742527/media-a3701b4b034c46ed4ab3d618cb384f2a97fff8357eef292f8d7bb2210578cc73.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-17T06:00:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "9582b91f59d3",
+   "title": "Скидки, сделки и секреты: как я дообучал NER-модели для маскирования",
+   "summary": "Дообучил GLiNER2.5 на 5 000 синтетических текстов и сравнил полное дообучение с LoRA, DoRA, rsLoRA и QLoRA. Для примера взял коммерческие условия: цены, скидки и графики оплаты.",
+   "link": "https://habr.com/ru/articles/1108138/?utm_campaign=1108138&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/6b/3a/0b/6b3a0b280864ecac4a6db2b7259259c3.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-17T05:49:14+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1fb198707c2e",
+   "title": "OpenAI распустила команду по робототехнике ради ChatGPT и Sora",
+   "summary": "Большинство специалистов перевели в общую исследовательскую группу, остальные займутся прикладными проектами.",
+   "link": "https://www.ixbt.com/news/2026/11/17/openai-raspustila-komandu-po-robototexnike-radi-chatgpt-i-sora.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742754/media-fe4cd73fc78afb52437d76c3d4a3bab3bfdcd7e8e68cc588b875031e8ee7b4ee.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-17T05:30:00+00:00",
+   "category": "models"
+  },
   {
    "id": "9b3096321147",
    "title": "США перекрывают Китаю доступ к передовым чипам через зарубежные дата-центры и посредников",
@@ -139,6 +293,17 @@
    "source": "Хабр · ИИ",
    "lang": "ru",
    "date": "2026-11-17T01:02:50+00:00",
+   "category": "other"
+  },
+  {
+   "id": "590cb0b9c5dd",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+   "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-17T00:00:00+00:00",
    "category": "other"
   },
   {
@@ -1086,6 +1251,17 @@
    "lang": "ru",
    "date": "2026-11-16T09:35:55+00:00",
    "category": "tools"
+  },
+  {
+   "id": "f054a54f8228",
+   "title": "How Revolut raises ambition without lowering the bar",
+   "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+   "link": "https://openai.com/business/customer-stories/revolut",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-16T09:30:00+00:00",
+   "category": "models"
   },
   {
    "id": "3645ca3f1be4",
