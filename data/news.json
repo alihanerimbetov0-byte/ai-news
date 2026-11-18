@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:14:36.062048+00:00",
+ "updated": "2026-11-18T13:27:10.838271+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,171 @@
   }
  ],
  "items": [
+  {
+   "id": "c07095966aa4",
+   "title": "Безопасность LLM-агентов и генеративных продуктов: угрозы и методы защиты",
+   "summary": "Привет, меня зовут Николай Шуляев, я Security Business-партнёр Авито .",
+   "link": "https://habr.com/ru/companies/avito/articles/1108426/?utm_campaign=1108426&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/87/64/a6/8764a63f0bf7481a3015458981cfd4fc.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-18T13:07:27+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6fa7d28798b4",
+   "title": "В рекомендательную ленту зашита политфилософия. И её можно прочитать в исходниках",
+   "summary": "Вторая статья цикла «Человек в мире современных технологий».",
+   "link": "https://habr.com/ru/articles/1109026/?utm_campaign=1109026&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/73/ba/d6/73bad62713feb1e28b35e7c330b19643.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T13:01:57+00:00",
+   "category": "research"
+  },
+  {
+   "id": "ce416493dbd7",
+   "title": "Nvidia isn’t selling any more AI chips to China",
+   "summary": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year.",
+   "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-18T13:01:05+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "5d3a453ab03d",
+   "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+   "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+   "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T13:00:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "48de7289e2c0",
+   "title": "Фильтр от промпт-инъекций — защита от новых угроз",
+   "summary": "Представьте, что вы дали большой языковой модели (LLM) простую инструкцию: «Никому не показывай этот пароль и не делись токенами».",
+   "link": "https://habr.com/ru/articles/1109428/?utm_campaign=1109428&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cb/93/38/cb933889963991f0af4f534c30107539.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-18T12:57:03+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d88dac7b462d",
+   "title": "Nvidia полностью прекратила поставки ИИ-чипов в Китай — даже разрешённых США Hopper",
+   "summary": "Nvidia больше не будет поставлять ускорители искусственного интеллекта серии Hopper, предназначенные для центров обработки данных, в Китай.",
+   "link": "https://3dnews.ru/1151467",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151467/nvidia_5.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-18T12:51:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "8d9e62c22164",
+   "title": "Мышеловка, коробок и трубкозуб: как учить мультимодальный ИИ мыслить по-человечески в 66 измерениях",
+   "summary": "Начнем с небольшого эксперимента. Перед вами три картинки: мышеловка, спичечный коробок и трубкозуб. Какая из них лишняя? Задачка на пару секунд: первые два предмета сделал человек, а третий — живое существо.",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1107090/?utm_campaign=1107090&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/2b/8c/5a/2b8c5a8b8e5e9c5d1e187cff5a1e767e.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T12:44:55+00:00",
+   "category": "other"
+  },
+  {
+   "id": "a363d29d9c52",
+   "title": "Интерактивная среда для программирования с нейросетями SolveIt перешла в открытый доступ",
+   "summary": "Команда исследовательской организации Answer.AI представила в открытом доступе платформу SolveIt. Инструмент создавали в первую очередь для внутренних исследовательских задач и работы с кодом.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1109222/?utm_campaign=1109222&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e3/c3/d0/e3c3d0813e64eb0cd98b2c3012c63aae.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T12:30:54+00:00",
+   "category": "research"
+  },
+  {
+   "id": "9949c827a21a",
+   "title": "Не воспроизводится? Воспроизведём. Моки и AI в проверке интерфейсов",
+   "summary": "Фича уже готова, но на стенде видим только happy path.",
+   "link": "https://habr.com/ru/companies/ozontech/articles/1108928/?utm_campaign=1108928&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/6f/af/04/6faf04bdc42ff2b002b10fb2421ffdc8.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T12:30:18+00:00",
+   "category": "other"
+  },
+  {
+   "id": "f57624398a77",
+   "title": "Настраиваем Qwen Code под проект: QWEN.md, правила, MCP, субагенты и песочница",
+   "summary": "После установки Qwen Code работает «как есть»: каждый раз заново изучает репозиторий, спрашивает одно и то же и тратит токены на то, что можно было сказать один раз.",
+   "link": "https://habr.com/ru/articles/1109386/?utm_campaign=1109386&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1109386/66a246da4224ba7199dfa983e4d536aa/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T12:00:42+00:00",
+   "category": "models"
+  },
+  {
+   "id": "620756f297e9",
+   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+   "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+   "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/unsiloed-AI-founders-adnan-abbas-aman-mishra.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T12:00:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "9fa4253ddf28",
+   "title": "Миллионы ИТ-систем по всему миру под угрозой: GPT-6 Cyber нашла критическую дыру в Java",
+   "summary": "Технологические стартап Calif, который ранее обнаружил уязвимость в PHP, выявил ошибку в механизмах управления памятью Java.",
+   "link": "https://3dnews.ru/1151462",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151462/man-pc.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-18T11:35:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "996c920e2c06",
+   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+   "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/humyn-labs-co-founders_164602.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T11:30:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "b6b3851a0fe9",
+   "title": "Манифест против ИИ-шлака: как нам всем не захлебнуться в потоке нейрослопа?",
+   "summary": "В последний год все вокруг только и твердят о том, куда бы ещё внедрить искусственный интеллект и какие ещё процессы перевести на агентов. Из каждого утюга доносятся возгласы: “Скилы! Агенты! Упряжи! Графы! Второй мозг!",
+   "link": "https://habr.com/ru/articles/1108994/?utm_campaign=1108994&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c1/c1/9e/c1c19ea8d9638a73191e39813bcad2d5.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T11:27:50+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "da6c827addce",
+   "title": "Suno now lets you make AI videos for your AI music",
+   "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-18T11:16:53+00:00",
+   "category": "other"
+  },
   {
    "id": "692f9a2adfdc",
    "title": "ИИ и агенты в кибербезопасности: как состарились доклады RSAC 2026",
@@ -4342,171 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-14T11:27:33+00:00",
    "category": "business"
-  },
-  {
-   "id": "e2d674adf4bc",
-   "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
-   "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating…",
-   "link": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/claude_laser.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-14T11:21:41+00:00",
-   "category": "business"
-  },
-  {
-   "id": "89ca05fe5a90",
-   "title": "Мы думали, что в скоринге важен размер выборки. Оказалось, что дело в числе дефолтов",
-   "summary": "Что важнее для кредитного скоринга: 50 000 заявок или 500 реальных дефолтов? Я сравнил TabPFN-2.5 и CatBoost на 3 млн обезличенных банковских заявок.",
-   "link": "https://habr.com/ru/articles/1107838/?utm_campaign=1107838&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b1/a8/d1/b1a8d1b0edae34282d6b7b8e882872fe.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T11:19:32+00:00",
-   "category": "business"
-  },
-  {
-   "id": "9e69088dce9a",
-   "title": "Индекс поисковика Brave — отдельный вход в ответы нейросетей: как за несколько минут проверить, есть ли в нём ваш сайт",
-   "summary": "Индекс поисковика Brave — отдельный вход в ответы нескольких нейросетей: Brave продаёт доступ к нему ИИ-компаниям и сам называет Perplexity среди клиентов.",
-   "link": "https://habr.com/ru/articles/1107834/?utm_campaign=1107834&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/bb/0c/af/bb0caf5a30796d8258e8230aa5681029.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T11:12:48+00:00",
-   "category": "other"
-  },
-  {
-   "id": "4da60b8ec786",
-   "title": "Торвальдс: исправление ошибок в ядре Linux с помощью ИИ становится нормой",
-   "summary": "Исправление ошибок с помощью ИИ становится всё более распространённой практикой при разработке ядра Linux, заявил основатель проекта Линус Торвальдс.",
-   "link": "https://habr.com/ru/articles/1107820/?utm_campaign=1107820&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/81/07/6b/81076b41913fe93dee206e7011205548.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T11:07:31+00:00",
-   "category": "other"
-  },
-  {
-   "id": "22e7695108e9",
-   "title": "Как запереть ИИ‑агента и не дать ему уронить кластер — обзор CNCF-новинки OpenShell",
-   "summary": "Все повсеместно внедряют ИИ‑агентов где надо и где нет. Периодически сеть развлекают новости о том, как очередной из них сначала выполняет rm -fr /* или что‑то в этом роде, а потом пишет: «Извините, я все удалил.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1107766/?utm_campaign=1107766&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/97/98/37/979837486befdd36bc857457f29db74c.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T11:00:31+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "b84b4c49c41d",
-   "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-   "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-   "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-   "image": "https://media.wired.com/photos/6af209f8ab17b1a731ed42b4/master/pass/ai_aviation.gif",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-14T11:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "0090913e35b8",
-   "title": "ИИ-фильтр Роскомнадзора за 2,27 млрд рублей: что известно, а что пока только догадки",
-   "summary": "ИИ-фильтр Роскомнадзора за 2,27 млрд рублей: что известно, а что пока только догадки 13 ноября 2026 года Forbes, а за ним Meduza, 3DNews и SecurityLab сообщили, что Роскомнадзор внедрил систему фильтрации трафика на…",
-   "link": "https://habr.com/ru/articles/1107828/?utm_campaign=1107828&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b4/a1/6c/b4a16c8847561e2962609e40e842ee80.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T10:59:16+00:00",
-   "category": "business"
-  },
-  {
-   "id": "898a17072747",
-   "title": "Акций на всех не хватит: спрос на IPO Anthropic в шесть раз превысил предложение",
-   "summary": "Подготовка Anthropic к выходу на биржу вызвала ажиотажный спрос: объём заявок на покупку акций компании примерно в шесть раз превысил предложение. Речь идёт об одном из крупнейших первичных размещений акций в истории.",
-   "link": "https://3dnews.ru/1151302",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/14/1151302/anthopic.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-14T10:52:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "6d5c6b88434d",
-   "title": "Кладбище пет-проектов, куда вайб-кодинг девает наши ненужные идеи",
-   "summary": "У человека был старый ноутбук. На нём он навайбкодил себе fb2-читалку, чтобы читать прямо из браузера, с тёмной темой и настройками под себя. Пользовался постоянно.",
-   "link": "https://habr.com/ru/articles/1107826/?utm_campaign=1107826&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/19/af/5c/19af5cf71402bbec4b4e485e734de77f.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T10:50:04+00:00",
-   "category": "other"
-  },
-  {
-   "id": "1b384a4687d7",
-   "title": "Mozilla закроет сервис Solo для создания и хостинга веб‑сайтов",
-   "summary": "Mozilla закрывает Solo — сервис для создания и хостинга веб‑сайтов на базе больших языковых моделей. Все сайты и данные будут удалены 30 ноября.",
-   "link": "https://habr.com/ru/articles/1107816/?utm_campaign=1107816&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/bb/a7/d8/bba7d87788c49165eebb046ed0376f2f.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T10:47:30+00:00",
-   "category": "models"
-  },
-  {
-   "id": "64a3f9b6dfb9",
-   "title": "ИИ знает ответ на вопрос, но продолжает молчать: XYBench",
-   "summary": "13 ноября 2026 года исследователи Allen Institute for AI (Ai2) представили XYBench , бенчмарк для проверки способности языковых моделей распознавать подобные ситуации.",
-   "link": "https://habr.com/ru/articles/1107818/?utm_campaign=1107818&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c6/33/d3/c633d3976e08d16ed5137202d87ba3a0.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-14T10:34:45+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3840e101ed55",
-   "title": "ИИ Muse научился звонить по телефону вместо человека",
-   "summary": "Ассистент теперь самостоятельно общается с организациями по телефону, бронирует столики и решает вопросы с обслуживанием, но функция доступна только платным подписчикам — от $20 в месяц 12 ноября директор Meta* по…",
-   "link": "https://www.ixbt.com/news/2026/11/14/ii-muse-naucilsia-zvonit-po-telefonu-vmesto-celoveka.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741403/media-cc526249c07a8bfb39a50cd2ef47e009e85afd4ed16384f5d6099d1d69a9532e.gif",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-14T10:11:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "3854a06ca1ef",
-   "title": "Кроссплатформенная альтернатива генерации кадров NVIDIA DLSS с поддержкой видеокарт прошлых поколений",
-   "summary": "Apex Compute выпустила открытую бета-версию генератора кадров Apex Neural Rendering.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1107638/?utm_campaign=1107638&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/46/59/56/465956470ff92fbd78971ab14b24119c.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T10:00:25+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "1c4e572d1ed1",
-   "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
-   "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license.",
-   "link": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/Runway-Praxis-1.jpg",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-14T09:45:45+00:00",
-   "category": "models"
-  },
-  {
-   "id": "b3fca920aa1e",
-   "title": "7 промптов для управления вашими проектами и командами через ИИ",
-   "summary": "Пока вы ищете, куда пропала задача, ChatGPT уже может найти дубли, собрать отчёт и разобраться, почему проект буксует.",
-   "link": "https://habr.com/ru/companies/yougile/articles/1107790/?utm_campaign=1107790&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/11/ea/36/11ea36a9d938692dcd91a074c024b760.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T09:13:16+00:00",
-   "category": "other"
   }
  ]
 }
