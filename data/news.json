@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T19:08:39.390477+00:00",
+ "updated": "2026-11-18T21:04:26.005204+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,116 @@
   }
  ],
  "items": [
+  {
+   "id": "0146c3458e47",
+   "title": "«Пожалуйста, не разрушайте свою жизнь». По 75 000 долларов за помощь в выявлении случаев списывания с использованием ИИ на самом важном экзамене заплатят в Южной Корее",
+   "summary": "Решение принято за два дня до проведения вступительного испытания «Сунын» Президент Южной Кореи Ли Чжэ-мён объявил о введении вознаграждения в размере не менее 100 млн вон (около $75 000) за информацию о случаях…",
+   "link": "https://www.ixbt.com/news/2026/11/18/pozaluista-ne-razrusaite-svoiu-zizn-po-75-000-dollarov-za-pomoshh-v-vyiavlenii-slucaev-spisyvaniia-s-ispolzovaniem-ii-na-samom-vaznom-ekzamene-zaplatiat-v-iuznoi-koree.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743540/media-e42657a3f2f2b0ba2803ebf18469ea3fec287623df65651477198943b8295ea6.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-18T20:56:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "89dc61422b35",
+   "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+   "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+   "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T20:07:01+00:00",
+   "category": "other"
+  },
+  {
+   "id": "93ec3dad35d6",
+   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+   "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+   "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T19:56:39+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f689168723dc",
+   "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+   "summary": "",
+   "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6aeabf9f2efd990530425e58/faP4Su889q_DIgN3wmU9M.png",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-18T19:54:56+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ee5ef4cca1b2",
+   "title": "Как я с помощью Claude Fable 5.2 отправил своего 3D-персонажа кататься на лыжах под северным сиянием",
+   "summary": "Восстановил локальный проект браузерной лыжной игры Cold Smoke, а затем добавил своего аниме-персонажа.",
+   "link": "https://habr.com/ru/articles/1109582/?utm_campaign=1109582&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/19/86/34/198634af99379d23b0642756adf5a54d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T19:47:44+00:00",
+   "category": "models"
+  },
+  {
+   "id": "66574755f6b3",
+   "title": "Trump’s latest land grab is an AI hub in the Philippines",
+   "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler.",
+   "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-18T19:40:36+00:00",
+   "category": "other"
+  },
+  {
+   "id": "d0d45b2248dd",
+   "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+   "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change.",
+   "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/acastro_STK083_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-18T19:30:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "0fc06df3512e",
+   "title": "ИИ советует. Врач отвечает",
+   "summary": "Более 4 тысяч медицинских организаций, 55 регионов, свыше 300 тысяч врачей. Таков масштаб российской платформы Webiomed. Ежедневно её алгоритмы обрабатывают до миллиона электронных медицинских карт.",
+   "link": "https://habr.com/ru/articles/1109602/?utm_campaign=1109602&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/22/28/83/222883b2536f85905d4aee543b5de825.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T19:28:48+00:00",
+   "category": "research"
+  },
+  {
+   "id": "b5ae164156fa",
+   "title": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+   "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers.",
+   "link": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/Genie-4-Google-title.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T19:26:25+00:00",
+   "category": "models"
+  },
+  {
+   "id": "be28d25a0e42",
+   "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+   "summary": "After some early adopters of Meta’s Muse AI agent complained that it was spying on private messages and behaving unpredictably earlier this fall, Reuters exposed internal chats showing that Meta staff had raised the…",
+   "link": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-18T19:19:33+00:00",
+   "category": "business"
+  },
   {
    "id": "a19f9e7086b4",
    "title": "Tech lawsuits defined 2026 — and lawmakers want more",
@@ -1119,6 +1229,17 @@
    "lang": "ru",
    "date": "2026-11-18T06:01:00+00:00",
    "category": "other"
+  },
+  {
+   "id": "8b6ac2940fdc",
+   "title": "Managing frontier AI risk: From training to deployment",
+   "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+   "link": "https://openai.com/index/managing-frontier-ai-risk",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-18T06:00:00+00:00",
+   "category": "models"
   },
   {
    "id": "bbaa36fd55c6",
@@ -4386,127 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-15T12:27:54+00:00",
    "category": "other"
-  },
-  {
-   "id": "691d7476508d",
-   "title": "Холст, масло, ИИ",
-   "summary": "Всем привет, меня зовут Павел Соколов, я главный редактор журнала Онлайн Патент. А также иногда пишу фикшн. И сегодня хочу написать про наболевшее: использовании ИИ при создании художественных (и не очень) текстов.",
-   "link": "https://habr.com/ru/companies/onlinepatent/articles/1108040/?utm_campaign=1108040&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a1/90/6e/a1906eab5346e6043e770fb535b86310.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-15T12:22:45+00:00",
-   "category": "other"
-  },
-  {
-   "id": "ea9739082c61",
-   "title": "Справочник по параметрам llama.cpp (llama cli, completion, server)",
-   "summary": "Справочник по основным командам и параметрам llama.cpp . Затрагиваются основные утилиты для инференса: llama-cli , llama-completion , llama-server .",
-   "link": "https://habr.com/ru/articles/1107998/?utm_campaign=1107998&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8b/21/60/8b2160f00f3cda3489e2556e248fcab4.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-15T12:20:33+00:00",
-   "category": "models"
-  },
-  {
-   "id": "ce45af1cfb5f",
-   "title": "Слезы ментейнера или awesome-ai-security-tools после ёPRSTCON",
-   "summary": "Сергей Гордейчик В мае на ёPRSTCON мы договорились собрать инструменты кибербезопасности на базе ИИ и средства защиты самих моделей и агентов.",
-   "link": "https://habr.com/ru/articles/1108034/?utm_campaign=1108034&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/2e/ac/32/2eac325004308fd315174d8bc7846411.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-15T12:09:15+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0a0eb0d9ab0e",
-   "title": "AI DJs Completely Kill My Groove",
-   "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
-   "link": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
-   "image": "https://media.wired.com/photos/6af7840bd2837972f5ddf4f3/master/pass/Untitled-1.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-15T12:00:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "68dce595988d",
-   "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
-   "summary": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ.",
-   "link": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-15T11:35:12+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "a1b40369442d",
-   "title": "Четыре SIM-карты и связь со спутниками: Huawei раскрыла подробности о модеме Balong AI в составе флагманской мобильной платформы Kirin 9050",
-   "summary": "Balong AI, согласно данным Huawei, ускоряет передачу данных в перегруженных сетях на 83% Huawei начала раскрывать подробности об однокристальной системе Kirin 9050.",
-   "link": "https://www.ixbt.com/news/2026/11/15/cetyre-sim-karty-i-sviaz-so-sputnikami-huawei-raskryla-podrobnosti-o-modeme-balong-ai-v-sostave-flagmanskoi-mobilnoi-platformy-kirin-9050.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741796/media-d60bd644005e520cc2c0ff562d612ef6188161bc93343ef2783da17d9fd4b87b.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-15T11:26:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "fd252e616a38",
-   "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-   "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-   "link": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-   "image": "https://media.wired.com/photos/6af4802ffbe5af43ea5dee0a/master/pass/Screenshot%202026-11-11%20at%2014.47.44.png",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-15T11:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "fa88fc089f92",
-   "title": "Ускоряем AI модель на процессоре Qwen3.8-Flash-Next Gyro",
-   "summary": "Существует много различных проектов и вариантов по ускорению генерации AI. Но в большинстве случаев они используют тюнинг модели, а так же использование внешней видео карты.",
-   "link": "https://habr.com/ru/articles/1108016/?utm_campaign=1108016&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/eb/b2/7c/ebb27c19318f32ad786ca0e7a0941174.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-15T10:57:30+00:00",
-   "category": "models"
-  },
-  {
-   "id": "a04aaf1b9d75",
-   "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
-   "summary": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service.",
-   "link": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_impact_australian_jobs.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-15T10:45:58+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "7f1ee00082c9",
-   "title": "Рынок этики живых и электронных систем",
-   "summary": "В 2018 году Amazon и Google с разницей в две недели научили своих голосовых помощников — Alexa и Google Assistant — благодарить детей за «пожалуйста».",
-   "link": "https://habr.com/ru/companies/ru_mts/articles/1107048/?utm_campaign=1107048&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/45/67/6c/45676c1d8abbc32f419a967d65b0d89e.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-15T10:30:04+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "c40e9b309d0e",
-   "title": "Геопространственный риск: что городские признаки добавляют к истории инцидентов",
-   "summary": "Можно ли улучшить прогноз криминальных инцидентов, дополнив их историю характеристиками городской среды? На открытых данных Лимы строим ежедневные оценки риска для 2 120 ячеек H3.",
-   "link": "https://habr.com/ru/articles/1108000/?utm_campaign=1108000&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/4b/3d/24/4b3d24b97d96335dd621ee495dca4d20.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-15T10:23:08+00:00",
-   "category": "business"
   }
  ]
 }
