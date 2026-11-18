@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T15:08:49.949316+00:00",
+ "updated": "2026-11-18T17:16:56.745488+00:00",
  "categories": [
   {
    "id": "models",
@@ -49,12 +49,12 @@
   {
    "source": "Google AI",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "source": "MIT Tech Review",
@@ -109,6 +109,105 @@
  ],
  "items": [
   {
+   "id": "03ca256a4adf",
+   "title": "The Gemini app is now available on lower-memory Android devices.",
+   "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
+   "source": "Google AI",
+   "lang": "en",
+   "date": "2026-11-18T17:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3439be5ca604",
+   "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+   "summary": "Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+   "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T16:59:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "c0bdf578bee4",
+   "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+   "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+   "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
+   "image": "https://media.wired.com/photos/6afdd3316a27dda013bf584c/master/pass/Security_Criminals%20Have%20a%20New%20Favorite%20AI%20Hacking%20Tool_v2.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-18T16:35:24+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "f816757e046d",
+   "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+   "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+   "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T16:14:09+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "55f7e3940a91",
+   "title": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
+   "summary": "The AI detection tool Pangram flags 99 percent of a prize-winning Peruvian novel as AI-generated, but Mexican publisher Almadía is standing by the award after its own review.",
+   "link": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/pangram_literature.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T16:09:08+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "a2b5c9a4bdaa",
+   "title": "OpenAI GPT-6 Cyber взломала iPhone и практически все остальные устройства Apple",
+   "summary": "Новейшая модель OpenAI для поиска уязвимостей GPT-6 Cyber демонстрирует высокую эффективность в выявлении уязвимостей в продуктах Apple — она обнаружила бреши в защите практически всех устройств Apple, включая iPhone,…",
+   "link": "https://3dnews.ru/1151483",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151483/mariia-berezovsky-nYSdjVD2ayo-unsplash.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-18T16:01:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "596a505b3bb2",
+   "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
+   "summary": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems.",
+   "link": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/03/AI-Fake-Chain-of-Evidence.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T15:47:49+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d4ec48204849",
+   "title": "Remember the frontier AI pause? Chip companies don’t either",
+   "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security…",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-18T15:44:02+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e350d88bf3e7",
+   "title": "Мини ПК на Nvidia по цене от $4399: стартовали продажи систем RTX Spark на Windows для локального ИИ",
+   "summary": "Nvidia объявила о старте продаж компактных настольных компьютеров серии RTX Spark от производителей Asus, Dell и MSI.",
+   "link": "https://3dnews.ru/1151481",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151481/RTX-SPARK-DESKTOP-1536x816.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-18T15:44:00+00:00",
+   "category": "hardware"
+  },
+  {
    "id": "1b11d2c31e28",
    "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
    "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
@@ -129,6 +228,17 @@
    "lang": "en",
    "date": "2026-11-18T15:00:23+00:00",
    "category": "models"
+  },
+  {
+   "id": "35c1d368fd10",
+   "title": "Промпт-баттл: студенческий ИИ-хакатон на Нейрофесте-2026",
+   "summary": "20 и 21 ноября в Кластере медиатехнологий «Сколково» пройдёт Промпт-баттл: студенческий ИИ-хакатон в рамках фестиваля Нейрофест, который посвящён культуре, технологиям и искусственному интеллекту.",
+   "link": "https://habr.com/ru/companies/gptunnel/articles/1109510/?utm_campaign=1109510&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/63/1d/f9/631df93bd223443e77ab9377f5cfa0c8.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T14:50:57+00:00",
+   "category": "other"
   },
   {
    "id": "e1b11b05a1f3",
@@ -921,6 +1031,28 @@
    "lang": "en",
    "date": "2026-11-18T00:00:00+00:00",
    "category": "models"
+  },
+  {
+   "id": "c7d3ecb00643",
+   "title": "Advancing chip design with OpenAI models",
+   "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+   "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-18T00:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "af1852b4c46d",
+   "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+   "summary": "",
+   "link": "https://huggingface.co/blog/moe-expert-streaming",
+   "image": "https://huggingface.co/blog/assets/moe-expert-streaming/thumbnail.png",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-18T00:00:00+00:00",
+   "category": "other"
   },
   {
    "id": "19bce111d0ee",
@@ -4374,138 +4506,6 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-11-14T21:41:22+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "50f53a6d695a",
-   "title": "Флот спутников под управлением ИИ: стартап из Сиэтла запустил платформу для космических группировок",
-   "summary": "Constellation Space обещает увеличить объём данных со спутников на 36% за один сеанс связи.",
-   "link": "https://www.ixbt.com/news/2026/11/14/flot-sputnikov-pod-upravleniem-ii-startap-iz-sietla-zapustil-platformu-dlia-kosmiceskix-gruppirovok.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741582/media-c65f41648d4451568ef61351f2da0fa51f89aee40bca5dba5e35f0aae8e7ba5b.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-14T19:51:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "5abbbdf82072",
-   "title": "Семь способов обмануть себя метриками: как я измерял точность ИИ-проверки ЕГЭ",
-   "summary": "В первой части я рассказал, как устроена проверка второй части ЕГЭ по обществознанию в моём боте: модель размечает ответ, код считает балл.",
-   "link": "https://habr.com/ru/articles/1107926/?utm_campaign=1107926&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/2d/65/2a/2d652a1f35811e6c544d66cd52323133.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-14T19:42:09+00:00",
-   "category": "models"
-  },
-  {
-   "id": "a60709173eb7",
-   "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
-   "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces.",
-   "link": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_logos-5.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-14T19:05:17+00:00",
-   "category": "business"
-  },
-  {
-   "id": "3fe3b3445ce6",
-   "title": "Samsung вложит $34 млрд в производство памяти HBM — новый комплекс построят в Южной Корее",
-   "summary": "Южнокорейская компания ускорила строительство комплекса в Оньяне на год: расширение производства должно помочь нарастить выпуск памяти для ИИ-ускорителей Samsung начала строительство нового предприятия по упаковке…",
-   "link": "https://www.ixbt.com/news/2026/11/14/samsung-vlozit-34-mlrd-v-proizvodstvo-pamiati-hbm-novyi-kompleks-postroiat-v-iuznoi-koree.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741557/media-463c4c540cb66e87121a5c7e11a85d1450eb6678f204c50799d8150fde13fc5b.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-14T18:41:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "a15c20e72680",
-   "title": "Агентоцентричные бизнес-процессы. Да? Нет? Не знаю?",
-   "summary": "Все люди, как известно, делятся на две категории: на тех, кто делит людей на категории и на тех, кто такой ерундой не занимается. И вот в последнее время нестерпимо хочется примкнуть к первым.",
-   "link": "https://habr.com/ru/articles/1107910/?utm_campaign=1107910&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8f/e0/19/8fe01905ae0f5672f387215f2980db8a.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T17:30:53+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "7134e7e1ad67",
-   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-   "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-14T17:30:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "f4c3e64a0c69",
-   "title": "Внешность почти как у Mac Studio, 192 ГБ ОЗУ и цена свыше 7000 долларов. Представлен обновлённый Beelink GTR9 Pro",
-   "summary": "Там 192 ГБ ОЗУ Компания Beelink обновила свой мини-ПК GTR9 Pro, выполненный в стиле Mac Studio, оснастив его процессором Ryzen AI Max+ 495. Конечно же, заодно и огромным объёмом памяти.",
-   "link": "https://www.ixbt.com/news/2026/11/14/vnesnost-pocti-kak-u-mac-studio-192-gb-ozu-i-cena-svyse-7000-dollarov-predstavlen-obnovlennyi-beelink-gtr9-pro.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741525/media-bdaef741e7b28e49b69f182531f1dd82af95f6f2d2147ad096e79c710ffa9514.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-14T17:23:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "31ee6f35b7ca",
-   "title": "Достаточно «Искры» одной…",
-   "summary": "Почему я начал делать эту штуку? От жадности и от лени. Нам начали упорно на работе пропихивать модную игрушку (чтобы мы же её и оплачивали).",
-   "link": "https://habr.com/ru/articles/1107906/?utm_campaign=1107906&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b5/c7/7e/b5c77e2eaef1648fd04c27512b3c40fb.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T17:15:33+00:00",
-   "category": "other"
-  },
-  {
-   "id": "2fa2eb16b84f",
-   "title": "SpaceX уволила 60 разработчиков Grok Imagine, оставив ИИ-генератор почти без команды",
-   "summary": "Компания Илона Маска переключает ресурсы с создания видео и изображений на ИИ-программирование и автономных агентов SpaceX уволила 60 сотрудников, работавших над Grok Imagine.",
-   "link": "https://www.ixbt.com/news/2026/11/14/spacex-uvolila-60-razrabotcikov-grok-imagine-ostaviv-ii-generator-pocti-bez-komandy.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741512/ai-image-yqz7mztsapotqmk979m9jy3t.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-14T16:54:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d586df59cc4d",
-   "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
-   "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more.",
-   "link": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4_carbon_logo.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-14T16:48:01+00:00",
-   "category": "models"
-  },
-  {
-   "id": "59895b456217",
-   "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
-   "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort.",
-   "link": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-14T16:42:56+00:00",
-   "category": "models"
-  },
-  {
-   "id": "075bbfb634c2",
-   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-   "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-   "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-14T16:34:15+00:00",
    "category": "hardware"
   }
  ]
