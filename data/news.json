@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:14:04.706125+00:00",
+ "updated": "2026-11-18T07:30:23.685598+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "source": "Ars Technica",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 6
+   "count": 3
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,94 @@
   }
  ],
  "items": [
+  {
+   "id": "0800820480cd",
+   "title": "Архитектор уволился — и систему стало страшно трогать. 451° по Фаренгейту для тех, кто не пишет ADR",
+   "summary": "В «451° по Фаренгейту» люди сами променяли книги на телевизионные стены. Книги требовали думать, а стены — просто потреблять. Удобно, быстро и без напряга. Мы в ИТ стоим на похожем перекрестке, не только из-за ИИ.",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1108494/?utm_campaign=1108494&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7d/95/80/7d9580f142f8188d9a3fd4a7070d7d7e.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T07:30:11+00:00",
+   "category": "other"
+  },
+  {
+   "id": "bf3e8b2653a3",
+   "title": "Разработчики Arc решили выключить 22 декабря. И я решил создать ему альтернативу",
+   "summary": "Разработчики браузера Arc приняли идиотское решение закрыть браузер 22 декабря.",
+   "link": "https://habr.com/ru/articles/1109084/?utm_campaign=1109084&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/63/de/a4/63dea433e80115df40c3816cbc0e290e.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T07:01:07+00:00",
+   "category": "other"
+  },
+  {
+   "id": "fc65861d92fe",
+   "title": "ПДн не доходят до LLM: маскируем УНП, карты и ФИО синтетикой — даже в стриме",
+   "summary": "Банку нужны GPT и Claude, но номер карты клиента отправить им нельзя.",
+   "link": "https://habr.com/ru/articles/1104854/?utm_campaign=1104854&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f3/90/69/f390693d7e1109585c1d68d73c5c663c.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T07:00:07+00:00",
+   "category": "models"
+  },
+  {
+   "id": "5927681f3dd7",
+   "title": "ИИ-генератор аудио Suno научился создавать музыкальные клипы",
+   "summary": "Стартап Suno расширил возможности своего ИИ-генератора, который позволяет создавать музыкальные композиции на основе текстовых запросов.",
+   "link": "https://3dnews.ru/1151446",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151446/suno-visuals.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-18T06:44:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "6b8baf00264d",
+   "title": "GPT-6.2 Astra: миллион токенов контекста, помощь в разработке ИИ и проблемы с контролем",
+   "summary": "OpenAI выпустила GPT-6.2 Astra — флагманскую reasoning-модель для сложных задач, программирования и профессиональной работы.",
+   "link": "https://habr.com/ru/companies/bothub/articles/1109164/?utm_campaign=1109164&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/73/56/76/7356760c4cddeda3124cdb35ba71bbe7.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T06:04:38+00:00",
+   "category": "models"
+  },
+  {
+   "id": "5150b0c0e6b0",
+   "title": "Xiaomi выпустила камеру видеонаблюдения с бесплатным безлимитным 4G в Китае",
+   "summary": "Smart 4G Camera 3 получила разрешение 3K, поворотный механизм на 360° и функции распознавания объектов с помощью ИИ Компания Xiaomi начала продажи камеры видеонаблюдения Smart 4G Camera 3 в Китае.",
+   "link": "https://www.ixbt.com/news/2026/11/18/xiaomi-vypustila-kameru-videonabliudeniia-s-besplatnym-bezlimitnym-4g-v-kitae.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743217/media-474b8aedab3edbeb45d34dda1ffb589dd88f18a8e91d93b5ea25cf5902b80801.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-18T06:02:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "803c3ae24d74",
+   "title": "Классическая проблема вагонетки и другие 7 коллизий, которые предстоит решить перед повсеместным внедрением ИИ",
+   "summary": "Представим, что у автономного автомобиля отказали тормоза. Прямо перед ним пешеход. Справа бетонное ограждение, столкновение с которым может убить пассажира. Слева встречная машина. Куда должен повернуть автомобиль?",
+   "link": "https://habr.com/ru/articles/1108956/?utm_campaign=1108956&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b8/4e/05/b84e0553c2efb37ba711e73bc33739d2.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T06:01:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "bbaa36fd55c6",
+   "title": "Что такое сознание и почему «сознательный ИИ» никогда не будет построен",
+   "summary": "Хабр, настало время для действительно серьезного разговора.",
+   "link": "https://habr.com/ru/companies/ddosguard/articles/1109004/?utm_campaign=1109004&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/22/45/0b/22450b84d6fddd5f3038c9962306f879.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-18T05:23:57+00:00",
+   "category": "other"
+  },
   {
    "id": "bc658e73acce",
    "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
@@ -4419,94 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-13T18:07:00+00:00",
    "category": "other"
-  },
-  {
-   "id": "f820b76692de",
-   "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
-   "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR.",
-   "link": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-13T18:01:53+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "2427bacb74a9",
-   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-   "summary": "",
-   "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-13T18:00:39+00:00",
-   "category": "other"
-  },
-  {
-   "id": "743e8b03b2d9",
-   "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-   "summary": "How do you think you're going to die? If you go by the current statistics for deaths in the US , it's reasonable to expect that cancer or heart disease will eventually get you.",
-   "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-13T17:25:45+00:00",
-   "category": "other"
-  },
-  {
-   "id": "8400bdfe1e2a",
-   "title": "XYBench: Helping with the problem behind the question",
-   "summary": "",
-   "link": "https://huggingface.co/blog/allenai/xybench",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/aOWdQgZ8ioJcx9Eii4iob.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-13T17:02:35+00:00",
-   "category": "other"
-  },
-  {
-   "id": "4b593adbc339",
-   "title": "У ChatGPT появился «Кошелёк» — теперь ИИ-агенты смогут совершать покупки от имени пользователя",
-   "summary": "OpenAI представила новую функцию под названием «Кошелёк» (Wallet), при помощи которой агенты искусственного интеллекта Dots смогут оказывать пользователям помощь в выборе товаров и оформлении заказов.",
-   "link": "https://3dnews.ru/1151279",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/13/1151279/openai.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-13T17:02:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "fbf6f476757d",
-   "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-   "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor.",
-   "link": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_for_manufactoring.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-13T16:37:01+00:00",
-   "category": "models"
-  },
-  {
-   "id": "2a588b39f27c",
-   "title": "Сколько реально стоит опечатка в раскладке, если считать в токенах LLM",
-   "summary": "Я написал Зябру - локальный переключатель раскладки: набрал “ghbdtn” вместо “привет”, программа сама стирает и переписывает правильно.",
-   "link": "https://habr.com/ru/articles/1107666/?utm_campaign=1107666&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c9/25/91/c92591b63cd8330f2cabae6e140e61c3.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-13T16:28:45+00:00",
-   "category": "models"
-  },
-  {
-   "id": "c231d25e54b9",
-   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-   "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-   "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-13T16:00:12+00:00",
-   "category": "tools"
   }
  ]
 }
