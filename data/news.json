@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:30:23.685598+00:00",
+ "updated": "2026-11-18T09:16:18.386399+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 6
   },
   {
    "source": "Google AI",
@@ -108,6 +108,127 @@
   }
  ],
  "items": [
+  {
+   "id": "996edf0dd269",
+   "title": "Nvidia перестанет раздувать ИИ-пузырь, без разбора закидывая неооблака деньгами",
+   "summary": "Nvidia будет придерживаться «дисциплинированного» подхода при принятии решений об объёмах инвестиций в неооблачные платформы и в других клиентов в сфере искусственного интеллекта, заявила ВРИО гендиректора компании…",
+   "link": "https://3dnews.ru/1151455",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151455/nvidia_3.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-18T09:10:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "22a57be34860",
+   "title": "Proton выпустила десктопные приложения Lumo для Windows, macOS и Linux",
+   "summary": "Компания Proton выпустила десктопные приложения своего ИИ‑ассистента Lumo для Windows, macOS и Linux. Он ориентирован на обеспечение конфиденциальности.",
+   "link": "https://habr.com/ru/articles/1109234/?utm_campaign=1109234&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/54/32/bd/5432bd3865fc3645f0652ca9c2b7cd30.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T09:07:12+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "02868869ba20",
+   "title": "Лидерство 3.0: люди и машины",
+   "summary": "В современном менеджменте уже достаточно четко сформировалась концепция Лидерства 3.0 как эффективного (в условиях постмодерна и все-таки в эпоху до массового ИИ) подхода к управлению людьми в компании.",
+   "link": "https://habr.com/ru/articles/1109246/?utm_campaign=1109246&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ef/2c/45/ef2c45df14073b154f8bfa2b2a0c334b.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T09:06:45+00:00",
+   "category": "other"
+  },
+  {
+   "id": "5646301a59dd",
+   "title": "Орбитальные дата-центры: может ли космос выиграть у Земли",
+   "summary": "В октябре, как будто к годовщине запуска первого искусственного спутника Земли, сразу несколько участников кампании «мы сделаем космический дата-центр» обновили свои проекты — Google, Blue Origin и, конечно, SpaceX.",
+   "link": "https://habr.com/ru/companies/ruvds/articles/1106680/?utm_campaign=1106680&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c5/d3/12/c5d312673e36f2cf9d3469985ffc8c07.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T09:01:11+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "0504e6fe7c43",
+   "title": "Тестер поставил моему боту critical за названную цену. Бот написал «подача до 2027 года»",
+   "summary": "Тестер нашего LLM-бота поставил critical за названную цену. Бот цен не называл: регулярка прочитала «подача до 2027 года» как «до 2027 рублей».",
+   "link": "https://habr.com/ru/articles/1104932/?utm_campaign=1104932&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1104932/822a4f256af6cd1b1bc793542fe87b9b/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T09:00:11+00:00",
+   "category": "models"
+  },
+  {
+   "id": "230edcfc7897",
+   "title": "228 релизов по заявкам незнакомцев, ноль ревью человеком: чем закончился эксперимент с автономной разработкой",
+   "summary": "Это финал трилогии про эксперимент, в котором заготовку браузерной игры — тактического симулятора в мультяшном стиле — дальше целиком развивала автономная связка AI-агентов.",
+   "link": "https://habr.com/ru/articles/1109238/?utm_campaign=1109238&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b9/27/59/b927595e962614a5d3fe58fbc27b055d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T08:57:04+00:00",
+   "category": "models"
+  },
+  {
+   "id": "14f5763152b1",
+   "title": "Кембриджский словарь назвал «человеческий» словом 2026 года",
+   "summary": "Кембриджский словарь английского языка назвал словом 2026 года прилагательное human — «человеческий». Такой выбор обусловили тем, что искусственный интеллект меняет понимание того, что значит быть человеком.",
+   "link": "https://habr.com/ru/articles/1109216/?utm_campaign=1109216&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d3/71/4c/d3714ce76ab9db90c44d334f99df0dfe.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T08:27:16+00:00",
+   "category": "other"
+  },
+  {
+   "id": "937ea77f79dd",
+   "title": "Дженсен Хуанг заявил о готовности вернуться в Nvidia, но совет директоров против",
+   "summary": "Бывший генеральный директор, президент и член совета директоров Nvidia Дженсен Хуанг написал первый пост в социальной сети X после недавней отставки.",
+   "link": "https://habr.com/ru/articles/1109214/?utm_campaign=1109214&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/55/61/6a/55616aabedadaae8ed8ae66485ed7d1c.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-18T08:10:02+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "de8cec83f73f",
+   "title": "США перекрыли Китаю ещё одну лазейку к чипам Nvidia — азиатским дата-центрам запретили покупать ИИ-ускорители без разрешения Вашингтона",
+   "summary": "Операторы центров обработки данных в Сингапуре, Малайзии, Таиланде и Индонезии теперь должны получать специальную лицензию правительства США для закупки передовых ускорителей искусственного интеллекта у Nvidia и других…",
+   "link": "https://3dnews.ru/1151453",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151453/sm.nvidia-AI-servers_01.800.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-18T08:10:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "002de605f5d5",
+   "title": "512 потоков в одном процессоре x86 — рекорд от AMD EPYC Venice 9006, а также анонс EPYC Embedded 9006 и Verano 9006 LP",
+   "summary": "Летом 2026 года AMD анонсировали новое поколение процессоров AMD EPYC™ Venice 9006.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1108698/?utm_campaign=1108698&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/60/36/4e/60364ec2ef19cc0d6210071217bd9f29.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T08:00:14+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "15d499d94870",
+   "title": "ИИ-администратор: как сделать похожим на человека",
+   "summary": "Клиент пишет в директ, задает вопрос об услуге и хочет записаться. ИИ-администратор должен ответить по существу, найти свободное время и не пообещать то, чего клиника не делает.",
+   "link": "https://habr.com/ru/articles/1109202/?utm_campaign=1109202&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b7/14/24/b7142480a62c45a48e7bdc58d14b8c83.jpeg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-18T07:50:54+00:00",
+   "category": "other"
+  },
   {
    "id": "0800820480cd",
    "title": "Архитектор уволился — и систему стало страшно трогать. 451° по Фаренгейту для тех, кто не пишет ADR",
@@ -261,6 +382,17 @@
    "lang": "en",
    "date": "2026-11-18T00:16:50+00:00",
    "category": "hardware"
+  },
+  {
+   "id": "6cab9c8cd383",
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+   "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-18T00:00:00+00:00",
+   "category": "other"
   },
   {
    "id": "19bce111d0ee",
@@ -4375,138 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-13T20:28:00+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "633d2a6ad9a1",
-   "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
-   "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally.",
-   "link": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-13T20:07:34+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "645e798427f9",
-   "title": "AI agent startup LangChain hits $3B valuation",
-   "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-   "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-13T19:37:57+00:00",
-   "category": "models"
-  },
-  {
-   "id": "a3de1e5cdd46",
-   "title": "AMD представила ускорители Instinct MI450X с уменьшенным объёмом памяти",
-   "summary": "AMD сообщила дополнительные подробности о GPU Instinct MI430X, предназначенных для HPC и научных задач с применением ИИ, а также представила результаты тестирования производительности в задачах инференса ускорителей…",
-   "link": "https://3dnews.ru/1151281",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/13/1151281/sm.AMD-Instinct-MI455X-1.800.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-13T19:32:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "244c59945063",
-   "title": "Google подключила кошелёк к Gemini: ИИ научился анализировать расходы, искать забытые подписки и составлять бюджет",
-   "summary": "Пользователи смогут задавать чат-боту вопросы о личных финансах и получать рекомендации по экономии Google добавила Google Wallet в список приложений, с которыми интегрируется Gemini.",
-   "link": "https://www.ixbt.com/news/2026/11/13/google-podkliucila-koselek-k-gemini-ii-naucilsia-analizirovat-rasxody-iskat-zabytye-podpiski-i-sostavliat-biudzet.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741178/media-ccd062de6901440c260a25ec8e63f14bf628116f09af2714b1c35d12b911cada.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-13T19:21:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "83e3607abd4e",
-   "title": "Microsoft извинилась за масштабный сбой своих сервисов, который продолжался почти сутки",
-   "summary": "Проблемы начались во время обновления сетевой инфраструктуры и затронули Outlook, Teams, SharePoint и Copilot Microsoft принесла извинения пользователям после масштабного сбоя, который нарушил работу облачных сервисов…",
-   "link": "https://www.ixbt.com/news/2026/11/13/microsoft-izvinilas-za-masstabnyi-sboi-svoix-servisov-kotoryi-prodolzalsia-pocti-sutki.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741174/ai-image-zlk8xgebaakfngmmfzx4xawf.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-13T19:09:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "1876ce8bb4f4",
-   "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-   "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-   "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-   "image": "https://media.wired.com/photos/6af75c7bac6958eb8481a5e6/master/pass/Security_MicrosoftBackOnline_v1.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-13T19:08:57+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "fb81c855aa88",
-   "title": "Google встроила «Кошелёк» в Gemini: ИИ сможет анализировать расходы и находить забытые подписки",
-   "summary": "В Google Gemini появилась интеграция с «Google Кошельком». Новая функция позволяет отслеживать расходы, находить ненужные подписки и планировать бюджет.",
-   "link": "https://3dnews.ru/1151282",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/13/1151282/7654.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-13T18:57:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "e5452fd0d307",
-   "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
-   "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout.",
-   "link": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/ChatGPT-Wallet-title-scaled.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-13T18:55:21+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "3dc626ea28ff",
-   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-   "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-   "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-13T18:40:30+00:00",
-   "category": "models"
-  },
-  {
-   "id": "f1b66cc0c270",
-   "title": "Nvidia рассматривает главу Arm на смену Хуангу — акции обеих компаний падают",
-   "summary": "На фоне кадрового кризиса инвесторы опасаются, что последствия скандала вокруг Хуанга затронут не только саму компанию, но и весь рынок ИИ-чипов Nvidia рассматривает генерального директора Arm Рене Хааса в числе…",
-   "link": "https://www.ixbt.com/news/2026/11/13/nvidia-rassmatrivaet-glavu-arm-na-smenu-xuangu-akcii-obeix-kompanii-padaiut.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741165/media-1acdb23d8368fde3d324605fbc5d8fb8a6804d6c67b6c73e469d22b7d63e5b64.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-13T18:37:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "cd9ee0dc6655",
-   "title": "ChatGPT научился покупать товары за пользователя — OpenAI запустила собственный кошелёк для ИИ-агентов",
-   "summary": "Новая функция ChatGPT Wallet позволяет агентам dots оформлять заказы с банковской карты владельца OpenAI представила ChatGPT Wallet — платёжную функцию, которая позволяет ИИ-агентам dots не только искать товары, но и…",
-   "link": "https://www.ixbt.com/news/2026/11/13/chatgpt-naucilsia-pokupat-tovary-za-polzovatelia-openai-zapustila-sobstvennyi-koselek-dlia-ii-agentov.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741160/media-2e3aff649c3784ebc19155bf7e1d5459260b34a10c136d7940ef1c72e24ffbc8.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-13T18:20:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "9f231d87c0d8",
-   "title": "SpaceX включилась в борьбу за лунную базу NASA — Маск планирует производить на Луне ИИ-спутники",
-   "summary": "SpaceX рассчитывает со временем построить на Луне заводы и создать промышленную базу для производства спутников с ИИ-вычислениями NASA выбрало 8 компаний, которые смогут конкурировать за заказы в рамках новой программы…",
-   "link": "https://www.ixbt.com/news/2026/11/13/spacex-vkliucilas-v-borbu-za-lunnuiu-bazu-nasa-mask-planiruet-proizvodit-na-lune-ii-sputniki.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741158/media-bb65cc93b47f9a3b5156e3d1cce4f22f5a48c865df73c381d248f38f8aa1d06e.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-13T18:07:00+00:00",
-   "category": "other"
   }
  ]
 }
