@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:27:10.838271+00:00",
+ "updated": "2026-11-18T15:08:49.949316+00:00",
  "categories": [
   {
    "id": "models",
@@ -54,12 +54,12 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "source": "OpenAI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,193 @@
   }
  ],
  "items": [
+  {
+   "id": "1b11d2c31e28",
+   "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
+   "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
+   "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+   "image": "https://media.wired.com/photos/6afcfb207b0def85d03dac43/master/pass/Thomas-Nagel-QandA-Business.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-18T15:02:40+00:00",
+   "category": "business"
+  },
+  {
+   "id": "bf1424b145e4",
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "summary": "",
+   "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-18T15:00:23+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e1b11b05a1f3",
+   "title": "Вышла GPT-6.2 от OpenAI. Модели Astra и Sol доступны в ИИ-роутере",
+   "summary": "17 ноября компания OpenAI выпустила сразу две модели GPT-6.2. Astra делали для тяжелой профессиональной работы в науке, праве и финансах. Sol собрали быстрой и универсальной, для повседневных задач.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1109508/?utm_campaign=1109508&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c6/e3/7c/c6e37c9634bb49380cb5ba362f0170a8.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-18T14:48:54+00:00",
+   "category": "models"
+  },
+  {
+   "id": "bb3ee1cf50e2",
+   "title": "The AI Hype Index: AI is everywhere",
+   "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue.",
+   "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "lang": "en",
+   "date": "2026-11-18T14:42:44+00:00",
+   "category": "business"
+  },
+  {
+   "id": "c6e5652d2373",
+   "title": "Кто стоит за роботизацией в России: реестр интеграторов промышленных роботов",
+   "summary": "Представьте типичный бизнес‑квест: вы руководите производством и планируете запустить автоматизацию процессов. Здесь нужен проверенный подрядчик‑интегратор, который погрузится в ваши процессы и спроектирует решение.",
+   "link": "https://habr.com/ru/specials/1109296/?utm_campaign=1109296&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/47/a5/f5/47a5f50cc58eaad007756b973b0d53f7.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T14:41:23+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "daacb193d1e2",
+   "title": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
+   "summary": "Mistral's AI agent Vibe now has its own desktop app. The article Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems appeared first on The Decoder .",
+   "link": "https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_ai-3.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T14:40:52+00:00",
+   "category": "models"
+  },
+  {
+   "id": "419cb7ac64c4",
+   "title": "На LeetCode появились задачи по вайбкодингу",
+   "summary": "Платформа LeetCode запустила Project Problems — новый формат выполнения заданий, в рамках которого разработчикам предлагается создавать программы с помощью ИИ.",
+   "link": "https://habr.com/ru/articles/1109494/?utm_campaign=1109494&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/14/ba/9d/14ba9d29511cec404dd181fceb5e9b87.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T14:37:59+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "adb832209d1c",
+   "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+   "summary": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time.",
+   "link": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T14:36:42+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e3eeabcd1173",
+   "title": "Hugging Face now routes model requests through OpenRouter for the best price or speed",
+   "summary": "Hugging Face now routes language model requests through OpenRouter, which automatically selects the cheapest or fastest provider. Bring-your-own API keys for language models are going away.",
+   "link": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/huggingface-openrouter-01-hero.jpg",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T14:33:44+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f29bcd84e5aa",
+   "title": "Домашние SSD наконец могут подешеветь — цены на флеш-память упали на 19–32 %",
+   "summary": "За последний год с небольшим твердотельные накопители (SSD) заметно подорожали из-за бума технологий искусственного интеллекта.",
+   "link": "https://3dnews.ru/1151474",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151474/ssd-unsplash.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-18T14:30:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "666db5c053cd",
+   "title": "More than half the electricity feeding America's largest data centers comes from gas and coal",
+   "summary": "A Harvard study published in Nature Sustainability found that 403 US hyperscale data centers produced roughly 25.7 million metric tons of CO2 between May 2024 and April 2025, more than all of Denmark.",
+   "link": "https://the-decoder.com/more-than-half-the-electricity-feeding-americas-largest-data-centers-comes-from-gas-and-coal/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/data_center_climate_impact2.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T14:25:04+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "9a67fb308dfb",
+   "title": "ПСБ проведёт в Ярославле ИТ-конференцию «Нейродень»",
+   "summary": "28 ноября ПСБ проведёт в Ярославле ИТ-конференцию «Нейродень: ИИ, тренды, нетворкинг» .",
+   "link": "https://habr.com/ru/companies/psb/articles/1109484/?utm_campaign=1109484&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/57/4d/e9/574de9d83791d3f626367d0d66f4c23b.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T14:07:51+00:00",
+   "category": "other"
+  },
+  {
+   "id": "fa6856979bee",
+   "title": "Как я прикрутил GigaChat и GigaAM к озвучке русской TTS",
+   "summary": "Коротко о том, что было: три TTS-движка уверенно ставят русские ударения не туда («гудни» читалось как «гУдни»), словари произношения ElevenLabs на моем тарифе закрыты, поэтому живу на гейте ruaccent плюс ручной словарь…",
+   "link": "https://habr.com/ru/articles/1109482/?utm_campaign=1109482&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1109482/abb0b155819b531110304d4dd0dc2556/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T14:04:47+00:00",
+   "category": "other"
+  },
+  {
+   "id": "84d2fa603ef6",
+   "title": "Will Wright’s next game uses AI to map your memories",
+   "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems.",
+   "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-18T14:00:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "3199c796fc0c",
+   "title": "KPMG's \"Project Exponential\" put AI agents alongside a real audit team and found the bots dug deeper on individual questions",
+   "summary": "KPMG deployed more than 100 AI agents alongside the regular audit of a UK-listed company. The agents asked \"better questions\" than the audit team in some cases, according to UK head of audit Cath Burnet.",
+   "link": "https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/KPMG-Audit-Agents.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T13:55:49+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "3376c5567942",
+   "title": "Автоматизация в отделе дизайна, часть 3: дизайн без Figma, регистрации и SMS",
+   "summary": "Давным-давно, в одном далёком-предалёком дизайн-отделе… …бушует война с рутиной.",
+   "link": "https://habr.com/ru/articles/1109472/?utm_campaign=1109472&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ba/b1/bf/bab1bfcdd5a4d89d1d1d3c7babb616d2.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T13:45:01+00:00",
+   "category": "other"
+  },
+  {
+   "id": "d3d40c7bab1f",
+   "title": "SEC probes Nvidia over undisclosed chip sales tied to China",
+   "summary": "The U.S. Securities and Exchange Commission (SEC) has launched a civil investigation into Nvidia. The article SEC probes Nvidia over undisclosed chip sales tied to China appeared first on The Decoder .",
+   "link": "https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T13:28:49+00:00",
+   "category": "hardware"
+  },
   {
    "id": "c07095966aa4",
    "title": "Безопасность LLM-агентов и генеративных продуктов: угрозы и методы защиты",
@@ -723,6 +910,17 @@
    "lang": "en",
    "date": "2026-11-18T00:00:00+00:00",
    "category": "other"
+  },
+  {
+   "id": "679cee5ea146",
+   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+   "summary": "",
+   "link": "https://huggingface.co/blog/rumble-2-flash",
+   "image": "https://huggingface.co/blog/assets/rumble-2-flash/thumbnail.png",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-18T00:00:00+00:00",
+   "category": "models"
   },
   {
    "id": "19bce111d0ee",
@@ -4309,204 +4507,6 @@
    "lang": "en",
    "date": "2026-11-14T16:34:15+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "90cbf88da502",
-   "title": "Alphabet занимает на ИИ уже в Гонконге и Сингапуре. Спрос на первые облигации превысил $7 млрд",
-   "summary": "Материнская компания Google впервые разместила долговые бумаги в гонконгских и сингапурских долларах Alphabet разместила облигации на общую сумму около $3,8 млрд: HK$16 млрд ($2 млрд) в Гонконге и S$2,28 млрд ($1,8…",
-   "link": "https://www.ixbt.com/news/2026/11/14/alphabet-zanimaet-na-ii-uze-v-gonkonge-i-singapure-spros-na-pervye-obligacii-prevysil-7-mlrd.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741506/media-76186e63c5a4035300c8a181cc3d94b5f00c8e143da4e8c3699f18e379fb0cc7.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-14T16:33:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "bd881a72b6a1",
-   "title": "Хотел программу для диктовки, а вышли движок распознавания речи, UI-библиотека и упаковщик на Rust",
-   "summary": "Обновил ноутбук. С новым компьютером хочется настроить всё с чистого листа, поэтому решил заменить привычные программы на лёгкие и нативные.",
-   "link": "https://habr.com/ru/articles/1107896/?utm_campaign=1107896&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/9a/24/32/9a2432d6ea1f24c1895b9821c9c9dc89.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T16:10:52+00:00",
-   "category": "other"
-  },
-  {
-   "id": "b8b8e1e57818",
-   "title": "Октябрьские сбои «Яндекса» привели к проверкам компании в Казахстане",
-   "summary": "Генпрокурор Казахстана Берик Асылов потребовал от Комитета информационной безопасности Министерства искусственного интеллекта и цифрового развития проверить обстоятельства сбоев в работе сервисов Yandex Qazaqstan.",
-   "link": "https://3dnews.ru/1151309",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/14/1151309/yandex.png",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-14T15:38:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "cef8f3f96c77",
-   "title": "Отказ Nvidia от кругового финансирования ИИ по схеме Хуанга не вернёт дешёвые видеокарты в 2027 году",
-   "summary": "Финансовая поддержка ИИ-стартапов со стороны Nvidia стала поводом обвинить компанию в искусственном создании дефицита игровых видеокарт.",
-   "link": "https://3dnews.ru/1151308",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/14/1151308/vera-rubin.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-14T15:20:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "d46b516a4c83",
-   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-   "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life.",
-   "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-14T15:00:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "6fd4cff2f5ec",
-   "title": "Эпизод 2. Подсмотрено у мозга: предсказание, азбука, план",
-   "summary": "Продолжаем решать интересную RL-задачу: агент должен сам научиться играть в Atari Frostbite по сырым видеокадрам, чтобы набрать 136k+ очков и одолеть SOTA модель MEME-200 [4]. Меня зовут Михаил Кочеров.",
-   "link": "https://habr.com/ru/articles/1107874/?utm_campaign=1107874&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/53/b2/d5/53b2d525629f8c6ac71c1207feda263d.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-14T14:16:52+00:00",
-   "category": "models"
-  },
-  {
-   "id": "2fb87a8da43b",
-   "title": "Скандал в Nvidia ударил по китайским ИИ-компаниям — рынок испугался, что США перекроют им кислород",
-   "summary": "Акции китайских разработчиков искусственного интеллекта упали на фоне кризиса в руководстве Nvidia: инвесторы опасаются, что Вашингтон ограничит доступ китайских компаний к её ускорителям в зарубежных центрах обработки…",
-   "link": "https://3dnews.ru/1151307",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/14/1151307/nvidia.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-14T14:03:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "4defa314d946",
-   "title": "OpenAI распустила команду робототехники — управлять роботами будет универсальный GPT",
-   "summary": "OpenAI расформировала свое отдельное подразделение по робототехнике, объяснив этот шаг изменением концепции.",
-   "link": "https://3dnews.ru/1151306",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/14/1151306/steve-a-johnson-_0iV9LmPDn0-unsplash.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-14T13:48:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "e7792da26d89",
-   "title": "ИИ-система за $875 млн будет помогать управлять воздушным движением по всей территории США",
-   "summary": "FAA распространяет систему ИИ на всю территорию США после первых заявленных результатов в Вашингтоне.",
-   "link": "https://www.ixbt.com/news/2026/11/14/ii-sistema-za-875-mln-budet-pomogat-upravliat-vozdusnym-dvizeniem-po-vsei-territorii-ssa.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741482/media-ed7456f2e6bb5cb11cce06e0259cfb81119c12c7bc6921c11afb97e7b58cdc94.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-14T13:47:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "53b037676717",
-   "title": "Разблокировали аккаунт Claude по апелляции",
-   "summary": "Это не инструкция, как избежать блокировки или как гарантированно вернуть аккаунт. Делюсь личным опытом, который может быть полезен.",
-   "link": "https://habr.com/ru/articles/1107868/?utm_campaign=1107868&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/29/bc/14/29bc147965f7579ca756b834b4bab103.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T13:25:42+00:00",
-   "category": "models"
-  },
-  {
-   "id": "82ab3d6d0794",
-   "title": "Beware the New AI-Fueled Ransomware Boom",
-   "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-   "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-   "image": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/master/pass/image%20(76).png",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-14T13:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "6b72b309455a",
-   "title": "LLM-беседа: явление пользователю: обзор экспериментов",
-   "summary": "В каком образе LLM-беседа является пользователю? Чем форма такого образа определяется? Этот вопрос экспериментально исследовался многими – см. список литературы ниже.",
-   "link": "https://habr.com/ru/articles/1107858/?utm_campaign=1107858&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c4/8e/02/c48e025c03df3dcc26c36db617700846.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T12:59:16+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9df1e3dcf4e4",
-   "title": "Тринадцать LLM на русских отзывах: как я выбирал модель и почему не поверил судье",
-   "summary": "Я делаю сервис, который отвечает на отзывы покупателей на Wildberries, Ozon и Яндекс Маркете.",
-   "link": "https://habr.com/ru/articles/1107856/?utm_campaign=1107856&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/39/10/db/3910dbfe28c74b92012d86493c05653e.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-14T12:50:45+00:00",
-   "category": "models"
-  },
-  {
-   "id": "567fa298898a",
-   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-   "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last.",
-   "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0%2C13.348952787954%2C100%2C73.302094424093&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-14T12:00:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "6c855aac4f9d",
-   "title": "[Перевод] Как ускорить локальную LLM на 50% без покупки новой видеокарты",
-   "summary": "На GTC Berlin 2026 участники воркшопа NVIDIA смогли ускорить генерацию Qwen3-32B с 16,4 до 24,5 токена в секунду, не меняя оборудование. Для этого использовали FP8 вместо BF16.",
-   "link": "https://habr.com/ru/articles/1107848/?utm_campaign=1107848&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1107848/ecb15e7035c040b57845b96da71987fe/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T11:55:35+00:00",
-   "category": "models"
-  },
-  {
-   "id": "5fbd01446a43",
-   "title": "Живое ТЗ и храповик: как заставить ИИ-агента не ломать то, что работает",
-   "summary": "TL;DR. Пять месяцев ИИ-агент пишет производственное планирование для завода, который раньше жил в Excel. Я не читаю код вообще.",
-   "link": "https://habr.com/ru/articles/1107842/?utm_campaign=1107842&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/83/11/4e/83114ebb63063acd452d3eee8e4c98ba.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T11:45:47+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "703d5a8bd206",
-   "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
-   "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary.",
-   "link": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_robot_arms.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-14T11:40:51+00:00",
-   "category": "models"
-  },
-  {
-   "id": "39eb3b7a52f6",
-   "title": "OpenAI представила функцию ChatGPT Wallet для покупок с помощью ИИ",
-   "summary": "OpenAI анонсировала ChatGPT Wallet — новую платёжную функцию, позволяющую ИИ‑агентам совершать покупки от имени пользователей.",
-   "link": "https://habr.com/ru/articles/1107830/?utm_campaign=1107830&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/56/f0/5e/56f05ea087af9a534dac6d82bd61248a.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T11:27:33+00:00",
-   "category": "business"
   }
  ]
 }
