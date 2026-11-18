@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:00:20.693222+00:00",
+ "updated": "2026-11-18T05:14:04.706125+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "source": "Ars Technica",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,28 @@
   }
  ],
  "items": [
+  {
+   "id": "bc658e73acce",
+   "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+   "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+   "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+   "image": "https://media.wired.com/photos/6afcfa9cd76c36e8270ca841/master/pass/GenZ-AI-Friendship-Culture.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-18T05:01:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "f4ea3ec8368b",
+   "title": "OpenAI представила GPT-6.2 Astra и Sol: новые флагманские модели стали мощнее и дешевле",
+   "summary": "$4 против $27: новая GPT-6.2 Astra оказалась дешевле Claude Fable 5.2 OpenAI представила две новые модели искусственного интеллекта — GPT-6.2 Astra и GPT-6.2 Sol.",
+   "link": "https://www.ixbt.com/news/2026/11/18/openai-predstavila-gpt-62-astra-i-sol-novye-flagmanskie-modeli-stali-moshhnee-i-desevle.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743175/media-a2b69eb15fe56996ce1ca9ef8399d8c767d58771d6656ea0d0df6a76573e006a.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-18T04:38:00+00:00",
+   "category": "models"
+  },
   {
    "id": "e63a8d40b126",
    "title": "Не Клодом единым — как после бана я переписал командный плагин на разные хосты моделей",
@@ -4485,28 +4507,6 @@
    "lang": "en",
    "date": "2026-11-13T16:00:12+00:00",
    "category": "tools"
-  },
-  {
-   "id": "6cf396048e28",
-   "title": "Jensen Huang and the End of the Founder Fairy Tale",
-   "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-   "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-   "image": "https://media.wired.com/photos/6af64d55d057d0b5e841f091/master/pass/Backchannel-Jensen-Business.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-13T16:00:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "59c58e3f39cc",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-13T15:58:00+00:00",
-   "category": "hardware"
   }
  ]
 }
