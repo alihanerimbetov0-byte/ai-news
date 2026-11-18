@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:29:07.574447+00:00",
+ "updated": "2026-11-18T03:00:20.693222+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 6
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -108,6 +108,28 @@
   }
  ],
  "items": [
+  {
+   "id": "e63a8d40b126",
+   "title": "Не Клодом единым — как после бана я переписал командный плагин на разные хосты моделей",
+   "summary": "supertick 2.0: как я перенёс команду агентов из Claude Code в Kimi, Codex и OpenCode В первой части я рассказывал про supertick, командный плагин для Claude Code.",
+   "link": "https://habr.com/ru/articles/1109094/?utm_campaign=1109094&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/58/5e/ba/585eba75fd05cd2d437f7d4051d54d89.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T02:02:44+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d652f478feee",
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T01:44:21+00:00",
+   "category": "hardware"
+  },
   {
    "id": "ab50b7af668b",
    "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
@@ -4485,28 +4507,6 @@
    "lang": "en",
    "date": "2026-11-13T15:58:00+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "0e98ec7dac1f",
-   "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
-   "summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings.",
-   "link": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/workers_fighting_ai.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-13T15:53:49+00:00",
-   "category": "other"
-  },
-  {
-   "id": "d7317b868254",
-   "title": "Google выпустила Gemini 4 Hydrogen для агентов",
-   "summary": "Google 12 ноября объявила о выпуске Gemini 4 Hydrogen. В Google DeepMind модель уже назвали ежедневной рабочей лошадкой для агентных сценариев.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1107582/?utm_campaign=1107582&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a2/58/e4/a258e447b2c9c917e52fc730d44c6558.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-13T15:40:12+00:00",
-   "category": "models"
   }
  ]
 }
