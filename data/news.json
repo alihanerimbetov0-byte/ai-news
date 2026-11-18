@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:16:18.386399+00:00",
+ "updated": "2026-11-18T11:14:36.062048+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "source": "OpenAI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,171 @@
   }
  ],
  "items": [
+  {
+   "id": "692f9a2adfdc",
+   "title": "ИИ и агенты в кибербезопасности: как состарились доклады RSAC 2026",
+   "summary": "Привет, Хабр! На связи ML-команда Positive Technologies. В марте на RSAC 2026 прошло больше 570 сессий , и заметное место в программе заняли ИИ-агенты.",
+   "link": "https://habr.com/ru/companies/pt/articles/1109334/?utm_campaign=1109334&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c0/1c/cf/c01ccf831c15e1b87610fa747dfc9e1d.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-18T11:12:48+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "b83192dac827",
+   "title": "«LLM без OCR в обработке документов не работает»: как «АльфаСтрахование» построила IDP-оркестратор с ИИ Smart Engines",
+   "summary": "Ежегодно «АльфаСтрахование» обрабатывает порядка 40 млн документов.",
+   "link": "https://habr.com/ru/companies/smartengines/articles/1108732/?utm_campaign=1108732&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c1/dc/ae/c1dcae7dfb31f91f4c95196a9367fc9b.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T11:07:46+00:00",
+   "category": "models"
+  },
+  {
+   "id": "cecde5b4c4fd",
+   "title": "Microsoft превратит Copilot в сисадмина — ИИ будет сам разбираться с поломками Windows",
+   "summary": "Microsoft превратит помощника с искусственным интеллектом Copilot в средство по устранению неполадок — он сможет анализировать состояние ПК, выявлять проблемы, объяснять их причины и избавит пользователя от…",
+   "link": "https://3dnews.ru/1151460",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151460/copilot.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-18T11:00:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "e3dea1d8bae5",
+   "title": "ИИ-агенты, WebSocket и ускорение 1С в 5 раз: пять интересных публикаций Инфостарт",
+   "summary": "Что, если ИИ сможет не только отвечать на вопросы бухгалтера, но и находить ошибки в документах?",
+   "link": "https://habr.com/ru/companies/infostart/articles/1109326/?utm_campaign=1109326&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/0f/78/1d/0f781d8de01b8ca6f36be16e00f54515.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T10:46:25+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "c3c9d5951b34",
+   "title": "ИИ-агент каждый день выходит на работу впервые. Полтора года мы строим ему память проекта: что получилось, а что нет",
+   "summary": "В первый день Claude добавил нам API-эндпоинт и заодно написал вторую функцию авторизации, хотя в проекте уже была такая же. На следующий день на другой задаче пришлось снова объяснять агенту, как у нас устроен код.",
+   "link": "https://habr.com/ru/articles/1109152/?utm_campaign=1109152&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b0/f7/5c/b0f75ca212d2b33e18cec9c01faa121e.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T10:43:48+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f2a3be05506c",
+   "title": "ONNX Runtime исчез с GitHub: что известно об инциденте с репозиториями Microsoft",
+   "summary": "С вечера 17 ноября GitHub не отдаёт репозиторий microsoft/onnxruntime : ни код, ни теги, ни архивы релизов. В тот же вечер в PyPI появились две заражённые версии пакета Microsoft agent‑framework со стилером.",
+   "link": "https://habr.com/ru/articles/1109322/?utm_campaign=1109322&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/fe/1b/c4/fe1bc44bf689597f107a573178bee2d7.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-18T10:42:57+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ebecdae61747",
+   "title": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+   "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals.",
+   "link": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/08/suno_ai_logo.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T10:22:45+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "5c1dcd3f235d",
+   "title": "Google будет два месяца хранить временные чаты в Gemini",
+   "summary": "Google предупредила об увеличении до двух месяцев срока хранения временных чатов Gemini и переписок, созданных при отключённой истории чатов.",
+   "link": "https://habr.com/ru/articles/1109308/?utm_campaign=1109308&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/fe/ee/70/feee70718fd5a79e5a4884f8582ff2f1.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-18T10:20:57+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d1dd49b4f83d",
+   "title": "This smell startup says its AI nose is as good as a human’s",
+   "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth.",
+   "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840",
+   "source": "MIT Tech Review",
+   "lang": "en",
+   "date": "2026-11-18T10:20:30+00:00",
+   "category": "business"
+  },
+  {
+   "id": "506ef390e2da",
+   "title": "Google открыла сотням миллионов пользователей доступ к бесплатному ИИ-агенту Gemini",
+   "summary": "Он может бронировать отели, звонить в рестораны и покупать товары за пользователя Компания Google открывает доступ к ИИ-агенту Gemini Tasks (Задачи) для сотен миллионов пользователей в шести странах.",
+   "link": "https://www.ixbt.com/news/2026/11/18/google-otkryla-sotniam-millionov-polzovatelei-dostup-k-besplatnomu-ii-agentu-gemini.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743363/media-993f1553e5afe8bf6de9f8b07e83c1cd6b1c1b908e03253f580894e03cea67b5.avif",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-18T10:10:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "4b692ae1be24",
+   "title": "Ускоряем работу агентов в Claude Code при использовании сторонних LLM",
+   "summary": "Мой путь в агентскую разработку начался, как и у многих, с использования Claude Code.",
+   "link": "https://habr.com/ru/articles/1109298/?utm_campaign=1109298&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/82/a5/fe/82a5fefafbe6c734bd54f6e6df9f2089.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T10:01:04+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3801bbbdeb78",
+   "title": "LLM впервые запустили на фотонном чипе: как Q.ANT и AMD скрестили оптику с GPU",
+   "summary": "Частая боль при работе современных языковых моделей — механизм внимания или self-attention. С ростом контекста он требует квадратично больше вычислений и раздувает KV-кэш в памяти видеокарты.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1109180/?utm_campaign=1109180&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f6/f2/5b/f6f25b95e0706a5f80907eddc4518004.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-18T10:00:01+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a426f6b90b1d",
+   "title": "Lovable Wants You to Vibe Code Your Dream Job",
+   "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
+   "link": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
+   "image": "https://media.wired.com/photos/6afcd191c00d87e3fd8ba0d4/master/pass/GettyImages-2303907996.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-18T10:00:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "8c21abb71466",
+   "title": "Disney сократит несколько тысяч рабочих мест ради снижения расходов",
+   "summary": "В Disney отчитались о квартальной прибыли и выручке, превысивших прогнозы аналитиков, а также объявили о планах сократить расходы на $3 млрд к 2029 финансовому году.",
+   "link": "https://habr.com/ru/articles/1109250/?utm_campaign=1109250&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/87/b8/08/87b808aa55d4d4176f82031903c3bd75.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T09:47:16+00:00",
+   "category": "business"
+  },
+  {
+   "id": "d1cb123c88f2",
+   "title": "[Перевод] Пророчество об ИИ, оставленное в 2013",
+   "summary": "В свете повальной ИИфикации нейро-ассистентам отдаётся на откуп всё больше задач. И многие из этих задач, ни много ни мало, имеют стратегические значение или напрямую касаются вопросов жизни и смерти.",
+   "link": "https://habr.com/ru/companies/studyai/articles/1109268/?utm_campaign=1109268&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/75/40/50/7540507b68f676497ea918433015a602.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T09:20:50+00:00",
+   "category": "tools"
+  },
   {
    "id": "996edf0dd269",
    "title": "Nvidia перестанет раздувать ИИ-пузырь, без разбора закидывая неооблака деньгами",
@@ -4342,171 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-14T09:13:16+00:00",
    "category": "other"
-  },
-  {
-   "id": "57ae2b6ff295",
-   "title": "Открытый эфир GPTunneL и SKILLOUT – сегодня в 13:00 в Zoom",
-   "summary": "Сегодня (14 ноября) в 13:00 мск ИИ-платформа нейросетей GPTunneL проведёт в Zoom открытый эфир для участников хакатона SKILLOUT.",
-   "link": "https://habr.com/ru/companies/gptunnel/articles/1107788/?utm_campaign=1107788&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/6d/17/f6/6d17f69e4d02a46dfc6893e44cd8de9d.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T09:11:31+00:00",
-   "category": "models"
-  },
-  {
-   "id": "5aa7cf4f74f9",
-   "title": "Глубокая грамотность против нейрослопа",
-   "summary": "Почитав обсуждение « Хабр проиграл войну с нейрослопом » @orchidfiles , подумал, как иронично, что в борьбе с «нейрослопом», то есть для задачи отличать машинно-сгенерированные тексты от человеко-сгенерированных, люди…",
-   "link": "https://habr.com/ru/articles/1107708/?utm_campaign=1107708&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/d7/a6/90/d7a690dddd6c01fa19ee2785d5e4b955.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T08:00:15+00:00",
-   "category": "other"
-  },
-  {
-   "id": "4bee747fee12",
-   "title": "Анимируем динамичные ассеты (GPT Image 2 + Gemini Omni 1.2 Flash)",
-   "summary": "Протестим GPT Image 2 и Gemini Omni 1.2 Flash в паре для генерации динамичных ассетов в стиле пиксельарт, которые нужно анимировать.",
-   "link": "https://habr.com/ru/companies/studyai/articles/1107600/?utm_campaign=1107600&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/1b/e0/c6/1be0c67b86ea43656f72114aa90bd581.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T08:00:15+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0212a7c06cb7",
-   "title": "Почему «momentum»-сэмплер для ComfyUI рисует синюю кляксу на flow-модели и какой momentum на самом деле помогает",
-   "summary": "Почему «momentum»-сэмплер для ComfyUI рисует синюю кляксу на flow-модели и какой momentum на самом деле помогает",
-   "link": "https://habr.com/ru/articles/1107778/?utm_campaign=1107778&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1107778/aa669841c9c83ba2cbe18f833052bf5f/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T07:48:18+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9de5a71012d5",
-   "title": "Нейросеть сделала 3D‑модель по фото. Почему принтер с ней совсем не согласен",
-   "summary": "Вы скармливаете нейросети снимок фигурки, и через несколько минут на экране уже крутится аккуратная 3D‑модель. Всё на месте, даже надпись на груди.",
-   "link": "https://habr.com/ru/articles/1107774/?utm_campaign=1107774&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/cb/7b/01/cb7b016a5921860ef35dd3201920b0d0.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T07:18:11+00:00",
-   "category": "models"
-  },
-  {
-   "id": "75d09ef57c05",
-   "title": "Стилометрия на Python: анализ авторского стиля на примере 287 детективов Дарьи Донцовой",
-   "summary": "Количество произведений Донцовой уже давно перевалило за две сотни, в связи с чем у любого читателя возникает логичное предположение: «Донцова не сама пишет свои книги».",
-   "link": "https://habr.com/ru/articles/1107772/?utm_campaign=1107772&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/1a/fd/89/1afd897d4a961d07920315eea36dd594.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-14T06:59:09+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "55674acfebd2",
-   "title": "Временная глава Nvidia Колетт Кресс конфликтовала с Хуангом из-за рискованных ставок на ИИ",
-   "summary": "Перед уходом с поста главы Nvidia Дженсен Хуанг (Jensen Huang) критиковал и пренебрежительно отзывался о финансовом директоре Колетт Кресс (Colette Kress).",
-   "link": "https://3dnews.ru/1151294",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/14/1151294/33.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-14T06:26:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "0c7ee5868188",
-   "title": "Расшифровка голосовых для CRM на двух ядрах без видеокарты: faster-whisper, ffmpeg и cron",
-   "summary": "Клиенты любят голосовые, а менеджеру в шумном цеху их не послушать. Да и по списку диалогов не понять, о чём голосовое, пока его не откроешь.",
-   "link": "https://habr.com/ru/articles/1107746/?utm_campaign=1107746&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/63/b4/08/63b40858fc3b3f9fdf42146fcac31fb6.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-14T05:01:04+00:00",
-   "category": "other"
-  },
-  {
-   "id": "04367a7d0b10",
-   "title": "Amazon has a plan to index the world’s online shopping data",
-   "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters.",
-   "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-13T23:49:11+00:00",
-   "category": "other"
-  },
-  {
-   "id": "ec577d4c46a6",
-   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-13T22:43:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "c479f2841d4a",
-   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-   "summary": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system.",
-   "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-13T21:20:47+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "af41a9a55ba1",
-   "title": "Процессоры могут повторить судьбу видеокарт: бум ИИ грозит новым дефицитом комплектующих",
-   "summary": "Видеокарты стали одной из главных категорий дефицита на фоне бума искусственного интеллекта.",
-   "link": "https://3dnews.ru/1151289",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/13/1151289/65745.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-13T21:02:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "ed42c5eec375",
-   "title": "ИИ-проекты Китая на $3,2 млрд оказались под угрозой из-за увольнения Хуанга",
-   "summary": "Китайские проекты в сфере искусственного интеллекта общей стоимостью более $3,2 млрд зависят от ускорителей Nvidia, поставки которых ограничены американскими властями.",
-   "link": "https://3dnews.ru/1151287",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/13/1151287/nvidia_h100_nvl_800x600.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-13T20:49:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "951c84561943",
-   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-   "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-13T20:45:10+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "f46330bf99a7",
-   "title": "Nvidia сама создавала спрос на свои видеокарты? После отставки Дженсена Хуанга вскрылась неудобная правда о дефиците ускорителей",
-   "summary": "Геймеры за видеокарты платят втридорога, а разработчики ИИ получали деньги от Nvidia на новые дата-центры Nvidia сама искусственно поддерживала спрос на свои ускорители искусственного интеллекта путем финансирования…",
-   "link": "https://www.ixbt.com/news/2026/11/13/nvidia-sama-sozdavala-spros-na-svoi-videokarty-posle-otstavki-dzensena-xuanga-vskrylas-neudobnaia-pravda-o-deficite-uskoritelei.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741187/media-9fc27baf629d83fffe898b9e58a88aac75950da53aed8c1f4b220f5622f7e627.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-13T20:28:00+00:00",
-   "category": "hardware"
   }
  ]
 }
