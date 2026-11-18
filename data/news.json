@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:16:56.745488+00:00",
+ "updated": "2026-11-18T19:08:39.390477+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 7
   },
   {
    "source": "Google AI",
@@ -54,7 +54,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "MIT Tech Review",
@@ -108,6 +108,182 @@
   }
  ],
  "items": [
+  {
+   "id": "a19f9e7086b4",
+   "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+   "summary": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits.",
+   "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-18T19:07:29+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "eeed5527927b",
+   "title": "Понятие «Технологии искусственного интеллекта» в нормативных актах РФ",
+   "summary": "Сразу следует заметить, что нижеследующее сугубо юридическое исследование может показаться неинтересным практикам ИИ.",
+   "link": "https://habr.com/ru/articles/1109594/?utm_campaign=1109594&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1109594/5101405ce5a0d63c046039c7e5daf7a9/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T19:07:19+00:00",
+   "category": "research"
+  },
+  {
+   "id": "438e845fadfa",
+   "title": "Даже удвоение прибыли не спасло Nvidia: акции компании снова пошли вниз, потянув за собой весь ИИ-сектор",
+   "summary": "Акции Nvidia в среду растеряли рост, зафиксированный на премаркете после отчёта о финансовых результатах за третий квартал 2027 финансового года, потянув за собой котировки других компаний.",
+   "link": "https://3dnews.ru/1151491",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151491/brecht-corbeel-pKQutKWxrok-unsplash.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-18T18:58:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "75623b38e68b",
+   "title": "Why your fine-tuning job takes longer than the FLOPs say",
+   "summary": "",
+   "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/J6DIf4Len_31Tj-CQlQXY.png",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-18T18:53:43+00:00",
+   "category": "other"
+  },
+  {
+   "id": "7e7b45614cd1",
+   "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+   "summary": "Microsoft's AI division MAI unveiled seven new models for code, security, images, language, and routing at Ignite.",
+   "link": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/06/microsoft_logo_red_pink.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T18:47:36+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d7174b90d189",
+   "title": "What is Nvidia without AI’s sugar daddy in charge?",
+   "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-18T18:34:15+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "652211f5c064",
+   "title": "Genie 4 is now available",
+   "summary": "",
+   "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_v02.width-1300.png",
+   "source": "DeepMind",
+   "lang": "en",
+   "date": "2026-11-18T18:13:42+00:00",
+   "category": "other"
+  },
+  {
+   "id": "cb39ce49d008",
+   "title": "Will Wright's next simulation will use AI to mine content from your memories",
+   "summary": "The computer gaming world hasn't heard much from Will Wright ( SimCity , The Sims ) since the underwhelming release of Spore in 2008 and Wright's subsequent departure from Maxis owner EA .",
+   "link": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-18T18:10:33+00:00",
+   "category": "models"
+  },
+  {
+   "id": "890e2f7b3ac9",
+   "title": "Google’s AI feature in Search gets its own incognito mode",
+   "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+   "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+   "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T18:04:05+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "4a98f61857d5",
+   "title": "Mnemosyne: Kubernetes, который пишет симфонии и прозу",
+   "summary": "Понятно, что с нейросетями каждый сам себе автор и художник.",
+   "link": "https://habr.com/ru/articles/1109580/?utm_campaign=1109580&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e7/c3/b4/e7c3b4e5e461e9cefa15ed9c31e431fc.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T18:03:17+00:00",
+   "category": "other"
+  },
+  {
+   "id": "d7869390292c",
+   "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
+   "summary": "Working with AMD, OpenAI achieved up to 14 percent PPA improvement on AMD's flagship GPU IP in less than five months.",
+   "link": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-18T18:00:33+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ab971a615f56",
+   "title": "Пауза в гонке ИИ продержалась не долго и не ударила по сверхприбылям Nvidia и AMD",
+   "summary": "Кратковременное замедление разработки передовых моделей искусственного интеллекта пока не отразилось на спросе на вычислительные ускорители.",
+   "link": "https://3dnews.ru/1151485",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151485/NVIDIA_Vera_Rubin_NVL72_800x600.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-18T17:54:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "00a34e9a7fe6",
+   "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+   "summary": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior…",
+   "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/disney1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-18T17:50:57+00:00",
+   "category": "other"
+  },
+  {
+   "id": "30748ff8ddfb",
+   "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
+   "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
+   "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+   "image": "https://media.wired.com/photos/6afddee377c5562ae471019b/master/pass/GettyImages-2304258889.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-18T17:33:07+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "708e52618cd9",
+   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+   "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+   "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1497343848.jpeg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T17:32:10+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "e3f9813231cf",
+   "title": "Вышел проект rust-anything, который помогает переписывать игры и приложения на Rust",
+   "summary": "На GitHub опубликован открытый проект rust-anything , который помогает переписывать с разных языков программирования (TypeScript/JavaScript, Python, Go, Ruby, Java, PHP и C# пока в preview), например, игры и приложения,…",
+   "link": "https://habr.com/ru/articles/1109572/?utm_campaign=1109572&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3f/ec/b8/3fecb820126bca2e8e5c46a6480376f4.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-18T17:30:21+00:00",
+   "category": "tools"
+  },
   {
    "id": "03ca256a4adf",
    "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -846,6 +1022,17 @@
    "category": "hardware"
   },
   {
+   "id": "53f2a14376dd",
+   "title": "Inside the Codex sandbox",
+   "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+   "link": "https://openai.com/index/inside-the-codex-sandbox",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-18T08:00:00+00:00",
+   "category": "other"
+  },
+  {
    "id": "15d499d94870",
    "title": "ИИ-администратор: как сделать похожим на человека",
    "summary": "Клиент пишет в директ, задает вопрос об услуге и хочет записаться. ИИ-администратор должен ответить по существу, найти свободное время и не пообещать то, чего клиника не делает.",
@@ -1050,6 +1237,17 @@
    "link": "https://huggingface.co/blog/moe-expert-streaming",
    "image": "https://huggingface.co/blog/assets/moe-expert-streaming/thumbnail.png",
    "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-18T00:00:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "e683d40fba10",
+   "title": "The Silent Consensus",
+   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+   "link": "https://openai.com/index/the-silent-consensus",
+   "image": null,
+   "source": "OpenAI",
    "lang": "en",
    "date": "2026-11-18T00:00:00+00:00",
    "category": "other"
@@ -4309,204 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-15T10:23:08+00:00",
    "category": "business"
-  },
-  {
-   "id": "9df963b0bc22",
-   "title": "ИИ обернулся против Хуанга: экс-глава Nvidia стал главным героем ИИ-мемов",
-   "summary": "Дженсен Хуанг (Jensen Huang), один из главных популяризаторов искусственного интеллекта, на этой неделе оказался главным героем большого количества мемов, созданных с помощью разных ИИ-инструментов.",
-   "link": "https://3dnews.ru/1151325",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/15/1151325/512.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-15T10:07:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "e6266ff25ee5",
-   "title": "Эти игры на PS5 станут выглядеть лучше. Sony объявила список проектов, которые в ближайшее время получат поддержку QSSR",
-   "summary": "В список вошло шесть игр Компания Sony, как и обещала, начала расширять список игр на PS5 с поддержкой ИИ-апскейлера QSSR , который представили пару недель назад.",
-   "link": "https://www.ixbt.com/news/2026/11/15/eti-igry-na-ps5-stanut-vygliadet-lucse-sony-obieiavila-spisok-proektov-kotorye-v-blizaisee-vremia-polucat-podderzku-qssr.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741774/media-9e554296bf59ed440ba1e38e33ae51a687997f80c8d9056867e1dfdc087aa746.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-15T10:07:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "5ecf69042f64",
-   "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
-   "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5.",
-   "link": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/meituan-logo-wall-chatgpt-5.6.jpg",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-15T10:06:06+00:00",
-   "category": "models"
-  },
-  {
-   "id": "bba7570574fe",
-   "title": "Cloudflare открыла исходный код Kitesurf — браузерного движка для AI‑агентов",
-   "summary": "Cloudflare открыла исходный код экспериментального браузерного движка Kitesurf для AI‑агентов. Теперь разработчики могут модифицировать код, запускать движок локально и использовать его в собственных облачных системах.",
-   "link": "https://habr.com/ru/articles/1107996/?utm_campaign=1107996&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/3f/47/b7/3f47b7dc870d55355f6c360c84d44d9b.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-15T09:23:52+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "e4c4e910fe74",
-   "title": "SoftBank потерял более $3 млрд на газовых турбинах для ИИ-дата-центров: компания зарезервировала оборудование мощностью свыше 13 ГВт — почти на 50% больше необходимого",
-   "summary": "Ажиотаж вокруг энергоснабжения ИИ-дата-центров уже привёл к дорогостоящим ошибкам в оценке спроса SoftBank сообщил о квартальном убытке в $7,1 млрд, более половины которого связано с потерями на оборудовании для…",
-   "link": "https://www.ixbt.com/news/2026/11/15/softbank-poterial-bolee-3-mlrd-na-gazovyx-turbinax-dlia-ii-data-centrov-kompaniia-zarezervirovala-oborudovanie-moshhnostiu-svyse-13-gvt-pocti-na-50-bolse-neobxodimogo.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741755/media-3b68fabb0411e78f47a717cf5741f316eae9ce040749db4cf4bbde84cd89148c.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-15T09:05:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "da336d70581f",
-   "title": "Про нейросети и контент",
-   "summary": "Нейросети это как второй мозг или, смотря как использовать, как поисковик на стеройдах - спрашивай, проверяй, уточней, эксперементируй сколько угодно. Здорово же!",
-   "link": "https://habr.com/ru/articles/1107990/?utm_campaign=1107990&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1107990/60d07b6bf5480c43c54bba1e9ed60e73/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-15T08:57:24+00:00",
-   "category": "other"
-  },
-  {
-   "id": "dfd221f95c6c",
-   "title": "У Uber украли данные почти 8000 водителей, включая водительские удостоверения",
-   "summary": "Утечка произошла через стороннего поставщика Fireworks AI: злоумышленники получили доступ к клиентским базам данных Uber подтвердила утечку персональных данных водителей и курьеров после взлома инфраструктуры стороннего…",
-   "link": "https://www.ixbt.com/news/2026/11/15/u-uber-ukrali-dannye-pocti-8000-voditelei-vkliucaia-voditelskie-udostovereniia.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741748/media-6c7be3fe9019849c550ff1686d0ec29aa2eb64544b7b39a47825d671e5490518.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-15T08:52:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "30f6a9ed7123",
-   "title": "Стартап привлечёт тепло океана для питания плавучих ИИ-дата-центров: Drogue уже привлекла $20 млн",
-   "summary": "Многомегаваттная установка будет вырабатывать электричество за счёт разницы температур поверхностной и глубинной воды.",
-   "link": "https://www.ixbt.com/news/2026/11/15/startap-privlecet-teplo-okeana-dlia-pitaniia-plavucix-ii-data-centrov-drogue-uze-privlekla-20-mln.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741743/media-dca9e89189d888662668ab56e82bf78ec3f342146ac98b46c83b85116e8813e1.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-15T08:40:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "9fb9a6d0cacc",
-   "title": "Монтируем LLM как жесткий диск. Бесконечная файловая система на Python + FUSE",
-   "summary": "Ни для кого не секрет, что языковые модели врут, и врут очень убедительно, часто даже с подробностями. Еще год назад если бы вы попросили у LLM ссылку на исследование, то получили бы статью, которую никто не писал.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1107570/?utm_campaign=1107570&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a2/08/ff/a208ffb285f33888a5ab4a6cc62c41c7.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-15T08:00:51+00:00",
-   "category": "models"
-  },
-  {
-   "id": "467c3d99de5e",
-   "title": "Скорость автоматизированных атак растёт: время передачи доступа между злоумышленниками сократилось до секунд, а устранение уязвимостей по-прежнему занимает недели",
-   "summary": "Старые системы киберзащиты не успевают за атаками ИИ-агенты меняют темп кибератак настолько быстро, что привычные методы оценки эффективности защиты перестают работать.",
-   "link": "https://www.ixbt.com/news/2026/11/15/skorost-avtomatizirovannyx-atak-rastet-vremia-peredaci-dostupa-mezdu-zloumyslennikami-sokratilos-do-sekund-a-ustranenie-uiazvimostei-po-preznemu-zanimaet-nedeli.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741722/media-623578c3cb3fb9ecfc6e7cf5f1cf0af95636d8ef0709b8d573c157ef9eb267f5.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-15T07:26:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "010ad6c418a2",
-   "title": "Погружение в большие языковые модели (часть 1)",
-   "summary": "В первой части верхнеуровнего рассматривается полный жизненный цикл разработки модели машинного обучения: от сбора и предобработки данных до выбора алгоритма, обучения и оценки качества модели.",
-   "link": "https://habr.com/ru/articles/1107972/?utm_campaign=1107972&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/4a/72/a0/4a72a038e58997abdab213853f7d714b.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-15T06:55:09+00:00",
-   "category": "models"
-  },
-  {
-   "id": "22b22734a32d",
-   "title": "Аудит MIT-p50c для Qwen3.5-0.8B и редактирование весов с сохранением норм (SGNE-CC) при лимите 32 768 токенов",
-   "summary": "Qwen3.5-0.8B — модель с 752 млн параметров, 18 рекуррентными слоями GatedDeltaNet и 6 слоями внимания. В проверенных прогонах с весами BF16 она часто не завершает размышление до лимита в 32 768 новых токенов.",
-   "link": "https://habr.com/ru/articles/1107950/?utm_campaign=1107950&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1107950/b209aa0202b0a7032f1ddd31cc947797/",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-15T02:51:53+00:00",
-   "category": "models"
-  },
-  {
-   "id": "acaf00569e86",
-   "title": "Where was Nvidia’s security team?",
-   "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former…",
-   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-15T00:08:07+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "febb151a8ec4",
-   "title": "Почему с ИИ мы всё ещё пишем плохой софт",
-   "summary": "ИИ помогает искать баги и делать рефакторинг. Но к пятнице снова нужна новая фича, а разбор старого кода откладывают. После стрима про качество кода я решил разобраться, почему мы так используем болванчика.",
-   "link": "https://habr.com/ru/articles/1107946/?utm_campaign=1107946&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/53/4d/b9/534db927bd9c8e1d5cb231d3ef3ed06c.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-14T22:42:26+00:00",
-   "category": "other"
-  },
-  {
-   "id": "999243402cdc",
-   "title": "Пополнять карту «Тройка» теперь можно через чат с «Алисой AI»",
-   "summary": "«Алиса AI» добралась до московского транспорта Пассажиры Москвы и Московской области получили новый способ пополнения транспортной карты «Тройка» — теперь это можно сделать прямо в чате с голосовым помощником «Алиса…",
-   "link": "https://www.ixbt.com/news/2026/11/15/popolniat-kartu-troika-teper-mozno-cerez-cat-s-alisoi-ai.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741606/media-e46faef35bb7e853cf76c20506dfdb5eb72c03014b88228d1c9d8674e720e60d.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-14T21:55:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "926f5ccdbc36",
-   "title": "Gemini 4 Carbon за два часа превратила iPhone Duo в ноутбук с Windows 11 — даже джейлбрейк не понадобился",
-   "summary": "На iPhone Duo запустили полноценную Windows 11 — для систем на платформе ARM Руководитель продуктового направления и дизайна Google AI Studio Аммаар Реши продемонстрировал необычный эксперимент: ему удалось запустить…",
-   "link": "https://www.ixbt.com/news/2026/11/15/gemini-4-carbon-za-dva-casa-prevratila-iphone-duo-v-noutbuk-s-windows-11-daze-dzeilbreik-ne-ponadobilsia.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741604/media-ccfc981ee7fc641721259d467522da1ab901c6d3a381898539e3701b551f249c.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-14T21:50:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "31a0b97a499c",
-   "title": "Важнейшая «фишка» One UI 9.5: в смартфонах Samsung Galaxy появится продвинутый ИИ-ассистент, который сможет выполнять многие функции самостоятельно",
-   "summary": "По сути пользователи устройств под управлением One UI 9.5 получат персонального цифрового секретаря Samsung разрабатывает новую системную платформу Personal Agent Core, которая должна вывести возможности искусственного…",
-   "link": "https://www.ixbt.com/news/2026/11/15/vazneisaia-fiska-one-ui-95-v-smartfonax-samsung-galaxy-poiavitsia-prodvinutyi-ii-assistent-kotoryi-smozet-vypolniat-mnogie-funkcii-samostoiatelno.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741603/media-dc19020d750774cd708b27de0b72f6f15f4f6fe53bd2d0faa8f64f462ab06cd3.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-14T21:47:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "a4a92fbcda03",
-   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-   "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-14T21:41:22+00:00",
-   "category": "hardware"
   }
  ]
 }
