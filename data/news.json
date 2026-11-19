@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:16:26.868776+00:00",
+ "updated": "2026-11-19T19:12:05.844817+00:00",
  "categories": [
   {
    "id": "models",
@@ -49,7 +49,7 @@
   {
    "source": "Google AI",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "source": "Hugging Face",
@@ -108,6 +108,171 @@
   }
  ],
  "items": [
+  {
+   "id": "2ad2190c7ade",
+   "title": "Anthropic’s IPO could deliver $156 billion to charity",
+   "summary": "At a stock price of $94, the frontier lab's Public Benefit Foundation, it's employee donations, and the company's match tot up to $155 billion.",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T19:10:45+00:00",
+   "category": "business"
+  },
+  {
+   "id": "c9ddbc23bb3f",
+   "title": "Нейросеть Google Gemma 3 на 270 миллионов параметров запустили на лазерном принтере с 14 МБ памяти",
+   "summary": "Искусственный интеллект заработал, используя встроенный интерпретатор языка PostScript Level 3 Языковую модель Google Gemma 3 270M удалось запустить прямо на обычном офисном принтере Ricoh.",
+   "link": "https://www.ixbt.com/news/2026/11/19/neiroset-google-gemma-3-na-270-millionov-parametrov-zapustili-na-lazernom-printere-s-14-mb-pamiati.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743939/media-74f2c31cfd51efa0631f911f6fddd52c93b6e30b5d8f0ae0036e10c6ac073df9.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T19:10:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f39ef7872dc8",
+   "title": "Пайплайн «текст → голос» для эфира: как за день добавить игровые новости в рацию-компаньон",
+   "summary": "Делаю «Канал 15» — программу-компаньон для Euro Truck Simulator 2: восемнадцать выдуманных дальнобойщиков ведут радиоэфир у игрока, отвечают на речь, помнят игрока между рейсами.",
+   "link": "https://habr.com/ru/articles/1110068/?utm_campaign=1110068&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110068/93bae3733d53f784c6158119e09c6884/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T18:56:40+00:00",
+   "category": "other"
+  },
+  {
+   "id": "7e483f86a666",
+   "title": "IPO превратило сотрудников Anthropic в мультимиллионеров — в среднем у каждого теперь более $44 млн",
+   "summary": "В четверг акции компании Anthropic сразу после начала торгов подскочили до $111,50 за штуку — значительно выше цены размещения в $83 — в результате чего рыночная капитализация компании достигла $2 трлн.",
+   "link": "https://3dnews.ru/1151555",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151555/brecht-corbeel-XDwEclZnCCA-unsplash.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T18:49:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "823fff19839d",
+   "title": "Бывший топ-менеджер Nvidia и его супруга из Supermicro оказались в центре нового скандала о контрабанде ИИ-чипов в Китай",
+   "summary": "В коллективном иске акционеров Supermicro появились новые обвинения, связанные с незаконными поставками серверов с ускорителями Nvidia в Китай.",
+   "link": "https://3dnews.ru/1151550",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151550/Supermicro_800x600.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T18:27:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "a628e3d51eab",
+   "title": "Gemini on Mac can now use your computer",
+   "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says.",
+   "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0%2C10.738463156834%2C100%2C78.523073686333&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19T18:21:13+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1054662f25c3",
+   "title": "Google gives Gemini the ability to use your Mac for you",
+   "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+   "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T18:09:11+00:00",
+   "category": "models"
+  },
+  {
+   "id": "641098e310af",
+   "title": "Еще одна звонилка или как я создал Nimbo",
+   "summary": "Хотел просто играть с друзьями, а в итоге с ИИ собрал свою говорилку.",
+   "link": "https://habr.com/ru/articles/1110052/?utm_campaign=1110052&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/21/92/b4/2192b43f72033f28ba156d52ff596ef6.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T18:06:16+00:00",
+   "category": "other"
+  },
+  {
+   "id": "57728669e048",
+   "title": "Introducing Tool Retrieval in the Gemini API",
+   "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
+   "source": "Google AI",
+   "lang": "en",
+   "date": "2026-11-19T18:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "7d6573a50cad",
+   "title": "Цена ошибки: паддинг, чекпоинты на сетевом диске и сторож, который гасил здоровое обучение",
+   "summary": "Ошибки бывают в любой настоящей работе.",
+   "link": "https://habr.com/ru/articles/1110050/?utm_campaign=1110050&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/93/48/c9/9348c93f5fdc1d189cef3c6d4acff1b1.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T17:47:19+00:00",
+   "category": "other"
+  },
+  {
+   "id": "757247cb926e",
+   "title": "ИИ создал совершенно новую процессорную архитектуру без «костылей» — она разгромила обычные CPU в виртуальных тестах",
+   "summary": "Американский стартап Architect Labs представил Frostbite — экспериментальную архитектуру процессора общего назначения, с нуля разработанную с помощью искусственного интеллекта.",
+   "link": "https://3dnews.ru/1151552",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151552/die-shot-quad.2t9948bw50w5a.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T17:44:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "0719e3818252",
+   "title": "Город, который читают машины: как я сделал API для нейросетей на одном PHP-файле",
+   "summary": "Привет, Хабр. Меня зовут Максим, я писатель и энтузиаст, а не профессиональный разработчик.",
+   "link": "https://habr.com/ru/articles/1110046/?utm_campaign=1110046&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/15/9e/83/159e830706f200a93bb799afbd7b22fb.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T17:41:28+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "ca90bd1782ae",
+   "title": "ChatGPT научился расшифровывать речь в текст на лету без ограничения по времени",
+   "summary": "OpenAI улучшила функцию голосового ввода в ChatGPT, добавив отображение расшифровки речи в режиме реального времени.",
+   "link": "https://3dnews.ru/1151549",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151549/654754.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T17:39:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "2919f418f3f5",
+   "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+   "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't…",
+   "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T17:38:40+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "4c162b38a737",
+   "title": "Google отправит ИИ-серверы в космос на ракете Безоса в 2029 году",
+   "summary": "Google заключила соглашение с аэрокосмической компанией Blue Origin Джеффа Безоса (Jeff Bezos) о запуске в космос спутников с ускорителями искусственного интеллекта.",
+   "link": "https://3dnews.ru/1151548",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151548/Blue_Origin_New_Glenn_800x600.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T17:38:00+00:00",
+   "category": "hardware"
+  },
   {
    "id": "2464c2d8c1ae",
    "title": "Профессор Фортран в SVG: как ИИ-агент нарисовал иллюстрации к моей книге на Python",
@@ -921,6 +1086,17 @@
    "lang": "ru",
    "date": "2026-11-19T08:01:00+00:00",
    "category": "models"
+  },
+  {
+   "id": "6687f7be62c3",
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+   "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-19T08:00:00+00:00",
+   "category": "other"
   },
   {
    "id": "d4d07fa02d33",
@@ -4331,182 +4507,6 @@
    "lang": "en",
    "date": "2026-11-16T19:19:56+00:00",
    "category": "models"
-  },
-  {
-   "id": "d1bee759e86a",
-   "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-   "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-   "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T19:12:02+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "df8e5203f114",
-   "title": "US moves to cut China’s remote access to AI chips",
-   "summary": "On the heels of the Nvidia scandal , the Trump administration is preparing to crack down on foreign data centers that are fueling China’s advancements in artificial intelligence by allowing remote access to otherwise…",
-   "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-16T19:10:09+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "b6bd85d953c5",
-   "title": "Поставил ИИ проверять ИИ, и тот научился списывать",
-   "summary": "Красивый отчёт не значит верный. А верный не значит полезный. Можно ли вообще построить систему исследований с ИИ, если модели становятся умнее и врут всё убедительнее?",
-   "link": "https://habr.com/ru/articles/1108596/?utm_campaign=1108596&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/32/45/27/324527f2a891ae18c439f4c1f365e7d5.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T19:03:50+00:00",
-   "category": "models"
-  },
-  {
-   "id": "7234ed3b159b",
-   "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
-   "summary": "Moonshot AI is done chasing coding benchmarks, it says.",
-   "link": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/moonshot_ai_sciences.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-16T18:52:55+00:00",
-   "category": "models"
-  },
-  {
-   "id": "bd7cc537cd57",
-   "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-   "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC.",
-   "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T18:43:35+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "9c493a96e3fa",
-   "title": "The open-source movement wants Jensen Huang back",
-   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here .",
-   "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26289708196110.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-16T18:38:47+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0b5fe7dce536",
-   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-   "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-   "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T18:11:10+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "e99602db85f6",
-   "title": "Цифровые двойники (Digital Twin) в инженерных системах — Часть 1. Управление документацией",
-   "summary": "В последние годы технология Digital Twin превратилась в один из главных трендов промышленной автоматизации.",
-   "link": "https://habr.com/ru/articles/1108160/?utm_campaign=1108160&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c5/81/79/c5817909e8088c698a9b65e6458b6857.PNG",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T18:09:11+00:00",
-   "category": "other"
-  },
-  {
-   "id": "293ae32e7708",
-   "title": "Почему 94% ИИ-ответов игнорируют сайты самих компаний",
-   "summary": "У бизнеса сегодня появилась странная проблема: сайт спокойно держится в топ-10 поиска, но когда клиент спрашивает подрядчика у ChatGPT, Perplexity или в ИИ-сводке Google, компании в ответе просто нет.",
-   "link": "https://habr.com/ru/articles/1108582/?utm_campaign=1108582&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ef/10/f4/ef10f4bb9fe3ca9e152272051ac66b94.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T17:54:23+00:00",
-   "category": "other"
-  },
-  {
-   "id": "382fd6d93b95",
-   "title": "Инвесторы охладели к ИИ-буму: производители оборудования для дата-центров подешевели на $4,2 трлн",
-   "summary": "Производители оборудования и материалов для строительства дата-центров потеряли в совокупности $4,2 трлн рыночной стоимости с июня 2026 года.",
-   "link": "https://3dnews.ru/1151365",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151365/65434.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-16T17:42:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "690a9aa8938d",
-   "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-   "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
-   "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T17:36:43+00:00",
-   "category": "models"
-  },
-  {
-   "id": "98a6b9391539",
-   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-   "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jordan-Belfort.jpeg?resize=1200,675",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T17:10:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "ae0ec1fddbe6",
-   "title": "Независимые как понятия, зависимые как операции: параметры семплирования в LLM-инференсе",
-   "summary": "Инфраструктура вывода больших языковых моделей традиционно оптимизируется по пропускной способности и задержке: KV-кэш, CUDA-графы, батчинг, квантизация, параллелизм.",
-   "link": "https://habr.com/ru/articles/1108348/?utm_campaign=1108348&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/12/65/5e/12655e02f0d7668134be20c54a4ccc43.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T17:04:11+00:00",
-   "category": "models"
-  },
-  {
-   "id": "6d05b4dbd591",
-   "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
-   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-   "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T17:02:43+00:00",
-   "category": "models"
-  },
-  {
-   "id": "f26f2a4dfd6b",
-   "title": "Broadening access to AI for scientists",
-   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-   "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-16T17:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "b1c71d07875a",
-   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-   "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-   "link": "https://openai.com/index/strengthening-online-child-safety",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-16T17:00:00+00:00",
-   "category": "tools"
   }
  ]
 }
