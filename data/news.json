@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:12:05.844817+00:00",
+ "updated": "2026-11-19T21:02:21.350722+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "source": "OpenAI",
@@ -108,6 +108,94 @@
   }
  ],
  "items": [
+  {
+   "id": "394e8021d9a9",
+   "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+   "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+   "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+   "image": "https://media.wired.com/photos/6afe3efb681d658b6618bff6/master/pass/Model-Behavior-Jensen-Taiwanes-Restaurants-Business.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-19T20:34:17+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "b0341a0ae375",
+   "title": "Meta’s Muse Charm might cost $300",
+   "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information.",
+   "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19T20:22:17+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "a18d40e53c3a",
+   "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+   "summary": "In October 2025, four Black high school students were sharing Cool Ranch Doritos after football practice, winding down, and waiting for their rides home to arrive.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-19T20:19:28+00:00",
+   "category": "other"
+  },
+  {
+   "id": "423b8c753c11",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T20:18:49+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "6900f6014b2a",
+   "title": "Google is putting AI chats right on the homepage",
+   "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.",
+   "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19T20:05:06+00:00",
+   "category": "other"
+  },
+  {
+   "id": "9f9f16229744",
+   "title": "На AMD обрушили обвинения в рискованных ИИ-сделках и зависимости от Китая — акции рухнули почти на 9 %",
+   "summary": "В четверг, 19 ноября, стоимость акций компании AMD упала почти на 9 % — до $484 за штуку — после публикации отчёта инвестиционного фонда Hunterbrook.",
+   "link": "https://3dnews.ru/1151562",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151562/amd_title.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T20:02:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "38bc32432390",
+   "title": "Anthropic вышла на биржу и тут же стала дороже $2 трлн — рост превысил 30 %",
+   "summary": "Акции Anthropic резко выросли в первый же день торгов на американской бирже Nasdaq, подняв рыночную стоимость компании до $2,1 трлн.",
+   "link": "https://3dnews.ru/1151560",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151560/56454.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T19:35:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "034f4ad18bf5",
+   "title": "AI industry growth remains strong, but the pace is slowing",
+   "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending.",
+   "link": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
+   "image": "https://the-decoder.com/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-19T19:28:19+00:00",
+   "category": "models"
+  },
   {
    "id": "2ad2190c7ade",
    "title": "Anthropic’s IPO could deliver $156 billion to charity",
@@ -4419,94 +4507,6 @@
    "lang": "en",
    "date": "2026-11-16T20:29:37+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "94e979efd738",
-   "title": "US data centers now burn more electricity than a midsized country",
-   "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T20:27:58+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "42f309a879d3",
-   "title": "Я нанял ИИ искать мне работу. Неделя третья: один отклик и семь баллов, которые стали пятью",
-   "summary": "Третья неделя: один отклик, один отказ, ноль собеседований. Главное — как агент считает баллы: почему семёрка превратилась в пятёрку, откуда взялся порог 6,5 и чего балл не видит.",
-   "link": "https://habr.com/ru/articles/1108614/?utm_campaign=1108614&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e1/be/35/e1be35e3cbd54ba51d7aad0b1ea36051.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T20:24:27+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "b16b5f3f2048",
-   "title": "California state AG sues OpenAI over rogue agent incidents",
-   "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
-   "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/1920px-Rob_Bonta_at_Central_Bay_Operations_and_Maintenance_Facility_opening_December_2018.jpeg?resize=1200,981",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T20:07:13+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "5289d8de412b",
-   "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
-   "summary": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all.",
-   "link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
-   "image": null,
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-16T19:42:13+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "cd9a297fa8a4",
-   "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-   "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to…",
-   "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0.17391304347827%2C0%2C99.652173913043%2C100&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T19:24:40+00:00",
-   "category": "models"
-  },
-  {
-   "id": "402ed3ce40f3",
-   "title": "Легкие LLM на CPU, часть 2: какую модель ставить на VPS без видеокарты",
-   "summary": "В первой части статьи я из любопытства проверил, какие бизнес-задачи могут решать легкие модели на недорогом VPS без видеокарты. В комментариях мне отсыпали критики, и часть ее, как водится, по делу.",
-   "link": "https://habr.com/ru/articles/1108600/?utm_campaign=1108600&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/48/4e/ae/484eae67e23f29c5de9981b3ad129662.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T19:24:01+00:00",
-   "category": "models"
-  },
-  {
-   "id": "5f72fbdc79b9",
-   "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-   "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly.",
-   "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T19:23:45+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "a258409b9578",
-   "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
-   "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years.",
-   "link": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_standard_model.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-16T19:19:56+00:00",
-   "category": "models"
   }
  ]
 }
