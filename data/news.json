@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T13:29:52.916460+00:00",
+ "updated": "2026-11-19T15:09:03.708386+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,105 @@
   }
  ],
  "items": [
+  {
+   "id": "c990fb121000",
+   "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+   "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304538389.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T14:54:39+00:00",
+   "category": "business"
+  },
+  {
+   "id": "9eadf34fb5c8",
+   "title": "Бот, который ищет учеников для репетиторов: архитектура за 1187 ₽ в месяц",
+   "summary": "Я сделал бота, который находит в соцсетях сообщения вида «посоветуйте репетитора по химии» и пересылает их репетиторам.",
+   "link": "https://habr.com/ru/articles/1109966/?utm_campaign=1109966&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a4/79/5c/a4795c8b9e79cce7a1c0304de5a649ff.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-19T14:26:56+00:00",
+   "category": "other"
+  },
+  {
+   "id": "0b3a38ae0a19",
+   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+   "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to…",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19T14:25:37+00:00",
+   "category": "business"
+  },
+  {
+   "id": "fea1ae420b82",
+   "title": "Директ, Метрика и Wordstat в ChatGPT через Sites. Как это устроено и где подвох",
+   "summary": "По моей оценке, около 70% рабочего дня я провожу в ИИ-инструментах. С каждым новым подключением mcp-инструментов поводов открывать другие интерфейсы - всё меньше.",
+   "link": "https://habr.com/ru/companies/infostart/articles/1109958/?utm_campaign=1109958&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/fa/64/95/fa64950f72fcd6b1e6bd3d6b460bda1e.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T14:14:43+00:00",
+   "category": "business"
+  },
+  {
+   "id": "c9fac44065d8",
+   "title": "В России создали мультиагентную систему «Радар» для автоматизации закупочных процессов",
+   "summary": "Эксепто, разработчик мультиагентных ИИ-систем для автоматизации корпоративных процессов, представил новое ИИ-решение — систему «Радар» для закупочной аналитики и рыночной разведки.",
+   "link": "https://3dnews.ru/1151537",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151537/sm.radar.800.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T14:12:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c157fe16144c",
+   "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
+   "summary": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder.",
+   "link": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-19T14:02:22+00:00",
+   "category": "business"
+  },
+  {
+   "id": "d884eef3ecc7",
+   "title": "Вышел Gemini 4 Neon. Золотая середина, по мнению Google",
+   "summary": "18 ноября 2026 года Google представила Gemini 4 Neon — по сути, недостающее звено в своей новой линейке.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1109880/?utm_campaign=1109880&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/de/00/9f/de009fd9464c9d0d516122d88ea2c9cc.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T14:00:31+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1501adb883e7",
+   "title": "Superhuman pushes its Go assistant everywhere",
+   "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+   "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Static_Go-Proactive.jpeg?resize=1200,675",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T14:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "da1d68d363f6",
+   "title": "Краткая история интеллекта. От зарубки на кости до LLM",
+   "summary": "Человечество не сразу построило компьютер, и не сразу придумало искусственный интеллект.",
+   "link": "https://habr.com/ru/articles/1109858/?utm_campaign=1109858&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3e/89/ee/3e89ee31ed5859fcea6ea23db44ba4da.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T13:57:13+00:00",
+   "category": "models"
+  },
   {
    "id": "d1e2548d4066",
    "title": "Мир Кузи: ИИ, который не разговаривает, а принимает решения",
@@ -4408,105 +4507,6 @@
    "lang": "en",
    "date": "2026-11-16T14:06:16+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "3e7f002c632e",
-   "title": "Запускаем языковую модель на ESP32 со скоростью 400 токенов/с — как это возможно?",
-   "summary": "ESP32-S3 — микроконтроллер за несколько сотен рублей: два ядра Xtensa LX7 на 240 МГц и 512 КБ внутренней SRAM.",
-   "link": "https://habr.com/ru/companies/timeweb/articles/1103622/?utm_campaign=1103622&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/6f/1b/fd/6f1bfdf7670e2cb442fb4f5d203c70c8.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T14:05:05+00:00",
-   "category": "models"
-  },
-  {
-   "id": "717626b76ea0",
-   "title": "New Ask Maps features to help with holiday travel and prep",
-   "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-   "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-16T14:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "29a19e1aacc6",
-   "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-   "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it.",
-   "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Audible-audio-discovery-hero-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T14:00:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "dd02c35afc86",
-   "title": "Google Maps can now create trip itineraries for you",
-   "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop.",
-   "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T14:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "bdf97a5ff994",
-   "title": "Как накормить ИИ-агента кодом и не разориться на контексте: мой опыт без векторной магии",
-   "summary": "Как накормить ИИ-агента кодом и не разориться на контексте: мой опыт без векторной магии Практическое руководство по тому, как я подружилась с большими репозиториями без ML, pgvector (расширение Postgres для работы с…",
-   "link": "https://habr.com/ru/companies/alfastrah/articles/1108468/?utm_campaign=1108468&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1108468/1de9b173f8f36acf65070f2d2a697158/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T13:39:42+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "923a6f5032f2",
-   "title": "И так поймет: как сокращать промпты и считать потери",
-   "summary": "Чем подробнее промпт, тем лучше ответ, и вот уже к задаче добавляют контекст, роль, ограничения и еще пару пояснений на всякий случай.",
-   "link": "https://habr.com/ru/companies/bothub/articles/1108464/?utm_campaign=1108464&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c0/c1/4a/c0c14ad1144ad6c5227b4408ad0c4c82.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T13:32:12+00:00",
-   "category": "other"
-  },
-  {
-   "id": "4bcf217fbf46",
-   "title": "ИИ-тренажер судебного процесса ChatCourt",
-   "summary": "Привет, Хабр! Представь обычное домашнее задание в вузе. Преподаватель просит нейросеть составить задание, студент отдаёт её своей нейросети и сдаёт готовый ответ, а проверяет работу снова нейросеть.",
-   "link": "https://habr.com/ru/articles/1108458/?utm_campaign=1108458&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/43/9e/c9/439ec98f3e11198393889912e299d507.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T13:25:23+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "3dfaffa36cfa",
-   "title": "Пирамида ИИ, устроенная Nvidia. Весь сектор валится из-за измены Хуанга или…",
-   "summary": "Пока одни спорят, был ли роман, и считают количество любовниц Дженсена Хуанга, а другие уже откупают скидку на акции NVDA, мимо ушей многих пролетает суть - из-за чего именно крупные инвесторы сейчас сбрасывают акции…",
-   "link": "https://habr.com/ru/articles/1108440/?utm_campaign=1108440&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f7/6b/c3/f76bc37f9fd8a370fccc9f3e5c2312fa.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T13:07:41+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "03be0f4da17b",
-   "title": "Seedance 2.5: обзор нейросети и гайд по промптам с тестами на 5, 10 и 15 секунд",
-   "summary": "Seedance 2.5 - видеонейросеть ByteDance. Она делает ролик до 30 секунд сразу со звуком: по тексту, по картинкам или по двум кадрам, первому и последнему.",
-   "link": "https://habr.com/ru/companies/syntx_ai/articles/1107870/?utm_campaign=1107870&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/2f/d3/50/2fd350120b3d46f12fd7014732d4cd12.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T13:02:25+00:00",
-   "category": "other"
   }
  ]
 }
