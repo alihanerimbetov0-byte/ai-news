@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:17:39.893207+00:00",
+ "updated": "2026-11-19T07:30:07.992300+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 8
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "source": "Хабр · ML",
@@ -109,6 +109,116 @@
  ],
  "items": [
   {
+   "id": "d19fabdef2c1",
+   "title": "Ограничение данных для российских моделей приведет к потере их конкурентного преимущества",
+   "summary": "Российские большие языковые модели справляются лучше иностранных нейросетей в задачах, где требуется знание русского языка, истории и локального культурного контекста.",
+   "link": "https://habr.com/ru/articles/1108350/?utm_campaign=1108350&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8d/ad/c9/8dadc984954e98e910672b5fc6900196.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T07:30:07+00:00",
+   "category": "models"
+  },
+  {
+   "id": "7014dc5803bb",
+   "title": "[Перевод] Торстен Балл: Как я работаю с ИИ-агентами",
+   "summary": "Торстен Балл — автор популярных книг по написанию компиляторов и интерпретаторов на Go, бывший инженер редактора Zed и сооснователь ИИ-агента Amp — опубликовал свод своих правил работы с языковыми моделями.",
+   "link": "https://habr.com/ru/companies/hexlet/articles/1109610/?utm_campaign=1109610&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d7/cc/13/d7cc13a4c8ae8433ac985d0e2e40381f.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T07:28:56+00:00",
+   "category": "models"
+  },
+  {
+   "id": "418e2fb1486f",
+   "title": "Корпус объемом 1,25 л и производительность 1 петафлопс. Представлен Mechrevo RTX Spark Master X10",
+   "summary": "Компактный компьютер получил производительность до 1 петафлопса в ИИ-задачах Компания Mechrevo представила мини-ПК Master Road X10 на платформе Nvidia RTX Spark.",
+   "link": "https://www.ixbt.com/news/2026/11/19/korpus-obieemom-125-l-i-proizvoditelnost-1-petaflops-predstavlen-mechrevo-rtx-spark-master-x10.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743687/media-d66e3e54d1d752d17c3a155c6159290257086d877e8f916ba4cea1ec4a21a9b9.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T07:12:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "73cbe8c79390",
+   "title": "ИИ-бум может захлебнуться в избытке чипов — Сэм Альтман предупредил, что OpenAI не сможет скупить всё",
+   "summary": "Гендиректор OpenAI Сэм Альтман (Sam Altman) указал на возможность возникновения дисбаланса между спросом и предложением на рынке оборудования для искусственного интеллекта.",
+   "link": "https://3dnews.ru/1151517",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151517/altman.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T07:01:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "9b28bc629920",
+   "title": "Рекорд SpaceX Илона Маска побит: Anthropic привлекла рекордные $81,3 млрд на IPO при оценке компании в $1,5 трлн",
+   "summary": "Разработчик Claude установил новый рекорд биржевого дебюта Компания Anthropic привлекла $81,3 млрд в рамках первичного публичного размещения акций (IPO), установив абсолютный рекорд среди биржевых дебютов.",
+   "link": "https://www.ixbt.com/news/2026/11/19/rekord-spacex-ilona-maska-pobit-anthropic-privlekla-rekordnye-813-mlrd-na-ipo-pri-ocenke-kompanii-v-15-trln.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743683/media-48bf9e34277f40e7415e106adfa9625c98dbe1dd4bcf1b3fee6aa8e4c6c2ba86.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T07:01:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "71a2cf13fda2",
+   "title": "Бари, что не так дома? Локальный голосовой ассистент год спустя",
+   "summary": "Год назад наш локальный голосовой ассистент BARY понимал не только «включи свет на кухне», но и «тут что-то жарковато». Правда, ему требовалось отдельное «железо».",
+   "link": "https://habr.com/ru/companies/wirenboard/articles/1108590/?utm_campaign=1108590&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8f/c8/45/8fc8452fd1893149a0e8d8a29b8f6c49.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T07:00:53+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "a43f21102db7",
+   "title": "США затормозили китайский ИИ: Tencent признала, что следующая LLM задержится из-за перекрытия лазеек к чипам Nvidia",
+   "summary": "Новые экспортные ограничения, введённые Вашингтоном в отношении доступа китайских компания к зарубежным центрам обработки данных, затруднят разработку новой модели искусственного интеллекта, признали в компании Tencent.",
+   "link": "https://3dnews.ru/1151509",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151509/tencent_1_tencent-com.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T06:33:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "9d2443fa9041",
+   "title": "[Перевод] Как ИИ-нагрузки меняют автомасштабирование в Kubernetes",
+   "summary": "Kubernetes обеспечивает работу значительной части контейнеризованного ПО в мире благодаря разделению обязанностей между двумя циклами управления, которым прежде редко требовалось взаимодействовать.",
+   "link": "https://habr.com/ru/companies/vktech/articles/1109358/?utm_campaign=1109358&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e8/46/5f/e8465fc89e022b6ff6c853aeea2cff24.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-19T06:24:22+00:00",
+   "category": "other"
+  },
+  {
+   "id": "7b6af576c629",
+   "title": "Кажется, GTA 6 — последний цифровой продукт, сделанный людьми, а не нейросетями",
+   "summary": "Кажется, это последний крупный релиз цифрового продукта, который в большей степени сделали люди, а не промпты.",
+   "link": "https://habr.com/ru/articles/1109586/?utm_campaign=1109586&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/53/6a/48/536a48d73d315d11f0b19695ac8eb464.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T06:00:49+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0e38638c13bc",
+   "title": "Антифрод на два миллиарда: как Anthropic зарабатывает на клиентах, которых потом блокирует",
+   "summary": "За девять месяцев 2026 года Anthropic заработала до $2,33 млрд на клиентах, чьи аккаунты позднее заблокировала.",
+   "link": "https://habr.com/ru/articles/1109660/?utm_campaign=1109660&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/44/e1/22/44e122fcd27eb408ce9a55e2718a0434.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T05:43:03+00:00",
+   "category": "business"
+  },
+  {
    "id": "762670ebc77e",
    "title": "13 задач на Python в OpenCode: DeepSeek Flash обошёлся в $0,67, Claude Opus — в $8,76",
    "summary": "13 задач на Python, четыре модели, по три попытки: 156 запусков в OpenCode. Все запросы отправлял через API-шлюз. С баланса за Flash списалось $0,67, за V4 Pro — $2,89, за Sonnet — $3,65, за Opus — $8,76.",
@@ -118,6 +228,17 @@
    "lang": "ru",
    "date": "2026-11-19T05:02:41+00:00",
    "category": "models"
+  },
+  {
+   "id": "4a65cce1f1b3",
+   "title": "Anthropic продаст больше акций и дороже ожидаемого — её IPO переплюнет SpaceX",
+   "summary": "Anthropic накануне установила окончательную цену на свои акции на этапе первичного публичного размещения — она составила $83, и это выше ожидавшегося диапазона.",
+   "link": "https://3dnews.ru/1151513",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151513/anthropic.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T04:39:00+00:00",
+   "category": "business"
   },
   {
    "id": "a8022fb06095",
@@ -4386,127 +4507,6 @@
    "lang": "en",
    "date": "2026-11-16T01:30:00+00:00",
    "category": "research"
-  },
-  {
-   "id": "f7214e14d1e1",
-   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-   "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are.",
-   "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applestudy1b.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T01:26:56+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "d64cc2f41ad9",
-   "title": "Хватит жечь токены на поиск файлов: как QMD помогает кодинг-агентам экономить до 40%",
-   "summary": "Я заметил что кодинг агенты перед выполнением задачи запускают \"find, rg --files, glob\" для поиска файлов и нужных классов и модулей. Потом поиск по содержимому файлов через \"rg, grep\". И на это сжигается много токенов.",
-   "link": "https://habr.com/ru/articles/1108142/?utm_campaign=1108142&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ee/b6/59/eeb659dbcc8d0e4d0ac5bec09fecb788.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T00:00:14+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "e3915f7e4cf0",
-   "title": "The King’s Trust and OpenAI launch £1m partnership",
-   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-   "link": "https://openai.com/index/the-kings-trust-and-openai",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-16T00:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "853b24ff0d6e",
-   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-   "summary": "",
-   "link": "https://huggingface.co/blog/openrouter",
-   "image": "https://huggingface.co/blog/assets/openrouter/thumbnail.jpg",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-16T00:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3899b6e8ee3c",
-   "title": "At Holiday Extras, dots get to work before anyone asks",
-   "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-   "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-16T00:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "fa232e2aaf8a",
-   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-   "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-15T23:30:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "87d7014c15ee",
-   "title": "A step toward defining the Standard Model on a lattice",
-   "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-   "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-15T22:00:01+00:00",
-   "category": "models"
-  },
-  {
-   "id": "4b0fc5b701ff",
-   "title": "Our new blog for science",
-   "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-   "link": "https://openai.com/index/our-new-blog-for-science",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-15T22:00:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "9e3d554c6cb5",
-   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-   "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-   "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-15T21:56:35+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "a1643e795c8b",
-   "title": "Наблюдаем, как Windows XP разговаривает с железом: эмулятор x86 в одном HTML-файле",
-   "summary": "Ранее я уже рассказывал о своих проектах для изучения низкого уровня, выполненных в виде одного HTML-файла и работающих офлайн: дизассемблер (5 платформ), ассемблер с поддержкой HLA64 и эмулятор процессора с пошаговой…",
-   "link": "https://habr.com/ru/articles/1108150/?utm_campaign=1108150&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c3/76/cc/c376ccccd3960d4732a261ab5f39367d.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-15T21:52:06+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "b93657ee417b",
-   "title": "AI Resist List: список тех, кто бросает вызов ИИ",
-   "summary": "20 мая 2026 года Карен Хао, журналистка и автор книги «Империя ИИ», совместно с исследователями и правозащитниками представила AI Resist List — проект, который рассказывает об актах сопротивления существующей модели…",
-   "link": "https://habr.com/ru/articles/1108152/?utm_campaign=1108152&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/1a/d3/6b/1ad36bcd780436f70652af525ee276a8.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-15T21:44:59+00:00",
-   "category": "models"
   }
  ]
 }
