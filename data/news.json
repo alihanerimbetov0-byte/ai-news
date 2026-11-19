@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:25:55.179086+00:00",
+ "updated": "2026-11-19T03:01:36.096102+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Ars Technica",
