@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:02:21.350722+00:00",
+ "updated": "2026-11-19T22:58:19.175514+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,105 @@
   }
  ],
  "items": [
+  {
+   "id": "a22c687c439c",
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services.",
+   "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19T22:31:41+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "d64408f37f76",
+   "title": "Нескучные тесты локальных LLM",
+   "summary": "Очередная статья с очередными тестами локальных LLM.",
+   "link": "https://habr.com/ru/articles/1110104/?utm_campaign=1110104&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d4/3c/a7/d43ca7b4f19a1d65d482a3c7d7bf9f99.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T22:04:30+00:00",
+   "category": "models"
+  },
+  {
+   "id": "74e2df778984",
+   "title": "A brief history of Nvidia’s recent stock fluctuations",
+   "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19T21:59:35+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "6f0f2d869f0f",
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+   "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T21:58:06+00:00",
+   "category": "other"
+  },
+  {
+   "id": "bb79788fc6f4",
+   "title": "What’s With All These Outages?",
+   "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+   "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+   "image": "https://media.wired.com/photos/6afe24032a6a9296f65dbfa1/master/pass/Uncanny-Valley-FAA-Outage-Business.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-19T21:57:01+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "f2dddf2ea7d8",
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+   "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Muharrem-huner.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T21:42:31+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "6ec7aebf63fd",
+   "title": "Google внедрила чаты с ИИ прямо на главную страницу поисковика",
+   "summary": "Google обновила главную страницу поисковика, добавив боковую панель для работы с ИИ-чатами.",
+   "link": "https://3dnews.ru/1151564",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151564/sm.google-homepage_01.800.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T21:34:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "f239426cc888",
+   "title": "Нобелевские лауреаты призвали не верить в посулы Anthropic — но инвесторы их не услышали",
+   "summary": "За день до триумфального выхода компании Anthropic на биржу ценных бумаг группа нобелевских лауреатов и ряд глав техногигантов опубликовали открытую петицию, обвиняющую Anthropic в отказе от ранее заявленных принципов…",
+   "link": "https://3dnews.ru/1151565",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151565/ai_net.png",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T21:30:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "d1fa79484c1d",
+   "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+   "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed…",
+   "link": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/agent_mail_compromise.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-19T21:15:01+00:00",
+   "category": "models"
+  },
   {
    "id": "394e8021d9a9",
    "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
@@ -4408,105 +4507,6 @@
    "lang": "en",
    "date": "2026-11-16T23:32:32+00:00",
    "category": "business"
-  },
-  {
-   "id": "a59424729711",
-   "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-   "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry.",
-   "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299645290.jpg?quality=90&strip=all&crop=0%2C10.748709970289%2C100%2C78.502580059422&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T23:17:34+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "c9bdcaf26509",
-   "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-   "summary": "A humanoid robotics company backed and advised by President Donald Trump’s son, Eric Trump, has reportedly missed payroll and may be on the brink of collapse after a funding shortfall.",
-   "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-16T22:58:27+00:00",
-   "category": "business"
-  },
-  {
-   "id": "ac8ed7d9657d",
-   "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-   "summary": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results.",
-   "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-   "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T22:03:02+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "842d733080ff",
-   "title": "Лайфхак с Shared GPU Memory Override или как я запускал нейросети на мини‑ПК (на примере GEEKOM GT1 Mega)",
-   "summary": "Неочевидный момент - на мини-компьютерах можно отдать практически всю оперативную память для интегрированного GPU, что позволяет запускать LLM типа 26B/27B, без необходимости покупать дорогостоящие видеокарты.",
-   "link": "https://habr.com/ru/articles/1108616/?utm_campaign=1108616&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/62/29/3e/62293ea8ecb0024f91e4a2d6bb9bea0d.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T21:24:36+00:00",
-   "category": "models"
-  },
-  {
-   "id": "65cfab2783ac",
-   "title": "OpenAI ответит в суде за своих сорвавшихся с поводка ИИ-агентов — прокуроров заинтересовал взлом Hugging Face",
-   "summary": "Генеральный прокурор Калифорнии Роб Бонта (Rob Bonta) подал иск против OpenAI, обвинив компанию в недостаточном контроле над экспериментальными моделями искусственного интеллекта и созданными на их основе автономными…",
-   "link": "https://3dnews.ru/1151380",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151380/ai_hak.png",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-16T21:02:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d0b83026be95",
-   "title": "California sues OpenAI over rogue AI hacking incidents",
-   "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T20:46:01+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "6dc341b82897",
-   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-   "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T20:41:28+00:00",
-   "category": "business"
-  },
-  {
-   "id": "275788341e43",
-   "title": "AMD поглотила разработчика ИИ-песочниц для роботов World Labs",
-   "summary": "Компания AMD объявила о завершении покупки стартапа World Labs, специализирующегося на разработке моделей искусственного интеллекта для работы с физическим пространством.",
-   "link": "https://3dnews.ru/1151374",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151374/amd_ai.png",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-16T20:38:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0873131c018e",
-   "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-   "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development.",
-   "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&strip=all&crop=0%2C10.729149249175%2C100%2C78.54170150165&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T20:29:37+00:00",
-   "category": "hardware"
   }
  ]
 }
