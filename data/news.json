@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T09:18:13.472844+00:00",
+ "updated": "2026-11-19T11:10:48.036040+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,160 @@
   }
  ],
  "items": [
+  {
+   "id": "dbbe104113d4",
+   "title": "Код пишет ИИ. Кто будет думать?",
+   "summary": "Использование ИИ облегчает жизнь IT-специалиста. Мы становимся продуктивнее и экономим время. Почему же многие теперь устают сильнее, чем раньше? Кажется, что ИИ должен разгружать, и он действительно разгружает.",
+   "link": "https://habr.com/ru/companies/reksoft/articles/1109784/?utm_campaign=1109784&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/91/ae/c6/91aec6387daee1a22b4e71df827bbb4d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T11:00:17+00:00",
+   "category": "other"
+  },
+  {
+   "id": "516c7884acf0",
+   "title": "[Перевод] Теперь можно просто выбрать, сколько ошибок будет в вашей программе",
+   "summary": "Есть одна странная особенность программирования с ИИ, которую я давно пытаюсь сформулировать. И кажется, дело вот в чём: теперь вы, по сути, можете просто решать, сколько ошибок будет в вашей программе .",
+   "link": "https://habr.com/ru/articles/1109840/?utm_campaign=1109840&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/26/1d/d0/261dd077b4b3c50038bdd305261e5f93.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T10:52:47+00:00",
+   "category": "other"
+  },
+  {
+   "id": "7812f74f8569",
+   "title": "Google открыла доступ к Genie 4 – ИИ для генерации целых миров, которые можно менять прямо на ходу",
+   "summary": "Ранее в этом месяце подразделение Google DeepMind анонсировало ИИ-модель Genie 4, которая способна генерировать виртуальные миры с реалистичной физикой, звуками и разговорами персонажей.",
+   "link": "https://3dnews.ru/1151528",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151528/524.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T10:50:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f7a6e3496592",
+   "title": "Исторический рекорд: Anthropic выходит на IPO с оценкой в $1,5 трлн",
+   "summary": "Разработчик семейств больших языковых моделей Claude, компания Anthropic, официально готовится к первичному размещению акций (IPO).",
+   "link": "https://habr.com/ru/articles/1109832/?utm_campaign=1109832&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d9/5f/2b/d95f2b0a230c229b60183ba7639d7615.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-19T10:43:56+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1f4c511038e5",
+   "title": "Втрое быстрее и на 60% дешевле: Google представила ИИ-модель Gemini 4 Neon",
+   "summary": "Модель поддерживает работу с текстом, изображениями, аудио и видео, а размер контекстного окна достигает 1 млн токенов Компания Google представила новую ИИ-модель Gemini 4 Neon, предназначенную для решения сложных задач…",
+   "link": "https://www.ixbt.com/news/2026/11/19/vtroe-bystree-i-na-60-desevle-google-predstavila-ii-model-gemini-4-neon.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743793/media-f16d61da4041febc089c5a1681a5dc4dabd10355aa04a781118953cd297e0ae1.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T10:43:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "86164da1b4b8",
+   "title": "Маскот на генерациях: как держать одного кота одинаковым на десятках площадок и что всё равно ломается",
+   "summary": "У нашей небольшой финансовой компании из Петербурга есть маскот: рыжий вислоухий кот в пиджаке. За два месяца он появился на обложках статей на десятках площадок, в карточках Pinterest, обоях на телефон и в роликах.",
+   "link": "https://habr.com/ru/articles/1109826/?utm_campaign=1109826&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ad/0e/de/ad0edeaf5ea3c5fddce8437f71a1b7c4.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T10:33:34+00:00",
+   "category": "other"
+  },
+  {
+   "id": "e4ec91369afc",
+   "title": "От машинного кода к доказательному программированию: как меняется разработка ПО",
+   "summary": "Разработка ПО проходит очередной этап изменений.",
+   "link": "https://habr.com/ru/articles/1109824/?utm_campaign=1109824&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1109824/1dcb30080095cc406f92fa53aaa125a6/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T10:32:45+00:00",
+   "category": "other"
+  },
+  {
+   "id": "16b77e071b6c",
+   "title": "AI ускоряет написание кода. Почему это не гарантирует ускорения доставки?",
+   "summary": "Как AI меняет экономику Software Development Lifecycle, почему ограничения перемещаются между этапами разработки и какой может стать архитектура Software Delivery к 2030 году. Введение. Мы ускоряем не ту часть системы?",
+   "link": "https://habr.com/ru/articles/1109822/?utm_campaign=1109822&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/36/fa/a8/36faa81ef0fb4d56c357218d0ca14961.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T10:30:52+00:00",
+   "category": "other"
+  },
+  {
+   "id": "51adef2c37b5",
+   "title": "Генерируем ассеты для FPS в стиле С.Т.А.Л.К.Е.Р. С помощью Nano Banana 2 Lite",
+   "summary": "Мы знаем как нейро-генераторы справляются с пиксельартом. А как себя покажет такая модель в генерации ассетов для игры в духе “шутер из нулевых”? За основу возьмём иконичный тайтл той эпохи S.T.A.L.K.E.R.",
+   "link": "https://habr.com/ru/companies/studyai/articles/1109500/?utm_campaign=1109500&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/bf/57/0e/bf570edbfd2ae631845babf1da53fc03.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T10:01:12+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a0266bcefd77",
+   "title": "Гендиректор Microsoft Сатья Наделла объяснил, почему компания предложила 60 тысячам сотрудников уволиться",
+   "summary": "В конце прошлого месяца директор по персоналу Microsoft Эми Коулман направила 60 тыс. сотрудникам (27% персонала) предложение добровольно уволиться за денежную компенсацию.",
+   "link": "https://habr.com/ru/articles/1109798/?utm_campaign=1109798&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7e/77/80/7e77800599140bc5d4c8d04bdfa85dd7.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-19T09:55:15+00:00",
+   "category": "other"
+  },
+  {
+   "id": "f9290afa8c09",
+   "title": "Разговоры с СТО: вайб-кодинг в банке или почему мы не уволим разработчиков и не отдадим всё ИИ",
+   "summary": "Продолжаю разговоры с СТО и публикации рассуждений об автоматизации и ИИ в банковской разработке.",
+   "link": "https://habr.com/ru/companies/svoi_ru/articles/1109790/?utm_campaign=1109790&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e4/1e/aa/e41eaac7a9d314f4c06dd7a41fe6cfe3.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T09:40:20+00:00",
+   "category": "other"
+  },
+  {
+   "id": "b1c67b5c4ec5",
+   "title": "ChatGPT и Netflix без VPN: МТС открыл зарубежные сервисы для большинства абонентов",
+   "summary": "Опция «Глобальный доступ» перестала быть привилегией владельцев премиальных тарифов Оператор МТС расширил доступность опции «Глобальный доступ», с помощью которой абоненты могут пользоваться популярными зарубежными…",
+   "link": "https://www.ixbt.com/news/2026/11/19/chatgpt-i-netflix-bez-vpn-mts-otkryl-zarubeznye-servisy-dlia-bolsinstva-abonentov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743762/media-8e2de5ad7e6a9c1a8c69dc76b1f1415e21e4ab26c3b6eb772dbe334cc9b017f3.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T09:39:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "5d7be5068330",
+   "title": "Вторая модель проверяет ответ ИИ-консультанта до отправки: как это устроено и чем за это платишь",
+   "summary": "В Konsul, моём ИИ-консультанте по сайту компании, ответ можно пропускать через вторую модель. Она сверяет каждое утверждение о компании с найденными источниками.",
+   "link": "https://habr.com/ru/articles/1109788/?utm_campaign=1109788&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/43/64/75/4364757a02b45ec513b05439fda15f05.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T09:35:15+00:00",
+   "category": "models"
+  },
+  {
+   "id": "bce84a240ce5",
+   "title": "OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months",
+   "summary": "Pulling text out of scanned books and records has gotten a lot cheaper with freely available AI models.",
+   "link": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/baidu-ocr-machine-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-19T09:28:01+00:00",
+   "category": "models"
+  },
   {
    "id": "e9bb6bedf4e0",
    "title": "Почтовый AI-ассистент на Python: текст, фото и голос через одного провайдера",
@@ -4353,160 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-16T11:00:00+00:00",
    "category": "other"
-  },
-  {
-   "id": "8a6f608b01f4",
-   "title": "AI повсюду: зачем нужен QA, если всё может делать агент?",
-   "summary": "Год назад все задавались вопросом, стоит ли применять AI в тестировании? Сейчас вопрос другой: что ему доверить и как проверить, что он сделал всё правильно.",
-   "link": "https://habr.com/ru/companies/avito/articles/1108376/?utm_campaign=1108376&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7b/1c/60/7b1c60778f69cf0e8462a9d294d5e9ff.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T10:58:59+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "285dcd430e9c",
-   "title": "MCP: «USB-порт» для ИИ-агентов и почему его нужно охранять",
-   "summary": "Еще год назад, чтобы подключить ИИ-агента к CRM, почте или базе данных, под каждую систему писали отдельную интеграцию.",
-   "link": "https://habr.com/ru/companies/itglobalcom/articles/1108366/?utm_campaign=1108366&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7e/e6/4b/7ee64b702284521e6faaa91e6902e050.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T10:44:21+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "de23c36f35e7",
-   "title": "Австралийский конкурс по разработке видеоигр в сфере STEM отменили из‑за ИИ",
-   "summary": "Австралийский конкурс по разработке видеоигр в сфере STEM (Australian STEM Videogame Challenge) объявил , что из‑за распространения генеративного искусственного интеллекта соревнование 2026 года станет последним.",
-   "link": "https://habr.com/ru/articles/1108346/?utm_campaign=1108346&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/d2/38/b1/d238b1b73a98ca9bfc6ba0ce4a2a274e.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T10:37:42+00:00",
-   "category": "other"
-  },
-  {
-   "id": "b7687f8c6d8b",
-   "title": "Представлена TINY 2.1 — маленькая языковая модель, которая работает под DOS на Pentium/486DX и помещается на дискету",
-   "summary": "Разработчик WollyMonjac с помощью нейросетей (Fable 5.2 и Opus 5.5) представил открытый проект TINY 2.1 — a transformer for DOS .",
-   "link": "https://habr.com/ru/articles/1108358/?utm_campaign=1108358&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7a/c1/35/7ac1352fd299b61787d2802532ec87f0.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T10:37:03+00:00",
-   "category": "models"
-  },
-  {
-   "id": "1b35dcd4ba6d",
-   "title": "Требования, экономика и ИИ: обзор INFOSTART A&PM EVENT 2026",
-   "summary": "12–14 ноября в Санкт-Петербурге прошла INFOSTART A&PM EVENT 2026.",
-   "link": "https://habr.com/ru/companies/infostart/articles/1108354/?utm_campaign=1108354&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/33/31/d6/3331d69c22e6cda377777f91d518a689.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T10:33:20+00:00",
-   "category": "other"
-  },
-  {
-   "id": "c7f97c5bb45f",
-   "title": "Агент сделал задачу. А откатить сможет? Разбор 5 докладов о надёжности AI агентов",
-   "summary": "Я посмотрел пять докладов инженеров Microsoft, Anthropic, Meta, Harvey и авторов UndoBench и EvoUndo.",
-   "link": "https://habr.com/ru/articles/1108290/?utm_campaign=1108290&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1108290/7a7a29d1984d74c07017ff962fd36ebe/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T10:23:41+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "74ef45ab7c5d",
-   "title": "Инвестиции под присмотром «Алисы»: «Т-Банк» подключил брокерские счета к ИИ",
-   "summary": "В дальнейшем интеграцию планируют дополнить торговыми операциями «Т-Банк» открыл клиентам «Т-Инвестиций» возможность подключать брокерские счета к «Алисе AI».",
-   "link": "https://www.ixbt.com/news/2026/11/16/investicii-pod-prismotrom-alisy-t-bank-podkliucil-brokerskie-sceta-k-ii.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742468/media-7189a6808b62c577864eb492d0e73a5f7f8abb957c828b3f3d0e1c43f691b2bc.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-16T10:22:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "098d3b4c9480",
-   "title": "Apple запустила приложение для изучения применения ИИ в вопросах здоровья",
-   "summary": "Apple запускает новое приложение, чтобы понять, как люди используют ИИ в сфере здравоохранения. Компания стремится изучить, насколько полезными для пользователей могут быть ответы, основанные на клинических данных.",
-   "link": "https://habr.com/ru/articles/1108334/?utm_campaign=1108334&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e1/0c/83/e10c83afe085d32fadc25460d06a6ff1.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T10:17:41+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "9ef86d066db5",
-   "title": "Project Helix останется полноценной консолью Xbox, но при этом научится запускать игры для ПК",
-   "summary": "Project Helix останется полноценной консолью Xbox, но при этом она сможет запускать игры для ПК.",
-   "link": "https://habr.com/ru/articles/1108342/?utm_campaign=1108342&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/12/b1/70/12b170732f4ffc76d49b1de6722eae4a.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T10:16:57+00:00",
-   "category": "other"
-  },
-  {
-   "id": "6619c17cbb5f",
-   "title": "Зачем ансамблю отрицательные веса: от портфельной теории до кредитного скоринга",
-   "summary": "Представим, что мы обучили две модели кредитного скоринга и хотим объединить их прогнозы. Казалось бы, всё просто: каждой модели назначаем положительный вес и получаем итоговую оценку вероятности дефолта.",
-   "link": "https://habr.com/ru/companies/alfa/articles/1108082/?utm_campaign=1108082&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/05/dd/66/05dd66d454cee1d06da3f6b8985f202c.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T09:37:05+00:00",
-   "category": "models"
-  },
-  {
-   "id": "146782b8e082",
-   "title": "«Сбер» запустил сертификацию по агентной разработке",
-   "summary": "«Сбер» открыл сертификационную программу по агентной разработке (Agentic Coding), которая оценивает навыки инженеров по управлению ИИ‑агентами.",
-   "link": "https://habr.com/ru/articles/1108300/?utm_campaign=1108300&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/dc/77/77/dc7777c2cd9858d62adabac7ad9e483f.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T09:35:55+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "f054a54f8228",
-   "title": "How Revolut raises ambition without lowering the bar",
-   "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-   "link": "https://openai.com/business/customer-stories/revolut",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-16T09:30:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3645ca3f1be4",
-   "title": "Asus представила робота Gallop, предназначенного для использования на предприятиях по производству электроники",
-   "summary": "Тайваньская Asus презентовала человекоподобного робота Gallop для автоматизации повторяющихся задач на предприятиях по производству электроники.",
-   "link": "https://habr.com/ru/articles/1108292/?utm_campaign=1108292&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/9c/9e/ea/9c9eea2563eb513e9811026f41388911.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T09:27:27+00:00",
-   "category": "other"
-  },
-  {
-   "id": "87302e3eb5d7",
-   "title": "Открытый ИИ потерял главного союзника: уход Хуанга может сыграть на руку OpenAI и Anthropic",
-   "summary": "Отставка Дженсена Хуанга (Jensen Huang) с поста генерального директора Nvidia может изменить расстановку сил на рынке.",
-   "link": "https://3dnews.ru/1151346",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151346/NVIDIA-VERA-RUBIN_02.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-16T09:14:00+00:00",
-   "category": "hardware"
   }
  ]
 }
