@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:01:38.250593+00:00",
+ "updated": "2026-11-19T01:25:55.179086+00:00",
  "categories": [
   {
    "id": "models",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,72 @@
   }
  ],
  "items": [
+  {
+   "id": "a8022fb06095",
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff.",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Microsoft-Satya-Nadella.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T00:42:56+00:00",
+   "category": "business"
+  },
+  {
+   "id": "44255eb49d7c",
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+   "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773699.jpg?resize=857,1200",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T23:45:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "20359beda098",
+   "title": "ИИ больше не эксклюзив смартфонов с большим объемом памяти: Google адаптировала Gemini для устройств с 2 ГБ ОЗУ",
+   "summary": "Gemini заработает на самых дешевых смартфонах на базе Android Go Google адаптировала приложение Gemini для устройств на базе Android Go.",
+   "link": "https://www.ixbt.com/news/2026/11/19/ii-bolse-ne-ekskliuziv-dorogix-smartfonov-google-adaptirovala-gemini-dlia-smartfonov-s-2-gb-operativnoi-pamiati.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743573/media-99322a66db95c52810c5d07837e719cd03e8c399edfb61ad8704a69a5c3a17b0.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-18T23:41:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ae30c6152bf9",
+   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+   "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-524212924.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T23:25:17+00:00",
+   "category": "other"
+  },
+  {
+   "id": "b429cb510b69",
+   "title": "The nation’s largest school districts consider ditching Google Search",
+   "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-18T23:18:35+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "ebee197c44b5",
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-18T23:17:28+00:00",
+   "category": "hardware"
+  },
   {
    "id": "f7885a7f892b",
    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
@@ -1251,6 +1317,28 @@
    "lang": "en",
    "date": "2026-11-18T08:00:00+00:00",
    "category": "other"
+  },
+  {
+   "id": "9fa731b0ef6c",
+   "title": "Research acceleration: The jagged frontier",
+   "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+   "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-18T08:00:00+00:00",
+   "category": "research"
+  },
+  {
+   "id": "b527b6f0ddce",
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+   "link": "https://openai.com/business/customer-stories/sumitomo-life",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-18T08:00:00+00:00",
+   "category": "business"
   },
   {
    "id": "15d499d94870",
@@ -4419,94 +4507,6 @@
    "lang": "en",
    "date": "2026-11-15T20:43:49+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "cc70f763eed6",
-   "title": "Apple готовит конкурента M**a Ray-Ban: очки с Siri AI будут тоньше и получат наилучшее качество звука",
-   "summary": "Apple готовит умные очки с поддержкой Siri, которые также станут частью всей экосистемы компании и составят конкуренцию очкам M**a Ray-Ban.",
-   "link": "https://3dnews.ru/1151332",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/15/1151332/65475.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-15T20:26:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "d9bb72c7b4b4",
-   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-   "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-   "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-15T20:20:57+00:00",
-   "category": "other"
-  },
-  {
-   "id": "1207b5c1c70b",
-   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-   "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-15T19:15:43+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "1c10d73ade79",
-   "title": "На PlayStation 4 запустили ИИ-модель Qwen3.5-9B с 9 млрд параметров",
-   "summary": "У консоли всего 8 ГБ унифицированной памяти PlayStation 4 вышла в далёком 2013 году, но это не помешало энтузиасту Леонардо Алегрия создать проект, который позволяет запускать на этой консоли ИИ-модель с 9 млрд…",
-   "link": "https://www.ixbt.com/news/2026/11/15/na-playstation-4-zapustili-ii-model-qwen35-9b-s-9-mlrd-parametrov.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741972/media-818ac30aa68921fbb95ec71da56bfda37df61c3238071c330c3a9aae9d198e8d.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-15T18:28:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3c6cd27f8421",
-   "title": "Массовая декомпиляция игр и ПО",
-   "summary": "Нейронные модели сильно повлияли на программную разработку, информационную безопасность и смежные отрасли.",
-   "link": "https://habr.com/ru/companies/globalsign/articles/1108102/?utm_campaign=1108102&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/2a/06/12/2a061258c32cf50dbd0cb5f38ac02bb7.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-15T17:32:06+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3b635ebc0d23",
-   "title": "ИИ научился предсказывать внезапную смерть — он обнаружил сигнал в обычной ЭКГ, который стандартный скрининг пропускает",
-   "summary": "Разница в результатах измеримая: в выделенной алгоритмом группе годовая частота внезапной сердечной смерти составила 7% против 4,6% у группы, выявляемой традиционными методами Учёные из Калифорнийского университета в…",
-   "link": "https://www.ixbt.com/news/2026/11/15/ii-naucilsia-predskazyvat-vnezapnuiu-smert-on-obnaruzil-signal-v-obycnoi-ekg-kotoryi-standartnyi-skrining-propuskaet.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1741938/media-47454e3d180147b1a4191319307006fa10681d6e341ca95cba19e11550f7ffdc.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-15T17:16:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "6923729093f3",
-   "title": "Экономика идей в эпоху вайб-кодинга — почему код подешевел, а бизнес нет",
-   "summary": "Частная клиника платит больше 4 миллионов рублей в год за white-label приложение, аналог DocDoc. Обновления есть, кастомизация ограничена.",
-   "link": "https://habr.com/ru/articles/1108084/?utm_campaign=1108084&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/cd/5c/91/cd5c91016e2ebd4506c3b15e6c4053e0.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-15T16:31:12+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "708d7bad7f85",
-   "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
-   "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do.",
-   "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-15T15:42:03+00:00",
-   "category": "models"
   }
  ]
 }
