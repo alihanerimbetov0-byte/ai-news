@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T07:30:07.992300+00:00",
+ "updated": "2026-11-19T09:18:13.472844+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 13
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 4
+   "count": 9
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,270 @@
   }
  ],
  "items": [
+  {
+   "id": "e9bb6bedf4e0",
+   "title": "Почтовый AI-ассистент на Python: текст, фото и голос через одного провайдера",
+   "summary": "Разбираем основные механики ИИ-агентов на Python на примере почтового ассистента с веб-интерфейсом на FastAPI и OpenAI Agents SDK. Подключаем текст, изображения, распознавание и синтез речи через одного провайдера.",
+   "link": "https://habr.com/ru/articles/1109558/?utm_campaign=1109558&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/2a/96/d5/2a96d511bd2f67e95c9cc0c5326db52e.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T09:16:08+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "2e0f9f5c9a5e",
+   "title": "Экран на 360 градусов, ИИ внутри: представлен ноутбук-трансформер Tecno Megabook T15 360 Pro",
+   "summary": "От 118 тысяч рублей Tecno представил Megabook T15 360 Pro — первый ноутбук бренда с поворотным на 360 градусов экраном.",
+   "link": "https://www.ixbt.com/news/2026/11/19/ekran-na-360-gradusov-ii-vnutri-predstavlen-noutbuk-transformer-tecno-megabook-t15-360-pro.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743748/media-e7ee35ef8c882a981f5dd3a9a7248fb18b1be7caa7e5f64290db8a15e693a410.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T09:15:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "bfab92884948",
+   "title": "Google представил Gemini 4 Neon — четвёртую модель семейства Gemini 4",
+   "summary": "Google выпустил Gemini 4 Neon.",
+   "link": "https://habr.com/ru/companies/gptunnel/articles/1109770/?utm_campaign=1109770&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4d/bb/2a/4dbb2a5e00d329ce3d0b4fe466d084ad.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T09:13:01+00:00",
+   "category": "models"
+  },
+  {
+   "id": "11239930ef25",
+   "title": "Что почистить в Claude Code после того, как вас забанили",
+   "summary": "Разбираю структуру файлов Claude Code: что хранится в ~/.claude.json (userID, machineID, oauthAccount), где лежат токены доступа и резервные копии.",
+   "link": "https://habr.com/ru/articles/1109732/?utm_campaign=1109732&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1109732/7f55a359e48470681159fd424b778e3c/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T09:04:05+00:00",
+   "category": "models"
+  },
+  {
+   "id": "996c2cf7bbbd",
+   "title": "Google выпустила Gemini 4 Neon — почти флагманский рассуждающий ИИ стал быстрее и дешевле",
+   "summary": "Следом за выпущенными ранее ИИ-моделями Gemini 4 Carbon и Hydrogen компания Google представила Gemini 4 Neon.",
+   "link": "https://3dnews.ru/1151522",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151522/521.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T08:58:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2b521a94ffc2",
+   "title": "Ваш вайбкод станет безопаснее: научили бесплатный плагин PT AI проверять код за ИИ",
+   "summary": "Писать код вместе с ИИ быстро и удобно, но про безопасность агенты думают не всегда. По данным Veracode, почти в половине задач модели выдавали код с известными уязвимостями.",
+   "link": "https://habr.com/ru/companies/pt/articles/1109758/?utm_campaign=1109758&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/13/8e/cc/138ecc52b639a7e8af0a755a78c3c039.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T08:56:21+00:00",
+   "category": "models"
+  },
+  {
+   "id": "7b437a6cebc6",
+   "title": "ИИ-агенты с нуля: бесплатные курсы и демо, чтобы собрать первого агента",
+   "summary": "Собрали семь бесплатных входов в ИИ-агентов: пять демо по пять дней и два курса в своём темпе.",
+   "link": "https://habr.com/ru/companies/netologyru/articles/1109754/?utm_campaign=1109754&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/42/71/28/427128455e7bdadb9469f5547f426dd2.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T08:50:45+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "d234984c0b2e",
+   "title": "«Просто ужасно»: ИИ-агент M**a Muse сам влез в переписки Signal — и это лишь одна из его пугающих проблем",
+   "summary": "M**a делает большую ставку на ИИ-агента Muse, но его несанкционированные действия вызывают обеспокоенность среди сотрудников компании.",
+   "link": "https://3dnews.ru/1151521",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151521/1.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T08:45:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "17ba096973a4",
+   "title": "Рекорд SpaceX побит: Anthropic провела крупнейшее IPO в истории и привлекла $81,3 млрд",
+   "summary": "Anthropic и семеро её учредителей в ходе расширенного первичного публичного размещения акций и частного размещения привлекли рекордные $107,3 млрд.",
+   "link": "https://3dnews.ru/1151520",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151520/anthropic_2.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T08:39:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "e9e0e4854ca9",
+   "title": "ИИ OpenAI оптимизировал графический чип AMD на 14 % — годовую работу инженеров нейросеть выполнила за пять месяцев",
+   "summary": "OpenAI рассказала о прогрессе в использовании своих моделей искусственного интеллекта при разработке процессоров.",
+   "link": "https://3dnews.ru/1151518",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151518/ai-chip.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T08:33:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f6253f57956f",
+   "title": "Жизнь после бана от Anthropic",
+   "summary": "Утром письмо от Anthropic о блокировке. Вечером первое сообщение агенту на новом аккаунте. Между ними 13 часов, за которые решалось, придется ли объяснять все заново.",
+   "link": "https://habr.com/ru/articles/1109724/?utm_campaign=1109724&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/67/0d/4f/670d4fd9c8f8c8918a9e55c460f821ab.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T08:29:35+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "a90afea54400",
+   "title": "Калифорния подала в суд на OpenAI из-за атаки ИИ-агентов на Hugging Face и 80 инцидентов с безопасностью",
+   "summary": "Генпрокурор обвиняет компанию в тестах опасных ИИ-моделей без достаточного контроля Генеральный прокурор Калифорнии Роб Бонта подал иск против OpenAI в Высший суд Сан-Франциско.",
+   "link": "https://www.ixbt.com/news/2026/11/19/kaliforniia-podala-v-sud-na-openai-iz-za-ataki-ii-agentov-na-hugging-face-i-80-incidentov-s-bezopasnostiu.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743718/media-45cb727051dcbe410c2ec0329cdce1f249a12c3349f9700b0539ffafe5550f54.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T08:24:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "319471135082",
+   "title": "Трактат о применении машинного разума в функциональном тестировании на примере Warhammer 40 000",
+   "summary": "Приветствую, адепты машинного разума! Меня зовут Роман Поляков — я инженер по тестированию в «Т1 Иннотех». Возможно, вы уже знакомы с моей предыдущей работой « Путь QA-самурая.",
+   "link": "https://habr.com/ru/companies/T1Holding/articles/1105508/?utm_campaign=1105508&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f6/e1/01/f6e101ed563404c5a2997c3d27f6c702.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-19T08:21:40+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "5f3ec07e78ab",
+   "title": "Как научить BERT «понимать» науку: гибридная классификация научно‑технических текстов с графами знаний",
+   "summary": "Научных публикаций становится экспоненциально больше. Вручную рубрицировать и индексировать их уже невозможно, поэтому острая потребность в автоматической классификации очевидна.",
+   "link": "https://habr.com/ru/articles/1109736/?utm_campaign=1109736&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1109736/5ff87e084aeeaab18cdf7c0a5b5b210d/",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-19T08:15:50+00:00",
+   "category": "research"
+  },
+  {
+   "id": "d9d69d5e4fd8",
+   "title": "«Ъ»: МТС и VisionLabs столкнулись с прекращением услуг по разметке данных от «Яндекса»",
+   "summary": "«Яндекс» объявил о приостановке оказания услуг «Яндекс Заданий» по разметке данных под ключ для внешних заказчиков. С этим столкнулись «дочки» МТС MWS AI и VisionLabs.",
+   "link": "https://habr.com/ru/articles/1109730/?utm_campaign=1109730&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/76/6c/f3/766cf3a8f5b4fc9f4bdf985cff926f66.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T08:14:05+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ace540269215",
+   "title": "Банковские руководители и АНБ представили в Конгрессе объяснение массовых сбоев, связанное с новой проблемой ИИ",
+   "summary": "На закрытой встрече представители банковского сектора и спецслужбы объяснили, почему поиск слабых мест с помощью ИИ создаёт новую проблему для кибербезопасности За последние дни в США произошла серия крупных технических…",
+   "link": "https://www.ixbt.com/news/2026/11/19/bankovskie-rukovoditeli-i-anb-predstavili-v-kongresse-obieiasnenie-massovyx-sboev-sviazannoe-s-novoi-problemoi-ii.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743714/media-cd37789a9acea5127d8fec27964831a42399b0cdbd11fe3f9b0fa418c7d1122f.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T08:10:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "914594362826",
+   "title": "Жаловаться на дождь можно, ссориться нельзя: «Яндекс» запустил городские чаты с ИИ-модерацией",
+   "summary": "Сервис доступен более чем в 20 городах России В «Яндекс Погоде» появились городские чаты «Стены добра», в которых жители могут публиковать фотографии, делиться приятными событиями и общаться с соседями.",
+   "link": "https://www.ixbt.com/news/2026/11/19/zalovatsia-na-dozd-mozno-ssoritsia-nelzia-iandeks-zapustil-gorodskie-caty-s-ii-moderaciei.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743713/media-7e7f27c24aab82c41c5d5ee9fad00d1978fb776ad5bb94fecb29645718ee912e.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T08:09:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "3f9c379edc99",
+   "title": "Anthropic провела крупнейшее IPO в истории",
+   "summary": "Компания Anthropic установила цену своего IPO на уровне $83 за акцию — выше первоначального диапазона в $70–78.",
+   "link": "https://habr.com/ru/articles/1109704/?utm_campaign=1109704&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a7/24/18/a724183b35b6608b9eb1699aed02646a.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T08:07:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "1a2b42464037",
+   "title": "Свой ИИ-агент: пошаговое руководство для новичков",
+   "summary": "LLM стали привычным инструментом: кто-то использует их как продвинутый поиск, кто-то просит объяснить сложную тему, написать код или накидать идей.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1109694/?utm_campaign=1109694&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ca/98/22/ca9822cd86a6e86e500da9e519d92820.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-19T08:01:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d4d07fa02d33",
+   "title": "Федеральный суд по делам о банкротстве в США одобрил продажу данных авиакомпании Spirit Airlines корпорации Google",
+   "summary": "Федеральный суд по делам о банкротстве в Нью‑Йорке одобрил продажу внутренних бизнес‑данных бюджетной авиакомпании Spirit Airlines корпорации Google за $10 млн, пишет Reuters.",
+   "link": "https://habr.com/ru/articles/1109718/?utm_campaign=1109718&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/32/45/ac/3245aca502e8689bb95ef6d86dee3427.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-19T07:59:12+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "701930956a49",
+   "title": "Агентный RAG на JVM: как устроен Смысл.ИИ",
+   "summary": "Разбор B2B-системы Смысл.ИИ: агентный RAG на Kotlin/JVM. Вопрос по корпоративным документам — ответ с опорой на материалы и источники.",
+   "link": "https://habr.com/ru/articles/1109712/?utm_campaign=1109712&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8a/67/16/8a6716e05d4327451f6befcbaa7c9023.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T07:55:48+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "598f45164ac2",
+   "title": "Обвинённый в использовании ИИ для списывания студент скончался в Южной Корее",
+   "summary": "Ранее он оказался в центре скандала В Южной Корее скончался 32-летний Ли Джин-у, получивший высший балл на вступительном экзамене для поступления в юридическую школу.",
+   "link": "https://www.ixbt.com/news/2026/11/19/obvinennyi-v-ispolzovanii-ii-dlia-spisyvaniia-student-skoncalsia-v-iuznoi-koree.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743702/media-0e24271ba67461da4dd279237db90b03220f2ce5d71ef1a2b0acd5b6621910b9.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T07:52:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "734503e01bb6",
+   "title": "Anthropic провела крупнейшее IPO в истории: разработчика Claude оценили в $1,5 трлн",
+   "summary": "Помимо IPO на $81,3 млрд, Anthropic привлекает ещё $26 млрд в частном размещении. Общий объём сделки — $107,3 млрд. Рассказываю, почему это важно. И удивительно. Официальные условия IPO Anthropic",
+   "link": "https://habr.com/ru/articles/1109708/?utm_campaign=1109708&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/84/fd/21/84fd212e0926302de4acb87cf22d81f9.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T07:50:48+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ebe2712f4369",
+   "title": "Тесты как промпт: подход TDD при работе с ИИ-агентом",
+   "summary": "Всем привет. Меня зовут Егор Гурин, я Go-разработчик из МТС Web Services. В предыдущем тексте я рассказывал о Document Driven Development.",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1108716/?utm_campaign=1108716&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/40/41/18/4041183a786ba4eb064a3b14fa703a12.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T07:32:57+00:00",
+   "category": "tools"
+  },
   {
    "id": "d19fabdef2c1",
    "title": "Ограничение данных для российских моделей приведет к потере их конкурентного преимущества",
@@ -4243,270 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-16T09:14:00+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "f5faf0b6d7d8",
-   "title": "ИИ пишет код, CI стоит в очереди, а KMP работает за двоих",
-   "summary": "Мобильная разработка давно уже не только про Android и iOS. Теперь ещё и за нейронками надо поспевать, с KMP дружить и инфраструктуру мониторить, чтобы не легла от внезапно выросшей продуктивности команды.",
-   "link": "https://habr.com/ru/companies/X5Tech/articles/1106612/?utm_campaign=1106612&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/78/d9/94/78d994535cbaa4ad494ef7e577810e1c.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T09:11:36+00:00",
-   "category": "other"
-  },
-  {
-   "id": "2470a1a0375e",
-   "title": "У нас есть Claude дома — заметка о том, как я делал быстрый и дешёвый локальный LLM",
-   "summary": "Берём видеокарту RTX 5060 Ti 16 ГБ, 64 ГБ быстрой DDR5 памяти, запускаем небольшую Qwen3.8 27B Q3 во всю vram, с околонулевым контекстом, получаем неплохую скорость, пишем сапёр/змейку — и оно работает.",
-   "link": "https://habr.com/ru/companies/ruvds/articles/1106678/?utm_campaign=1106678&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/fa/f9/48/faf94854df9bb36664c780b525e88042.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T09:01:35+00:00",
-   "category": "models"
-  },
-  {
-   "id": "91e58e2ea930",
-   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-   "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-   "link": "https://openai.com/index/lvmh-media-division-partnership",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-16T09:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "0d039c324d6d",
-   "title": "Amazon представила технологию Prime 360 для трансляций НБА",
-   "summary": "Amazon внедрит новую систему камер на базе искусственного интеллекта перед началом второго сезона трансляций баскетбольных матчей на платформе Prime Video. Они позволят воссоздавать игровой эпизод в виде 3D‑сцены.",
-   "link": "https://habr.com/ru/articles/1108250/?utm_campaign=1108250&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/0b/a1/3a/0ba13abfab931b501b2c5f5e3f88f427.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T08:27:32+00:00",
-   "category": "other"
-  },
-  {
-   "id": "a30cbea73673",
-   "title": "Нужен ли собственный шлюз поверх OpenAI API BotHub",
-   "summary": "Если вы пользуетесь API моделей, то могли столкнуться с вопросом — прямой вызов API через OpenAI-совместимый шлюз или создать свою прослойку?",
-   "link": "https://habr.com/ru/companies/bothub/articles/1108246/?utm_campaign=1108246&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/4d/df/7e/4ddf7e33b57a15663fcec6fc7f4cb4b9.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T08:07:56+00:00",
-   "category": "models"
-  },
-  {
-   "id": "03e016174203",
-   "title": "Google представила два новых TPU для ИИ-агентов и защищенных вычислений",
-   "summary": "Google расширила восьмое поколение своих ИИ-ускорителей двумя новыми системами — TPU 8tx и TPU 8i Max.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1108192/?utm_campaign=1108192&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ca/1f/78/ca1f7812037d5b2602bbd3a1caa9bb56.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T08:00:30+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "ebd9eb949639",
-   "title": "Our first phase of embedded assessments",
-   "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-   "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-16T08:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "015a1deec213",
-   "title": "AI-агент для разработки интеграций на DATAREON Platform: практика внедрения dtrn-mcp в «УралАгроГрупп»",
-   "summary": "Покажем, как получить в команду разработчика интеграций, который работает 24/7, помнит всю историю проекта и не выходит за пределы закрытого контура.",
-   "link": "https://habr.com/ru/companies/w_code/articles/1108222/?utm_campaign=1108222&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c5/f4/59/c5f459e5f8df098ed017652d9d0bd05b.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T07:38:07+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "5ed570a3e037",
-   "title": "Руководители технологических компаний подписали петицию с требованием вернуть Дженсена Хуанга на пост гендира Nvidia",
-   "summary": "Илон Маск, Тим Суини и ряд других руководителей технологических компаний подписали петицию с требованием вернуть Дженсена Хуанга на пост генерального директора Nvidia. В настоящему момент петиция собрала более 172 тыс.",
-   "link": "https://habr.com/ru/articles/1108218/?utm_campaign=1108218&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/46/a9/39/46a9393211fc55fda9d2e32b99d23c19.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T07:35:03+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "3e3f344a5c38",
-   "title": "Нейросеть на железе со свалки, или Как Bonsai 2 27B проиграла Qwen3 8B",
-   "summary": "У меня было 8 гигабайт видеопамяти на старой майнинговой NVIDIA P104-100 семнадцатого года, древний i7-3770 родом из двенадцатого, знающий только AVX, ровно 15,5 гигабайта оперативной памяти, NVMe-накопитель и HDD — его…",
-   "link": "https://habr.com/ru/companies/ru_mts/articles/1107236/?utm_campaign=1107236&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c2/e2/93/c2e29323ed94d6910a0997db71f9db7e.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T07:10:25+00:00",
-   "category": "models"
-  },
-  {
-   "id": "ad677e857281",
-   "title": "Как меняется CAPTCHA в эпоху ИИ",
-   "summary": "Каждый свой рабочий день я начинаю не с чашки кофе, а со всплывающей сетки из картинок. Надпись снизу просит меня выбрать все светофоры на иллюстрации. Я кликаю.",
-   "link": "https://habr.com/ru/companies/ruvds/articles/1106182/?utm_campaign=1106182&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a5/15/1b/a5151b292c6785405b7441f67ed40419.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T07:01:24+00:00",
-   "category": "other"
-  },
-  {
-   "id": "c0e9d0491819",
-   "title": "Как мы с ИИ искали антиэнтропию и куда он меня завёл",
-   "summary": "Это рассказ о домашнем проекте, который вырос из одного вопроса к нейросети. Полгода, два стенда, десятки плат ESP32, одна найденная ошибка и пока честный ноль в результатах.",
-   "link": "https://habr.com/ru/articles/1108196/?utm_campaign=1108196&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/0c/60/92/0c6092a5af227b8230579f6c835eea68.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T06:50:03+00:00",
-   "category": "other"
-  },
-  {
-   "id": "175244a76663",
-   "title": "sd.cpp вместо Forge Neo: что умеют девять моделей на 16 и 8 ГБ",
-   "summary": "Stable-diffusion.cpp: один бинарник на C++ вместо гигабайтов Python, модели в GGUF под 8 и 16 ГБ видеопамяти. Заодно сравнил девять локальных моделей на одних и тех же промптах — скорость, быстрый режим.",
-   "link": "https://habr.com/ru/articles/1108188/?utm_campaign=1108188&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/29/26/19/2926199eb002fea087d7f366d9f40feb.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T06:35:31+00:00",
-   "category": "models"
-  },
-  {
-   "id": "2b9088357a1f",
-   "title": "У SOC отобрали время: ИИ-агент оставил защите вдвое меньше времени на реакцию",
-   "summary": "Алерт пришёл в 03:12. Дежурный L1 открыл его в 03:30, увидел подозрительный запрос к веб-порталу и пошёл смотреть соседние события. К этому моменту всё уже закончилось.",
-   "link": "https://habr.com/ru/articles/1108186/?utm_campaign=1108186&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/62/ce/4a/62ce4a4b9c344130309b94f6bc12993d.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T06:28:57+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "7435e226484e",
-   "title": "Представлен SSD Orico FlashMem FM9800, оптимизированный для работы с ИИ",
-   "summary": "Накопитель PCIe 5.0 получил специальную область для хранения весов ИИ-моделей и промежуточных данных Компания Orico представила твердотельный накопитель FlashMem FM9800, предназначенный в том числе для работы с…",
-   "link": "https://www.ixbt.com/news/2026/11/16/predstavlen-ssd-orico-flashmem-fm9800-optimizirovannyi-dlia-raboty-s-ii.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742196/media-f64540eedef130c6bc9a24aad2d18a27f24b93d49b3694921bc48a84c5645503.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-16T06:25:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "48f2f75270c4",
-   "title": "Samsung готовит Galaxy Claw: искусственный интеллект научится самостоятельно выполнять задачи на смартфоне",
-   "summary": "Новая функция Galaxy AI сможет управлять приложениями, отправлять сообщения и создавать расписания автоматических действий Samsung готовит новую функцию Galaxy Claw для платформы Galaxy AI, которая позволит…",
-   "link": "https://www.ixbt.com/news/2026/11/16/samsung-gotovit-galaxy-claw-iskusstvennyi-intellekt-naucitsia-samostoiatelno-vypolniat-zadaci-na-smartfone.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742190/media-003f4aba14f59b0462f02ab88b78bf4730772b49af21253cc8ed8455f7f12a50.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-16T06:14:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "4c26d88e89dc",
-   "title": "Браузерный онлайн-шутер «руками» ИИ-агента",
-   "summary": "Приветствую всех, в первую очередь тех, кто хочет почитать статью без нейрослопа , написанную руками, как это было когда-то раньше, а так же всех, кто ищет вдохновение на свой проект или просто зашел почитать про мой…",
-   "link": "https://habr.com/ru/articles/1108052/?utm_campaign=1108052&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/45/44/25/454425a8554e626087f7481cce85cb80.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T06:03:19+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "a8e481142d3b",
-   "title": "Как проверить реальную эффективность ИИ-автоматизации",
-   "summary": "Вы внедрили ИИ в отдел аналитики. Сотрудники начали готовить документы втрое быстрее, руководство довольно, в презентациях появляются красивые цифры об экономии рабочего времени.",
-   "link": "https://habr.com/ru/articles/1108026/?utm_campaign=1108026&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/43/79/b2/4379b25e88dab7fde9b8e232ff333606.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T06:01:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "b0ded74e06b0",
-   "title": "Advancing computer-use agents for healthcare teams",
-   "summary": "",
-   "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-16T06:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "cfcc7acb02e9",
-   "title": "More ways to move care forward with ChatGPT for Healthcare",
-   "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-   "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-16T06:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "03917129c05b",
-   "title": "Alibaba выпустили Qwen4-Max",
-   "summary": "Alibaba представили Qwen4-Max , новую флагманскую модель с контекстом на 1 млн токенов и поддержкой изображений. В тестах команды она расходует до 50% меньше токенов, чем Qwen3.8-Max.",
-   "link": "https://habr.com/ru/articles/1108180/?utm_campaign=1108180&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/50/eb/cb/50ebcbe410a9f435579adfad29cc50ad.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T05:49:14+00:00",
-   "category": "models"
-  },
-  {
-   "id": "5e0ea848e030",
-   "title": "Уволили специалистов ради ИИ. А кто через пять лет будет ставить ему задачи?",
-   "summary": "Компании увольняют маркетологов, SEO-специалистов и программистов и отдают их работу ИИ-агентам. Расчёт простой: когда мода на ИИ пройдёт, людей можно будет нанять обратно за пару недель. Я в это не верю.",
-   "link": "https://habr.com/ru/articles/1108164/?utm_campaign=1108164&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/62/66/6a/62666a7046a3ab5701a76984b2e33ad1.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T05:00:15+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "a6c7a938b2ba",
-   "title": "Дообучать LLM или дать ей документы: сначала выясните, что сломалось",
-   "summary": "«Давайте дообучим модель на наших данных» — эту фразу я слышу почти в каждом разговоре о внедрении LLM. Обычно к этому моменту лечение уже выбрано, а диагноза ещё нет. Допустим, агент ошибся в условиях возврата товара.",
-   "link": "https://habr.com/ru/articles/1107846/?utm_campaign=1107846&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/eb/97/8a/eb978a338db956b6a893d8d8133fee2c.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T05:00:14+00:00",
-   "category": "models"
-  },
-  {
-   "id": "77828770ffb5",
-   "title": "Apple launches new app to study how people use AI for health",
-   "summary": "Apple's new app for a study will answer everyday medical questions",
-   "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T01:30:00+00:00",
-   "category": "research"
   }
  ]
 }
