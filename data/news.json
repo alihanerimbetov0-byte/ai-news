@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:09:03.708386+00:00",
+ "updated": "2026-11-19T17:16:26.868776+00:00",
  "categories": [
   {
    "id": "models",
@@ -49,7 +49,7 @@
   {
    "source": "Google AI",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "source": "Hugging Face",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "source": "OpenAI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,204 @@
   }
  ],
  "items": [
+  {
+   "id": "2464c2d8c1ae",
+   "title": "Профессор Фортран в SVG: как ИИ-агент нарисовал иллюстрации к моей книге на Python",
+   "summary": "Как-то в детстве мне в руки попалась невероятно яркая книжка — «Энциклопедия профессора Фортрана».",
+   "link": "https://habr.com/ru/articles/1110036/?utm_campaign=1110036&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3a/a8/78/3aa8783ff433d6996c61143085d4fe41.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T17:08:11+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "af01a4700c7b",
+   "title": "Европейский облачный провайдер выпустил 55 новых ИИ-продуктов и расширяет инфраструктуру на Blackwell и Rubin",
+   "summary": "OVHcloud заявляет о масштабах инфраструктуры, рассчитанной на десятки тысяч ускорителей Французская OVHcloud объявила о запуске 55 новых продуктов для облачных вычислений и искусственного интеллекта.",
+   "link": "https://www.ixbt.com/news/2026/11/19/evropeiskii-oblacnyi-provaider-vypustil-55-novyx-ii-produktov-i-rassiriaet-infrastrukturu-na-blackwell-i-rubin.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743878/media-d0976a06a302fdc23af4b55c01538e70643387fef8e4efada9d18bd4fb007b9f.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T17:05:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "55aef2caa97f",
+   "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
+   "summary": "Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese customers.",
+   "link": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/us_vs_china_open_models.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-19T17:02:41+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "c3e7758a2373",
+   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+   "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+   "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
+   "source": "Google AI",
+   "lang": "en",
+   "date": "2026-11-19T17:00:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "27f297a759c1",
+   "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+   "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+   "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T17:00:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "2a01bbcb107b",
+   "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+   "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+   "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+   "image": "https://media.wired.com/photos/6aff2988bee7350f3da10056/master/pass/GettyImages-2229158642.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-19T17:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "d680d8751ecd",
+   "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+   "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+   "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T16:59:23+00:00",
+   "category": "business"
+  },
+  {
+   "id": "d0946e26531a",
+   "title": "Anthropic starts trading on Wall Street",
+   "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305334560.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19T16:52:01+00:00",
+   "category": "other"
+  },
+  {
+   "id": "d8c47134cd5b",
+   "title": "ИИ-модель запустили на оптическом процессоре: немецкая компания Q.ANT представила фотонный процессор NPU Gen 2+",
+   "summary": "На выставке SC26 компания продемонстрировала гибридную систему с GPU AMD, в которой языковая модель использует оптические вычисления для замены одной из ресурсоёмких частей механизма внимания Немецкая компания Q.ANT…",
+   "link": "https://www.ixbt.com/news/2026/11/19/ii-model-zapustili-na-opticeskom-processore-nemeckaia-kompaniia-qant-predstavila-fotonnyi-processor-npu-gen-2.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743872/media-70584faa6d090f39059dc9877aa14ca26b27336fe395359ba2108ddc8a31bcba.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T16:48:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "44d2385c83c4",
+   "title": "Бизнес обяжут платить по 50 рублей за каждый запрос к МВД: как теперь проверять паспорта клиентов",
+   "summary": "Российский бизнес может получить новый счет за борьбу с мошенничеством. По данным материала Forbes, правительство поддержало плату за обращения к базам МВД – 50 рублей за каждый завершенный сеанс обмена информацией.",
+   "link": "https://habr.com/ru/companies/smartengines/articles/1110026/?utm_campaign=1110026&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/5b/bd/84/5bbd847e1b3b3cd35b0b1e5a3ebc4e6e.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T16:40:36+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "adaa82271d5f",
+   "title": "Карта сайта для ИИ-агента: Markdown, граф ссылок и первые замеры",
+   "summary": "ИИ-агенту может потребоваться несколько страниц, чтобы найти ответ на простой вопрос. Можно ли дать ему более короткий маршрут?",
+   "link": "https://habr.com/ru/articles/1109612/?utm_campaign=1109612&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e9/35/ce/e935ce46c1b38faf38decfeb45001f85.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T16:31:55+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "b80c1a82c17c",
+   "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+   "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+   "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-19T16:19:41+00:00",
+   "category": "business"
+  },
+  {
+   "id": "a9dc4e0c90c7",
+   "title": "Рандомные AI факты вам от меня",
+   "summary": "Написал 21 случайную AI мысль Вот вам несколько, остальные в посте 💌 Если вы пытаетесь воссоздать оргструктуру из AI агентов, то либо вы гений и очень хорошо понимаете, зачем это нужно и как работает.",
+   "link": "https://habr.com/ru/articles/1110008/?utm_campaign=1110008&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b4/9b/93/b49b93235232748611eebd680aa87c09.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T16:13:41+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "13f10f7c416f",
+   "title": "Преодолевая звуковой барьер в разработке ПО с ИИ",
+   "summary": "В статье рассматривается, как организовать разработку программного обеспечения с ИИ-помощниками, чтобы ускорение реализации не приводило к потере управляемости проекта.",
+   "link": "https://habr.com/ru/articles/1108644/?utm_campaign=1108644&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b5/f7/97/b5f7973303da98f7538cf448c9593977.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T15:54:29+00:00",
+   "category": "other"
+  },
+  {
+   "id": "03eb9aa47908",
+   "title": "Хакеры 10 дней атаковали системы Еврокомиссии с помощью ИИ — под угрозой личные данные чиновников",
+   "summary": "Внутренние кадровые системы Европейской комиссии подверглись кибератаке, из-за чего её сотрудники не имели доступа к Sysper — внутренней кадровой платформе. Атака длилась около 10 дней.",
+   "link": "https://3dnews.ru/1151546",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151546/alexandre-lallemand-Pcs3mOL14Sk-unsplash.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T15:53:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c6eb8db14305",
+   "title": "Пишет ли локальная модель бэкенд по правилам проекта: 4 модели, 2 харнесса, 24 прогона",
+   "summary": "Локальные модели с открытыми весами всё чаще предлагают как замену облачным в агентной разработке, поскольку код не уходит наружу, а цена не зависит от чужих тарифов.",
+   "link": "https://habr.com/ru/companies/airi/articles/1102720/?utm_campaign=1102720&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/21/49/97/214997b3d00fb6306cd4a0ab4d322053.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T15:32:01+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2600860578f3",
+   "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+   "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg?quality=90&strip=all&crop=8.4734375%2C20.737347294939%2C85.1578125%2C79.262652705061&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19T15:16:45+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "46d6a1ada4d1",
+   "title": "GTA 6 вышла: $1+ млрд, почти 5000 человек и 13 лет разработки. Разбираем, что внутри",
+   "summary": "Игровую индустрию в 2026 году трясло: закрытия студий, сокращения… И тут выходит игра за $1+ млрд, которую 13 лет делали почти 5000 человек . Стоило ли оно того?",
+   "link": "https://habr.com/ru/companies/gptunnel/articles/1109986/?utm_campaign=1109986&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/42/0f/f8/420ff88ec17be8327f77a8a9ffe834c2.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T15:10:26+00:00",
+   "category": "business"
+  },
   {
    "id": "c990fb121000",
    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
@@ -4309,204 +4507,6 @@
    "lang": "en",
    "date": "2026-11-16T17:00:00+00:00",
    "category": "tools"
-  },
-  {
-   "id": "63e5e5cd2656",
-   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
-   "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T17:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9c9fe7afd068",
-   "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
-   "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts.",
-   "link": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-16T16:56:04+00:00",
-   "category": "models"
-  },
-  {
-   "id": "1ffad9936947",
-   "title": "Jensen Huang Is Gone. Now What?",
-   "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-   "link": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-   "image": "https://media.wired.com/photos/6af78c75239676948e926fc2/master/pass/Big-Interview-UV-Solo-Katie-Lauren-Business.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-16T16:12:51+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "2e4299b08e3f",
-   "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
-   "summary": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects.",
-   "link": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-16T16:10:22+00:00",
-   "category": "models"
-  },
-  {
-   "id": "adba844aff17",
-   "title": "Building trustworthy AI by fencing it in, not predicting it",
-   "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them.",
-   "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?w=840",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-16T16:04:28+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "7903495cec0c",
-   "title": "США закручивают гайки: китайские компании больше не смогу арендовать ИИ-чипы Nvidia за рубежом без разрешения",
-   "summary": "США представили новые правила, которые должны ограничить доступ китайских компаний к передовым ИИ-ускорителям Nvidia через зарубежные дата-центры.",
-   "link": "https://3dnews.ru/1151358",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151358/nvidia_dgx_800x600.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-16T15:55:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "7163ff8dd6d1",
-   "title": "Audible turns to AI to help users discover audiobooks",
-   "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-   "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Audible_Audio_Discovery_Still.jpeg?resize=1200,824",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T15:52:19+00:00",
-   "category": "other"
-  },
-  {
-   "id": "3d4b6d586e04",
-   "title": "Веду финансы без единого пропуска уже 580 дней. Или еще один неочевидный плюс AI",
-   "summary": "До появления AI я многие привычки, которые требовали регулярной записи, бросал через 10-20 дней. Будь то учет калорий, ведение финансов или регулярный таск трекинг Например, учет финансов я пробовал вести лет с 16.",
-   "link": "https://habr.com/ru/articles/1108502/?utm_campaign=1108502&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/75/7f/bd/757fbde29683222eef58b1b17e61525d.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T15:40:56+00:00",
-   "category": "other"
-  },
-  {
-   "id": "a90d581852ea",
-   "title": "Как мы воевали с ударениями в русской TTS-озвучке: гейт перед синтезом, текстовые подмены и открытые вопросы",
-   "summary": "Делаю «Канал 15» — рацию-компаньон для Euro Truck Simulator 2: восемнадцать выдуманных дальнобойщиков болтают в эфире у игрока, отвечают на голос и запоминают его между рейсами.",
-   "link": "https://habr.com/ru/articles/1108538/?utm_campaign=1108538&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1108538/130e94496a9cfc3fa05ab6802cd74aee/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T15:38:57+00:00",
-   "category": "other"
-  },
-  {
-   "id": "ea8f4b7ee435",
-   "title": "DeepSeek ввела лимиты для бесплатных пользователей после рекордного роста нагрузки",
-   "summary": "Компания DeepSeek ужесточила лимиты использования для бесплатных пользователей своего приложения и веб-версии.",
-   "link": "https://3dnews.ru/1151359",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151359/deepseek-logo.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-16T15:26:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d8056e9f1987",
-   "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
-   "summary": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin.",
-   "link": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude-2.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-16T15:25:48+00:00",
-   "category": "models"
-  },
-  {
-   "id": "43465bb55600",
-   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-   "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-   "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/us-commerce.jpg?w=564",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T15:02:34+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "ddcd69cce1ab",
-   "title": "Alibaba представила Qwen4-Max — флагманскую ИИ-модель с 2,4 трлн параметров и запретом на кибератаки",
-   "summary": "Компания Alibaba представила свою новую флагманскую ИИ-модель Qwen4-Max. Алгоритм с 2,4 трлн параметров в процессе работы задействует лишь 71 млрд параметров на токен, а также поддерживает обработку изображений.",
-   "link": "https://3dnews.ru/1151354",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151354/519.png",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-16T15:02:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "db11e3c0cbd6",
-   "title": "Корпоративная база знаний на базе ИИ",
-   "summary": "Корпоративная база знаний на базе ИИ отвечает сотрудникам на вопросы по внутренним документам компании и показывает, откуда взят ответ. Строится она по схеме RAG — поиск нужных фрагментов плюс языковая модель.",
-   "link": "https://habr.com/ru/companies/itglobalcom/articles/1108414/?utm_campaign=1108414&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8b/21/0f/8b210f92e4ba7cc6f11bbc60bb714a7c.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T14:49:16+00:00",
-   "category": "models"
-  },
-  {
-   "id": "cc64e684881c",
-   "title": "Google Maps can now build trip itineraries with real-time details about each stop",
-   "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
-   "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T14:48:13+00:00",
-   "category": "other"
-  },
-  {
-   "id": "f9f84d943ff4",
-   "title": "Можно ли обмануть ИИ-детектор: внимание на типографику",
-   "summary": "По результатам собственного тестирования продемонстрировано существенное влияние типографики текстов на вердикт российских вузовских ИИ-детекторов",
-   "link": "https://habr.com/ru/articles/1108500/?utm_campaign=1108500&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a3/56/32/a356322882ebe5e633d4795bec3944e5.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T14:38:07+00:00",
-   "category": "other"
-  },
-  {
-   "id": "ab2ad8bee25a",
-   "title": "Harness² — новое поколение ИИ-агентов от Google Research",
-   "summary": "ИИ-агенты сейчас стремительно развиваются. Совсем недавно ИИ-агент был обычным чатом с LLM, где он творил что хотел.",
-   "link": "https://habr.com/ru/companies/bothub/articles/1108490/?utm_campaign=1108490&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/aa/c0/99/aac0994579aa2901c51c717284d31654.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T14:20:08+00:00",
-   "category": "models"
-  },
-  {
-   "id": "c0787d91eb5d",
-   "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-   "summary": "Jensen Huang is considering a comeback as Nvidia’s chief executive, as allies in Silicon Valley pressure the company’s board to reinstate him days after the tech executive resigned over reports he had affairs with a…",
-   "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-16T14:06:16+00:00",
-   "category": "hardware"
   }
  ]
 }
