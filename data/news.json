@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:10:48.036040+00:00",
+ "updated": "2026-11-19T13:29:52.916460+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 8
   },
   {
    "source": "Google AI",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "source": "OpenAI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,160 @@
   }
  ],
  "items": [
+  {
+   "id": "d1e2548d4066",
+   "title": "Мир Кузи: ИИ, который не разговаривает, а принимает решения",
+   "summary": "Decision Models — новый класс моделей искусственного интеллекта Это статья из серии «Мир Кузи». Decision Models — новый класс моделей искусственного интеллекта.",
+   "link": "https://habr.com/ru/articles/1109922/?utm_campaign=1109922&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/9f/32/7b/9f327b731dc9f2946723b03c528ca6c4.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T13:11:41+00:00",
+   "category": "models"
+  },
+  {
+   "id": "90743d4a03d1",
+   "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
+   "summary": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries.",
+   "link": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_numbers.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-19T13:08:35+00:00",
+   "category": "research"
+  },
+  {
+   "id": "029ded4e9a8f",
+   "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+   "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4.",
+   "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19T13:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "9550ce001638",
+   "title": "СУБД Jatoba теперь использует ИИ для автоматического выявления персональных данных",
+   "summary": "Мы представили новую функцию нашей кибербезопасной отечественной СУБД общего назначения «Ятоба». Система заменила ручной труд по поиску персональных данных на сканирование с помощью искусственного интеллекта.",
+   "link": "https://habr.com/ru/companies/gaz-is/articles/1109898/?utm_campaign=1109898&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/60/43/aa/6043aa513f7f7cf0db410a2fa75d6f0f.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T12:38:25+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "56836455594e",
+   "title": "Код нагенерили, а до релиза дошло только 24%. Изучаем результаты исследования",
+   "summary": "Код с помощью ИИ генерируется за считаные минуты, а обещанного ускорения команда может так и не увидеть. После генерации остаются проверка, исправления, тестирование и выпуск, на которые разработчики тратят часы.",
+   "link": "https://habr.com/ru/companies/simpleone/articles/1109878/?utm_campaign=1109878&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/97/75/81/977581ffdb991d2e0e562888fd686c7a.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T12:38:25+00:00",
+   "category": "models"
+  },
+  {
+   "id": "4c01b9ec2468",
+   "title": "[Перевод] Европа тормозит на входе, Россия буксует на выходе: почему 95% корпоративных ИИ-пилотов дают ноль в P&L",
+   "summary": "За последний год индустрия научилась виртуозно жонглировать двумя цифрами. В одном отчёте вам расскажут, что 64% продакт-менеджеров уже видят от ИИ рост продуктовых метрик.",
+   "link": "https://habr.com/ru/articles/1109892/?utm_campaign=1109892&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/23/9a/45/239a458cb3a37e3368ed719f52dc6f4f.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T12:30:27+00:00",
+   "category": "other"
+  },
+  {
+   "id": "fdfefb89d613",
+   "title": "Canva adds an AI ‘off’ button",
+   "summary": "Canva will now allow you to turn off its generative AI features.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-19T12:30:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "31b2f17aa694",
+   "title": "Слишком важна, чтобы стоить дорого, или Что случилось с Nvidia",
+   "summary": "Разбирая октябрьский обвал ИИ-акций , я предполагал, что главной точкой отсчета станет ноябрьский отчет Nvidia.",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1109816/?utm_campaign=1109816&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/07/7b/1a/077b1adcbc31339eef5932188f1785f3.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T12:15:23+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "d00e1f3b5008",
+   "title": "OpenAI ускорила разработку чипов AMD: ИИ нашёл до 14% улучшений в уже оптимизированных схемах",
+   "summary": "Часть оптимизаций AMD уже включила в проект чипа, отправленный на производство OpenAI сообщила, что её модели помогли улучшить аппаратные разработки AMD: при оптимизации ключевых блоков графического процессора удалось…",
+   "link": "https://www.ixbt.com/news/2026/11/19/openai-uskorila-razrabotku-cipov-amd-ii-nasel-do-14-ulucsenii-v-uze-optimizirovannyx-sxemax.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743829/media-6c6beb17033a8dbd17018ea85ba1976a6467c67f368b2891c9acbc9a1b05348f.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T12:09:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ef5da3888978",
+   "title": "Я обеими руками за цифровизацию, но заменять живых людей нейронками пока рано",
+   "summary": "Главная беда в том, что рынок использует LLM абсолютно диким образом .",
+   "link": "https://habr.com/ru/companies/h3llo_cloud/articles/1109868/?utm_campaign=1109868&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/be/f6/53/bef653da17b66776bf2f70ec42162c90.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-19T12:01:22+00:00",
+   "category": "models"
+  },
+  {
+   "id": "cafd31ea08c1",
+   "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+   "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+   "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+   "image": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/master/pass/Anthropic-IPO-Business-2297744238.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-19T12:00:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "22ffa0faa60c",
+   "title": "AMD купила разработчика ИИ-чипов Taalas: компания намерена ускорить инференс без традиционной высокоскоростной памяти",
+   "summary": "Технология стартапа позволяет встраивать параметры нейросети непосредственно в микросхему.",
+   "link": "https://www.ixbt.com/news/2026/11/19/amd-kupila-razrabotcika-ii-cipov-taalas-kompaniia-namerena-uskorit-inferens-bez-tradicionnoi-vysokoskorostnoi-pamiati.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743824/media-2562a2bcd760bbe32e8b38ebef8529b365d154f7f980f3e0d412755d89207903.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-19T11:58:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "df4ea1a912c5",
+   "title": "Microsoft превратила Copilot в «новую ОС для работы» — и теперь Word, Excel и PowerPoint работают прямо в ней",
+   "summary": "Гендиректор Microsoft Сатья Наделла (Satya Nadella) объявил на конференции Ignite о полноценной интеграции Word, Excel и PowerPoint в состав Copilot — системы, которую он назвал «новой операционной системой для работы».",
+   "link": "https://3dnews.ru/1151530",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151530/2.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-19T11:46:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "5f9c2add74a6",
+   "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+   "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price.",
+   "link": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-19T11:18:18+00:00",
+   "category": "models"
+  },
   {
    "id": "dbbe104113d4",
    "title": "Код пишет ИИ. Кто будет думать?",
@@ -4352,160 +4506,6 @@
    "source": "Хабр · ML",
    "lang": "ru",
    "date": "2026-11-16T13:02:25+00:00",
-   "category": "other"
-  },
-  {
-   "id": "1c239b7f1641",
-   "title": "Qwen4-Max вышла. В чем отличие от Preview версии",
-   "summary": "16 ноября, спустя всего пять дней после показа превью-версии, Alibaba выпустила полноценную флагманскую модель Qwen4-Max.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1107620/?utm_campaign=1107620&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/cc/5a/31/cc5a317f806c34055f39a6f03fb4a91c.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T13:01:12+00:00",
-   "category": "models"
-  },
-  {
-   "id": "2b2bb87b4857",
-   "title": "The Nvidia scandal isn’t slowing down",
-   "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-16T13:00:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "e6b37f5da94e",
-   "title": "Building AI that can work across the enterprise",
-   "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate.",
-   "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTRInfosysSAP-social-card.png?resize=1200,600",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-16T13:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "1306d75e5372",
-   "title": "DeepSeek ограничивает бесплатный чат: пользователи жалуются на квоты",
-   "summary": "Пользователи DeepSeek сообщают о новых ограничениях в веб-версии и приложении. После исчерпания дневной квоты сервис предлагает подождать, а длинные диалоги и сообщения теперь дополнительно ограничены.",
-   "link": "https://habr.com/ru/companies/bothub/articles/1108436/?utm_campaign=1108436&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/cb/e4/47/cbe447a45fa53176d1ddc92bf74d361d.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T12:56:28+00:00",
-   "category": "models"
-  },
-  {
-   "id": "b54b57d735bd",
-   "title": "predict_proba похож на вероятность, пока его не проверить",
-   "summary": "Модель показывает хороший ROC AUC, но её predict_proba может серьёзно искажать реальную вероятность события.",
-   "link": "https://habr.com/ru/companies/otus/articles/1105236/?utm_campaign=1105236&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/82/66/03/8266035badc2154914552e32c3250170.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T12:46:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "2580f4ff77d1",
-   "title": "Локальная LLM для кодинга в 2026: Mellum, OpenCode и AI-агенты прямо в IDE",
-   "summary": "Полгода назад я рассказывал , как запустить локальную LLM и подключить её к IDE. Статья собрала много просмотров и комментариев.",
-   "link": "https://habr.com/ru/companies/haulmont/articles/1108400/?utm_campaign=1108400&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ad/56/28/ad562875052443b75737dae0b68bcc42.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-16T12:30:54+00:00",
-   "category": "models"
-  },
-  {
-   "id": "8cd345b9ca86",
-   "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-   "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-   "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/dreamteam-co-founders.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T12:30:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "09b8d5488633",
-   "title": "Microsoft рассказала, с помощью чего попытается удержать цену консоли Project Helix следующего поколения",
-   "summary": "Microsoft делает ставку на нейронный рендеринг, чтобы справиться с ростом стоимости аппаратного обеспечения для своей консоли следующего поколения — Project Helix.",
-   "link": "https://3dnews.ru/1151351",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/16/1151351/Project-Helix.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-16T12:01:21+00:00",
-   "category": "other"
-  },
-  {
-   "id": "f891bd93f3d2",
-   "title": "Science at the Frontier: How scientists use ChatGPT",
-   "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-   "link": "https://openai.com/index/science-at-the-frontier",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-16T12:00:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "f7f1275644c4",
-   "title": "[Перевод] Деньги на ИИ иссякают",
-   "summary": "Не так давно Anthropic опубликовала заявку S-1, причем сделала это аж дважды, в черновом и чистовом вариантах. У кого-то эта публикация вызвала бешеный энтузиазм.",
-   "link": "https://habr.com/ru/articles/1103986/?utm_campaign=1103986&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/6f/fa/e1/6ffae1bfe1dd6a8a9c3967195f6f2f21.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T11:53:30+00:00",
-   "category": "other"
-  },
-  {
-   "id": "e2b1eb81c721",
-   "title": "Как я дал LLM доступ к своему ПК и… ничего не произошло (пока что)",
-   "summary": "Веб-чат с нейросетью может работать на твоём компьютере: запускать команды, читать и править файлы, смотреть на экран, а так же, работать сразу с несколькими пк. Нужно только дать ему руки и не забыть про тормоза.",
-   "link": "https://habr.com/ru/articles/1108392/?utm_campaign=1108392&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/67/66/25/6766257541a2bd1f5d35efc5a75c05c8.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T11:48:28+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9099e588f5c2",
-   "title": "Сколько стоит построить дата-центр в космосе: экономика орбитального ЦОД на 13 кВт",
-   "summary": "Дискуссия о возможности космических дата-центров сейчас крутится вокруг стоимости доставки оборудования на орбиту. Сможет ли Starship снизить её настолько, чтобы такие проекты стали экономически выгодными?",
-   "link": "https://habr.com/ru/companies/ru_mts/articles/1108316/?utm_campaign=1108316&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e4/f9/a6/e4f9a6dfa53bcfe1d34d0aec0d73d59d.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-16T11:00:44+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "242d49a88f8c",
-   "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-   "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
-   "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-   "image": "https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/master/pass/111226-Nvidia%20In%20Trouble.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-16T11:00:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "75d5907d4141",
-   "title": "Microsoft хочет наделить новую Xbox поддержкой нейронного рендеринга для снижения требований к аппаратному обеспечению",
-   "summary": "Подробностей пока нет Компания Microsoft рассказала, что активно работает над технологией нейронного рендеринга для своей будущей консоли Xbox. Что интересно, в том числе для потенциального снижения стоимости.",
-   "link": "https://www.ixbt.com/news/2026/11/16/microsoft-xocet-nadelit-novuiu-xbox-podderzkoi-neironnogo-renderinga-dlia-snizeniia-trebovanii-k-apparatnomu-obespeceniiu.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742480/media-2ae9411d25bf0475133918233818a7cacf18d1d9ddd2ec9cd67dc189d2d32766.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-16T11:00:00+00:00",
    "category": "other"
   }
  ]
