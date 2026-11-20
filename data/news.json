@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:13:56.476101+00:00",
+ "updated": "2026-11-20T13:25:41.370966+00:00",
  "categories": [
   {
    "id": "models",
@@ -49,7 +49,7 @@
   {
    "source": "Google AI",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "source": "Hugging Face",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 5
+   "count": 8
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,171 @@
   }
  ],
  "items": [
+  {
+   "id": "9ff6be549848",
+   "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+   "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks.",
+   "link": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-20T13:19:31+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "3694f3098465",
+   "title": "Nvidia выпустила компактные ПК для запуска ИИ-моделей на 120 млрд параметров без облака",
+   "summary": "RTX Spark от ASUS, Dell и MSI получили 20-ядерные процессоры Grace, графику Blackwell и до 128 ГБ объединённой памяти.",
+   "link": "https://www.ixbt.com/news/2026/11/20/nvidia-vypustila-kompaktnye-pk-dlia-zapuska-ii-modelei-na-120-mlrd-parametrov-bez-oblaka.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744256/media-081e07b77e02c589a260d9b1b66922924b286cec9c0bcba3a2ae931648902cf0.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-20T13:19:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1ef8b2bd04cf",
+   "title": "Что Apple готовит для ИИ-агентов на Mac",
+   "summary": "14 шагов вместо четырех. Столько действий, по данным Bloomberg, теперь нужно пользователю ChatGPT, чтобы разрешить стороннему инструменту управлять Mac в бете macOS 27.3.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1110360/?utm_campaign=1110360&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/24/41/d2/2441d244edf26546342e5c0a4d868600.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T13:00:24+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "628c9189170e",
+   "title": "RTX 5090, подвинься: «китайская Nvidia» обещает игровую видеокарту с рекордным объемом памяти",
+   "summary": "А еще Moore Threads обещает 64-кратный рост производительности в задачах ИИ Китайская Moore Threads опубликовала тизер новой видеокарты под кодовым названием Lushan — она, по заявлениям компании, получит рекордный объём…",
+   "link": "https://www.ixbt.com/news/2026/11/20/rtx-5090-podvinsia-kitaiskaia-nvidia-obeshhaet-igrovuiu-videokartu-s-rekordnym-obieemom-pamiati.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744252/media-aed42b1565524adb9418e03f011181ab7dc2e4bf9ee6a43f706843daf611b08d.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-20T12:59:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "45456cf6d98b",
+   "title": "Представлен ChatGPT for SNES",
+   "summary": "Разработчик Бендж Эдвардс представил проект локальной модели ChatGPT for SNES для 16-битной консоли Super Nintendo Entertainment System, вышедшей в 1990 году.",
+   "link": "https://habr.com/ru/articles/1110406/?utm_campaign=1110406&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/9c/f5/76/9cf57674e4777890a8e3ae26c70159f7.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T12:43:03+00:00",
+   "category": "models"
+  },
+  {
+   "id": "30e5d8ca4a1a",
+   "title": "[Перевод] Google представляет Gemini 4 Neon",
+   "summary": "Google представила Gemini 4 Neon для сложных задач программирования, аналитики и научных исследований. В статье собраны результаты тестов, цены Gemini API и четыре демонстрации работы модели в Google Antigravity.",
+   "link": "https://habr.com/ru/articles/1109990/?utm_campaign=1109990&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ad/63/01/ad63014a2b28cd55133d18f46e6f9070.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T12:38:06+00:00",
+   "category": "models"
+  },
+  {
+   "id": "779ccf54081c",
+   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0%2C3.8035109331691%2C100%2C92.392978133662&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-20T12:30:47+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a9082c8904fc",
+   "title": "Первый смартфон Huawei с упором на ИИ. Представлен OSTA O1 Pro: широкий, но компактный экран 6,39 дюйма, 200 Мп, 7000 мА·ч и Kirin 9030S",
+   "summary": "Первый смартфон под управлением HarmonyOS 7 AI Pioneer Edition Huawei официально представила смартфон OSTA O1 Pro на мероприятии, посвящённом запуску суббренда OSTA (он же Starlight).",
+   "link": "https://www.ixbt.com/news/2026/11/20/pervyi-smartfon-huawei-s-uporom-na-ii-predstavlen-osta-o1-pro-sirokii-no-kompaktnyi-ekran-639-diuima-200-mp-7000-mac-i-kirin-9030s.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744237/media-fb4ac6098550cd63342ff55f1692d44e1d074816cbb71c5bcca160f4b147922d.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-20T12:21:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "926da4f4b3b5",
+   "title": "ИИ на ИТ-собеседовании: зло или новая норма?",
+   "summary": "В прошлые годы использование нейросетей на технических собеседованиях практически приравнивалось к читерству. Сегодня же ситуация меняется.",
+   "link": "https://habr.com/ru/companies/kryptonite/articles/1110372/?utm_campaign=1110372&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110372/b8483b0045e8ea8c11b0804bf6599a72/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T12:03:18+00:00",
+   "category": "other"
+  },
+  {
+   "id": "d8d154b5d624",
+   "title": "ИИ не человек — и это его главное преимущество",
+   "summary": "Очередная статья цикла «Человек в мире современных технологий». начинать можно с Обезьяна с гранатой: почему нам нужен манометр, а не запрет ИИ , Спор об ИИ идёт в одной и той же колее.",
+   "link": "https://habr.com/ru/articles/1109044/?utm_campaign=1109044&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4b/7a/1e/4b7a1e7c5d9a61f0f3288d8a89f68498.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T12:00:19+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "a64a68044c39",
+   "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+   "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+   "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+   "image": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-20T12:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "0c625e8bda60",
+   "title": "«Узел тоски по миру»: как я подружила OpenAI и Kimi",
+   "summary": "Я репетитор по математике, и у меня два проекта: MathExam с учебными тренажёрами и «Узел тоски по миру» — с литературными занятиями.",
+   "link": "https://habr.com/ru/articles/1110354/?utm_campaign=1110354&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7d/e1/56/7de156d25fe157d7fdc4fab033a0aa0e.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T11:53:21+00:00",
+   "category": "other"
+  },
+  {
+   "id": "115d53413e99",
+   "title": "Просьба на пять минут, а у разработки очередь. Как поддержка доработала систему под себя с помощью ИИ-агентов",
+   "summary": "Собрали руководителю поддержки отчет по обращениям, и он остался доволен. Но через неделю он попросил добавить цели по каждой группе, еще через неделю другой период, а потом вынести отдельно один тип задач.",
+   "link": "https://habr.com/ru/companies/simpleone/articles/1110350/?utm_campaign=1110350&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d6/af/40/d6af40d8a5c34181dfd120ae15ba1cf3.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T11:48:38+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "c69d611ac696",
+   "title": "Google занялась созданием фейкового интернета для ИИ‑агентов",
+   "summary": "В процессе разработки функций для браузера Google Chrome на базе моделей искусственного интеллекта Gemini команда Google занялась созданием альтернативного интернета для ИИ‑агентов, который находится под контролем…",
+   "link": "https://habr.com/ru/articles/1110344/?utm_campaign=1110344&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a7/f9/6c/a7f96c5e8e60cfc79314cf75ec529947.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T11:47:18+00:00",
+   "category": "models"
+  },
+  {
+   "id": "9c05855760b8",
+   "title": "Как вайбкодинг меняет IT, экономит на SaaS и заставляет программистов переучиваться — интервью с Артёмом Исламовым",
+   "summary": "Можно ли за один день создать продукт, за который раньше пришлось бы платить десятки тысяч рублей ежемесячно? А какие задачи теперь можно решить без целой команды разработчиков?",
+   "link": "https://habr.com/ru/articles/1110346/?utm_campaign=1110346&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ac/c4/13/acc41386403614f114e7eb62189bf7ce.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-20T11:43:38+00:00",
+   "category": "other"
+  },
   {
    "id": "5d5c45df73c3",
    "title": "Apple опубликовала вакансию старшего руководителя инженерной команды для создания ИИ‑агента",
@@ -4342,171 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-17T12:27:11+00:00",
    "category": "other"
-  },
-  {
-   "id": "415585f9dddc",
-   "title": "Самое важное число: трекер пассивного дохода без сервера и подписок",
-   "summary": "Брокерское приложение каждый день показывает мне, сколько стоит портфель и на сколько он вырос или упал. А я хочу знать другое: сколько денег в месяц он приносит и когда на эти деньги можно будет жить.",
-   "link": "https://habr.com/ru/articles/1108872/?utm_campaign=1108872&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/3d/b8/a9/3db8a9727d05ba61cf54e0beee62d868.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T12:21:18+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "b03cb043f722",
-   "title": "[Перевод] Qwen3.8 Flash на RTX 4090. Лучше обычного 27В?",
-   "summary": "В одном из экспериментов Kwangju Shin запустил Qwen3.8-27B примерно со 100 токенами в секунду.",
-   "link": "https://habr.com/ru/articles/1108870/?utm_campaign=1108870&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/be/23/87/be23875b1644619f2fec772351d5d427.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T12:21:17+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3df0824d9654",
-   "title": "Цена слова: почему нужно выращивать ИИ локально, а не использовать облака",
-   "summary": "Может ли человек общаться с нейросетью, именно общаться, а не «использовать»? Как программист я отвечаю на это первым и самым неприятным для себя образом: нет.",
-   "link": "https://habr.com/ru/articles/1108846/?utm_campaign=1108846&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/0d/19/6a/0d196a689a9201ba9797969deaa2313c.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T11:28:31+00:00",
-   "category": "other"
-  },
-  {
-   "id": "d57207af4c3a",
-   "title": "Тебя засунули головой в окно машины. Водитель — Anthropic",
-   "summary": "Ты открываешь Claude, а вместо ответа видишь вот это: Our automated systems detected a large number of signals associated with your account that violate our Usage Policy.",
-   "link": "https://habr.com/ru/articles/1108844/?utm_campaign=1108844&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/09/ab/dd/09abddf4a3b39a25a4e8d38fe51f4b7c.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T11:27:02+00:00",
-   "category": "models"
-  },
-  {
-   "id": "6cd4d2453a74",
-   "title": "В рунете произошёл массовый сбой: проблемы у Timeweb, Google, Twitch, DeepSeek и других сервисов",
-   "summary": "Пользователи также жалуются на недоступность Discord, War Thunder и проблемы с интернетом «Ростелекома» В России зафиксированы масштабные перебои в работе крупных интернет-сервисов.",
-   "link": "https://www.ixbt.com/news/2026/11/17/v-runete-proizosel-massovyi-sboi-problemy-u-timeweb-google-twitch-deepseek-i-drugix-servisov.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742941/media-07f7fffd641593501eb55f09392a8e46b706af5d00084eb7113fd3bee23cba93.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-17T11:23:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "63318d29b7b5",
-   "title": "Россияне массово жалуются на сбои Google, Deepseek, Twitch, Discord и «Ростелекома»",
-   "summary": "Из нескольких регионов России сегодня, 17 ноября 2026 года, стали поступать жалобы на проблемы с доступом к крупнейшим международным сервисам, в том числе Google, Deepseek, Twitch и Discord; сообщается также о сбоях в…",
-   "link": "https://3dnews.ru/1151408",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151408/dd.png",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-17T11:22:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "1dd0ced90e76",
-   "title": "Пять иишек чинили один и тот же баг с публикацией сайта — двое справились, трое сделали ещё хуже",
-   "summary": "Придумал себе эксперимент. Дал исправление одного и того же бага с публикацией сайта на сервер пятью нейронкам. Две его починили (Claude Code и Codex), три сломали ещё больше.",
-   "link": "https://habr.com/ru/articles/1108838/?utm_campaign=1108838&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/5d/89/8d/5d898de447784ea0e6888218e9e48ebb.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T11:15:04+00:00",
-   "category": "models"
-  },
-  {
-   "id": "e126a0458813",
-   "title": "Google начала отключать Gems в личных аккаунтах Gemini",
-   "summary": "Вместо них компания предлагает Skills Компания Google начала переводить пользователей личных аккаунтов с Gemini Gems на новый формат Gemini Skills.",
-   "link": "https://www.ixbt.com/news/2026/11/17/google-nacala-otkliucat-gems-v-licnyx-akkauntax-gemini.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742932/media-cdd5209329278d25ccb2c188b997f0f4600f8305f64d563d9f126f01e884892c.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-17T11:08:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d26234322db9",
-   "title": "Concertina: как сложить Qwen3-4B в два раза обогнать модель, обученную на 36 трлн токенов",
-   "summary": "Исследователи предложили способ сжать большую языковую модель почти вдвое и сохранить около 85% ее качества, не тратя ресурсы на обучение с полного нуля.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1108608/?utm_campaign=1108608&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/33/4d/f6/334df65607578f219951dd0f2c72ad96.jpeg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T11:00:44+00:00",
-   "category": "models"
-  },
-  {
-   "id": "b79f0ac15dde",
-   "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
-   "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
-   "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
-   "image": "https://media.wired.com/photos/6af73f064e708cb7030f047d/master/pass/DSC_0242.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-17T11:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "6203f8f06a55",
-   "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-   "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-   "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-   "image": "https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-17T11:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "007f49734661",
-   "title": "Поисковая строка, которая понимает: гибрид подсказок и LLM-классификаторов в нишевом каталоге",
-   "summary": "У нишевого агрегатора мало данных: 65% посетителей не авторизованы, истории просмотров нет, а в каталоге всего три тысячи квестов.",
-   "link": "https://habr.com/ru/articles/1108808/?utm_campaign=1108808&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/16/6f/c8/166fc8b877e748dbdc018761a35e898f.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T10:59:58+00:00",
-   "category": "models"
-  },
-  {
-   "id": "b651abe5ee4e",
-   "title": "Перед residual stream: токенизация, эмбеддинги и изнанка безопасности LLM",
-   "summary": "Одна запятая способна изменить язык ответа нейросети.",
-   "link": "https://habr.com/ru/articles/1108536/?utm_campaign=1108536&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/0c/f3/e8/0cf3e8bab6239163445a6e780b24664a.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T10:59:44+00:00",
-   "category": "models"
-  },
-  {
-   "id": "979aed56e50a",
-   "title": "Ни актеров, ни съёмок, ни кассовых сборов — созданный ИИ китайский блокбастер провалился в прокате",
-   "summary": "Китайская киноиндустрия на личном опыте получила наглядный урок: искусственный интеллект в кино — ещё не гарантия зрительского успеха.",
-   "link": "https://3dnews.ru/1151404",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151404/kino.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-17T10:56:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "2d8a4963e1d1",
-   "title": "Nvidia неожиданно представила чудовищный GPU Rubin HPC с рекордным количеством ядер CUDA, причём не для ИИ",
-   "summary": "Но и не для игр Компания Nvidia неожиданно представила новый невероятно крупный и сложный GPU, при этом не для игр, но и не для задач ИИ.",
-   "link": "https://www.ixbt.com/news/2026/11/17/nvidia-neozidanno-predstavila-cudovishhnyi-gpu-rubin-hpc-s-rekordnym-kolicestvom-iader-cuda-pricem-ne-dlia-ii.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742903/media-00f6fafa0a369e15903960a42f8c035d2c442d63d1a1028fad2f39a9cb67604f.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-17T10:48:00+00:00",
-   "category": "hardware"
   }
  ]
 }
