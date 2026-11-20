@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:15:52.346878+00:00",
+ "updated": "2026-11-20T11:13:56.476101+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 7
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -108,6 +108,138 @@
   }
  ],
  "items": [
+  {
+   "id": "5d5c45df73c3",
+   "title": "Apple опубликовала вакансию старшего руководителя инженерной команды для создания ИИ‑агента",
+   "summary": "По всей видимости, Apple работает над собственным ИИ‑агентом, способным выполнять компьютерные задачи от имени пользователя, например работать с приложениями, посещать веб‑сайты, писать программный код и многое другое.",
+   "link": "https://habr.com/ru/articles/1110310/?utm_campaign=1110310&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/dc/40/e4/dc40e430b50d7f41e1cdcce2a00b5891.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T11:07:15+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "4d5bd8e5cbab",
+   "title": "Я стал управлять проектами и командой на уровне Бога. Вот что я сделал",
+   "summary": "Помните, как в DOOM можно было ввести IDDQD и почувствовать себя богом? Я нашел такой чит-код для управления проектами. Спойлер: подключение заняло всего пару минут, а дальше я получил почти безграничные полномочия.",
+   "link": "https://habr.com/ru/companies/yougile/articles/1110326/?utm_campaign=1110326&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/dc/2f/7b/dc2f7b619276ad0b5333ea187768d54b.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T11:06:52+00:00",
+   "category": "other"
+  },
+  {
+   "id": "8fbc77318659",
+   "title": "Regular Tech Bros Are Worried About Honeypots",
+   "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+   "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+   "image": "https://media.wired.com/photos/6afbae0afa103e595fff7d74/master/pass/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-20T11:00:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "5a90b4812309",
+   "title": "GPTunneL Award Day 2026 – 26 ноября на ВДНХ: доклады CICADA8, ВШЭ и билайна, «суперкодинг» и Grom Agent",
+   "summary": "26 ноября в Москве мы проводим GPTunneL Award Day — клиентский день нашей платформы. Рассказываем, кто выступит, что покажем (в том числе Grom Agent и «суперкодинг») и как пройдёт вечер.",
+   "link": "https://habr.com/ru/companies/gptunnel/articles/1110312/?utm_campaign=1110312&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/41/b8/4e/41b84e20f2127fc806e362e5139d6d21.jfif",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T10:48:57+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ca666326003a",
+   "title": "Вышли записи INFOSTART A&PM EVENT 2026 для аналитиков и руководителей проектов",
+   "summary": "Как найти противоречия в требованиях, спроектировать интеграцию в 1С и оценить риски изменений? Эти задачи разбирали на INFOSTART A&PM EVENT 2026, которая прошла 12–14 ноября в Санкт-Петербурге.",
+   "link": "https://habr.com/ru/companies/infostart/articles/1110302/?utm_campaign=1110302&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ea/a8/36/eaa836096e726630dbab0f6512c26044.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T10:31:05+00:00",
+   "category": "other"
+  },
+  {
+   "id": "b2a8b1981b0d",
+   "title": "Сегментация и классификация патологий лёгких на КТ: сравнение UNet 3+, nnU‑Net, EfficientNet и Swin Transformer",
+   "summary": "Я сравнила четыре архитектуры на КТ грудной клетки: UNet 3+ и nnU-Net v2 для сегментации узлов (LIDC-IDRI), EfficientNet-B0 и Swin-Tiny для классификации срезов.",
+   "link": "https://habr.com/ru/articles/1110294/?utm_campaign=1110294&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/43/52/fb/4352fb7ee5fdd35ff508a71489ec10fa.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T10:17:11+00:00",
+   "category": "other"
+  },
+  {
+   "id": "0dba86fbc4b9",
+   "title": "Samsung готовится к новому витку ИИ-бума: руководство выпуском памяти доверили разработчику DRAM и HBM",
+   "summary": "Samsung объявила о назначении нового главы подразделения по производству чипов памяти.",
+   "link": "https://3dnews.ru/1151583",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151583/samsung.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-20T10:12:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "41802daed66a",
+   "title": "Что не так со снятием Дженсена Хуанга",
+   "summary": "Проблема с саги Дженсена Хуанга, бывшего CEO Nvidia не в том, продавал ли он — сознательно или нет — чипы в Китай в обход санкций в ИИ-гонки США против КНР, а в имплицитном принятии подспудного посылка, что США с КНР…",
+   "link": "https://habr.com/ru/articles/1107318/?utm_campaign=1107318&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/21/68/14/216814ca80783a59ea08ac89cafd34f1.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T10:03:27+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "a08c924254e4",
+   "title": "Вторую ступень Starship поймали, станут ли дата-центры орбитальными?",
+   "summary": "15 ноября 2026 года (по московскому времени) манипуляторы стартово-посадочного комплекса «Мехазилла» поймали вторую ступень (корабль) Starship.",
+   "link": "https://habr.com/ru/companies/ruvds/articles/1110272/?utm_campaign=1110272&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c2/0d/8e/c20d8e61366fb864b12ca0a8860bc010.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T10:01:09+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "d71e9d428c0a",
+   "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+   "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams.",
+   "link": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/06/hermes-og-image-blue.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-20T09:59:51+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ece8a7ab562d",
+   "title": "Google отправит в космос спутники с ИИ-процессорами на борту: запуск поручили Blue Origin",
+   "summary": "Аппараты проекта Suncatcher объединят в вычислительную сеть, а их энергоснабжение обеспечат солнечные батареи Google заключила соглашение с Blue Origin о запуске своих спутников проекта Suncatcher — экспериментальной…",
+   "link": "https://www.ixbt.com/news/2026/11/20/google-otpravit-v-kosmos-sputniki-s-ii-processorami-na-bortu-zapusk-porucili-blue-origin.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744164/media-ba245868247e397b962dd4004eee3d1943e9c4005d5bc19be64965ddf9ce217c.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-20T09:46:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "deefc4533230",
+   "title": "Дашборд команды из Jira за час вместо месяца: как ИИ-агент собирает пульс спринта",
+   "summary": "Раньше качественный дашборд по командам из Jira аналитик собирал порядка месяца. Теперь сборка зашита в скиллы ИИ-агента, данные обновляются сами, и борд для новой команды я собираю максимум за час. Немного контекста.",
+   "link": "https://habr.com/ru/articles/1110260/?utm_campaign=1110260&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/90/76/a7/9076a7d9f8d76768bceb30f0f7296237.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T09:35:15+00:00",
+   "category": "tools"
+  },
   {
    "id": "bc9b8dedf549",
    "title": "[Перевод] Создание постоянно действующих агентов",
@@ -4375,138 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-17T10:48:00+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "ba3cf84247ee",
-   "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
-   "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
-   "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-   "image": "https://media.wired.com/photos/6afb9fde88d847b7d226d42b/master/pass/AI-Told-Ex-Google-Guys-How-to-Build-Billion-Dollar-Weapons-BusinessDAAS3.png",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-17T10:47:45+00:00",
-   "category": "business"
-  },
-  {
-   "id": "62db0a86ff64",
-   "title": "Курсы обещают нейровидео-миллионники на автопилоте. Я проверил на себе",
-   "summary": "Это третий пост серии «Месяц без найма». После Тредс и SEO я пошел в короткие видео: там и алгоритм щедрый, и человек смотрит, а не скроллит текст.",
-   "link": "https://habr.com/ru/articles/1108814/?utm_campaign=1108814&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/be/e0/e7/bee0e76dfe4fb7fe06896135e6ec0ff3.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T10:46:49+00:00",
-   "category": "research"
-  },
-  {
-   "id": "7f5164716430",
-   "title": "[Перевод] Программное обеспечение ломается на системном уровне",
-   "summary": "Вам не кажется, что последнее время программное обеспечение работает не слишком хорошо?",
-   "link": "https://habr.com/ru/articles/1108804/?utm_campaign=1108804&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/33/a3/3e/33a33e0eaf4ff4ae706350b45e1ab20f.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T10:42:15+00:00",
-   "category": "other"
-  },
-  {
-   "id": "cf1d08c2954a",
-   "title": "От галлюцинаций LLM к ошибкам мультиагентных систем: как обнаруживать ошибки в системах искусственного интеллекта?",
-   "summary": "Привет, Хабр! Меня зовут Максим Макаренко, я руковожу командой прикладных исследований в Sber AI Lab Сбера.",
-   "link": "https://habr.com/ru/companies/sberbank/articles/1104342/?utm_campaign=1104342&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a4/ae/b5/a4aeb5bd5f8a8af83f3d8e8777b447ec.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T10:21:23+00:00",
-   "category": "models"
-  },
-  {
-   "id": "ab54ab45240b",
-   "title": "От картинки к релевантной странице: исследование мультимодальных эмбеддингов",
-   "summary": "Всем привет! Я Артем, Data Scientist в Raft Digital Solutions. Недавно я гонял три мультимодальных эмбеддера на сканах, таблицах и графиках.",
-   "link": "https://habr.com/ru/companies/raft/articles/1108640/?utm_campaign=1108640&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/bf/b4/2a/bfb42a5f05ffb3611df32bdbf76301d2.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T10:18:54+00:00",
-   "category": "research"
-  },
-  {
-   "id": "102eacf92bec",
-   "title": "«Я не сорвал дедлайн. Я его перенёс». Как закончилась эта война",
-   "summary": "Сотрудник переносил дедлайны и не получал ни одной просрочки. Руководитель решил вывести его на чистую воду. Началась настоящая война: проверки, новые правила и бесконечные оправдания.",
-   "link": "https://habr.com/ru/companies/yougile/articles/1108786/?utm_campaign=1108786&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7f/bd/29/7fbd29bfa18b1dd18504345a46c80a23.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T10:16:27+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "8f3c56e10ad6",
-   "title": "Где будет ИТ через год, если ИИ начнёт действовать сам: 10 трендов Gartner на 2027 год",
-   "summary": "К концу 2026 года, по прогнозу Gartner, автономные ИИ-агенты создадут 20% всех публичных коммитов, а значит, каждое пятое сохранённое изменение кода в открытых репозиториях напишет не человек.",
-   "link": "https://habr.com/ru/companies/simpleone/articles/1108726/?utm_campaign=1108726&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/dc/a7/93/dca793f847a6860d562a9f4877ef915a.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T10:10:21+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "4b41833e75f2",
-   "title": "За что на самом деле банят в Claude: я разобрал больше сотни случаев и вот что выяснил",
-   "summary": "Claude на экране iPhone Про блокировки в Claude я, к сожалению, знаю не понаслышке. Меня самого недавно забанили на тарифе Max, и узнал я об этом, когда Claude Code в один прекрасный день просто не заработал.",
-   "link": "https://habr.com/ru/companies/x-com/articles/1108782/?utm_campaign=1108782&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/48/58/dc/4858dc46fd72b9dbeb515e08285d5e2b.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T10:06:16+00:00",
-   "category": "models"
-  },
-  {
-   "id": "731df1716f64",
-   "title": "Microsoft выпустила .NET 11 с C# 15, новым типом union и улучшениями для ИИ-разработки",
-   "summary": "Microsoft выпустила .NET 11 — новую версию открытой платформы для разработки приложений. Вместе с ней представлен C# 15, а также обновились ASP.NET Core, Entity Framework Core, .NET MAUI и другие компоненты.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1108252/?utm_campaign=1108252&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/d5/b8/ea/d5b8ea11425ae8abca8344665ffb8b8f.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T10:00:39+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "c240467bc11f",
-   "title": "Коробка с игрушками: что такое atmy.ai",
-   "summary": "В 2017 году я ходил по Красноярску с ручным прибором и измерял загрязнение воздуха. Сегодня я спрашиваю у ИИ-агента, что с воздухом в городе, и он сам берёт измерения с тысяч датчиков.",
-   "link": "https://habr.com/ru/articles/1108768/?utm_campaign=1108768&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/3d/e3/76/3de3760a4df40705c95cac80793b881b.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T09:44:08+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "9c305861cf22",
-   "title": "Страхование будущего: как бороться с AI-мошенниками, как нейронки меняют бизнес, разработку и клиентский опыт",
-   "summary": "20 ноября AGIMA и Т-Страхование обсудят это на закрытом подкасте. В программе: — Как бороться с мошенниками, вооружёнными AI? — Что уже можно автоматизировать: от оценки рисков до выплат?",
-   "link": "https://habr.com/ru/companies/agima/articles/1108766/?utm_campaign=1108766&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/fc/7e/27/fc7e27447f60b3b886e39714dd5f4e8a.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T09:43:40+00:00",
-   "category": "business"
-  },
-  {
-   "id": "aa7f38bfde8c",
-   "title": "AutoGen2 (AG2) — создание и оркестрация ИИ-агентов",
-   "summary": "До определенного момента ИИ-воркфлоу выглядел как один промпт, один вызов модели и один ответ. Затем появились цепочки — summarize → extract → classify.",
-   "link": "https://habr.com/ru/companies/bothub/articles/1108762/?utm_campaign=1108762&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/fd/b2/cd/fdb2cd9493896b0da0070ab0c5810890.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T09:41:55+00:00",
-   "category": "models"
   }
  ]
 }
