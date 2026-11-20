@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:58:19.175514+00:00",
+ "updated": "2026-11-20T01:20:36.811893+00:00",
  "categories": [
   {
    "id": "models",
@@ -54,7 +54,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "source": "MIT Tech Review",
@@ -108,6 +108,28 @@
   }
  ],
  "items": [
+  {
+   "id": "8f4728ffc5b9",
+   "title": "Apple may be developing its own AI agent that runs your Mac",
+   "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+   "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-20T00:56:01+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f1dd0bea0b97",
+   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-20T00:43:50+00:00",
+   "category": "business"
+  },
   {
    "id": "a22c687c439c",
    "title": "Apple is hiring engineers to build its own AI agent",
@@ -1482,6 +1504,50 @@
    "lang": "en",
    "date": "2026-11-19T00:42:56+00:00",
    "category": "business"
+  },
+  {
+   "id": "4b08ec50268e",
+   "title": "Deploying Daybreak Red",
+   "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+   "link": "https://openai.com/business/learn/deploying-daybreak-red",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-19T00:00:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "cb99e2baa62e",
+   "title": "See PR scans in action",
+   "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+   "link": "https://openai.com/business/learn/pr-scans-demo",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-19T00:00:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "e29ac258c013",
+   "title": "Explore the Codex Security Plugin",
+   "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+   "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-19T00:00:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "a2fb00344062",
+   "title": "Get started with Daybreak Blue",
+   "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+   "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-19T00:00:00+00:00",
+   "category": "other"
   },
   {
    "id": "44255eb49d7c",
@@ -4441,72 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-17T05:06:00+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "680f5885c714",
-   "title": "Зияющие алгоритмы, или Обезьяна с гранатой: почему нам нужен манометр, а не запрет ИИ",
-   "summary": "«В души умеющих испанскому языку...",
-   "link": "https://habr.com/ru/articles/1108650/?utm_campaign=1108650&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ca/1e/da/ca1edab65fbbae06b3106ed11fb66e0a.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T04:26:32+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "4c93142cece1",
-   "title": "Цена будущего: простота ≠ эффективность",
-   "summary": "За последние года разговор про нейросети прошел путь от \"это игрушка\" до \"это заменит всех как в Терминаторе\".",
-   "link": "https://habr.com/ru/articles/1108642/?utm_campaign=1108642&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/41/06/de/4106de680896e5ae6856b2edf6fa80f8.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T01:02:50+00:00",
-   "category": "other"
-  },
-  {
-   "id": "590cb0b9c5dd",
-   "title": "Strengthening NATO and allied cyber defenses with AI",
-   "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-   "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-17T00:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "58da9c66b145",
-   "title": "Introducing OpenAI for Chile",
-   "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-   "link": "https://openai.com/index/introducing-openai-for-chile",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-17T00:00:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "0604bc2b50fc",
-   "title": "Astra for Law leads in legal intelligence",
-   "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-   "link": "https://openai.com/index/astra-law-6-2",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-17T00:00:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "aae8c4832e63",
-   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-   "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-   "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-16T23:32:32+00:00",
-   "category": "business"
   }
  ]
 }
