@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:25:41.370966+00:00",
+ "updated": "2026-11-20T15:06:44.990728+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,18 +43,18 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 5
   },
   {
    "source": "Google AI",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "source": "MIT Tech Review",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 8
+   "count": 10
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,149 @@
   }
  ],
  "items": [
+  {
+   "id": "302263e9b653",
+   "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+   "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices.",
+   "link": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-20T15:03:25+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "92c1cc867c01",
+   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+   "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
+   "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-20T14:55:44+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "9003446b41fb",
+   "title": "GPTunneL и SKILLOUT проведут хакатон ИИ-рекламы в Москве 28–29 ноября. Открыта регистрация для онлайн-участников",
+   "summary": "SKILLOUT возвращается с II сезоном – и онлайн-лигой для команд из любой точки мира. 28–29 ноября в Москве команды с нейросетями за сутки сделают рекламные ролики для брендов в прямом эфире.",
+   "link": "https://habr.com/ru/companies/gptunnel/articles/1110472/?utm_campaign=1110472&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a8/28/22/a8282241ad5e9fec33cd7b70d01ce940.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T14:54:11+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ac4e692a5c06",
+   "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+   "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information.",
+   "link": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/inception.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-20T14:53:50+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3d491ec06908",
+   "title": "Судьба мирового рынка IT",
+   "summary": "Судьба мирового рынка IT Согласитесь, всем хочется знать, что их ожидает в будущем и IT специалисты в этом плане не исключение. Сейчас все обеспокоены будущим IT.",
+   "link": "https://habr.com/ru/articles/1110410/?utm_campaign=1110410&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/86/94/56/869456ea66dd4f5aab0b1a84857a7485.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T14:50:33+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "57c80f8b563c",
+   "title": "Как мод для Claude Code собрал 1000 звёзд за десять дней",
+   "summary": "Пару недель назад мне попалась красочная визуализация работы чьего‑то харнесса. Повосхищался пару минут и решил, что хочу себе что‑то такое же, но для своего случая и попроще.",
+   "link": "https://habr.com/ru/articles/1110470/?utm_campaign=1110470&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/95/0e/d7/950ed7f5a7e73c6d9b63f87e71035d9f.gif",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T14:49:58+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b4accc98cead",
+   "title": "Совокупная мощность ИИ-чипов выросла за год в 4,6 раза",
+   "summary": "По оценке Epoch AI, главный вклад в разрыв внесли новые чипы Nvidia Blackwell: они обеспечивают почти три четверти возможностей оборудования для агентного инференса Исследовательская организация Epoch AI оценила…",
+   "link": "https://www.ixbt.com/news/2026/11/20/sovokupnaia-moshhnost-ii-cipov-vyrosla-za-god-v-46-raza.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744276/media-20cf30c9621c008cbbf56b4b51fd3cd2ff6ba01326c55650ef7bd343ee076ecb.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-20T14:31:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "299291fdd518",
+   "title": "The week everything fell apart",
+   "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running.",
+   "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-20T14:06:59+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "7d8981ef5476",
+   "title": "Six AI-powered gadgets that could make your home office smarter",
+   "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+   "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-20T14:00:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "920d26e20245",
+   "title": "Как правильно выбирать задачи для LLM и избегать архитектурных ошибок",
+   "summary": "Эта статья - для двух категорий читателей. Первая - те, кто начинает внедрять LLM в рабочий проект.",
+   "link": "https://habr.com/ru/articles/1110442/?utm_campaign=1110442&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110442/17a54e575d7b73e84f33312e7e45707a/",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-20T13:46:21+00:00",
+   "category": "models"
+  },
+  {
+   "id": "756547bfd4d9",
+   "title": "США разрешили отправить в Китай почти 900 тысяч ИИ-ускорителей Nvidia и AMD — ни один ускоритель до адресата не добрался",
+   "summary": "А крупнейшие запросы Nvidia — на сотни тысяч ускорителей для Alibaba и ByteDance — вовсе не прошли согласование Администрация Дональда Трампа одобрила экспорт в Китай 879 868 ускорителей искусственного интеллекта…",
+   "link": "https://www.ixbt.com/news/2026/11/20/ssa-razresili-otpravit-v-kitai-pocti-900-tysiac-ii-uskoritelei-nvidia-i-amd-ni-odin-uskoritel-do-adresata-ne-dobralsia.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744265/media-7b0d7c421f7b6cecf1697b3bc4b4ce1883de834f332dd3db42058075d8e3768e.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-20T13:44:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "e969e176c541",
+   "title": "Расследование против Nvidia в США установит, мог ли Китай получать передовые процессоры или закрытые сведения компании",
+   "summary": "Генеральный прокурор штата Калифорния Роб Бонта анонсировал начало расследования против Nvidia, чтобы установить, мог ли Китай получать передовые процессоры или закрытые данные американской компании, пишет Reuters.",
+   "link": "https://habr.com/ru/articles/1110434/?utm_campaign=1110434&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4e/00/00/4e000066ac6e0217ef3c53d342d34d47.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-20T13:26:14+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "3b9f30fdd23e",
+   "title": "Google создала параллельный интернет для обучения ИИ-агентов — в нём есть даже поддельные банки и соцсети",
+   "summary": "В процессе разработки функций искусственного интеллекта на основе моделей Gemini для браузера Chrome инженеры Google приняли дополнительные меры предосторожности, чтобы избежать непредсказуемых последствий.",
+   "link": "https://3dnews.ru/1151600",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151600/mirror_1.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-20T13:22:00+00:00",
+   "category": "models"
+  },
   {
    "id": "9ff6be549848",
    "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
@@ -723,6 +866,17 @@
    "lang": "en",
    "date": "2026-11-20T00:43:50+00:00",
    "category": "business"
+  },
+  {
+   "id": "211fbe8009a4",
+   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+   "summary": "",
+   "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+   "image": "https://huggingface.co/blog/assets/harness-adapters-at-scale/thumbnail.png",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-20T00:00:00+00:00",
+   "category": "models"
   },
   {
    "id": "a22c687c439c",
@@ -4353,160 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-17T14:05:54+00:00",
    "category": "tools"
-  },
-  {
-   "id": "1632fb5fec80",
-   "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
-   "summary": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
-   "link": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2087335475.jpg?resize=1200,799",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T14:05:30+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "52dafca01b6f",
-   "title": "ИИ для корпораций: как масштабировать решения и не разориться на ИТ-инфраструктуре",
-   "summary": "Привет, Хабр! Через пару недель, 30 ноября, мы проведем бесплатный вебинар «ИИ для корпораций: Как масштабировать решения и не разориться на ИТ-инфраструктуре». Главное — зарегистрируйтесь заранее .",
-   "link": "https://habr.com/ru/companies/rubytech/articles/1108924/?utm_campaign=1108924&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/16/80/17/168017bf724c02d4c2cf28d1dd370ebf.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T14:02:04+00:00",
-   "category": "other"
-  },
-  {
-   "id": "0e789c02d673",
-   "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-   "summary": "Researchers recently discovered unexpected behavior from Grok Bot, the AI agent platform from Elon Musk’s SpaceXSI.",
-   "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-17T14:00:29+00:00",
-   "category": "models"
-  },
-  {
-   "id": "38c9e2505124",
-   "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-   "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-   "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Hero-asset.png?resize=1200,675",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T14:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "b81a16efe991",
-   "title": "«Сбер» представила «СберБум Трек» — портативную умную колонку с «ГигаЧатом» за 14 990 рублей",
-   "summary": "«Сбер» представил «СберБум Трек» — портативную умную колонку с помощником с искусственным интеллектом «ГигаЧат» и функциями персонализации.",
-   "link": "https://3dnews.ru/1151409",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151409/sber.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-17T13:59:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "8494475b15c1",
-   "title": "Впихнуть невпихуемое: что теряет Claude Code при сжатии контекста",
-   "summary": "Контекст кончается, Claude Code пишет «Compacting conversation» и через минуту продолжает как ни в чем не бывало. Агент вроде тот же. Но помнит ли он, какой файл мы правили час назад? О чем договорились?",
-   "link": "https://habr.com/ru/articles/1108922/?utm_campaign=1108922&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/94/3c/61/943c61eeca1604c3a9eb60da2b250103.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T13:52:34+00:00",
-   "category": "models"
-  },
-  {
-   "id": "c71e55d9e2a7",
-   "title": "Вышла Tencent Hy4 flash. Модель на 224B с памятью Engram уже доступна в ИИ-роутере Selectel",
-   "summary": "В ИИ-роутере Selectel, который дает единый доступ к моделям через OpenAI-совместимый API с оплатой за токены, появилась Hy4 flash. Это младшая модель семейства Hy4 китайской компании Tencent, представленная 16 ноября.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1108910/?utm_campaign=1108910&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/be/11/ce/be11ce3121c3b0c74774522655252415.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T13:35:52+00:00",
-   "category": "models"
-  },
-  {
-   "id": "6e05b70feb86",
-   "title": "Манифест против нейрослопа",
-   "summary": "А вы для себя определили, где оно, мерило нейрослопа? Где заканчивается хороший текст, написанный с ИИ, и начинается слоп? Я часто использую нейросеть в своей работе и давно задумываюсь об этом.",
-   "link": "https://habr.com/ru/articles/1108904/?utm_campaign=1108904&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/9e/8c/40/9e8c406b45ae8543f862aaf265e19264.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T13:30:55+00:00",
-   "category": "other"
-  },
-  {
-   "id": "4b028b152bc9",
-   "title": "KandiShop: как за считанные секунды получить узнаваемые лица и читаемый текст на любых ИИ‑изображениях",
-   "summary": "Современные генеративные модели уже умеют по одной фотографии поместить человека или товар в любую сцену.",
-   "link": "https://habr.com/ru/companies/airi/articles/1108228/?utm_campaign=1108228&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/9d/3d/24/9d3d241fcebccf1861880c94b7f2d531.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T13:23:17+00:00",
-   "category": "models"
-  },
-  {
-   "id": "8e5bf770a028",
-   "title": "Калифорния подала в суд на OpenAI из‑за инцидентов с потерей контроля над ИИ, включая взлом Hugging Face",
-   "summary": "Генеральный прокурор Калифорнии Роб Бонта подал иск против OpenAI. В документе утверждается, что компания подвергла общество опасности, выпустив свои передовые модели ИИ без надлежащих мер защиты и контроля.",
-   "link": "https://habr.com/ru/articles/1108898/?utm_campaign=1108898&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/81/1e/a3/811ea3b75ccfa5679e53cf414a98fc67.webp",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T13:11:05+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9aa0117e7424",
-   "title": "Рекламный ролик товара из одного фото через API: конвейер на Seedance 2.0 и цифры брака",
-   "summary": "Задача, которая часто приходит от продавцов на маркетплейсах: есть одно фото товара, нужен вертикальный ролик на 15 секунд, на предметную съёмку бюджета нет.",
-   "link": "https://habr.com/ru/articles/1102048/?utm_campaign=1102048&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1102048/5c37185b00e8a717ae358106a2f45f1b/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T13:10:54+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "fd690c38e2ae",
-   "title": "[Перевод] Агенты тоже пользователи: зачем приложениям нужны оценки",
-   "summary": "Агенты пользуются API и инструментами от имени людей. Авторы Vercel объясняют, как построить сквозную оценку с Harbor, выбрать метрики и проанализировать результаты на примере заказа кофе.",
-   "link": "https://habr.com/ru/articles/1108886/?utm_campaign=1108886&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/45/ea/f9/45eaf984a4b4ec451c5a27bd967f7fbd.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T12:59:35+00:00",
-   "category": "business"
-  },
-  {
-   "id": "1d9a10233295",
-   "title": "Multi-GPU: когда стоит подключать несколько видеокарт и как использовать их эффективно",
-   "summary": "Если вы обучаете ML-модели, рано или поздно можете столкнуться с двумя ограничениями: обучение занимает слишком много времени или модели перестает хватать видеопамяти. В таких случаях можно перейти на Multi-GPU.",
-   "link": "https://habr.com/ru/companies/runity/articles/1108878/?utm_campaign=1108878&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f3/e0/b6/f3e0b6b1a7f396470f5b0c48d24ef397.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T12:32:28+00:00",
-   "category": "models"
-  },
-  {
-   "id": "888800bde028",
-   "title": "Быстрая Seedance 2.5 Flash против флагмана: дешевле на 35%, а что по качеству?",
-   "summary": "На 4 сценах из наших прошлых рейтингов быстрая версия видеомодели ByteDance сняла почти то же, что флагман. Токенов ушло на 35% меньше, а каждый ролик я получил в 3 раза быстрее.",
-   "link": "https://habr.com/ru/companies/syntx_ai/articles/1108586/?utm_campaign=1108586&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/3b/c7/f5/3bc7f517a1ab92b3f59b5a4a29d31653.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T12:27:11+00:00",
-   "category": "other"
   }
  ]
 }
