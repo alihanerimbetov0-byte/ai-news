@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:06:44.990728+00:00",
+ "updated": "2026-11-20T17:09:51.709739+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,105 @@
   }
  ],
  "items": [
+  {
+   "id": "7affc48ef744",
+   "title": "Контекст-инжиниринг для кодинг-агента Дуэйд: что положить в контекст, а что оставить за его пределами",
+   "summary": "Не гадать, а измерить Каждый, кто хоть раз давал кодинг-агенту задачу, поймет о чем речь. Хочется передать ему побольше: техническое задание, документацию на внешний API, правила команды, примеры готового кода.",
+   "link": "https://habr.com/ru/companies/domate/articles/1110520/?utm_campaign=1110520&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/23/ee/66/23ee66bea34271b7b74b2083ce8983f7.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T17:02:31+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "6d3528baa167",
+   "title": "411 комментариев в pull request и другие задачи, которые мы отдали ИИ",
+   "summary": "Привет, я Арина, системный аналитик ЮMoney. ИИ уже прочно вошёл в нашу профессию: с ним собирают информацию, анализируют код, готовят техническую документацию и проверяют решения.",
+   "link": "https://habr.com/ru/companies/yoomoney/articles/1110422/?utm_campaign=1110422&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c3/ac/9a/c3ac9af3008e27a8c46106f56f69dde7.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T17:01:11+00:00",
+   "category": "other"
+  },
+  {
+   "id": "274079c1fbdc",
+   "title": "GPU на вечер: поды, VPS и цены на аренду RTX 5090 в России",
+   "summary": "В статье изучили российский рынок GPU-VPS аренды, сравнили подходы к тарификации и на примере GPUGO показали, как поминутный биллинг помогает сократить расходы на вычисления без оплаты простаивающих часов и суток.",
+   "link": "https://habr.com/ru/companies/gpugo/articles/1110514/?utm_campaign=1110514&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f8/e9/83/f8e983e2a2b0f0e120acff798641240d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T16:45:16+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "a4262f3a6ce6",
+   "title": "ChatGPT оптимизировала будущие процессоры AMD — GPU стал эффективнее на 14%",
+   "summary": "CPU тоже удалось улучшить, но на несколько процентов Модели искусственного интеллекта OpenAI помогли AMD оптимизировать конструкцию будущих флагманских графических процессоров.",
+   "link": "https://www.ixbt.com/news/2026/11/20/chatgpt-optimizirovala-budushhie-processory-amd-gpu-stal-effektivnee-na-14.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744286/media-0ed21309bd6f3fad6c068c3b357d6bf39d1af1cae2bff1758e25c5587ff952c2.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-20T16:44:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "859ee3ec8c20",
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's…",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-20T16:34:13+00:00",
+   "category": "models"
+  },
+  {
+   "id": "23f3d57fc7ab",
+   "title": "Рекордное IPO Anthropic не развеяло опасения по поводу ИИ — биржевые индексы упали по всему миру",
+   "summary": "Акции бигтехов возглавили очередную волну снижения на рынках Азии и Европы.",
+   "link": "https://3dnews.ru/1151609",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151609/stock-market-glasses-unsplash.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-20T16:28:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "d91d5c675399",
+   "title": "Нейросеть Claude нашла решения двух давних задач физики чёрных дыр",
+   "summary": "Компания Anthropic сообщила , что её нейросеть Claude получила решения двух давних задач теоретической физики, связанных с чёрными дырами.",
+   "link": "https://habr.com/ru/articles/1110482/?utm_campaign=1110482&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/91/16/45/911645c85acc75ffb369a8ac11a67c2b.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T16:05:38+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0ca09a417878",
+   "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+   "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market.",
+   "link": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-20T15:56:03+00:00",
+   "category": "business"
+  },
+  {
+   "id": "8521572b5961",
+   "title": "Правка SGNE-CC v2 для DeepSeek-R1-1.5B (T=0): −87% зависаний, ответы в 2.7 раза короче и +11 п.п. на MATH-500",
+   "summary": "При жадном выборе токенов ( T = 0 , без сэмплирования и штрафа повторов) рассуждающая модель DeepSeek-R1-Distill-Qwen-1.5B часто вязнет в бесконечной перепроверке уже найденного решения внутри <think> и упирается в…",
+   "link": "https://habr.com/ru/articles/1110462/?utm_campaign=1110462&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f7/82/6f/f7826fbae71b7e7aa73335ba7bae2992.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T15:09:43+00:00",
+   "category": "models"
+  },
   {
    "id": "302263e9b653",
    "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
@@ -4408,105 +4507,6 @@
    "lang": "en",
    "date": "2026-11-17T14:54:10+00:00",
    "category": "models"
-  },
-  {
-   "id": "aa11ef926ea3",
-   "title": "Почему The AI Scientist сбоит в 41% случаев: анатомия галлюцинаций в Autonomous AI и физическая истина в DeepTech",
-   "summary": "Почему автономный ИИ The AI Scientist сбоит в 41% экспериментов и генерирует антинаучные галлюцинации?",
-   "link": "https://habr.com/ru/articles/1108970/?utm_campaign=1108970&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/28/6e/fc/286efc339de546b5e019a3ae5c63e4f3.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T14:51:44+00:00",
-   "category": "research"
-  },
-  {
-   "id": "3ddd561d3db5",
-   "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-   "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
-   "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T14:50:58+00:00",
-   "category": "business"
-  },
-  {
-   "id": "8d6168624182",
-   "title": "Когда ИИ решает, что вам нельзя. От Codex до этикосферы Станислава Лема",
-   "summary": "Как попытка удалить несколько файлов заставила меня вспомнить классику научной фантастики и философии.",
-   "link": "https://habr.com/ru/articles/1108964/?utm_campaign=1108964&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a8/6f/a4/a86fa4a184b1691ae94b692d0f92ad96.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T14:49:04+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "9631676e3e33",
-   "title": "Открыли веса модели LongCat-2.5 на 1,6 трлн параметров, которую разворачивают не на NVIDIA",
-   "summary": "Китайская платформа доставки Meituan открыла веса мультимодальной MoE-модели LongCat-2.5 примерно на 1,6 трлн параметров, из которых около 48 млрд активны на токен, под свободной лицензией MIT.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1108958/?utm_campaign=1108958&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/90/0a/ef/900aefdf112ca1c883a0197ca4f09ac8.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T14:40:59+00:00",
-   "category": "models"
-  },
-  {
-   "id": "86f07be892b0",
-   "title": "Research Reports",
-   "summary": "To access a report, click on the corresponding image below.",
-   "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-3.15.07-PM-edited.png",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-17T14:39:46+00:00",
-   "category": "research"
-  },
-  {
-   "id": "3ae8d039f29f",
-   "title": "OpenAI удваивает число бесплатных подписок на ChatGPT для учёных до 200 тысяч, но теперь предлагает им ChatGPT Plus",
-   "summary": "В июле текущего года OpenAI запустила программу «ChatGPT для академических исследователей» (ChatGPT for Academic Researchers), которая предоставляет бесплатный доступ к ChatGPT 100 тыс.",
-   "link": "https://habr.com/ru/articles/1108960/?utm_campaign=1108960&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/92/cd/ec/92cdec535462731fb7bd47e6be8475d2.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T14:34:47+00:00",
-   "category": "research"
-  },
-  {
-   "id": "bcc5080f4e56",
-   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-   "summary": "Science Corp raised a $400 million Series D to scale up its anti-blindness business.",
-   "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T14:26:46+00:00",
-   "category": "business"
-  },
-  {
-   "id": "05524f28f531",
-   "title": "Google пробует перенести ссылки на сайты в самый низ AI Overviews: почему сайту важнее, чтобы его назвали в ответе",
-   "summary": "Если сайт получает трафик из Google, ссылка на него в AI Overviews может переехать в самый низ ответа: Google сейчас проверяет такой вид.",
-   "link": "https://habr.com/ru/articles/1108948/?utm_campaign=1108948&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8e/74/0a/8e740a48e1363af9e738baed6f480bc1.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T14:24:06+00:00",
-   "category": "other"
-  },
-  {
-   "id": "2f7337baea25",
-   "title": "ИИ-ассистент для инженера АСУТП",
-   "summary": "Инжиниринг автоматизации становится узким местом: циклы инноваций сжимаются, сложность систем растёт, а опытных инженеров не хватает.",
-   "link": "https://habr.com/ru/companies/severstal/articles/1108930/?utm_campaign=1108930&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/cd/f9/bc/cdf9bcbcfd0a896a4219721e77d2b2f1.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T14:05:54+00:00",
-   "category": "tools"
   }
  ]
 }
