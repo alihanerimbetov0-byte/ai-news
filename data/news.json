@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T02:57:18.751769+00:00",
+ "updated": "2026-11-20T05:13:35.714881+00:00",
  "categories": [
   {
    "id": "models",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 14
+   "count": 11
   },
   {
    "source": "Хабр · ML",
