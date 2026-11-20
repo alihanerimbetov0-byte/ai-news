@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:00:20.564405+00:00",
+ "updated": "2026-11-20T22:58:01.688882+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,94 @@
   }
  ],
  "items": [
+  {
+   "id": "4687080606f0",
+   "title": "Как я свой терминал делал с блэкджеком и двумя Fable",
+   "summary": "Я обычно работаю над несколькими проектами сразу, так что вопрос «а сколько терминал будет жрать, если я открою их двадцать?» для меня вполне практический. Особенно когда этот терминал я сам решил сделать на Electron :)",
+   "link": "https://habr.com/ru/articles/1110564/?utm_campaign=1110564&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a3/d2/b8/a3d2b8efda093f933844475be22a4621.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T22:48:35+00:00",
+   "category": "other"
+  },
+  {
+   "id": "5a49fd4a2d77",
+   "title": "Google rolls out new search homepage with AI chat history and no search button",
+   "summary": "Google's flagship search experience is evolving into an AI experience with stunning speed.",
+   "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-20T21:58:29+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c4b0222f29f2",
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "summary": "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030.",
+   "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-20T21:47:10+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "c8c71ad2126f",
+   "title": "Доказательство гипотезы Римана с помощью ИИ",
+   "summary": "Прямо сейчас происходит историческое событие! Речь не про GTA VI, которая установила рекорд индустрии развлечений и заработала $3,79 млрд за первые сутки продаж.",
+   "link": "https://habr.com/ru/articles/1110558/?utm_campaign=1110558&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ac/84/79/ac8479d016964400e4008d093e6cd6c3.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T21:31:59+00:00",
+   "category": "business"
+  },
+  {
+   "id": "65346d90fa26",
+   "title": "Micron собралась поставить память прямо на процессоры — многослойная DRAM появится в 2028–2029 годах",
+   "summary": "Многослойная оперативная память, размещаемая непосредственно поверх чипов ИИ-ускорителей, может появиться на рынке в 2028–2029 годах.",
+   "link": "https://3dnews.ru/1151620",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151620/micron_boise_800x600.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-20T21:30:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "3d389eeb8df2",
+   "title": "Что дают графовые нейросети сверх истории событий: эксперименты на Лиме и Чикаго",
+   "summary": "По истории зарегистрированных преступлений предсказываем, в каких частях города на следующий день произойдёт больше событий. На данных Лимы и Чикаго сравниваем экспоненциальное сглаживание, GRU, TCN и графовые нейросети.",
+   "link": "https://habr.com/ru/articles/1110522/?utm_campaign=1110522&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110522/79e63071ec954f7d6ce271b9c74d88fc/",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-20T21:01:21+00:00",
+   "category": "other"
+  },
+  {
+   "id": "99727b65c290",
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+   "summary": "Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services to find out what happened to sensitive information entrusted to them.",
+   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-20T20:59:08+00:00",
+   "category": "business"
+  },
+  {
+   "id": "0bc5c6261faf",
+   "title": "Китайская Trina Storage создала гибридную электростанцию для ИИ-дата-центров: аккумуляторы и газовые турбины выдают до 1 ГВт мощности",
+   "summary": "Elementa Hybrid Genset рассчитана на разные сценарии питания дата-центров Китайская компания Trina Storage представила гибридную энергетическую систему Elementa Hybrid Genset, предназначенную для обеспечения…",
+   "link": "https://www.ixbt.com/news/2026/11/20/kitaiskaia-trina-storage-sozdala-gibridnuiu-elektrostanciiu-dlia-ii-data-centrov-akkumuliatory-i-gazovye-turbiny-vydaiut-do-1-gvt-moshhnosti.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744368/media-b7cd328cf17f5dee54160c979077cd80f947ad245fcbcd0561061939153d4714.webp",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-20T20:58:00+00:00",
+   "category": "hardware"
+  },
   {
    "id": "49973232093d",
    "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
@@ -4418,94 +4506,6 @@
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-11-17T18:10:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "b145ab91c010",
-   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-   "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-   "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pedestal-Cofounders-Photo-November-2026.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T18:04:16+00:00",
-   "category": "business"
-  },
-  {
-   "id": "5b06242f5d4d",
-   "title": "Есть ли жизнь после блокировки Claude Code? Вторая неделя. Локальные GLM 5.3 Flash и Qwen 3.8 Flash Next (2 DGX Spark)",
-   "summary": "Продолжаю осваиваться в мире LLM с открытыми весами после блокировки моего аккаунта Claude Code. Начало истории в прошлой статье .",
-   "link": "https://habr.com/ru/articles/1109038/?utm_campaign=1109038&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/fe/fa/a0/fefaa01bbb408509ce658698e30c83fb.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T17:45:48+00:00",
-   "category": "models"
-  },
-  {
-   "id": "549a77347d5e",
-   "title": "Introducing GPT-6.2 Astra and Sol",
-   "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-   "image": "https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-17T17:45:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "42c4fd05f3f4",
-   "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-   "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-   "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T17:32:25+00:00",
-   "category": "models"
-  },
-  {
-   "id": "447a475adced",
-   "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-   "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-   "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1670871943.jpg?resize=1200,675",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T17:20:41+00:00",
-   "category": "models"
-  },
-  {
-   "id": "357d085ae06f",
-   "title": "Put Gemini to work for you",
-   "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
-   "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-17T17:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "827e27eaa18f",
-   "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
-   "summary": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would.",
-   "link": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_healthcare_agents.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-17T16:55:47+00:00",
-   "category": "models"
-  },
-  {
-   "id": "a513c3b2bdea",
-   "title": "Google makes it easier to use Gemini without training AI on your data",
-   "summary": "It can be hard to use Google products—or even the Internet itself—without coming into contact with Gemini AI. That is, of course, by design .",
-   "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-17T16:50:10+00:00",
    "category": "models"
   }
  ]
