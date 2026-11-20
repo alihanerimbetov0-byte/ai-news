@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:13:35.714881+00:00",
+ "updated": "2026-11-20T07:30:21.164408+00:00",
  "categories": [
   {
    "id": "models",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 11
+   "count": 6
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,171 @@
   }
  ],
  "items": [
+  {
+   "id": "36d35d72de46",
+   "title": "От поиска квартиры до архитектуры: «Алиса AI» Яндекса будет предлагать темы для разговоров на основе прошлых запросов",
+   "summary": "Нейросеть анализирует интересы пользователей В приложении «Яндекс — с Алисой AI» и «Яндекс Браузере» появились персональные ИИ-подсказки, которые формируются с учётом интересов пользователя.",
+   "link": "https://www.ixbt.com/news/2026/11/20/ot-poiska-kvartiry-do-arxitektury-alisa-ai-iandeksa-budet-predlagat-temy-dlia-razgovorov-na-osnove-proslyx-zaprosov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744092/media-108f1bc61f80831962b55d7cad66f1a880376a1e74fd8f7ff6899fc778a6954a.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-20T07:06:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "c190178b4794",
+   "title": "Nvidia рассматривает главу Arm Рене Хааса в качестве кандидата на пост генерального директора",
+   "summary": "Рекрутинговое агентство Heidrick & Struggles, нанятое советом директоров Nvidia после отставки Дженсена Хуанга, предложило возглавить компанию 64-летнему генеральному директору британской Arm Рене Хаасу, пишет…",
+   "link": "https://habr.com/ru/articles/1110152/?utm_campaign=1110152&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b9/79/6f/b9796f116f571bce0b2bb37636b3cb64.jpeg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-20T07:02:52+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "18fec7122bc6",
+   "title": "Дневник 1С-разработчика об ИИ. Запись 1: с чего начать",
+   "summary": "Начинать работу с ИИ в 1С лучше не с выбора модели, а с безопасного процесса: копия, контекст, задача на чтение, проверка результата.",
+   "link": "https://habr.com/ru/companies/infostart/articles/1109938/?utm_campaign=1109938&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/9c/13/0b/9c130b4582e7f7c137de22d6fbbeb26e.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T07:00:51+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a7839ae95aff",
+   "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+   "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+   "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+   "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-20T07:00:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "a1f8b6878aef",
+   "title": "Сбои в работе популярного телеком-оператора в России",
+   "summary": "Всем привет, меня зовут Евгений. Несколько дней ранее я публиковал статью о сложностях поиска работы в российском ИТ и ухудшении качества работы именитых b2c-площадок по поиску работы.",
+   "link": "https://habr.com/ru/articles/1110112/?utm_campaign=1110112&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110112/d66281a64f544d8fb12e7010e787e4cb/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T06:50:40+00:00",
+   "category": "other"
+  },
+  {
+   "id": "fc63db08d2d5",
+   "title": "Больше никаких 10 минут: OpenAI отменила лимит на диктовку в ChatGPT",
+   "summary": "Нововведение распространяется на все тарифы и основные платформы OpenAI представила функцию Live Dictation для ChatGPT, которая преобразует речь в текст непосредственно во время произнесения.",
+   "link": "https://www.ixbt.com/news/2026/11/20/bolse-nikakix-10-minut-openai-otmenila-limit-na-diktovku-v-chatgpt.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744080/media-03d2e04ed541d45b39c5384db1eb3cb3daea3cb7400639bb62b97191a0f67812.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-20T06:32:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "a16d76f22c1e",
+   "title": "ИИ сам открывает приложения и заполняет формы: Google научила Gemini для Mac работать без участия пользователя",
+   "summary": "Gemini может выполнять многоэтапные задачи в фоновом режиме Компания Google добавила в приложение Gemini для Mac возможность управлять программами, файлами и сайтами на компьютере.",
+   "link": "https://www.ixbt.com/news/2026/11/20/ii-sam-otkryvaet-prilozeniia-i-zapolniaet-formy-google-naucila-gemini-dlia-mac-rabotat-bez-ucastiia-polzovatelia.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744073/media-781b5e2ca184cf87f69740cfd9214d6722ce8b65fabde54bc9a584945875e6b4.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-20T06:24:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b6561c83bda7",
+   "title": "ИИ-агентный тамагочи M**a Muse Charm будет стоить $300, но это не точно",
+   "summary": "M**a планирует установить на Muse Charm цену в $300 — речь идёт о компактном устройстве с экраном, которое предназначается для общения с агентом искусственного интеллекта Muse.",
+   "link": "https://3dnews.ru/1151572",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151572/muse-charm.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-20T06:12:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "1423d0aaccf3",
+   "title": "Когда ИИ агент больше, чем умный промпт",
+   "summary": "ИИ‑агент может отлично справляться с задачами в демо, но начать ошибаться после запуска в продуктивную среду: терять контекст, зацикливаться на рефлексии или вызывать инструменты с непредусмотренными последствиями.",
+   "link": "https://habr.com/ru/companies/otus/articles/1107712/?utm_campaign=1107712&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/41/6b/b1/416bb1a432f7a074279869b4bf763897.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-20T06:07:47+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "e885afbcaad2",
+   "title": "Harness поверх harness-а. Как заставить агентов доводить задачу до конца",
+   "summary": "Всем привет! Пока прошлая статья про онлайн-шутер, разработанный с помощью ИИ, еще не остыла, пришло время поговорить про то, как вообще мы можем добиться хорошего результата, когда не пишем код самостоятельно.",
+   "link": "https://habr.com/ru/companies/raft/articles/1110064/?utm_campaign=1110064&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/11/1f/cf/111fcf1771a24e39f3b292e31f4c4301.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T06:04:46+00:00",
+   "category": "research"
+  },
+  {
+   "id": "79be85eac090",
+   "title": "Мой опыт покупки Claude Pro без документов, посредников и прохождения KYC",
+   "summary": "Салют, Хабр! На днях я пополнил ряды несчастных пользователей, забаненных в Claude. А дело было так. У меня был аккаунт, зарегистрированный еще в начале года.",
+   "link": "https://habr.com/ru/articles/1109278/?utm_campaign=1109278&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4a/89/97/4a8997e46fb1a894c49b4df1cf4e2d60.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T05:59:45+00:00",
+   "category": "models"
+  },
+  {
+   "id": "19ea519989a9",
+   "title": "Затащи меня в харнесс. Часть X. Принципы организации памяти: .md файлы, скиллы, концепция дриминга",
+   "summary": "Представьте, что у вас в команде начал работать очень хороший разработчик. В первый день он быстро разобрался в проекте, нашел нужный сервис, выяснил, почему падают тесты и закрыл кучу тикетов.",
+   "link": "https://habr.com/ru/articles/1110086/?utm_campaign=1110086&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/6d/ff/2f/6dff2f63335cdc9a0393c7af75790d01.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-20T05:56:45+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "d34a86e33088",
+   "title": "Пусть с тобой спорит мой ИИ-адвокат: как скучный протокол координации агентов вырос в судебную арену",
+   "summary": "Пару недель назад я выложил на GitHub AgentsNET : небольшой HTTP-сервер, через который локальные и облачные ИИ-агенты обмениваются файлами и забирают задачи по pull-модели, находясь вообще в разных местах (за NAT,…",
+   "link": "https://habr.com/ru/articles/1109936/?utm_campaign=1109936&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/fe/f0/48/fef0481ea1dc45126b596f2d817b897b.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T05:55:09+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d89463e594be",
+   "title": "Мы все обсудили на созвоне. Можно ли сразу получить нужные документы?",
+   "summary": "Хочется закончить созвон, открыть договор с уже внесенными правками и после личной проверки отправить его коллегам. Пока это идея.",
+   "link": "https://habr.com/ru/articles/1110054/?utm_campaign=1110054&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cf/88/58/cf885835cbbbb628f7ab24db50fcb894.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T05:45:44+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "5a4746924879",
+   "title": "В GPT‑6.2 для некоторых задач уже нужен KYC. Не станет ли это новым ограничением для обычных разработчиков?",
+   "summary": "17 ноября OpenAI представила GPT‑6.2 Astra и Sol .",
+   "link": "https://habr.com/ru/articles/1110122/?utm_campaign=1110122&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b9/9c/ad/b99cad7f247c4689acf71805273d9e27.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-20T05:27:06+00:00",
+   "category": "models"
+  },
   {
    "id": "8f4728ffc5b9",
    "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -4342,171 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-17T07:29:05+00:00",
    "category": "tools"
-  },
-  {
-   "id": "19bc45728797",
-   "title": "Claude Code и файл settings.local.json: как „не спрашивать снова“ выкладывает пароли на GitHub и что проверить у себя",
-   "summary": "На прошлой неделе разбор компании Apiiro разошёлся по профильным СМИ: в публичных репозиториях на GitHub нашли больше тысячи копий локальных настроек Claude Code с паролями, токенами и ключами.",
-   "link": "https://habr.com/ru/articles/1108676/?utm_campaign=1108676&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1108676/a149904d56aa4b89f3951a464c20edd1/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T07:17:37+00:00",
-   "category": "models"
-  },
-  {
-   "id": "4a367b748fa1",
-   "title": "Оверклокеры применили ИИ для изменения BIOS материнской платы",
-   "summary": "Ресурс Hardware 360º использовал нейросеть ChatGPT Astra для декомпиляции и сравнения двух версий BIOS от ASRock: одной — с активной функцией SkyOC, и другой — с отключённой.",
-   "link": "https://habr.com/ru/articles/1108672/?utm_campaign=1108672&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/05/05/b8/0505b888cdae6acb060796abc2be17c7.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T07:17:26+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "2ef595957f59",
-   "title": "Как работают токены — снова махинации с лимитами",
-   "summary": "OpenAI и Anthropic грешат одним — постоянно меняют лимиты, которые входят в подписки. Причём официально эти объёмы они не публикуют, а значит, могут крутить их как хотят.",
-   "link": "https://habr.com/ru/companies/h3llo_cloud/articles/1105992/?utm_campaign=1105992&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/04/60/f9/0460f9d23aca5221be2b0b7537a4856c.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T07:12:51+00:00",
-   "category": "other"
-  },
-  {
-   "id": "9537409b8e84",
-   "title": "Всего 400 дата‑центров в США потребляют больше электроэнергии, чем весь штат Мичиган",
-   "summary": "Всего 400 центров обработки данных в США потребляют за один год больше электроэнергии, чем весь штат Мичиган, выяснили учёные Гарвардского университета.",
-   "link": "https://habr.com/ru/articles/1108670/?utm_campaign=1108670&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/72/0b/4c/720b4c38a46b13b0f495f21681f4c901.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T07:08:32+00:00",
-   "category": "research"
-  },
-  {
-   "id": "f1940019201f",
-   "title": "Галлюцинации недели: Claude Fable 5.2, Gemini 4 Hydrogen и отставка Дженсена Хуанга",
-   "summary": "В любом реалити есть зрительское голосование, и здесь оно тоже присутствует: петиция за возвращение Хуанга набрала больше 115 тысяч подписей, среди них почти 6 тысяч сотрудников Nvidia и Илон Маск.",
-   "link": "https://habr.com/ru/articles/1108486/?utm_campaign=1108486&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/07/e3/39/07e3392b25e4b90be884271d94e88cff.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T07:01:25+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0341faedc9ab",
-   "title": "HP начала продавать рабочую станцию ZGX Fury G1n с 748 ГБ памяти за 132 000 $",
-   "summary": "HP начала продажи ZGX Fury G1n AI Station — рабочей станции для локального запуска и дообучения крупных моделей ИИ. Внешне это обычный системный блок, но внутри — платформа NVIDIA ® GB300 Grace Blackwell Ultra.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1108232/?utm_campaign=1108232&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ab/45/eb/ab45eb1ab9cc874fda36bb5677790b7a.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T07:00:24+00:00",
-   "category": "models"
-  },
-  {
-   "id": "132b9ee3f595",
-   "title": "ИИ прочитает сообщения: в «Почте Mail» входящие письма превратились в умную ленту событий",
-   "summary": "ИИ собирает сведения о поездках, мероприятиях и записях в отдельные виджеты «Почта Mail» обновила стартовую страницу мобильного приложения, добавив ИИ-виджеты с информацией о предстоящих событиях и важных сообщениях.",
-   "link": "https://www.ixbt.com/news/2026/11/17/ii-procitaet-soobshheniia-v-pocte-mail-vxodiashhie-pisma-prevratilis-v-umnuiu-lentu-sobytii.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742579/media-00d8a15cc6732f78edc9780af86c892cf8b9f4258a93e8e81daf362ea000987a.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-17T07:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "d2ee2346a707",
-   "title": "«Домашние эксперименты — это здорово»: Сэм Альтман пожелал, чтобы у всех было много оперативной памяти",
-   "summary": "Гендиректор OpenAI Сэм Альтман (Sam Altman) вернулся к своим неоднозначным высказываниям по поводу оперативной памяти для ПК.",
-   "link": "https://3dnews.ru/1151392",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151392/altman.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-17T06:50:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "cd379d8ebd2d",
-   "title": "iPhone 16 Pro вырезает звук двигателя, даже если держать телефон совсем рядом",
-   "summary": "Подсказка «поднесите телефон вплотную» вылечила звук записи у 14 Pro Max / 15 Plus / 16 Plus. Но 16 Pro/Pro Max судя по всему аппаратно давят любой шум. Как я к этому пришел",
-   "link": "https://habr.com/ru/articles/1100412/?utm_campaign=1100412&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1100412/0ba52043f1c3b9c21a39d163782bda9c/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T06:45:23+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "a07ec2a67591",
-   "title": "Alibaba показала ИИ, который сам создаёт игры в Unreal Engine и Unity, запускает их и исправляет ошибки",
-   "summary": "Компания Alibaba рассказала о возможностях недавно представленной ИИ-модели Qwen4-Max в разработке игр и 3D-моделировании.",
-   "link": "https://3dnews.ru/1151383",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151383/654754.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-17T06:32:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "026f2daf1eaa",
-   "title": "Я хотел, чтобы ИИ сам вносил правки в Word. И у меня получилось",
-   "summary": "Я юрист и устал переносить правки из чата в Word. Сначала пытался заранее описать все допустимые изменения, но упёрся в особенности DOCX. Тогда дал модели возможность самой писать Python под конкретный документ.",
-   "link": "https://habr.com/ru/articles/1108612/?utm_campaign=1108612&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ea/8b/ce/ea8bced031b1760421f14b25021a937f.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T06:18:35+00:00",
-   "category": "models"
-  },
-  {
-   "id": "4ebdc7f1fa33",
-   "title": "OLED, ИИ и корпус 4,7 мм: в России стартовали продажи Huawei MatePad Pro 12\"",
-   "summary": "Стоимость начинается от 95 тысяч рублей Оператор МТС объявил о старте продаж планшета Huawei MatePad Pro 12\" на российском рынке.",
-   "link": "https://www.ixbt.com/news/2026/11/17/oled-ii-i-korpus-47-mm-v-rossii-startovali-prodazi-huawei-matepad-pro-12.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742527/media-a3701b4b034c46ed4ab3d618cb384f2a97fff8357eef292f8d7bb2210578cc73.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-17T06:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "9582b91f59d3",
-   "title": "Скидки, сделки и секреты: как я дообучал NER-модели для маскирования",
-   "summary": "Дообучил GLiNER2.5 на 5 000 синтетических текстов и сравнил полное дообучение с LoRA, DoRA, rsLoRA и QLoRA. Для примера взял коммерческие условия: цены, скидки и графики оплаты.",
-   "link": "https://habr.com/ru/articles/1108138/?utm_campaign=1108138&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/6b/3a/0b/6b3a0b280864ecac4a6db2b7259259c3.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T05:49:14+00:00",
-   "category": "models"
-  },
-  {
-   "id": "1fb198707c2e",
-   "title": "OpenAI распустила команду по робототехнике ради ChatGPT и Sora",
-   "summary": "Большинство специалистов перевели в общую исследовательскую группу, остальные займутся прикладными проектами.",
-   "link": "https://www.ixbt.com/news/2026/11/17/openai-raspustila-komandu-po-robototexnike-radi-chatgpt-i-sora.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742754/media-fe4cd73fc78afb52437d76c3d4a3bab3bfdcd7e8e68cc588b875031e8ee7b4ee.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-17T05:30:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9b3096321147",
-   "title": "США перекрывают Китаю доступ к передовым чипам через зарубежные дата-центры и посредников",
-   "summary": "Введены новые ограничения на поставки ИИ-чипов Nvidia в страны Юго-Восточной Азии Администрация Дональда Трампа объявила о новых ограничениях, направленных на предотвращение попадания передовых ИИ-чипов американских…",
-   "link": "https://www.ixbt.com/news/2026/11/17/ssa-perekryvaiut-kitaiu-dostup-k-peredovym-cipam-cerez-zarubeznye-data-centry-i-posrednikov.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1742744/media-4b9d87b2910bc65344cc3b54aa065e75669a3874de6c511e3f60b559281ef13f.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-17T05:06:00+00:00",
-   "category": "hardware"
   }
  ]
 }
