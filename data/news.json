@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:58:01.688882+00:00",
+ "updated": "2026-11-21T01:24:40.766856+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 4
   },
   {
    "source": "Google AI",
@@ -54,7 +54,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "MIT Tech Review",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "a7d20c80270e",
+   "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+   "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+   "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+   "image": "https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-20T23:24:02+00:00",
+   "category": "policy"
+  },
   {
    "id": "4687080606f0",
    "title": "Как я свой терминал делал с блэкджеком и двумя Fable",
@@ -4495,17 +4506,6 @@
    "source": "Хабр · ML",
    "lang": "ru",
    "date": "2026-11-17T18:19:12+00:00",
-   "category": "models"
-  },
-  {
-   "id": "f4982bcb3ccb",
-   "title": "As decision model use skyrockets, is customization the next frontier?",
-   "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-   "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/attachment-1.jpeg?resize=1200,730",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T18:10:00+00:00",
    "category": "models"
   }
  ]
