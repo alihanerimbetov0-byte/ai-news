@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:57:21.763581+00:00",
+ "updated": "2026-11-21T05:06:00.418146+00:00",
  "categories": [
   {
    "id": "models",
@@ -54,7 +54,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "source": "MIT Tech Review",
