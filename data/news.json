@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:23:18.187418+00:00",
+ "updated": "2026-11-21T08:58:26.516505+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,61 @@
   }
  ],
  "items": [
+  {
+   "id": "1d9ea192aa38",
+   "title": "От TF-IDF до LLM: сравниваю модели на 480 реальных отзывах",
+   "summary": "На 480 реальных отзывах сравниваю словесный и символьный TF-IDF с классификатором на признаках ruBERT-tiny2. Метки задаёт локальная Qwen3-0.6B.",
+   "link": "https://habr.com/ru/articles/1110590/?utm_campaign=1110590&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110590/ec6cc7eff1ccb6bb120659a9c32191b5/",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-21T08:34:58+00:00",
+   "category": "models"
+  },
+  {
+   "id": "76e9ab7b9f13",
+   "title": "Для телескопа Argus разрабатывают ИИ-систему обработки 100 млн астрономических событий за ночь",
+   "summary": "В 10 раз больше, чем ожидается от обсерватории имени Веры Рубин Международная команда под руководством Университета Миннесоты разрабатывает программную систему, способную обрабатывать до 100 млн астрономических…",
+   "link": "https://www.ixbt.com/news/2026/11/21/dlia-teleskopa-argus-razrabatyvaiut-ii-sistemu-obrabotki-100-mln-astronomiceskix-sobytii-za-noc.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744518/media-7765fd6d3c1894c61a348d4cd07adebdede3b23746caa692844c73477fb528a3.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-21T08:24:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "03a69394f15a",
+   "title": "Почему мой сервис 2019 года так и остался жить в шкафу",
+   "summary": "Увидел тут недавно статью “Навайбкодил более 30 Open Source приложений, и вот что я понял”, и как то провелись некоторые аналогии с моим собственным опытом.",
+   "link": "https://habr.com/ru/articles/1110570/?utm_campaign=1110570&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/33/b2/7d/33b27d9c0f8e4d9985b06bcf7ede1b5b.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T08:15:48+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e2e32c9d7598",
+   "title": "Как ИИ помогает восстанавливать старые игры с исходным кодом",
+   "summary": "О цифровом наследии игровой индустрии принято говорить с легкой грустью.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1110292/?utm_campaign=1110292&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/1a/b0/39/1ab0392d4014f17dc0bca4bdce01eee6.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T08:00:46+00:00",
+   "category": "other"
+  },
+  {
+   "id": "db2dba895915",
+   "title": "Создали общую базу знаний для продуктовой команды: разгрузили аналитиков и ускорили проверку гипотез",
+   "summary": "Привет, я Света Морозова — лид в одной из DS-команд Авито . Мы развиваем уровень сервиса: это показатель качества работы продавцов.",
+   "link": "https://habr.com/ru/companies/avito/articles/1108564/?utm_campaign=1108564&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3c/23/89/3c23892ea194a19b88ad967103edf655.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-21T08:00:46+00:00",
+   "category": "tools"
+  },
   {
    "id": "daef862e842e",
    "title": "Когда ИИ ошибается убедительно: инженерия здравого смысла",
@@ -4452,61 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-17T20:34:00+00:00",
    "category": "tools"
-  },
-  {
-   "id": "d2f90fb918d9",
-   "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-   "summary": "On Monday, large trucks began circling the streets of Washington, DC, carrying billboards urging Congress to investigate the Trump administration’s ties with Nvidia’s disgraced CEO Jensen Huang.",
-   "link": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-17T20:32:55+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "794837209e21",
-   "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
-   "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors.",
-   "link": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_vals_sol.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-17T20:30:50+00:00",
-   "category": "models"
-  },
-  {
-   "id": "4b3ee5b0e45c",
-   "title": "OpenAI выпустила GPT-6.2: обгоняет Claude Opus 5.5 и стоит в разы дешевле. Но есть нюансы",
-   "summary": "17 ноября OpenAI представила две модели: GPT-6.2 Astra и GPT-6.2 Sol . Astra предназначена для сложных задач, программирования и агентных сценариев, а Sol - для повседневной работы, где важны скорость и экономичность.",
-   "link": "https://habr.com/ru/articles/1109080/?utm_campaign=1109080&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1109080/5d92017f9225faea1d4486a6a7adb572/",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T19:47:58+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3bdb9dca3a9b",
-   "title": "[Перевод] Представляем GPT-6.2 Astra и Sol",
-   "summary": "OpenAI представила GPT-6.2 Astra для сложных профессиональных задач и GPT-6.2 Sol для повседневной работы.",
-   "link": "https://habr.com/ru/articles/1109070/?utm_campaign=1109070&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/5e/71/2d/5e712d7f5488ac415e9f4714b2bc68bc.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T19:45:41+00:00",
-   "category": "models"
-  },
-  {
-   "id": "155bbbea4cfc",
-   "title": "Я заменил себя AI‑аватаром на YouTube и случайно создал эффект зловещей долины",
-   "summary": "Месяц назад мне пришла в голову идея сделать YouTube-канал без своего участия. Чтобы его вела моя цифровая копия. И самое интересное, что технически у меня все получилось.",
-   "link": "https://habr.com/ru/articles/1109028/?utm_campaign=1109028&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/88/22/6d/88226d461672c27ae9854289d9e545c0.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T19:41:07+00:00",
-   "category": "other"
   }
  ]
 }
