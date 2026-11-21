@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:56:56.484085+00:00",
+ "updated": "2026-11-21T18:58:55.313907+00:00",
  "categories": [
   {
    "id": "models",
@@ -49,7 +49,7 @@
   {
    "source": "Google AI",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "source": "Hugging Face",
@@ -108,6 +108,28 @@
   }
  ],
  "items": [
+  {
+   "id": "031c9e0efc7d",
+   "title": "Гипотезу Римана попытались доказать дважды с публикациями в один день: с ИИ и без него",
+   "summary": "На фоне заявления сотрудника Anthropic о доказательстве с помощью Claude президент Американского математического общества опубликовал независимую работу доказательства без ИИ 20 ноября в математическом сообществе…",
+   "link": "https://www.ixbt.com/news/2026/11/21/gipotezu-rimana-popytalis-dokazat-dvazdy-s-publikaciiami-v-odin-den-s-ii-i-bez-nego.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744721/media-4ce80679ee99ee853d2053749588dbc7a2a94ac0897731aafa5af4c962a815ca.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-21T17:57:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "01945f6a907c",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-21T17:00:00+00:00",
+   "category": "tools"
+  },
   {
    "id": "5a5f6d350b70",
    "title": "1,6 кВт и экран 4,3 дюйма за $640. Gigabyte встроила в блок питания дисплей больше, чем был у оригинального iPhone",
@@ -4484,28 +4506,6 @@
    "source": "Хабр · ML",
    "lang": "ru",
    "date": "2026-11-18T08:10:02+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "de8cec83f73f",
-   "title": "США перекрыли Китаю ещё одну лазейку к чипам Nvidia — азиатским дата-центрам запретили покупать ИИ-ускорители без разрешения Вашингтона",
-   "summary": "Операторы центров обработки данных в Сингапуре, Малайзии, Таиланде и Индонезии теперь должны получать специальную лицензию правительства США для закупки передовых ускорителей искусственного интеллекта у Nvidia и других…",
-   "link": "https://3dnews.ru/1151453",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151453/sm.nvidia-AI-servers_01.800.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-18T08:10:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "002de605f5d5",
-   "title": "512 потоков в одном процессоре x86 — рекорд от AMD EPYC Venice 9006, а также анонс EPYC Embedded 9006 и Verano 9006 LP",
-   "summary": "Летом 2026 года AMD анонсировали новое поколение процессоров AMD EPYC™ Venice 9006.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1108698/?utm_campaign=1108698&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/60/36/4e/60364ec2ef19cc0d6210071217bd9f29.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T08:00:14+00:00",
    "category": "hardware"
   }
  ]
