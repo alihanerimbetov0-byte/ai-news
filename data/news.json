@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:57:16.880203+00:00",
+ "updated": "2026-11-21T13:09:42.709880+00:00",
  "categories": [
   {
    "id": "models",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,182 @@
   }
  ],
  "items": [
+  {
+   "id": "ad524383181c",
+   "title": "Как я перестал быть диспетчером у своих ИИ-агентов",
+   "summary": "Рядом с рабочим монитором у меня долго стоял ноутбук с открытым окном агентов. Раз в двадцать–тридцать минут я ловил себя на том, что опять туда кошусь: не встал ли кто-нибудь на вопросе, не пошёл ли крутиться по кругу.",
+   "link": "https://habr.com/ru/articles/1110668/?utm_campaign=1110668&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ae/68/bf/ae68bf938f4e21a1ce2c95090cf90b98.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T13:04:14+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "1bfb860fa24a",
+   "title": "Кого заменит LLM",
+   "summary": "LLM наступают, топы вещают о повсеместном внедрении ИИ, повышении производительности, ускорении процессов и сокращении персонала.",
+   "link": "https://habr.com/ru/articles/1110674/?utm_campaign=1110674&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7e/cd/60/7ecd6047752af3963175aecae0d20e92.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T13:00:26+00:00",
+   "category": "models"
+  },
+  {
+   "id": "9dd04be51f1d",
+   "title": "The Outages Are Just Getting Started",
+   "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+   "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+   "image": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-21T13:00:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "f1e872ce27ca",
+   "title": "Зеркальная аугментация лидара: почему при больших углах наклона отражателя дрон перестаёт видеть тёмные препятствия",
+   "summary": "Установка плоского зеркала перед лидаром позволяет заглянуть в слепые зоны под дроном без лишнего веса и механики. Но что происходит с лазерным импульсом при двойном отражении?",
+   "link": "https://habr.com/ru/articles/1110660/?utm_campaign=1110660&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7c/cb/d0/7ccbd0e8e10f05e5b940510c337ca2bc.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-21T12:26:15+00:00",
+   "category": "other"
+  },
+  {
+   "id": "8a863fc2a55c",
+   "title": "Естественная совесть искусственного интеллекта",
+   "summary": "В связи с развитием ИИ и, особенно, с прогнозом получения им сознания, критически важным, особенно на начальном этапе (пока сам в себя не придет и не “повзрослеет”), становиться наличие в нём (разработанных нами, а…",
+   "link": "https://habr.com/ru/articles/1017134/?utm_campaign=1017134&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/0d/84/6d/0d846d7aae14eef39ebaa91629487a74.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T12:20:15+00:00",
+   "category": "other"
+  },
+  {
+   "id": "09b51d29b0be",
+   "title": "Как я перестал платить за токены и собрал локальный RAG на 72 000 чанков в SQLite",
+   "summary": "Мне 22 года, я AI/ML-инженер и исследователь: закончил бакалавриат по прикладной информатике и защите информации в СГЭУ (2022–2026), а сейчас учусь в магистратуре Самарского университета им.",
+   "link": "https://habr.com/ru/articles/1110658/?utm_campaign=1110658&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/95/0d/9e/950d9e56d3d68b4cb1024fca7ca6aaef.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T12:19:48+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "2f83981a361d",
+   "title": "Будущее чистки мусора на MacOS",
+   "summary": "Простая идея: поручить Claude последовательно установить более 900 популярных приложений на «чистую» виртуальную машину с macOS (нескольких версий).",
+   "link": "https://habr.com/ru/articles/1110656/?utm_campaign=1110656&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/57/58/1b/57581b32b1db11a40bdfdbfc9f45de8b.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T12:11:16+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d51085682472",
+   "title": "Хейт к вайбкодерам, или как я без знания кода сделал своё первое приложение для скачивания и нарезки видео",
+   "summary": "Я за всю жизнь не написал ни строчки кода и ничего не понимаю в программировании, но много лет работаю с видео, моушн-дизайном и неплохо разбираюсь в UI/UX.",
+   "link": "https://habr.com/ru/articles/1110654/?utm_campaign=1110654&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b5/f7/7c/b5f77c0394422731ec9e5b5fe4549f60.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T12:00:06+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "cf46210b7d59",
+   "title": "Хайп-цикл Гартнера — это гегелевская триада. Что инженеру делать во впадине разочарования",
+   "summary": "Продолжение цикла о философии техники Изначальная статья, самая интересная на мой вкус Зияющие алгоритмы, или Обезьяна с гранатой: почему нам нужен манометр, а не запрет ИИ , Вторая — о расцеплении тела, места и…",
+   "link": "https://habr.com/ru/articles/1109036/?utm_campaign=1109036&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c3/f3/a9/c3f3a9ffa96a5072425359182fa113d3.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T12:00:05+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "1c73f30f09f8",
+   "title": "Стартап учит нейросети разбираться в запахах и создавать новые по промптам",
+   "summary": "Стартап Osmo создаёт первую в мире «базовую модель» для распознавания запахов. Затем исследователи планируют обучить нейросети создавать новые запахи по текстовым запросам.",
+   "link": "https://habr.com/ru/articles/1110646/?utm_campaign=1110646&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a0/3f/c7/a03fc767d17967efeb63a32c08454328.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T11:57:04+00:00",
+   "category": "models"
+  },
+  {
+   "id": "afea1a4fd46a",
+   "title": "MCP-сервер поверх своего REST API без SDK: что видит модель и где она ломает данные",
+   "summary": "Model Context Protocol (MCP) позволяет агенту вроде Claude Code или Cursor вызывать внешние инструменты.",
+   "link": "https://habr.com/ru/articles/1110650/?utm_campaign=1110650&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110650/b6f810d5057a955d4f8b318fc8308858/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T11:52:11+00:00",
+   "category": "models"
+  },
+  {
+   "id": "fbd5351d4bca",
+   "title": "Стартап Миры Мурати выпустил Inkling 2 Mini — локальный ИИ для кода и агентов, который работает на MacBook",
+   "summary": "Thinking Machines Lab, основанная бывшим техническим директором OpenAI Мирой Мурати (Mira Murati), выпустила Inkling 2 Mini — мультимодальную ИИ-модель с открытыми весами под лицензией Apache 2.0.",
+   "link": "https://3dnews.ru/1151639",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/21/1151639/inkling_1.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-21T11:49:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3d2a11199d38",
+   "title": "Персонажи с памятью и миры под управлением ИИ — Ubisoft создала Motherbrain для внедрения ИИ в игры",
+   "summary": "Французское издательство Ubisoft официально объявило о создании дочерней компании Motherbrain, которая займётся разработкой технологий на базе генеративного ИИ для игрового процесса.",
+   "link": "https://3dnews.ru/1151640",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/21/1151640/ubisoft_title.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-21T11:38:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "44a6e26486d1",
+   "title": "DLSS 5 на видеокартах Radeon стала ещё быстрее. Заодно автор мода AMDLSS5 реализовал генератор кадров до 6х",
+   "summary": "Всё это бесплатно Автор мода AMDLSS5 , который реализует на видеокартах Radeon поддержку DLSS 5 и не только, обновил ПО до версии 2.5, повысив скорость обработки нейросети на величину до 60%.",
+   "link": "https://www.ixbt.com/news/2026/11/21/dlss-5-na-videokartax-radeon-stala-eshhe-bystree-zaodno-avtor-moda-amdlss5-realizoval-generator-kadrov-do-6x.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744595/media-5e31bae6a5ba2ee27d5e494890adf9a97ba10177999374979fccfea663cc5462.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-21T11:24:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "9c9ec1c5f197",
+   "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+   "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages.",
+   "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_riemann.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-21T11:19:49+00:00",
+   "category": "models"
+  },
+  {
+   "id": "53342757c5ab",
+   "title": "Теперь можно объединять несколько ПК по USB4 для работы с большими ИИ-моделями. Microsoft реализовала работу RDMA новым способом",
+   "summary": "Для обычных задач нет смысла Компания Microsoft реализовала работу технологии RDMA (Remote Direct Memory Access) через USB, что позволяет объединять несколько ПК в единую систему для запуска более крупных ИИ-моделей.",
+   "link": "https://www.ixbt.com/news/2026/11/21/teper-mozno-obieediniat-neskolko-pk-po-usb4-dlia-raboty-s-bolsimi-ii-modeliami-microsoft-realizovala-rabotu-rdma-novym-sposobom.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744584/media-f60d0b527f5dfa0ff384b60579a200a3745e1e7c35367ba69cafb7126a81cd67.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-21T11:12:00+00:00",
+   "category": "models"
+  },
   {
    "id": "4aa8a7120dc7",
    "title": "Промпт — это не строка, а шаблон",
@@ -4331,182 +4507,6 @@
    "lang": "en",
    "date": "2026-11-18T06:00:00+00:00",
    "category": "models"
-  },
-  {
-   "id": "bbaa36fd55c6",
-   "title": "Что такое сознание и почему «сознательный ИИ» никогда не будет построен",
-   "summary": "Хабр, настало время для действительно серьезного разговора.",
-   "link": "https://habr.com/ru/companies/ddosguard/articles/1109004/?utm_campaign=1109004&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/22/45/0b/22450b84d6fddd5f3038c9962306f879.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-18T05:23:57+00:00",
-   "category": "other"
-  },
-  {
-   "id": "bc658e73acce",
-   "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
-   "summary": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
-   "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
-   "image": "https://media.wired.com/photos/6afcfa9cd76c36e8270ca841/master/pass/GenZ-AI-Friendship-Culture.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-18T05:01:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "f4ea3ec8368b",
-   "title": "OpenAI представила GPT-6.2 Astra и Sol: новые флагманские модели стали мощнее и дешевле",
-   "summary": "$4 против $27: новая GPT-6.2 Astra оказалась дешевле Claude Fable 5.2 OpenAI представила две новые модели искусственного интеллекта — GPT-6.2 Astra и GPT-6.2 Sol.",
-   "link": "https://www.ixbt.com/news/2026/11/18/openai-predstavila-gpt-62-astra-i-sol-novye-flagmanskie-modeli-stali-moshhnee-i-desevle.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743175/media-a2b69eb15fe56996ce1ca9ef8399d8c767d58771d6656ea0d0df6a76573e006a.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-18T04:38:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "e63a8d40b126",
-   "title": "Не Клодом единым — как после бана я переписал командный плагин на разные хосты моделей",
-   "summary": "supertick 2.0: как я перенёс команду агентов из Claude Code в Kimi, Codex и OpenCode В первой части я рассказывал про supertick, командный плагин для Claude Code.",
-   "link": "https://habr.com/ru/articles/1109094/?utm_campaign=1109094&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/58/5e/ba/585eba75fd05cd2d437f7d4051d54d89.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T02:02:44+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d652f478feee",
-   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-   "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-18T01:44:21+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "ab50b7af668b",
-   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-   "summary": "Opening the keynote at its Ignite event, Microsoft CEO Satya Nadella outlined the company's vision for its new \"frontier ecosystem,\" announcing Tuesday the general availability of Word, Excel, and PowerPoint inside…",
-   "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-18T00:27:29+00:00",
-   "category": "business"
-  },
-  {
-   "id": "83a48772429a",
-   "title": "Nvidia promises that revenue will keep soaring — for now",
-   "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-   "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-18T00:16:50+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "6cab9c8cd383",
-   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-   "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/6oojxLpPBP1EqJiCFQof6r/868dca9f2befad4a1cfa21aeaa7d1cdb/le-groupe-figaro-and-openai-announce-partnership-seo.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-18T00:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "679cee5ea146",
-   "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-   "summary": "",
-   "link": "https://huggingface.co/blog/rumble-2-flash",
-   "image": "https://huggingface.co/blog/assets/rumble-2-flash/thumbnail.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-18T00:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "c7d3ecb00643",
-   "title": "Advancing chip design with OpenAI models",
-   "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-   "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/658zg0FHAg7zuL73DTFCfC/fff21fd18c260ce64a10a14ee8d4e851/advancing-chip-design-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-18T00:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "af1852b4c46d",
-   "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-   "summary": "",
-   "link": "https://huggingface.co/blog/moe-expert-streaming",
-   "image": "https://huggingface.co/blog/assets/moe-expert-streaming/thumbnail.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-18T00:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "e683d40fba10",
-   "title": "The Silent Consensus",
-   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-   "link": "https://openai.com/index/the-silent-consensus",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/3hoPgi2r6EgMRVWO3fPVDh/47ed0d21fdd9f0aca529917ba3ece558/the-silent-consensus-seo-soft-focus-v3.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-18T00:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "19bce111d0ee",
-   "title": "Satya Nadella says he’s AGI-pilled now",
-   "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it.",
-   "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&strip=all&crop=0%2C5.5575251492495%2C100%2C88.884949701501&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-17T23:41:18+00:00",
-   "category": "business"
-  },
-  {
-   "id": "28509d8a3a74",
-   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-   "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-   "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T23:37:48+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "3feac0927710",
-   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-   "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T23:04:35+00:00",
-   "category": "models"
-  },
-  {
-   "id": "cacb696feb6a",
-   "title": "Мы каждый день разговариваем со всеми знаниями человечества. Но становимся ли мы умнее?",
-   "summary": "Иногда я открываю диалог с искусственным интеллектом, формулирую вопрос и вдруг понимаю, что уже знаю ответ. Но всё равно нажимаю Enter. Зачем?",
-   "link": "https://habr.com/ru/articles/1109138/?utm_campaign=1109138&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1109138/89761b34f1656531dbfe7ca5d84d0f34/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T22:57:33+00:00",
-   "category": "other"
   }
  ]
 }
