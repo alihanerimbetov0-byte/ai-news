@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:06:00.418146+00:00",
+ "updated": "2026-11-21T07:23:18.187418+00:00",
  "categories": [
   {
    "id": "models",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 11
+   "count": 7
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,94 @@
   }
  ],
  "items": [
+  {
+   "id": "daef862e842e",
+   "title": "Когда ИИ ошибается убедительно: инженерия здравого смысла",
+   "summary": "Мы живём в удивительное время. Генеративный искусственный интеллект решает сложные математические задачи, помогает разрабатывать программное обеспечение, участвует в поиске новых лекарств.",
+   "link": "https://habr.com/ru/articles/1110578/?utm_campaign=1110578&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110578/3549f2733b9de8b1a3dcf832aed89566/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T06:51:03+00:00",
+   "category": "other"
+  },
+  {
+   "id": "473c9c1e1e6b",
+   "title": "Выходные, автор и длинные слова: с чем связаны просмотры 46 тысяч статей Хабра",
+   "summary": "Пока моя первая статья для Хабра ждала правок от редактора, я задался простым вопросом: когда её лучше публиковать? Почитал существующие разборы, но прямого ответа не нашёл. Пришлось копать глубже.",
+   "link": "https://habr.com/ru/articles/1110102/?utm_campaign=1110102&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/2c/ca/a4/2ccaa46a851d22ab4a0268b2f2c8685e.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-21T06:15:38+00:00",
+   "category": "research"
+  },
+  {
+   "id": "5ff88063c578",
+   "title": "Откуда поисковому агенту знать слово “ужинатор”?",
+   "summary": "В трекере \"Меню на неделю\", в требованиях \"Недельная подписка на еду\", в чате \"Ужинатор\". Как агенту догадаться, что это один эпик? Допустим, в пятницу хотим запустить доставку ужинов.",
+   "link": "https://habr.com/ru/articles/1110566/?utm_campaign=1110566&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b0/a0/87/b0a08737d5dec2a3ef3b14fa0c854d45.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T06:11:34+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "5572cbbab701",
+   "title": "Модель заменили, точность не упала",
+   "summary": "Допустим, я заменил одну модель в системе. На своих задачах она не хуже прежней. Но раньше пустой ответ означал «проверил и ничего не нашёл», а теперь — «не проверял». Как её коллегам заметить разницу?",
+   "link": "https://habr.com/ru/articles/1110536/?utm_campaign=1110536&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a4/64/cc/a464ccfafa9de38ad8047086831586da.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T06:07:33+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d6b536ae0c10",
+   "title": "Идеальный диплом",
+   "summary": "История бедного студента, который просто хотел сдать диплом Осторожно: после прочтения ваша оригинальность может оказаться под сомнением!",
+   "link": "https://habr.com/ru/articles/1109984/?utm_campaign=1109984&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/dc/bc/99/dcbc994ce1bb19dbf8994aa74baedaa5.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T06:00:32+00:00",
+   "category": "other"
+  },
+  {
+   "id": "d7d2a3a86512",
+   "title": "Как я собрала контент-заводик для пловцовой команды на Google-табличке и ChatGPT",
+   "summary": "Привет! Я Мария. Работаю в ИТ и на волонтёрских началах капитаню в любительской команде пловцов. В сезоне 2026 я собрала для этой моей второй \"работы\" небольшой контент-заводик.",
+   "link": "https://habr.com/ru/articles/1108046/?utm_campaign=1108046&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e9/8c/c5/e98cc5754f1da048152a616c428d4778.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T05:47:59+00:00",
+   "category": "other"
+  },
+  {
+   "id": "d96b13d24e5a",
+   "title": "Управление одной кнопкой. Создатели Nothing Phone выпускают новый гаджет 8 декабря",
+   "summary": "Устройство должно стать помощником для работы с голосовой информацией Компания Nothing объявила дату презентации своего первого устройства, изначально разработанного для работы с искусственным интеллектом.",
+   "link": "https://www.ixbt.com/news/2026/11/21/upravlenie-odnoi-knopkoi-sozdateli-nothing-phone-vypuskaiut-novyi-gadzet-8-dekabria.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744422/media-8dadf5606249a7161e699c8aaca0da693897be17fb2919494dc92e8ed97cbe41.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-21T05:33:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "e6892524297f",
+   "title": "Из разработки в FDE. Почему я ставлю на инженеров, которые сами идут к заказчику",
+   "summary": "На новом рынке труда я делаю ставку на инженеров, которые умеют разобраться в задачах заказчика, написать код и довести решение до внедрения.",
+   "link": "https://habr.com/ru/articles/1110540/?utm_campaign=1110540&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a6/39/41/a6394110a098c4d78fed1825e55fff19.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T05:30:30+00:00",
+   "category": "other"
+  },
   {
    "id": "a7d20c80270e",
    "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
@@ -4419,94 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-17T19:41:07+00:00",
    "category": "other"
-  },
-  {
-   "id": "d9a047affb02",
-   "title": "Model ML raises $250M to automate investment banking grunt work",
-   "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-   "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T19:32:11+00:00",
-   "category": "models"
-  },
-  {
-   "id": "295681ff85c0",
-   "title": "Будем покупать профессии? Как ИИ-платформы изменят рынок корпоративного ПО",
-   "summary": "Будем ли мы покупать «профессии» так же, как сегодня покупаем готовые решения на 1С? На примерах рекламной кампании и банковского конвейера разбираю, как ИИ-платформы могут изменить рынок корпоративного ПО.",
-   "link": "https://habr.com/ru/articles/1109074/?utm_campaign=1109074&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/68/ec/b9/68ecb97676533fec7d0f63725e8d5466.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T19:31:42+00:00",
-   "category": "other"
-  },
-  {
-   "id": "cb267a837c17",
-   "title": "Nvidia представила кластер из четырёх DGX Spark с 512 ГБ для запуска AI‑моделей размером до 700 млрд параметров",
-   "summary": "На конференции SC26 в Чикаго Nvidia представила DGX Spark HPC Developer Kit — кластер из четырёх компактных компьютеров DGX Spark с суммарными 512 ГБ памяти.",
-   "link": "https://habr.com/ru/articles/1109072/?utm_campaign=1109072&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ba/3b/c5/ba3bc525df6c6af41ba461c3c1d6182e.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T19:24:32+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0fc744e43d60",
-   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-   "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-   "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T19:02:20+00:00",
-   "category": "models"
-  },
-  {
-   "id": "72284a47c9d9",
-   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-   "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use.",
-   "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-17T18:58:01+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "560e703561a2",
-   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-   "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-   "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-gemini-app.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-17T18:48:23+00:00",
-   "category": "models"
-  },
-  {
-   "id": "5641f9a79860",
-   "title": "Почему клиентская заявка теряется между отделами: ownership, handoff и наблюдаемость процесса",
-   "summary": "Клиент просит рассчитать поставку оборудования. Продажи пересылают письмо инженерам, инженеры — закупкам, закупки возвращают уточнение в продажи.",
-   "link": "https://habr.com/ru/articles/1109056/?utm_campaign=1109056&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7d/63/b1/7d63b1447abf4fb3435c7dfa0ef3de3a.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-17T18:40:09+00:00",
-   "category": "other"
-  },
-  {
-   "id": "e29b0cad73ea",
-   "title": "OpenAI выпустили GPT-6.2 Astra и Sol и снизили цену флагмана на 20%",
-   "summary": "OpenAI представили GPT-6.2 Astra и GPT-6.2 Sol . Astra предназначена для сложных проектов, Sol — для повседневной работы. Компания обещает более аккуратный код и меньший расход токенов на длинных агентных задачах.",
-   "link": "https://habr.com/ru/articles/1109054/?utm_campaign=1109054&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/04/66/01/046601cd7ffab838d2ec9c419632794e.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-17T18:19:12+00:00",
-   "category": "models"
   }
  ]
 }
