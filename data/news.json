@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T13:09:42.709880+00:00",
+ "updated": "2026-11-21T14:59:31.814968+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,39 @@
   }
  ],
  "items": [
+  {
+   "id": "b32f30b955b3",
+   "title": "Gemini 4 Neon догнала Opus 5.5, но релиз почти никто не заметил",
+   "summary": "Неделю назад я бы рассмеялся в лицо любому, кто сказал бы, что я буду хвалить нейросеть Google. Рынок давно сжался до Opus 5.5 наверху и вечных споров с ChatGPT внизу.",
+   "link": "https://habr.com/ru/articles/1110692/?utm_campaign=1110692&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/77/fa/1e/77fa1e983b0bc420493a890c9cf1c29e.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T13:49:12+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d536e38a7a19",
+   "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+   "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding.",
+   "link": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-21T13:32:35+00:00",
+   "category": "models"
+  },
+  {
+   "id": "236c43648db7",
+   "title": "[Перевод] Дообучаем на Mac малую языковую модель для RAG в браузере",
+   "summary": "Задача выглядела довольно простой: дообучить Qwen3-0.6B отвечать на вопросы по фрагментам текста, найденным семантическим поиском.",
+   "link": "https://habr.com/ru/companies/otus/articles/1106704/?utm_campaign=1106704&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/98/54/ab/9854ab607bf536ac2bc8443fe4504428.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T13:12:10+00:00",
+   "category": "models"
+  },
   {
    "id": "ad524383181c",
    "title": "Как я перестал быть диспетчером у своих ИИ-агентов",
@@ -4245,6 +4278,17 @@
    "category": "business"
   },
   {
+   "id": "e683d40fba10",
+   "title": "The Silent Consensus",
+   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+   "link": "https://openai.com/index/the-silent-consensus",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/3hoPgi2r6EgMRVWO3fPVDh/47ed0d21fdd9f0aca529917ba3ece558/the-silent-consensus-seo-soft-focus-v3.png?w=1600&h=900&fit=fill",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-18T10:00:00+00:00",
+   "category": "other"
+  },
+  {
    "id": "8c21abb71466",
    "title": "Disney сократит несколько тысяч рабочих мест ради снижения расходов",
    "summary": "В Disney отчитались о квартальной прибыли и выручке, превысивших прогнозы аналитиков, а также объявили о планах сократить расходы на $3 млрд к 2029 финансовому году.",
@@ -4463,50 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-18T06:44:00+00:00",
    "category": "business"
-  },
-  {
-   "id": "6b8baf00264d",
-   "title": "GPT-6.2 Astra: миллион токенов контекста, помощь в разработке ИИ и проблемы с контролем",
-   "summary": "OpenAI выпустила GPT-6.2 Astra — флагманскую reasoning-модель для сложных задач, программирования и профессиональной работы.",
-   "link": "https://habr.com/ru/companies/bothub/articles/1109164/?utm_campaign=1109164&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/73/56/76/7356760c4cddeda3124cdb35ba71bbe7.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T06:04:38+00:00",
-   "category": "models"
-  },
-  {
-   "id": "5150b0c0e6b0",
-   "title": "Xiaomi выпустила камеру видеонаблюдения с бесплатным безлимитным 4G в Китае",
-   "summary": "Smart 4G Camera 3 получила разрешение 3K, поворотный механизм на 360° и функции распознавания объектов с помощью ИИ Компания Xiaomi начала продажи камеры видеонаблюдения Smart 4G Camera 3 в Китае.",
-   "link": "https://www.ixbt.com/news/2026/11/18/xiaomi-vypustila-kameru-videonabliudeniia-s-besplatnym-bezlimitnym-4g-v-kitae.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743217/media-474b8aedab3edbeb45d34dda1ffb589dd88f18a8e91d93b5ea25cf5902b80801.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-18T06:02:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "803c3ae24d74",
-   "title": "Классическая проблема вагонетки и другие 7 коллизий, которые предстоит решить перед повсеместным внедрением ИИ",
-   "summary": "Представим, что у автономного автомобиля отказали тормоза. Прямо перед ним пешеход. Справа бетонное ограждение, столкновение с которым может убить пассажира. Слева встречная машина. Куда должен повернуть автомобиль?",
-   "link": "https://habr.com/ru/articles/1108956/?utm_campaign=1108956&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b8/4e/05/b84e0553c2efb37ba711e73bc33739d2.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T06:01:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "8b6ac2940fdc",
-   "title": "Managing frontier AI risk: From training to deployment",
-   "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-   "link": "https://openai.com/index/managing-frontier-ai-risk",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/62zvkDv3unaiLBblzJHY4f/d61ad5ec9ebc02f033d0efac3807be3e/managing-frontier-ai-risk-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-18T06:00:00+00:00",
-   "category": "models"
   }
  ]
 }
