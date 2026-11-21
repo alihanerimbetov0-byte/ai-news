@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:58:55.313907+00:00",
+ "updated": "2026-11-21T20:52:45.012966+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,50 @@
   }
  ],
  "items": [
+  {
+   "id": "c00fb9108da4",
+   "title": "«Наши две флагманские языковые модели входят в число лучших в мире». Проверяем по открытому рейтингу",
+   "summary": "«Входят в число лучших в мире»: сверяем заявление с открытым рейтингом Есть простой способ проверить громкие заявления о нейросетях — открытый рейтинг, в котором реальные пользователи вслепую выбирают лучший ответ из…",
+   "link": "https://habr.com/ru/articles/1110766/?utm_campaign=1110766&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8f/3b/02/8f3b02c867c0a5ef18c9ad00d97ee225.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T20:29:08+00:00",
+   "category": "models"
+  },
+  {
+   "id": "234da3fc1867",
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings…",
+   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-21T20:03:37+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "7ae580f685f3",
+   "title": "Что происходит с профессией разработчика: мой опыт и данные индустрии",
+   "summary": "Как это началось у нас Я работаю в команде разработки примерно из двух десятков человек: разработчики на 1С и смежных стеках, несколько тестировщиков и аналитиков.",
+   "link": "https://habr.com/ru/articles/1110762/?utm_campaign=1110762&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4c/a8/98/4ca8989c2cdd316fc24ca56599bbe77a.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T19:19:53+00:00",
+   "category": "other"
+  },
+  {
+   "id": "caa7b980e23b",
+   "title": "15 субагентов Claude Code писали систему. Принял её по уликам, а не по отчётам",
+   "summary": "Свою производственную систему я писал командой из 15 субагентов Claude Code: тех-лид на Opus, бэкенд и Android, QA, верификатор сборки и контролёр релиза.",
+   "link": "https://habr.com/ru/articles/1110754/?utm_campaign=1110754&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110754/635a4f1ca9dc07fb42ddc8463ce95ce9/",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-21T19:06:01+00:00",
+   "category": "models"
+  },
   {
    "id": "031c9e0efc7d",
    "title": "Гипотезу Римана попытались доказать дважды с публикациями в один день: с ИИ и без него",
@@ -4462,50 +4506,6 @@
    "source": "Хабр · ИИ",
    "lang": "ru",
    "date": "2026-11-18T09:01:11+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "0504e6fe7c43",
-   "title": "Тестер поставил моему боту critical за названную цену. Бот написал «подача до 2027 года»",
-   "summary": "Тестер нашего LLM-бота поставил critical за названную цену. Бот цен не называл: регулярка прочитала «подача до 2027 года» как «до 2027 рублей».",
-   "link": "https://habr.com/ru/articles/1104932/?utm_campaign=1104932&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1104932/822a4f256af6cd1b1bc793542fe87b9b/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T09:00:11+00:00",
-   "category": "models"
-  },
-  {
-   "id": "230edcfc7897",
-   "title": "228 релизов по заявкам незнакомцев, ноль ревью человеком: чем закончился эксперимент с автономной разработкой",
-   "summary": "Это финал трилогии про эксперимент, в котором заготовку браузерной игры — тактического симулятора в мультяшном стиле — дальше целиком развивала автономная связка AI-агентов.",
-   "link": "https://habr.com/ru/articles/1109238/?utm_campaign=1109238&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b9/27/59/b927595e962614a5d3fe58fbc27b055d.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T08:57:04+00:00",
-   "category": "models"
-  },
-  {
-   "id": "14f5763152b1",
-   "title": "Кембриджский словарь назвал «человеческий» словом 2026 года",
-   "summary": "Кембриджский словарь английского языка назвал словом 2026 года прилагательное human — «человеческий». Такой выбор обусловили тем, что искусственный интеллект меняет понимание того, что значит быть человеком.",
-   "link": "https://habr.com/ru/articles/1109216/?utm_campaign=1109216&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/d3/71/4c/d3714ce76ab9db90c44d334f99df0dfe.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T08:27:16+00:00",
-   "category": "other"
-  },
-  {
-   "id": "937ea77f79dd",
-   "title": "Дженсен Хуанг заявил о готовности вернуться в Nvidia, но совет директоров против",
-   "summary": "Бывший генеральный директор, президент и член совета директоров Nvidia Дженсен Хуанг написал первый пост в социальной сети X после недавней отставки.",
-   "link": "https://habr.com/ru/articles/1109214/?utm_campaign=1109214&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/55/61/6a/55616aabedadaae8ed8ae66485ed7d1c.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-18T08:10:02+00:00",
    "category": "hardware"
   }
  ]
