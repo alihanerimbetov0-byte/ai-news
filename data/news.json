@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T14:59:31.814968+00:00",
+ "updated": "2026-11-21T16:56:56.484085+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,13 +43,13 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 3
   },
   {
    "source": "Google AI",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "source": "Hugging Face",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,94 @@
   }
  ],
  "items": [
+  {
+   "id": "5a5f6d350b70",
+   "title": "1,6 кВт и экран 4,3 дюйма за $640. Gigabyte встроила в блок питания дисплей больше, чем был у оригинального iPhone",
+   "summary": "Он поддерживает подключение четырех видеокарт Gigabyte начала продажи блока питания AORUS P1600W AI TOP мощностью 1600 Вт, оснащённого встроенным 4,3-дюймовым LCD-дисплеем. В Китае новинку продают за $640.",
+   "link": "https://www.ixbt.com/news/2026/11/21/16-kvt-i-ekran-43-diuima-za-640-gigabyte-vstroila-v-blok-pitaniia-displei-bolse-cem-byl-u-originalnogo-iphone.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744699/media-010e89924766f1a21ce5114513c73a96acbb9b22691df6f5545625d688291b18.webp",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-21T16:50:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "033823f6f4fd",
+   "title": "Nvidia researchers argue huge AI context windows are a dead end",
+   "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative.",
+   "link": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/you-dont-need-long-context-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-21T16:23:45+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d770c4ef93fe",
+   "title": "Кит уплыл в мир агентов: что на самом деле поменялось в Docker после «Run on trust»",
+   "summary": "Даже Docker, который казался вечным фундаментом под любым проектом, меняется вслед за AI. 19 ноября компания сменила кита и слоган, а первый экран docker.com теперь целиком про агентов.",
+   "link": "https://habr.com/ru/articles/1110714/?utm_campaign=1110714&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7b/ca/a7/7bcaa7af56aa93ac347ac5d8783ec95d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T16:11:26+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "a35786f03510",
+   "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+   "summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god.",
+   "link": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/buddhist_ai_sect.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-21T16:04:29+00:00",
+   "category": "other"
+  },
+  {
+   "id": "89298d3b7fb0",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-21T16:00:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "2bad4b9dbe84",
+   "title": "Представлен ClawDOS — ИИ‑агент для написания кода в среде DOS",
+   "summary": "Разработчик Рич Акоста совместно с Claude представил открытый проект ClawDOS ( веб-сайт решения ). Это ИИ‑агент для написания кода в среде DOS.",
+   "link": "https://habr.com/ru/articles/1110726/?utm_campaign=1110726&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f5/35/ad/f535ad257158aa049c58c921e13b30e9.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-21T15:41:21+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a9f34b76fcc6",
+   "title": "Can Anthropic afford to put safety first?",
+   "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life.",
+   "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-21T15:00:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "e74727ec8af7",
+   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "summary": "Chess.com is ready to go a lot bigger than chess.",
+   "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-21T14:00:00+00:00",
+   "category": "other"
+  },
   {
    "id": "b32f30b955b3",
    "title": "Gemini 4 Neon догнала Opus 5.5, но релиз почти никто не заметил",
@@ -4419,94 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-18T08:00:14+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "53f2a14376dd",
-   "title": "Inside the Codex sandbox",
-   "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-   "link": "https://openai.com/index/inside-the-codex-sandbox",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/1PnylD7lJwgUw7jYNP8wLh/7fa5553001136f3982e8d4db44146de3/inside-the-codex-sandbox-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-18T08:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "9fa731b0ef6c",
-   "title": "Research acceleration: The jagged frontier",
-   "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-   "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/2YS8yWiGpKflhlEnAkcLU/f51ead4391706f6c3198f0d61a0f147a/research-acceleration-the-jagged-frontier-social.png",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-18T08:00:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "b527b6f0ddce",
-   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-   "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-   "link": "https://openai.com/business/customer-stories/sumitomo-life",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/4hobAtsV8r9aiWOWQkUYu6/aec1eae52f5c7241756a43c764ef43f5/sumitomo-life-seo-white-canvas-final.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-18T08:00:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "15d499d94870",
-   "title": "ИИ-администратор: как сделать похожим на человека",
-   "summary": "Клиент пишет в директ, задает вопрос об услуге и хочет записаться. ИИ-администратор должен ответить по существу, найти свободное время и не пообещать то, чего клиника не делает.",
-   "link": "https://habr.com/ru/articles/1109202/?utm_campaign=1109202&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b7/14/24/b7142480a62c45a48e7bdc58d14b8c83.jpeg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-18T07:50:54+00:00",
-   "category": "other"
-  },
-  {
-   "id": "0800820480cd",
-   "title": "Архитектор уволился — и систему стало страшно трогать. 451° по Фаренгейту для тех, кто не пишет ADR",
-   "summary": "В «451° по Фаренгейту» люди сами променяли книги на телевизионные стены. Книги требовали думать, а стены — просто потреблять. Удобно, быстро и без напряга. Мы в ИТ стоим на похожем перекрестке, не только из-за ИИ.",
-   "link": "https://habr.com/ru/companies/ru_mts/articles/1108494/?utm_campaign=1108494&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7d/95/80/7d9580f142f8188d9a3fd4a7070d7d7e.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T07:30:11+00:00",
-   "category": "other"
-  },
-  {
-   "id": "bf3e8b2653a3",
-   "title": "Разработчики Arc решили выключить 22 декабря. И я решил создать ему альтернативу",
-   "summary": "Разработчики браузера Arc приняли идиотское решение закрыть браузер 22 декабря.",
-   "link": "https://habr.com/ru/articles/1109084/?utm_campaign=1109084&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/63/de/a4/63dea433e80115df40c3816cbc0e290e.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T07:01:07+00:00",
-   "category": "other"
-  },
-  {
-   "id": "fc65861d92fe",
-   "title": "ПДн не доходят до LLM: маскируем УНП, карты и ФИО синтетикой — даже в стриме",
-   "summary": "Банку нужны GPT и Claude, но номер карты клиента отправить им нельзя.",
-   "link": "https://habr.com/ru/articles/1104854/?utm_campaign=1104854&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f3/90/69/f390693d7e1109585c1d68d73c5c663c.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T07:00:07+00:00",
-   "category": "models"
-  },
-  {
-   "id": "5927681f3dd7",
-   "title": "ИИ-генератор аудио Suno научился создавать музыкальные клипы",
-   "summary": "Стартап Suno расширил возможности своего ИИ-генератора, который позволяет создавать музыкальные композиции на основе текстовых запросов.",
-   "link": "https://3dnews.ru/1151446",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151446/suno-visuals.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-18T06:44:00+00:00",
-   "category": "business"
   }
  ]
 }
