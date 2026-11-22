@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T07:23:56.007724+00:00",
+ "updated": "2026-11-22T08:57:59.256426+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 3
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "dca0c71ed1df",
+   "title": "Домашняя фотостудия с ИИ: обучение LoRA, примерка одежды и стилист в Imagecaster",
+   "summary": "Локальная ИИ-фотостудия: как обучить LoRA на своих фотографиях, примерить одежду, создать образы с личным стилистом и устроить красивую фотосессию. В статье — примеры результатов и список используемых инструментов.",
+   "link": "https://habr.com/ru/articles/1110810/?utm_campaign=1110810&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/72/2a/80/722a80af1114f96d787cf2fed3de1904.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T07:54:13+00:00",
+   "category": "tools"
+  },
   {
    "id": "e88e7dbab661",
    "title": "Если долго смотреть в глубину",
@@ -4496,17 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-18T09:47:16+00:00",
    "category": "business"
-  },
-  {
-   "id": "d1cb123c88f2",
-   "title": "[Перевод] Пророчество об ИИ, оставленное в 2013",
-   "summary": "В свете повальной ИИфикации нейро-ассистентам отдаётся на откуп всё больше задач. И многие из этих задач, ни много ни мало, имеют стратегические значение или напрямую касаются вопросов жизни и смерти.",
-   "link": "https://habr.com/ru/companies/studyai/articles/1109268/?utm_campaign=1109268&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/75/40/50/7540507b68f676497ea918433015a602.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T09:20:50+00:00",
-   "category": "tools"
   }
  ]
 }
