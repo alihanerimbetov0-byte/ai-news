@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T14:58:13.826642+00:00",
+ "updated": "2026-11-22T16:57:32.003542+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -108,6 +108,61 @@
   }
  ],
  "items": [
+  {
+   "id": "2dd3f4829852",
+   "title": "Signal начал блокировать скриншоты переписок, чтобы ИИ-агенты не могли читать личные сообщения",
+   "summary": "Мессенджер опасается, что встроенные в iOS и Android ИИ-агенты смогут копировать личные данные за пределы защищённого шифрованием приложения Signal — мессенджер со сквозным шифрованием переписки — начала ограничивать…",
+   "link": "https://www.ixbt.com/news/2026/11/22/signal-nacal-blokirovat-skrinsoty-perepisok-ctoby-ii-agenty-ne-mogli-citat-licnye-soobshheniia.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745018/media-550731009132beda64ea6790b52c4291b5a1d95ef7e1e26964a801aaa2d92589.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-22T16:53:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "2099fe964b6c",
+   "title": "OpenAI GPT-6.2 Astra и GPT-6.2 Sol оказались одними из лучших ИИ-моделей для разработки игр",
+   "summary": "Новые модели OpenAI GPT-6.2 Astra и GPT-6.2 Sol показали высокие результаты в тестах платформы DesignArena, оценивающей возможности искусственного интеллекта в разработке игр.",
+   "link": "https://3dnews.ru/1151657",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/22/1151657/532.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-22T16:02:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "c0c79671043e",
+   "title": "Как выбирать площадки для упоминаний бренда в ответах ИИ — я прошерстил исследование от Ahrefs",
+   "summary": "Недавно я увидел у Ahrefs такое: у брендов с десятикратно большим числом упоминаний на веб-страницах примерно в 3,7 раза больше упоминаний в ответах ИИ — заметно скромнее, чем можно ожидать от такой разницы.",
+   "link": "https://habr.com/ru/articles/1110916/?utm_campaign=1110916&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a0/ea/00/a0ea0067ff7611e9b5b43548911078ab.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T15:48:40+00:00",
+   "category": "research"
+  },
+  {
+   "id": "7cda7525825c",
+   "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+   "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets…",
+   "link": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/cowork-benchmark-chatgpt-5-6.jpg",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-22T15:15:48+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "51e3eeee6626",
+   "title": "Серверы для ИИ дорожают прямо на глазах: Dell и другие требуют с заказчиков доплатить 25–45 %",
+   "summary": "Крупнейшие поставщики серверного оборудования, включая Dell, HPE, Lenovo и Supermicro, начали повышать цены на серверы для ИИ после подписания контрактов с заказчиками.",
+   "link": "https://3dnews.ru/1151654",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/22/1151654/65754.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-22T15:06:00+00:00",
+   "category": "other"
+  },
   {
    "id": "283e991f80bf",
    "title": "Dell решила, что $549 млн недостаточно, и потребовала доплатить ещё $70 млн за уже заказанные серверы — и это уже типичная практика",
@@ -4452,61 +4507,6 @@
    "lang": "en",
    "date": "2026-11-18T13:00:00+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "48de7289e2c0",
-   "title": "Фильтр от промпт-инъекций — защита от новых угроз",
-   "summary": "Представьте, что вы дали большой языковой модели (LLM) простую инструкцию: «Никому не показывай этот пароль и не делись токенами».",
-   "link": "https://habr.com/ru/articles/1109428/?utm_campaign=1109428&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/cb/93/38/cb933889963991f0af4f534c30107539.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-18T12:57:03+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d88dac7b462d",
-   "title": "Nvidia полностью прекратила поставки ИИ-чипов в Китай — даже разрешённых США Hopper",
-   "summary": "Nvidia больше не будет поставлять ускорители искусственного интеллекта серии Hopper, предназначенные для центров обработки данных, в Китай.",
-   "link": "https://3dnews.ru/1151467",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151467/nvidia_5.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-18T12:51:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "8d9e62c22164",
-   "title": "Мышеловка, коробок и трубкозуб: как учить мультимодальный ИИ мыслить по-человечески в 66 измерениях",
-   "summary": "Начнем с небольшого эксперимента. Перед вами три картинки: мышеловка, спичечный коробок и трубкозуб. Какая из них лишняя? Задачка на пару секунд: первые два предмета сделал человек, а третий — живое существо.",
-   "link": "https://habr.com/ru/companies/ru_mts/articles/1107090/?utm_campaign=1107090&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/2b/8c/5a/2b8c5a8b8e5e9c5d1e187cff5a1e767e.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T12:44:55+00:00",
-   "category": "other"
-  },
-  {
-   "id": "a363d29d9c52",
-   "title": "Интерактивная среда для программирования с нейросетями SolveIt перешла в открытый доступ",
-   "summary": "Команда исследовательской организации Answer.AI представила в открытом доступе платформу SolveIt. Инструмент создавали в первую очередь для внутренних исследовательских задач и работы с кодом.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1109222/?utm_campaign=1109222&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e3/c3/d0/e3c3d0813e64eb0cd98b2c3012c63aae.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T12:30:54+00:00",
-   "category": "research"
-  },
-  {
-   "id": "9949c827a21a",
-   "title": "Не воспроизводится? Воспроизведём. Моки и AI в проверке интерфейсов",
-   "summary": "Фича уже готова, но на стенде видим только happy path.",
-   "link": "https://habr.com/ru/companies/ozontech/articles/1108928/?utm_campaign=1108928&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/6f/af/04/6faf04bdc42ff2b002b10fb2421ffdc8.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T12:30:18+00:00",
-   "category": "other"
   }
  ]
 }
