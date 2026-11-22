@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:07:56.086565+00:00",
+ "updated": "2026-11-22T14:58:13.826642+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 13
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 3
+   "count": 7
   },
   {
    "source": "Хабр · ML",
@@ -109,6 +109,94 @@
  ],
  "items": [
   {
+   "id": "283e991f80bf",
+   "title": "Dell решила, что $549 млн недостаточно, и потребовала доплатить ещё $70 млн за уже заказанные серверы — и это уже типичная практика",
+   "summary": "Производители повышают цены на ИИ-серверы Nvidia уже после заключения контрактов Производители серверного оборудования начали резко повышать цены на ИИ-серверы Nvidia уже после заключения контрактов с покупателями:…",
+   "link": "https://www.ixbt.com/news/2026/11/22/dell-resila-cto-549-mln-nedostatocno-i-potrebovala-doplatit-eshhe-70-mln-za-uze-zakazannye-servery-i-eto-uze-tipicnaia-praktika.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744989/media-cd601b0d009d2c2216773d96f2a47668d4617816d85d2d3ce97f6cff57c881a5.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-22T14:37:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "f5657b033d4a",
+   "title": "Почему 24/7 ИИ-агенты ломаются за 4 часа: хаос-бенчмарк F01–F10 и открытый линтер Sci Integrity Guard",
+   "summary": "Разбор 10 режимов отказа автономных агентов ИИ (F01–F10), открытый хаос-бенчмарк и линтер научной целостности sci-integrity-guard от EvoNova Labs. Читать анатомию хаос-тестов →",
+   "link": "https://habr.com/ru/articles/1110886/?utm_campaign=1110886&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e5/c5/d1/e5c5d10a03b8304cd65af0a865889ea2.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T14:36:39+00:00",
+   "category": "models"
+  },
+  {
+   "id": "7bb6862f6214",
+   "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+   "summary": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results.",
+   "link": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/06/Perplexity-Logo-Silhouette-Nano-Banana-Pro.jpg",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-22T14:20:28+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a4be7935ae8c",
+   "title": "Google проверила фундаментальное свойство квантовой механики на процессоре Willow с 105 кубитами",
+   "summary": "Квантовый процессор обошёл классический предел в игре в 98,3% случаев против максимально возможных 88,9% для классических стратегий Команда Google Quantum AI продемонстрировала на сверхпроводниковом квантовом процессоре…",
+   "link": "https://www.ixbt.com/news/2026/11/22/google-proverila-fundamentalnoe-svoistvo-kvantovoi-mexaniki-na-processore-willow-s-105-kubitami.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744982/media-ab5ca5ff6d35c6b2b761adf9f8299385f527d157b4cf76007c80352f5881eb2e.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-22T13:58:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "3321391fa630",
+   "title": "США закручивают гайки: уже и 16-нанометровые чипы называют передовыми компонентами — и это расширяет технологическую блокаду Китая",
+   "summary": "На этом фоне TSMC приостановила часть поставок США расширили экспортные ограничения на поставки полупроводников в Китай, и последствия могут затронуть не только производителей ИИ-ускорителей.",
+   "link": "https://www.ixbt.com/news/2026/11/22/ssa-zakrucivaiut-gaiki-uze-i-16-nanometrovye-cipy-nazyvaiut-peredovymi-komponentami-i-eto-rassiriaet-texnologiceskuiu-blokadu-kitaia.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744980/media-c6abe77d8e07a59b2ae293ca4c33006b9d896edf8f1a20629e3c280e23a0e661.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-22T13:53:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "46e61c88190c",
+   "title": "Доверяй, но запрещай – или как ограничивать полномочия AI-агента на разных уровнях",
+   "summary": "Привет, Хабр! В моём AGENTS.md чёрным по белому написано: «не работай в main» и «force push только с разрешения».",
+   "link": "https://habr.com/ru/companies/magnit/articles/1110850/?utm_campaign=1110850&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ab/c3/50/abc35049ec63e39f0c30d7c6c8160ecc.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T13:31:57+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "866cec43143d",
+   "title": "ИИ-агенты OpenAI уже самостоятельно выполняют 46% коротких исследовательских задач",
+   "summary": "В марте они справлялись только с 23% таких заданий.",
+   "link": "https://www.ixbt.com/news/2026/11/22/ii-agenty-openai-uze-samostoiatelno-vypolniaiut-46-korotkix-issledovatelskix-zadac.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744971/media-3d4e311b17e16b3c3a3bdcbb30232e35bbb7684f38c3ba7dfbc1055dcef17126.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-22T13:28:00+00:00",
+   "category": "research"
+  },
+  {
+   "id": "78793a9c759f",
+   "title": "Почти тысяча ИИ-агентов за 3 месяца создала научное сообщество с собственным журналом",
+   "summary": "За 12 недель они опубликовали 936 исследований, рецензировали работы друг друга и публично отзывали ошибочные выводы.",
+   "link": "https://www.ixbt.com/news/2026/11/22/pocti-tysiaca-ii-agentov-za-3-mesiaca-sozdala-naucnoe-soobshhestvo-s-sobstvennym-zurnalom.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744967/media-70612e557ee6e8cbbc6749c8e824f20bfc45a86217b4643dfdbbda5b0c53fcf4.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-22T13:07:00+00:00",
+   "category": "research"
+  },
+  {
    "id": "5f8d980aa0c1",
    "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
    "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure.",
@@ -118,6 +206,17 @@
    "lang": "en",
    "date": "2026-11-22T13:00:43+00:00",
    "category": "models"
+  },
+  {
+   "id": "0f50037c76f2",
+   "title": "The vibe-coding revolution is coming to all the gadgets",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce.",
+   "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-22T13:00:00+00:00",
+   "category": "other"
   },
   {
    "id": "08ae7c88a3e3",
@@ -4407,105 +4506,6 @@
    "source": "Хабр · ИИ",
    "lang": "ru",
    "date": "2026-11-18T12:30:18+00:00",
-   "category": "other"
-  },
-  {
-   "id": "f57624398a77",
-   "title": "Настраиваем Qwen Code под проект: QWEN.md, правила, MCP, субагенты и песочница",
-   "summary": "После установки Qwen Code работает «как есть»: каждый раз заново изучает репозиторий, спрашивает одно и то же и тратит токены на то, что можно было сказать один раз.",
-   "link": "https://habr.com/ru/articles/1109386/?utm_campaign=1109386&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1109386/66a246da4224ba7199dfa983e4d536aa/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T12:00:42+00:00",
-   "category": "models"
-  },
-  {
-   "id": "620756f297e9",
-   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-   "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-   "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/unsiloed-AI-founders-adnan-abbas-aman-mishra.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-18T12:00:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "9fa4253ddf28",
-   "title": "Миллионы ИТ-систем по всему миру под угрозой: GPT-6 Cyber нашла критическую дыру в Java",
-   "summary": "Технологические стартап Calif, который ранее обнаружил уязвимость в PHP, выявил ошибку в механизмах управления памятью Java.",
-   "link": "https://3dnews.ru/1151462",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151462/man-pc.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-18T11:35:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "996c920e2c06",
-   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-   "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-   "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/humyn-labs-co-founders_164602.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-18T11:30:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "b6b3851a0fe9",
-   "title": "Манифест против ИИ-шлака: как нам всем не захлебнуться в потоке нейрослопа?",
-   "summary": "В последний год все вокруг только и твердят о том, куда бы ещё внедрить искусственный интеллект и какие ещё процессы перевести на агентов. Из каждого утюга доносятся возгласы: “Скилы! Агенты! Упряжи! Графы! Второй мозг!",
-   "link": "https://habr.com/ru/articles/1108994/?utm_campaign=1108994&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c1/c1/9e/c1c19ea8d9638a73191e39813bcad2d5.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T11:27:50+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "da6c827addce",
-   "title": "Suno now lets you make AI videos for your AI music",
-   "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/suno-ai-visuals.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-18T11:16:53+00:00",
-   "category": "other"
-  },
-  {
-   "id": "692f9a2adfdc",
-   "title": "ИИ и агенты в кибербезопасности: как состарились доклады RSAC 2026",
-   "summary": "Привет, Хабр! На связи ML-команда Positive Technologies. В марте на RSAC 2026 прошло больше 570 сессий , и заметное место в программе заняли ИИ-агенты.",
-   "link": "https://habr.com/ru/companies/pt/articles/1109334/?utm_campaign=1109334&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c0/1c/cf/c01ccf831c15e1b87610fa747dfc9e1d.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-18T11:12:48+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "b83192dac827",
-   "title": "«LLM без OCR в обработке документов не работает»: как «АльфаСтрахование» построила IDP-оркестратор с ИИ Smart Engines",
-   "summary": "Ежегодно «АльфаСтрахование» обрабатывает порядка 40 млн документов.",
-   "link": "https://habr.com/ru/companies/smartengines/articles/1108732/?utm_campaign=1108732&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c1/dc/ae/c1dcae7dfb31f91f4c95196a9367fc9b.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T11:07:46+00:00",
-   "category": "models"
-  },
-  {
-   "id": "cecde5b4c4fd",
-   "title": "Microsoft превратит Copilot в сисадмина — ИИ будет сам разбираться с поломками Windows",
-   "summary": "Microsoft превратит помощника с искусственным интеллектом Copilot в средство по устранению неполадок — он сможет анализировать состояние ПК, выявлять проблемы, объяснять их причины и избавит пользователя от…",
-   "link": "https://3dnews.ru/1151460",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151460/copilot.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-18T11:00:00+00:00",
    "category": "other"
   }
  ]
