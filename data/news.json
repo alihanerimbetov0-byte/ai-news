@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:55:10.669715+00:00",
+ "updated": "2026-11-22T22:54:31.737836+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 13
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 2
   },
   {
    "source": "Google AI",
@@ -109,6 +109,61 @@
  ],
  "items": [
   {
+   "id": "e7090200216e",
+   "title": "We haven’t seen the last of the major tech outages",
+   "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase.",
+   "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-22T22:48:02+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "f85af8de327c",
+   "title": "Агентская разработка в геймдеве на Unity, или Как я скормил агенту рекламу мобильной игры",
+   "summary": "Агентская разработка в геймдеве: как из рекламы мобильной игры, скормленной агенту, получился полноценный 3D-экшен на Unity.",
+   "link": "https://habr.com/ru/articles/1110996/?utm_campaign=1110996&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f8/b3/6f/f8b36f3195e574ef78513e6b763b2279.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T21:51:01+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "68267e99b15a",
+   "title": "Китайские спецслужбы начали охоту за передовыми ИИ-чипами задолго до скандала вокруг Nvidia",
+   "summary": "Китайские спецслужбы начали охоту за передовыми чипами для искусственного интеллекта задолго до скандала вокруг Nvidia и обвинений в слежке за её руководителем Дженсеном Хуангом (Jensen Huang).",
+   "link": "https://3dnews.ru/1151661",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/22/1151661/7854.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-22T21:45:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "716c53fa8fce",
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-22T21:14:07+00:00",
+   "category": "research"
+  },
+  {
+   "id": "c15e7e0dedcb",
+   "title": "Гипотеза Римана. Часть вторая: как устроено опубликованное доказательство",
+   "summary": "Последний шаг опубликованного доказательства гипотезы Римана умещается в одну строку Lean и понятен почти школьнику: если некоторый «остаток» в сумме по простым числам не больше √X с любой сколь угодно малой добавкой,…",
+   "link": "https://habr.com/ru/articles/1110970/?utm_campaign=1110970&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/64/d5/eb/64d5ebdff9e72800b32dfcd901b1eb01.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T20:49:14+00:00",
+   "category": "other"
+  },
+  {
    "id": "3a41a4d10f95",
    "title": "Создатель Call of Duty, компания Activision, подала патент на ИИ-персонажей для обмена оскорблениями голосом игроков",
    "summary": "Система сможет перенимать реакции пользователей, чтобы NPC в играх звучали естественнее.",
@@ -118,6 +173,17 @@
    "lang": "ru",
    "date": "2026-11-22T20:48:00+00:00",
    "category": "policy"
+  },
+  {
+   "id": "a8190c76088c",
+   "title": "Гипотеза Римана. Часть первая: как мы её не доказали",
+   "summary": "20 ноября 2026 года гипотезу Римана доказали. Не я: Левент Альпёге вместе с моделью Claude, и сообщества Lean и Mathlib уже подтвердили формальную проверку.",
+   "link": "https://habr.com/ru/articles/1110964/?utm_campaign=1110964&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f3/bb/3c/f3bb3c606da983fcd14a747f66a08a50.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T20:47:14+00:00",
+   "category": "models"
   },
   {
    "id": "166dc0e3cdf9",
@@ -4441,72 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-18T14:50:57+00:00",
    "category": "other"
-  },
-  {
-   "id": "e1b11b05a1f3",
-   "title": "Вышла GPT-6.2 от OpenAI. Модели Astra и Sol доступны в ИИ-роутере",
-   "summary": "17 ноября компания OpenAI выпустила сразу две модели GPT-6.2. Astra делали для тяжелой профессиональной работы в науке, праве и финансах. Sol собрали быстрой и универсальной, для повседневных задач.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1109508/?utm_campaign=1109508&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c6/e3/7c/c6e37c9634bb49380cb5ba362f0170a8.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-18T14:48:54+00:00",
-   "category": "models"
-  },
-  {
-   "id": "bb3ee1cf50e2",
-   "title": "The AI Hype Index: AI is everywhere",
-   "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue.",
-   "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-18T14:42:44+00:00",
-   "category": "business"
-  },
-  {
-   "id": "c6e5652d2373",
-   "title": "Кто стоит за роботизацией в России: реестр интеграторов промышленных роботов",
-   "summary": "Представьте типичный бизнес‑квест: вы руководите производством и планируете запустить автоматизацию процессов. Здесь нужен проверенный подрядчик‑интегратор, который погрузится в ваши процессы и спроектирует решение.",
-   "link": "https://habr.com/ru/specials/1109296/?utm_campaign=1109296&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/47/a5/f5/47a5f50cc58eaad007756b973b0d53f7.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T14:41:23+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "daacb193d1e2",
-   "title": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
-   "summary": "Mistral's AI agent Vibe now has its own desktop app. The article Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems appeared first on The Decoder .",
-   "link": "https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_ai-3.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-18T14:40:52+00:00",
-   "category": "models"
-  },
-  {
-   "id": "419cb7ac64c4",
-   "title": "На LeetCode появились задачи по вайбкодингу",
-   "summary": "Платформа LeetCode запустила Project Problems — новый формат выполнения заданий, в рамках которого разработчикам предлагается создавать программы с помощью ИИ.",
-   "link": "https://habr.com/ru/articles/1109494/?utm_campaign=1109494&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/14/ba/9d/14ba9d29511cec404dd181fceb5e9b87.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T14:37:59+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "adb832209d1c",
-   "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
-   "summary": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time.",
-   "link": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-18T14:36:42+00:00",
-   "category": "models"
   }
  ]
 }
