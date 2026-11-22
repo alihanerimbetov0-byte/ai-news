@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T10:55:51.451368+00:00",
+ "updated": "2026-11-22T13:07:56.086565+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 3
   },
   {
    "source": "Google AI",
@@ -108,6 +108,94 @@
   }
  ],
  "items": [
+  {
+   "id": "5f8d980aa0c1",
+   "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+   "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure.",
+   "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/06/metr_logo.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-22T13:00:43+00:00",
+   "category": "models"
+  },
+  {
+   "id": "08ae7c88a3e3",
+   "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+   "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace…",
+   "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/cybersecurity_data_leak.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-22T12:07:56+00:00",
+   "category": "business"
+  },
+  {
+   "id": "7deb5ec8e5c1",
+   "title": "Как проверить, поддакивает ли Алиса AI при выборе SaaS или действительно учитвает ваш запрос",
+   "summary": "Рекомендации Алисы AI могут совпасть с вашим желанием купить SaaS просто потому, что сервис подходит бизнесу.",
+   "link": "https://habr.com/ru/articles/1110848/?utm_campaign=1110848&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a0/bb/e1/a0bbe1064e8524798a4c676a01d248e9.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T12:01:11+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "3179901b8f2d",
+   "title": "Куда я потратил грант Яндекса: пишем с нуля C++/CUDA-движок для LLM, который обгоняет llama.cpp на старой RTX 2080 Ti",
+   "summary": "В начале 2026 года Яндекс объявил грант на лучшие open-source проекты на своей новой платформе SourceCraft.",
+   "link": "https://habr.com/ru/articles/1110758/?utm_campaign=1110758&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110758/b0496eeb0ded362bb98dddbc06ab3941/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T11:48:33+00:00",
+   "category": "models"
+  },
+  {
+   "id": "cbb4a0ca96d5",
+   "title": "Нейросеть на 367 тысяч параметров уместили на дискету — она отвечает голосом и требует всего 540 КБ оперативной памяти",
+   "summary": "Работает на системах с Intel 486DX Разработчик с ником WollyMonjac создал компактную нейросеть Tiny 2.1, способную работать на компьютерах эпохи DOS — вплоть до систем с процессорами Intel 486DX и Pentium.",
+   "link": "https://www.ixbt.com/news/2026/11/22/neiroset-na-367-tysiac-parametrov-umestili-na-disketu-ona-otvecaet-golosom-i-trebuet-vsego-540-kb-operativnoi-pamiati.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744942/media-db815c2227278e469b27b0e1130436e3feb6c6d9c816620e0b85bb23d80c938b.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-22T11:20:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "5dafed3b9694",
+   "title": "tiny-voca-ru: русский голос в 21 мегабайте",
+   "summary": "TL;DR.",
+   "link": "https://habr.com/ru/articles/1110838/?utm_campaign=1110838&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/bf/c0/8b/bfc08bbb7d500190d1e65fd1d7493a4a.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T11:12:35+00:00",
+   "category": "other"
+  },
+  {
+   "id": "fa9fd258dbb9",
+   "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+   "summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code.",
+   "link": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/05/ai_and_math.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-22T11:08:31+00:00",
+   "category": "business"
+  },
+  {
+   "id": "31c336541238",
+   "title": "Banks Have Had It Up to Here With Your AI Agent",
+   "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+   "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+   "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-22T11:00:00+00:00",
+   "category": "policy"
+  },
   {
    "id": "3af4a29d8838",
    "title": "Перестаньте учить каждое незнакомое слово. Как научиться читать на английском",
@@ -4419,94 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-18T11:00:00+00:00",
    "category": "other"
-  },
-  {
-   "id": "e3dea1d8bae5",
-   "title": "ИИ-агенты, WebSocket и ускорение 1С в 5 раз: пять интересных публикаций Инфостарт",
-   "summary": "Что, если ИИ сможет не только отвечать на вопросы бухгалтера, но и находить ошибки в документах?",
-   "link": "https://habr.com/ru/companies/infostart/articles/1109326/?utm_campaign=1109326&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/0f/78/1d/0f781d8de01b8ca6f36be16e00f54515.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T10:46:25+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "c3c9d5951b34",
-   "title": "ИИ-агент каждый день выходит на работу впервые. Полтора года мы строим ему память проекта: что получилось, а что нет",
-   "summary": "В первый день Claude добавил нам API-эндпоинт и заодно написал вторую функцию авторизации, хотя в проекте уже была такая же. На следующий день на другой задаче пришлось снова объяснять агенту, как у нас устроен код.",
-   "link": "https://habr.com/ru/articles/1109152/?utm_campaign=1109152&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b0/f7/5c/b0f75ca212d2b33e18cec9c01faa121e.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T10:43:48+00:00",
-   "category": "models"
-  },
-  {
-   "id": "f2a3be05506c",
-   "title": "ONNX Runtime исчез с GitHub: что известно об инциденте с репозиториями Microsoft",
-   "summary": "С вечера 17 ноября GitHub не отдаёт репозиторий microsoft/onnxruntime : ни код, ни теги, ни архивы релизов. В тот же вечер в PyPI появились две заражённые версии пакета Microsoft agent‑framework со стилером.",
-   "link": "https://habr.com/ru/articles/1109322/?utm_campaign=1109322&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/fe/1b/c4/fe1bc44bf689597f107a573178bee2d7.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-18T10:42:57+00:00",
-   "category": "models"
-  },
-  {
-   "id": "ebecdae61747",
-   "title": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
-   "summary": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals.",
-   "link": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/08/suno_ai_logo.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-18T10:22:45+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "5c1dcd3f235d",
-   "title": "Google будет два месяца хранить временные чаты в Gemini",
-   "summary": "Google предупредила об увеличении до двух месяцев срока хранения временных чатов Gemini и переписок, созданных при отключённой истории чатов.",
-   "link": "https://habr.com/ru/articles/1109308/?utm_campaign=1109308&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/fe/ee/70/feee70718fd5a79e5a4884f8582ff2f1.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-18T10:20:57+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d1dd49b4f83d",
-   "title": "This smell startup says its AI nose is as good as a human’s",
-   "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth.",
-   "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Copy-of-Copy-of-BH1_6183_Ben_Hider_250430.jpg?w=840",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-18T10:20:30+00:00",
-   "category": "business"
-  },
-  {
-   "id": "506ef390e2da",
-   "title": "Google открыла сотням миллионов пользователей доступ к бесплатному ИИ-агенту Gemini",
-   "summary": "Он может бронировать отели, звонить в рестораны и покупать товары за пользователя Компания Google открывает доступ к ИИ-агенту Gemini Tasks (Задачи) для сотен миллионов пользователей в шести странах.",
-   "link": "https://www.ixbt.com/news/2026/11/18/google-otkryla-sotniam-millionov-polzovatelei-dostup-k-besplatnomu-ii-agentu-gemini.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743363/media-993f1553e5afe8bf6de9f8b07e83c1cd6b1c1b908e03253f580894e03cea67b5.avif",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-18T10:10:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "4b692ae1be24",
-   "title": "Ускоряем работу агентов в Claude Code при использовании сторонних LLM",
-   "summary": "Мой путь в агентскую разработку начался, как и у многих, с использования Claude Code.",
-   "link": "https://habr.com/ru/articles/1109298/?utm_campaign=1109298&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/82/a5/fe/82a5fefafbe6c734bd54f6e6df9f2089.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T10:01:04+00:00",
-   "category": "models"
   }
  ]
 }
