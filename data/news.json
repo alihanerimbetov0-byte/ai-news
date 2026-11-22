@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:59:12.643707+00:00",
+ "updated": "2026-11-22T05:08:48.157887+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "07394813ec57",
+   "title": "«Ого! Это круто!», «Я думал, что это ИИ», «Графика лучше, чем в GTA 6». Новая визуализация Tesla выглядит впечатлила пользователей",
+   "summary": "Вышло обновление Full Self-Driving версии 15 Компания запустила обновление Full Self-Driving версии 15, главным новшеством которого стала генеративная визуализация в реальном времени.",
+   "link": "https://www.ixbt.com/news/2026/11/22/ogo-eto-kruto-ia-dumal-cto-eto-ii-grafika-lucse-cem-v-gta-6-novaia-vizualizaciia-tesla-vygliadit-vpecatlila-polzovatelei.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744827/media-b54d6affe912c24fca5ddddd83c26b8aa28e7d17560403111a03cda1ab69816a.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-22T05:03:00+00:00",
+   "category": "tools"
+  },
   {
    "id": "8d54d4add32f",
    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -4496,17 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-18T09:10:00+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "22a57be34860",
-   "title": "Proton выпустила десктопные приложения Lumo для Windows, macOS и Linux",
-   "summary": "Компания Proton выпустила десктопные приложения своего ИИ‑ассистента Lumo для Windows, macOS и Linux. Он ориентирован на обеспечение конфиденциальности.",
-   "link": "https://habr.com/ru/articles/1109234/?utm_campaign=1109234&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/54/32/bd/5432bd3865fc3645f0652ca9c2b7cd30.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T09:07:12+00:00",
-   "category": "tools"
   }
  ]
 }
