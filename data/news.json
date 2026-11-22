@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:52:32.335194+00:00",
+ "updated": "2026-11-22T01:20:37.043104+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 3
   },
   {
    "source": "Google AI",
@@ -54,7 +54,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "source": "MIT Tech Review",
