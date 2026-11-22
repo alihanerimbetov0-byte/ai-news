@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:08:48.157887+00:00",
+ "updated": "2026-11-22T07:23:56.007724+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 8
+   "count": 5
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "e88e7dbab661",
+   "title": "Если долго смотреть в глубину",
+   "summary": "Я один делаю программу-компаньон для Euro Truck Simulator 2 — рацию «Канал 15».",
+   "link": "https://habr.com/ru/articles/1110800/?utm_campaign=1110800&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110800/7ca887f104921569d5c2ae0b559d5a2b/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T06:49:47+00:00",
+   "category": "other"
+  },
   {
    "id": "07394813ec57",
    "title": "«Ого! Это круто!», «Я думал, что это ИИ», «Графика лучше, чем в GTA 6». Новая визуализация Tesla выглядит впечатлила пользователей",
@@ -4496,17 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-18T09:20:50+00:00",
    "category": "tools"
-  },
-  {
-   "id": "996edf0dd269",
-   "title": "Nvidia перестанет раздувать ИИ-пузырь, без разбора закидывая неооблака деньгами",
-   "summary": "Nvidia будет придерживаться «дисциплинированного» подхода при принятии решений об объёмах инвестиций в неооблачные платформы и в других клиентов в сфере искусственного интеллекта, заявила ВРИО гендиректора компании…",
-   "link": "https://3dnews.ru/1151455",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151455/nvidia_3.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-18T09:10:00+00:00",
-   "category": "hardware"
   }
  ]
 }
