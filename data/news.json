@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:57:59.256426+00:00",
+ "updated": "2026-11-22T10:55:51.451368+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,50 @@
   }
  ],
  "items": [
+  {
+   "id": "3af4a29d8838",
+   "title": "Перестаньте учить каждое незнакомое слово. Как научиться читать на английском",
+   "summary": "Примерно восемь лет назад я решил совместить два полезных дела: разобраться в JavaScript поглубже и заодно подтянуть английский. Нашел техническую книгу в оригинале, открыл первую главу и начал читать.",
+   "link": "https://habr.com/ru/articles/1110784/?utm_campaign=1110784&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/6d/ca/6b/6dca6b60e0e2165cc945718e4ca04045.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T09:57:32+00:00",
+   "category": "other"
+  },
+  {
+   "id": "8382a3cd890e",
+   "title": "У Китая заканчиваются деньги на ИИ: местным разработчикам всё труднее догонять американских конкурентов",
+   "summary": "Пока Anthropic и другие ИИ-гиганты Кремниевой долины привлекают десятки миллиардов долларов инвестиций, их китайские конкуренты изо всех сил пытаются не отставать в финансовом плане.",
+   "link": "https://3dnews.ru/1151650",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/22/1151650/528.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-22T09:57:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "c4e40287f1a8",
+   "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+   "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency.",
+   "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/OpenAI-Logo.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-22T09:41:37+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0cc8fa1ba6b1",
+   "title": "Lexometrica Ground Truth: 15 LLM на 30 кейсах по практике ВС РФ",
+   "summary": "Рейтинги языковых моделей обычно читают как турнирную таблицу.",
+   "link": "https://habr.com/ru/articles/1110824/?utm_campaign=1110824&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/55/cd/a9/55cda95d6317b56bb6bd99b36c068152.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-22T09:25:45+00:00",
+   "category": "models"
+  },
   {
    "id": "dca0c71ed1df",
    "title": "Домашняя фотостудия с ИИ: обучение LoRA, примерка одежды и стилист в Imagecaster",
@@ -4463,50 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-18T10:01:04+00:00",
    "category": "models"
-  },
-  {
-   "id": "3801bbbdeb78",
-   "title": "LLM впервые запустили на фотонном чипе: как Q.ANT и AMD скрестили оптику с GPU",
-   "summary": "Частая боль при работе современных языковых моделей — механизм внимания или self-attention. С ростом контекста он требует квадратично больше вычислений и раздувает KV-кэш в памяти видеокарты.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1109180/?utm_campaign=1109180&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f6/f2/5b/f6f25b95e0706a5f80907eddc4518004.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-18T10:00:01+00:00",
-   "category": "models"
-  },
-  {
-   "id": "a426f6b90b1d",
-   "title": "Lovable Wants You to Vibe Code Your Dream Job",
-   "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
-   "link": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
-   "image": "https://media.wired.com/photos/6afcd191c00d87e3fd8ba0d4/master/pass/GettyImages-2303907996.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-18T10:00:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "e683d40fba10",
-   "title": "The Silent Consensus",
-   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-   "link": "https://openai.com/index/the-silent-consensus",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/3hoPgi2r6EgMRVWO3fPVDh/47ed0d21fdd9f0aca529917ba3ece558/the-silent-consensus-seo-soft-focus-v3.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-18T10:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "8c21abb71466",
-   "title": "Disney сократит несколько тысяч рабочих мест ради снижения расходов",
-   "summary": "В Disney отчитались о квартальной прибыли и выручке, превысивших прогнозы аналитиков, а также объявили о планах сократить расходы на $3 млрд к 2029 финансовому году.",
-   "link": "https://habr.com/ru/articles/1109250/?utm_campaign=1109250&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/87/b8/08/87b808aa55d4d4176f82031903c3bd75.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T09:47:16+00:00",
-   "category": "business"
   }
  ]
 }
