@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:07:39.149016+00:00",
+ "updated": "2026-11-23T05:29:58.610423+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "4c845fe6f68f",
+   "title": "ИИ навставляло кучу ненужных конденсаторов, резисторов и буферов в схему для пятиклассников. Возможно назло промпту",
+   "summary": "Я скормил ИИ несколько своих текстов про то, что цифровые схемы для обучения школьников нужно очистить от артефактов 1970-х годов, чтобы было проще подвести школьников к актуальным технологиям, то бишь…",
+   "link": "https://habr.com/ru/articles/1110942/?utm_campaign=1110942&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e4/e4/02/e4e402945184ad2173a5f51d8941921d.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-23T05:25:33+00:00",
+   "category": "other"
+  },
   {
    "id": "04504f1c4726",
    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -4496,17 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-18T15:44:00+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "1b11d2c31e28",
-   "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-   "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
-   "link": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-   "image": "https://media.wired.com/photos/6afcfb207b0def85d03dac43/master/pass/Thomas-Nagel-QandA-Business.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-18T15:02:40+00:00",
-   "category": "business"
   }
  ]
 }
