@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:01:37.193001+00:00",
+ "updated": "2026-11-23T23:03:53.508560+00:00",
  "categories": [
   {
    "id": "models",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,149 @@
   }
  ],
  "items": [
+  {
+   "id": "049542555c2c",
+   "title": "Trump engineered a risky comeback for Jensen Huang",
+   "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0%2C12.22929670334%2C100%2C75.541406593319&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-23T22:25:12+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "c12e49724e11",
+   "title": "Anthropic научила Claude самостоятельно проверять, исправлять и одобрять код",
+   "summary": "Компания Anthropic представила новые функции ИИ-помощника Claude, призванные упростить работу разработчиков.",
+   "link": "https://3dnews.ru/1151707",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151707/code_review.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-23T22:14:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "15c28179b2dc",
+   "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+   "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-23T22:10:32+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "8ab70d6f89cf",
+   "title": "Welcome to elite impunity, Jensen Huang",
+   "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-23T22:09:26+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "27065c561fbc",
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+   "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T22:05:50+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0d63fb1e6c01",
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+   "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T22:02:05+00:00",
+   "category": "business"
+  },
+  {
+   "id": "ada2460a24f6",
+   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+   "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+   "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T21:47:41+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "afbf4ed7c77a",
+   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "summary": "On Monday, Virginia and Oregon became the first states to sue SpaceX, alleging that Grok continues to sexualize, unchecked, real photos of mostly women and children.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-23T21:30:44+00:00",
+   "category": "models"
+  },
+  {
+   "id": "9d1f6a725104",
+   "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+   "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+   "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T21:25:42+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "1d0c151fefed",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+   "link": "https://openai.com/index/introducing-shirudo",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&h=900&fit=fill",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-23T21:20:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0cd17937bdc8",
+   "title": "AI data centers throw another wrench into chaotic UN climate talks",
+   "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging.",
+   "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0%2C10.750882913364%2C100%2C78.498234173273&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-23T21:09:37+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "326ce1875df8",
+   "title": "Стало известно, что из себя представляет загадочный ИИ-гаджет Nothing — его представят 8 декабря",
+   "summary": "Nothing готовит к выпуску Ear Note, беспроводные наушники с функцией записи разговоров и ИИ-транскрибации (расшифровка в текст) по аналогии с новой функцией в Apple Watch и носимым гаджетом Bee от Amazon.",
+   "link": "https://3dnews.ru/1151705",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151705/657454.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-23T21:08:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "6e5cd05198c3",
+   "title": "Новая статья: Мастерская локальных ИИ: FLUX 3 Image Klein и игра с картинками",
+   "summary": "Локальных моделей с интегрированными способностями I2I не так много; тем приятнее, что FLUX 3 в этом отношении весьма способна",
+   "link": "https://3dnews.ru/1151313",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/14/1151313/sm.flux3klein3-01.800.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-23T21:00:30+00:00",
+   "category": "models"
+  },
   {
    "id": "0100d5d6125f",
    "title": "Я без рук, ИИ без рук: как сладкий кофе победил искусственный интеллект",
@@ -1317,6 +1460,17 @@
    "lang": "en",
    "date": "2026-11-23T08:00:00+00:00",
    "category": "hardware"
+  },
+  {
+   "id": "680b35173b97",
+   "title": "Richpanel helps companies automate 50% of support in 30 days",
+   "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+   "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/4aVhQ1EicxWg7i6lIkBrLQ/cdabc180f7e5f780dbb43c302e7163d8/richpanel-social.png?w=1600&h=900&fit=fill",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-23T08:00:00+00:00",
+   "category": "models"
   },
   {
    "id": "41b5ac4142a5",
@@ -4352,160 +4506,6 @@
    "source": "The Verge",
    "lang": "en",
    "date": "2026-11-19T15:16:45+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "46d6a1ada4d1",
-   "title": "GTA 6 вышла: $1+ млрд, почти 5000 человек и 13 лет разработки. Разбираем, что внутри",
-   "summary": "Игровую индустрию в 2026 году трясло: закрытия студий, сокращения… И тут выходит игра за $1+ млрд, которую 13 лет делали почти 5000 человек . Стоило ли оно того?",
-   "link": "https://habr.com/ru/companies/gptunnel/articles/1109986/?utm_campaign=1109986&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/42/0f/f8/420ff88ec17be8327f77a8a9ffe834c2.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T15:10:26+00:00",
-   "category": "business"
-  },
-  {
-   "id": "c990fb121000",
-   "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-   "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304538389.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T14:54:39+00:00",
-   "category": "business"
-  },
-  {
-   "id": "9eadf34fb5c8",
-   "title": "Бот, который ищет учеников для репетиторов: архитектура за 1187 ₽ в месяц",
-   "summary": "Я сделал бота, который находит в соцсетях сообщения вида «посоветуйте репетитора по химии» и пересылает их репетиторам.",
-   "link": "https://habr.com/ru/articles/1109966/?utm_campaign=1109966&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a4/79/5c/a4795c8b9e79cce7a1c0304de5a649ff.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-19T14:26:56+00:00",
-   "category": "other"
-  },
-  {
-   "id": "0b3a38ae0a19",
-   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-   "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to…",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-19T14:25:37+00:00",
-   "category": "business"
-  },
-  {
-   "id": "fea1ae420b82",
-   "title": "Директ, Метрика и Wordstat в ChatGPT через Sites. Как это устроено и где подвох",
-   "summary": "По моей оценке, около 70% рабочего дня я провожу в ИИ-инструментах. С каждым новым подключением mcp-инструментов поводов открывать другие интерфейсы - всё меньше.",
-   "link": "https://habr.com/ru/companies/infostart/articles/1109958/?utm_campaign=1109958&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/fa/64/95/fa64950f72fcd6b1e6bd3d6b460bda1e.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T14:14:43+00:00",
-   "category": "business"
-  },
-  {
-   "id": "c9fac44065d8",
-   "title": "В России создали мультиагентную систему «Радар» для автоматизации закупочных процессов",
-   "summary": "Эксепто, разработчик мультиагентных ИИ-систем для автоматизации корпоративных процессов, представил новое ИИ-решение — систему «Радар» для закупочной аналитики и рыночной разведки.",
-   "link": "https://3dnews.ru/1151537",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151537/sm.radar.800.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T14:12:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "c157fe16144c",
-   "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
-   "summary": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder.",
-   "link": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-19T14:02:22+00:00",
-   "category": "business"
-  },
-  {
-   "id": "d884eef3ecc7",
-   "title": "Вышел Gemini 4 Neon. Золотая середина, по мнению Google",
-   "summary": "18 ноября 2026 года Google представила Gemini 4 Neon — по сути, недостающее звено в своей новой линейке.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1109880/?utm_campaign=1109880&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/de/00/9f/de009fd9464c9d0d516122d88ea2c9cc.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T14:00:31+00:00",
-   "category": "models"
-  },
-  {
-   "id": "1501adb883e7",
-   "title": "Superhuman pushes its Go assistant everywhere",
-   "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
-   "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Static_Go-Proactive.jpeg?resize=1200,675",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T14:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "da1d68d363f6",
-   "title": "Краткая история интеллекта. От зарубки на кости до LLM",
-   "summary": "Человечество не сразу построило компьютер, и не сразу придумало искусственный интеллект.",
-   "link": "https://habr.com/ru/articles/1109858/?utm_campaign=1109858&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/3e/89/ee/3e89ee31ed5859fcea6ea23db44ba4da.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T13:57:13+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d1e2548d4066",
-   "title": "Мир Кузи: ИИ, который не разговаривает, а принимает решения",
-   "summary": "Decision Models — новый класс моделей искусственного интеллекта Это статья из серии «Мир Кузи». Decision Models — новый класс моделей искусственного интеллекта.",
-   "link": "https://habr.com/ru/articles/1109922/?utm_campaign=1109922&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/9f/32/7b/9f327b731dc9f2946723b03c528ca6c4.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T13:11:41+00:00",
-   "category": "models"
-  },
-  {
-   "id": "90743d4a03d1",
-   "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
-   "summary": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries.",
-   "link": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_numbers.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-19T13:08:35+00:00",
-   "category": "research"
-  },
-  {
-   "id": "029ded4e9a8f",
-   "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-   "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4.",
-   "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-19T13:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "9550ce001638",
-   "title": "СУБД Jatoba теперь использует ИИ для автоматического выявления персональных данных",
-   "summary": "Мы представили новую функцию нашей кибербезопасной отечественной СУБД общего назначения «Ятоба». Система заменила ручной труд по поиску персональных данных на сканирование с помощью искусственного интеллекта.",
-   "link": "https://habr.com/ru/companies/gaz-is/articles/1109898/?utm_campaign=1109898&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/60/43/aa/6043aa513f7f7cf0db410a2fa75d6f0f.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T12:38:25+00:00",
    "category": "tools"
   }
  ]
