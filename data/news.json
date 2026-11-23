@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:54:31.737836+00:00",
+ "updated": "2026-11-23T01:27:31.265759+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 2
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -108,6 +108,28 @@
   }
  ],
  "items": [
+  {
+   "id": "04504f1c4726",
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+   "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T01:25:53+00:00",
+   "category": "business"
+  },
+  {
+   "id": "6290ba5abe0d",
+   "title": "«Ваш разговор стал слишком длинным»: как Google Antigravity неожиданно режет контекст и как Gemini это решил",
+   "summary": "Отображение размера контекстного окна сессии для Google Antigravity 2.0 Antigravity сжимает контекст, выводит об этом сообщение, что приводит к потере деталей, важных правил и инструкций в начале сессии, чтобы…",
+   "link": "https://habr.com/ru/articles/1111006/?utm_campaign=1111006&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b3/ec/d2/b3ecd2f86582a90fc2ae517defb9842f.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-22T23:08:19+00:00",
+   "category": "models"
+  },
   {
    "id": "e7090200216e",
    "title": "We haven’t seen the last of the major tech outages",
@@ -4485,28 +4507,6 @@
    "lang": "en",
    "date": "2026-11-18T15:02:40+00:00",
    "category": "business"
-  },
-  {
-   "id": "bf1424b145e4",
-   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-   "summary": "",
-   "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-18T15:00:23+00:00",
-   "category": "models"
-  },
-  {
-   "id": "35c1d368fd10",
-   "title": "Промпт-баттл: студенческий ИИ-хакатон на Нейрофесте-2026",
-   "summary": "20 и 21 ноября в Кластере медиатехнологий «Сколково» пройдёт Промпт-баттл: студенческий ИИ-хакатон в рамках фестиваля Нейрофест, который посвящён культуре, технологиям и искусственному интеллекту.",
-   "link": "https://habr.com/ru/companies/gptunnel/articles/1109510/?utm_campaign=1109510&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/63/1d/f9/631df93bd223443e77ab9377f5cfa0c8.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T14:50:57+00:00",
-   "category": "other"
   }
  ]
 }
