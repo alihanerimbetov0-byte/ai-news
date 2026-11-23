@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:18:41.573670+00:00",
+ "updated": "2026-11-23T17:13:59.875292+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "source": "Ars Technica",
@@ -44,17 +44,17 @@
   {
    "source": "DeepMind",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "source": "Google AI",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "source": "MIT Tech Review",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,138 @@
   }
  ],
  "items": [
+  {
+   "id": "c5903c8754bb",
+   "title": "A more tailored Google Search that’s uniquely yours",
+   "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+   "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
+   "source": "Google AI",
+   "lang": "en",
+   "date": "2026-11-23T17:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "9dddeb89e408",
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+   "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
+   "source": "DeepMind",
+   "lang": "en",
+   "date": "2026-11-23T16:59:40+00:00",
+   "category": "research"
+  },
+  {
+   "id": "b7579835e4e7",
+   "title": "Jensen Huang isn’t out of the woods yet",
+   "summary": "It’s safe to say no one expected this.",
+   "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T16:57:40+00:00",
+   "category": "other"
+  },
+  {
+   "id": "1042e977aaea",
+   "title": "Распродажа акций ИИ-компаний оказалась следствием лопнувшего «мини-пузыря» — теперь главное, чтобы не лопнул большой",
+   "summary": "Распродажа акций компаний в сфере ИИ, которая в последние недели наблюдается на фондовом рынке, сильно напоминает крах «пузыря доткомов».",
+   "link": "https://3dnews.ru/1151684",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151684/maxim-hopman-fiXLQXAhCfk-unsplash.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-23T16:45:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "a73a496406a2",
+   "title": "Рынок найма в ИТ ждет ренессанс",
+   "summary": "Потребность в технологиях никуда не делась, но все почему-то рисуют профессии айтишника сомнительные перспективы. Эти же “визионеры” ранее называли промпт-инженера профессией будущего. И где она сейчас?",
+   "link": "https://habr.com/ru/articles/1110976/?utm_campaign=1110976&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/6c/8a/e9/6c8ae95efb0cf0aa54c1d4fd4c25a31f.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T16:43:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "81a464b2bd01",
+   "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+   "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
+   "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T16:39:10+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "16d271a0eda2",
+   "title": "Видимость бренда в нейросетях: почему для аудита Алисы AI и ChatGPT нужны обращения клиентов",
+   "summary": "Рекомендации аудита видимости бренда в нейросетях зависят от того, насколько вопросы для проверки соответствуют реальным обращениям клиентов.",
+   "link": "https://habr.com/ru/articles/1111448/?utm_campaign=1111448&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/dc/f1/83/dcf183b4f7b5336ec09719e90344fba8.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T16:32:43+00:00",
+   "category": "other"
+  },
+  {
+   "id": "bf2877544e53",
+   "title": "Совет директоров Nvidia одобрил возвращение Дженсена Хуанга",
+   "summary": "Руководство Nvidia объявило о восстановлении Дженсена Хуанга на постах президента, генерального директора и члена совета директоров американской компании.",
+   "link": "https://habr.com/ru/articles/1111444/?utm_campaign=1111444&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ef/9a/88/ef9a8843d5e07ff1a791856fbc5d57bc.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-23T16:25:32+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "de36b121eed6",
+   "title": "Tech leaders are celebrating Jensen Huang’s return",
+   "summary": "Let's say you're Jensen Huang.",
+   "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-23T16:14:04+00:00",
+   "category": "other"
+  },
+  {
+   "id": "bbf08f9e13f2",
+   "title": "Я попытался разобраться, как и за что банят в Claude",
+   "summary": "В ноябре 2026 года по всем пользователям Claude прошла волна банов и запросов на верификацию (читай бан).",
+   "link": "https://habr.com/ru/articles/1111436/?utm_campaign=1111436&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/85/e3/b2/85e3b2aa5cfbaa5868aa7a64c1ba22a1.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T16:12:08+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2208c2f7eb4a",
+   "title": "Build in Public: сИИстемный поиск работы, спринт #2",
+   "summary": "Build in Public: сИИстемный поиск работы, спринт #2 1) Статистика и воронка: 46-я неделя против 45-й 46 неделя (стало) Откликов отправлено 155 (10 %) Прямой контакт с HR 4 (3 %) Собеседований 2 (50 %) 45 неделя (было)…",
+   "link": "https://habr.com/ru/articles/1111424/?utm_campaign=1111424&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/52/de/be/52debe86683897b6c3a89a66d20e91e9.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T15:44:30+00:00",
+   "category": "other"
+  },
+  {
+   "id": "cbca6c786464",
+   "title": "Я нанял ИИ искать мне работу. Финал: четырнадцать откликов, ноль собеседований — и что я понял про рынок",
+   "summary": "Четыре недели вместо восьми. Шестнадцать дайджестов, около 160 вакансий, 14 откликов, 3 открытия резюме, 3 шаблонных ответа, 0 собеседований. Где сломалась воронка, что показал рынок и я закрываю эксперимент досрочно.",
+   "link": "https://habr.com/ru/articles/1111420/?utm_campaign=1111420&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1111420/30c1fe25130a5469768e1adbad9ef1bf/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T15:43:08+00:00",
+   "category": "other"
+  },
   {
    "id": "dff8ecfdbf17",
    "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
@@ -4375,138 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-19T08:58:00+00:00",
    "category": "models"
-  },
-  {
-   "id": "2b521a94ffc2",
-   "title": "Ваш вайбкод станет безопаснее: научили бесплатный плагин PT AI проверять код за ИИ",
-   "summary": "Писать код вместе с ИИ быстро и удобно, но про безопасность агенты думают не всегда. По данным Veracode, почти в половине задач модели выдавали код с известными уязвимостями.",
-   "link": "https://habr.com/ru/companies/pt/articles/1109758/?utm_campaign=1109758&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/13/8e/cc/138ecc52b639a7e8af0a755a78c3c039.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T08:56:21+00:00",
-   "category": "models"
-  },
-  {
-   "id": "7b437a6cebc6",
-   "title": "ИИ-агенты с нуля: бесплатные курсы и демо, чтобы собрать первого агента",
-   "summary": "Собрали семь бесплатных входов в ИИ-агентов: пять демо по пять дней и два курса в своём темпе.",
-   "link": "https://habr.com/ru/companies/netologyru/articles/1109754/?utm_campaign=1109754&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/42/71/28/427128455e7bdadb9469f5547f426dd2.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T08:50:45+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "d234984c0b2e",
-   "title": "«Просто ужасно»: ИИ-агент M**a Muse сам влез в переписки Signal — и это лишь одна из его пугающих проблем",
-   "summary": "M**a делает большую ставку на ИИ-агента Muse, но его несанкционированные действия вызывают обеспокоенность среди сотрудников компании.",
-   "link": "https://3dnews.ru/1151521",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151521/1.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T08:45:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "17ba096973a4",
-   "title": "Рекорд SpaceX побит: Anthropic провела крупнейшее IPO в истории и привлекла $81,3 млрд",
-   "summary": "Anthropic и семеро её учредителей в ходе расширенного первичного публичного размещения акций и частного размещения привлекли рекордные $107,3 млрд.",
-   "link": "https://3dnews.ru/1151520",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151520/anthropic_2.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T08:39:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "e9e0e4854ca9",
-   "title": "ИИ OpenAI оптимизировал графический чип AMD на 14 % — годовую работу инженеров нейросеть выполнила за пять месяцев",
-   "summary": "OpenAI рассказала о прогрессе в использовании своих моделей искусственного интеллекта при разработке процессоров.",
-   "link": "https://3dnews.ru/1151518",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151518/ai-chip.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T08:33:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "f6253f57956f",
-   "title": "Жизнь после бана от Anthropic",
-   "summary": "Утром письмо от Anthropic о блокировке. Вечером первое сообщение агенту на новом аккаунте. Между ними 13 часов, за которые решалось, придется ли объяснять все заново.",
-   "link": "https://habr.com/ru/articles/1109724/?utm_campaign=1109724&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/67/0d/4f/670d4fd9c8f8c8918a9e55c460f821ab.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T08:29:35+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "a90afea54400",
-   "title": "Калифорния подала в суд на OpenAI из-за атаки ИИ-агентов на Hugging Face и 80 инцидентов с безопасностью",
-   "summary": "Генпрокурор обвиняет компанию в тестах опасных ИИ-моделей без достаточного контроля Генеральный прокурор Калифорнии Роб Бонта подал иск против OpenAI в Высший суд Сан-Франциско.",
-   "link": "https://www.ixbt.com/news/2026/11/19/kaliforniia-podala-v-sud-na-openai-iz-za-ataki-ii-agentov-na-hugging-face-i-80-incidentov-s-bezopasnostiu.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743718/media-45cb727051dcbe410c2ec0329cdce1f249a12c3349f9700b0539ffafe5550f54.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-19T08:24:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "319471135082",
-   "title": "Трактат о применении машинного разума в функциональном тестировании на примере Warhammer 40 000",
-   "summary": "Приветствую, адепты машинного разума! Меня зовут Роман Поляков — я инженер по тестированию в «Т1 Иннотех». Возможно, вы уже знакомы с моей предыдущей работой « Путь QA-самурая.",
-   "link": "https://habr.com/ru/companies/T1Holding/articles/1105508/?utm_campaign=1105508&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f6/e1/01/f6e101ed563404c5a2997c3d27f6c702.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-19T08:21:40+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "5f3ec07e78ab",
-   "title": "Как научить BERT «понимать» науку: гибридная классификация научно‑технических текстов с графами знаний",
-   "summary": "Научных публикаций становится экспоненциально больше. Вручную рубрицировать и индексировать их уже невозможно, поэтому острая потребность в автоматической классификации очевидна.",
-   "link": "https://habr.com/ru/articles/1109736/?utm_campaign=1109736&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1109736/5ff87e084aeeaab18cdf7c0a5b5b210d/",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-19T08:15:50+00:00",
-   "category": "research"
-  },
-  {
-   "id": "d9d69d5e4fd8",
-   "title": "«Ъ»: МТС и VisionLabs столкнулись с прекращением услуг по разметке данных от «Яндекса»",
-   "summary": "«Яндекс» объявил о приостановке оказания услуг «Яндекс Заданий» по разметке данных под ключ для внешних заказчиков. С этим столкнулись «дочки» МТС MWS AI и VisionLabs.",
-   "link": "https://habr.com/ru/articles/1109730/?utm_campaign=1109730&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/76/6c/f3/766cf3a8f5b4fc9f4bdf985cff926f66.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T08:14:05+00:00",
-   "category": "other"
-  },
-  {
-   "id": "ace540269215",
-   "title": "Банковские руководители и АНБ представили в Конгрессе объяснение массовых сбоев, связанное с новой проблемой ИИ",
-   "summary": "На закрытой встрече представители банковского сектора и спецслужбы объяснили, почему поиск слабых мест с помощью ИИ создаёт новую проблему для кибербезопасности За последние дни в США произошла серия крупных технических…",
-   "link": "https://www.ixbt.com/news/2026/11/19/bankovskie-rukovoditeli-i-anb-predstavili-v-kongresse-obieiasnenie-massovyx-sboev-sviazannoe-s-novoi-problemoi-ii.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743714/media-cd37789a9acea5127d8fec27964831a42399b0cdbd11fe3f9b0fa418c7d1122f.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-19T08:10:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "914594362826",
-   "title": "Жаловаться на дождь можно, ссориться нельзя: «Яндекс» запустил городские чаты с ИИ-модерацией",
-   "summary": "Сервис доступен более чем в 20 городах России В «Яндекс Погоде» появились городские чаты «Стены добра», в которых жители могут публиковать фотографии, делиться приятными событиями и общаться с соседями.",
-   "link": "https://www.ixbt.com/news/2026/11/19/zalovatsia-na-dozd-mozno-ssoritsia-nelzia-iandeks-zapustil-gorodskie-caty-s-ii-moderaciei.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743713/media-7e7f27c24aab82c41c5d5ee9fad00d1978fb776ad5bb94fecb29645718ee912e.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-19T08:09:00+00:00",
-   "category": "tools"
   }
  ]
 }
