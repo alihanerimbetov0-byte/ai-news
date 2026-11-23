@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:29:58.610423+00:00",
+ "updated": "2026-11-23T07:48:27.815696+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 12
   },
   {
    "source": "Ars Technica",
@@ -108,6 +108,50 @@
   }
  ],
  "items": [
+  {
+   "id": "907327ea3087",
+   "title": "ИИ стал самым удобным объяснением сокращений в ИT",
+   "summary": "ИИ сейчас объясняет сокращения в ИT примерно так же, как магнитные бури объясняют головную боль. Звучит научно, проверить трудно, а главное, никто (кроме ИИ) не виноват. Картина, о которой пойдет речь, знакома всем.",
+   "link": "https://habr.com/ru/companies/diasoft_company/articles/1109930/?utm_campaign=1109930&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/67/50/ec/6750ec07cf83489492414714e3e9967a.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-23T07:00:57+00:00",
+   "category": "research"
+  },
+  {
+   "id": "abad3be1c8c9",
+   "title": "Почему 7% сессий съедают 74% токенов: экономика ИИ-агента на 518 сессиях",
+   "summary": "Я веду крупные проекты, и каждый разбиваю на задачи-процессы, а те — на подзадачи.",
+   "link": "https://habr.com/ru/articles/1110652/?utm_campaign=1110652&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a0/a6/32/a0a6324a83d8f57cc51cbfa8a501c677.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T06:40:55+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "8d507516f1f9",
+   "title": "Что прокачать до конца ноября? 24 открытых урока для вашего роста",
+   "summary": "В разработке постоянно появляются задачи, для которых привычных инструментов и подходов уже недостаточно.",
+   "link": "https://habr.com/ru/companies/otus/articles/1110170/?utm_campaign=1110170&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b9/27/a9/b927a9a58e53d493e14bb89d2f4092c6.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T06:15:53+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "956de951d8c3",
+   "title": "Как я синтезировала голос бабушки: семейный архив на LLM и TTS",
+   "summary": "Распознала бабушкины рукописные тетради с помощью Opus 5.5 и озвучила записи её голосом на Qwen3-TTS для семейного бота.",
+   "link": "https://habr.com/ru/articles/1110606/?utm_campaign=1110606&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d4/92/99/d4929938fbe966a0f862a4547028f827.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T06:03:51+00:00",
+   "category": "models"
+  },
   {
    "id": "4c845fe6f68f",
    "title": "ИИ навставляло кучу ненужных конденсаторов, резисторов и буферов в схему для пятиклассников. Возможно назло промпту",
@@ -4463,50 +4507,6 @@
    "lang": "en",
    "date": "2026-11-18T16:09:08+00:00",
    "category": "tools"
-  },
-  {
-   "id": "a2b5c9a4bdaa",
-   "title": "OpenAI GPT-6 Cyber взломала iPhone и практически все остальные устройства Apple",
-   "summary": "Новейшая модель OpenAI для поиска уязвимостей GPT-6 Cyber демонстрирует высокую эффективность в выявлении уязвимостей в продуктах Apple — она обнаружила бреши в защите практически всех устройств Apple, включая iPhone,…",
-   "link": "https://3dnews.ru/1151483",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151483/mariia-berezovsky-nYSdjVD2ayo-unsplash.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-18T16:01:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "596a505b3bb2",
-   "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
-   "summary": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems.",
-   "link": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/03/AI-Fake-Chain-of-Evidence.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-18T15:47:49+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d4ec48204849",
-   "title": "Remember the frontier AI pause? Chip companies don’t either",
-   "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security…",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-18T15:44:02+00:00",
-   "category": "models"
-  },
-  {
-   "id": "e350d88bf3e7",
-   "title": "Мини ПК на Nvidia по цене от $4399: стартовали продажи систем RTX Spark на Windows для локального ИИ",
-   "summary": "Nvidia объявила о старте продаж компактных настольных компьютеров серии RTX Spark от производителей Asus, Dell и MSI.",
-   "link": "https://3dnews.ru/1151481",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/18/1151481/RTX-SPARK-DESKTOP-1536x816.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-18T15:44:00+00:00",
-   "category": "hardware"
   }
  ]
 }
