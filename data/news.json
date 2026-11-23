@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:32:22.309676+00:00",
+ "updated": "2026-11-23T15:18:41.573670+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 12
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 2
   },
   {
    "source": "Google AI",
@@ -108,6 +108,259 @@
   }
  ],
  "items": [
+  {
+   "id": "dff8ecfdbf17",
+   "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+   "summary": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters.",
+   "link": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/06/zhipu-ai-logo-wall-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-23T15:13:03+00:00",
+   "category": "models"
+  },
+  {
+   "id": "aa93777566bc",
+   "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+   "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+   "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T15:04:01+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "7d33d8bc9647",
+   "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+   "summary": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power.",
+   "link": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/03/AI-Fake-Carrier-Iran-small.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-23T14:43:23+00:00",
+   "category": "research"
+  },
+  {
+   "id": "d6a5b08e3fa8",
+   "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+   "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+   "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T14:43:03+00:00",
+   "category": "business"
+  },
+  {
+   "id": "cf1147d13ded",
+   "title": "[Перевод] Больше агентов не значит лучше",
+   "summary": "Вы с командой на плоту посреди океана. Оставить можно только что-то одно. Репеллент от акул, астролябию или спасжилеты на всех. Договориться нужно единогласно за 10 минут.",
+   "link": "https://habr.com/ru/companies/spring_aio/articles/1111390/?utm_campaign=1111390&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/99/55/9f/99559f0b106be7d98ab5f04e6a086125.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T14:41:09+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "178bc81effc3",
+   "title": "[Перевод] ИИ оказался внимательнее и заметил кровоизлияние, а врач — нет",
+   "summary": "50-летнего пациента привезли в больницу с признаками инсульта. Врачи собирались ввести препарат для растворения тромба, но сначала нужно было исключить кровоизлияние: в этом случае лекарство могло усилить кровотечение.",
+   "link": "https://habr.com/ru/companies/speshu_ai/articles/1111386/?utm_campaign=1111386&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/01/ed/3f/01ed3f395aafb98e63a416954d065e50.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T14:35:57+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ae30a27c5b45",
+   "title": "Что такое Loop Transformer и как GLM-5.4 догоняет модели на 2–3 трлн параметров",
+   "summary": "Как заставить нейросети умнеть, не раздувая их до гигантских размеров? Ответ 23 ноября представила китайская лаборатория Z.ai, которую раньше знали под именем Zhipu AI. 28 слоев, два прохода и ни одного нового параметра.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1111336/?utm_campaign=1111336&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/18/44/fe/1844fe9757b5e1244b8993dca6f73ebd.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T14:30:41+00:00",
+   "category": "models"
+  },
+  {
+   "id": "8425a12bb072",
+   "title": "Jensen Huang Is Back as Nvidia CEO",
+   "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+   "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+   "image": "https://media.wired.com/photos/6b04495d307e146147156b9d/master/pass/GettyImages-2266718431.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-23T14:27:35+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "88e2b52a598f",
+   "title": "Nvidia tried life without Jensen Huang and it lasted about two weeks",
+   "summary": "Nvidia's board of directors has reinstated Jensen Huang as president, CEO, and board member, effective immediately.",
+   "link": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/05/huang_sccp_ai_screenshot-scaled.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-23T14:24:47+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "d36a9884df14",
+   "title": "Дженсен Хуанг вернулся в Nvidia",
+   "summary": "За семь торговых сессий после отставки Дженсена Хуанга акции Nvidia подешевели почти на 28%. Рыночная капитализация компании сократилась примерно на $1,16 трлн.",
+   "link": "https://habr.com/ru/companies/bothub/articles/1111374/?utm_campaign=1111374&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/57/ab/f5/57abf5ee5d4addf47c1d790195a62092.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T14:22:40+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "564568718638",
+   "title": "Т-Банк прислал чужую выписку: я обратился в суд с ИИ, и банк оштрафовали на 5000 рублей",
+   "summary": "В июле 2025 года я запросил в чате Т-Банка стандартную выписку по своим счетам, а на почту получил PDF-файлы с финансовой жизнью незнакомого человека из другого региона.",
+   "link": "https://habr.com/ru/articles/1111106/?utm_campaign=1111106&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/82/64/c3/8264c36d555c3ce09653b710908118da.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T14:22:11+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "10a3c3f04b73",
+   "title": "Первый в России офис с цифровым сотрудником: как устроен ИИ-аватар",
+   "summary": "В Москве заработал банковский офис, где клиента может консультировать не только специалист, но и фотореалистичный цифровой сотрудник. ИИ-аватар помогает выбрать вклад, сравнить продукты и составить финансовый план.",
+   "link": "https://habr.com/ru/companies/speshu_ai/articles/1111376/?utm_campaign=1111376&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a7/ba/0a/a7ba0a5ae289d6eb3d9a380b47ab3d68.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T14:22:02+00:00",
+   "category": "other"
+  },
+  {
+   "id": "90f831b4fd3e",
+   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+   "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T14:21:59+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "5bba863e544d",
+   "title": "Как собрать harness-систему в OpenCode: от провайдера до серверных автономных агентов",
+   "summary": "В последнее время в ИИ-сфере все больше и больше развивается сфера абстракций, отличная от технического тюнинга или улучшений ИИ. Такая система зовет название Harness.",
+   "link": "https://habr.com/ru/companies/bothub/articles/1111370/?utm_campaign=1111370&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3f/f0/40/3ff040e7f4fde119c69ef6631c772964.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T14:15:07+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "a3ba0b6523c8",
+   "title": "ФБР поговорило с пользователем, который написал шутку в диалог с Claude и попытался затроллить нейросеть",
+   "summary": "Агенты Федерального бюро расследований США поговорили с пользователем из штата Нью‑Гэмпшир, который написал шутку в диалог с чат‑ботом Claude и попытался затроллить нейросеть.",
+   "link": "https://habr.com/ru/articles/1111368/?utm_campaign=1111368&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8a/64/1a/8a641a5ec1ba2a584ca5acea82e69c47.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T14:11:19+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e09aa9a8dd80",
+   "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+   "summary": "Nvidia's board of directors has voted to reinstate Jensen Huang as CEO and chairman of the board, just 11 days after he resigned in the wake of multiple scandals .",
+   "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-23T14:10:18+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "09afcc847896",
+   "title": "Jensen Huang is back as Nvidia’s CEO",
+   "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr.",
+   "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_05.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-23T14:04:24+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "a8ba6f15f26b",
+   "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+   "summary": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner.",
+   "link": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_logo-2.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-23T13:59:36+00:00",
+   "category": "other"
+  },
+  {
+   "id": "11f920d8de21",
+   "title": "ИИ — это новый компилятор",
+   "summary": "В октябре 2026 года в сообществе разработчиков ядра Linux возник спор о том, можно ли для этой задачи использовать ИИ.",
+   "link": "https://habr.com/ru/articles/1111354/?utm_campaign=1111354&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/dc/05/9e/dc059e8b4cd088c123da7ef63551fb87.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T13:56:32+00:00",
+   "category": "other"
+  },
+  {
+   "id": "a059b7b2167c",
+   "title": "Z.ai представила ИИ-модель GLM-5.4, которая повторно использует одни и те же слои для более глубоких вычислений",
+   "summary": "Компания применила архитектуру Loop Transformer во флагманской модели с 750 млрд параметров.",
+   "link": "https://www.ixbt.com/news/2026/11/23/zai-predstavila-ii-model-glm-54-kotoraia-povtorno-ispolzuet-odni-i-te-ze-sloi-dlia-bolee-glubokix-vycislenii.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745439/media-7a37cb79968e741b21420858f27c222e7563b3e421486720dba763eabacb328b.gif",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-23T13:46:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "70320c02db86",
+   "title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+   "summary": "US intelligence agencies tracked contacts between Alice Huang and China's Ministry of State Security for over a year, the New York Times reports.",
+   "link": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-23T13:45:32+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "0a862def8a1c",
+   "title": "Замахнёмся на святое: можно ли заменить топ-менеджера Газпрома ИИ-агентом?",
+   "summary": "Топ-менеджер \"Газпрома\" не точит гайки сам, он раздаёт работу и спрашивает за результат.",
+   "link": "https://habr.com/ru/articles/1111348/?utm_campaign=1111348&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/2c/bd/5c/2cbd5ca625850595be5ca145f0345039.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T13:45:27+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "8356c843c3c8",
+   "title": "Bitrix24 SDK: Король умер, да здравствует король",
+   "summary": "В 2024 году в Битрикс24 задумали Летучий Корабль — универсальный шаблон тиражного приложения, с которого любой разработчик стартует к порталу на любом бэкенде.",
+   "link": "https://habr.com/ru/articles/1111340/?utm_campaign=1111340&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f9/eb/67/f9eb67c9d02c5e7c8985a462bb4bf68d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T13:34:15+00:00",
+   "category": "tools"
+  },
   {
    "id": "75f4ef8e2500",
    "title": "Решать, а не списывать: помощник по математике на основе «Алисы AI» появился на «Госуслугах» по всей России",
@@ -690,6 +943,17 @@
    "lang": "en",
    "date": "2026-11-23T01:25:53+00:00",
    "category": "business"
+  },
+  {
+   "id": "6fd4c32fe34a",
+   "title": "How to build and maintain an agentic evaluation",
+   "summary": "",
+   "link": "https://huggingface.co/blog/agentic-evals",
+   "image": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-23T00:00:00+00:00",
+   "category": "tools"
   },
   {
    "id": "6290ba5abe0d",
@@ -4243,270 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-19T08:09:00+00:00",
    "category": "tools"
-  },
-  {
-   "id": "3f9c379edc99",
-   "title": "Anthropic провела крупнейшее IPO в истории",
-   "summary": "Компания Anthropic установила цену своего IPO на уровне $83 за акцию — выше первоначального диапазона в $70–78.",
-   "link": "https://habr.com/ru/articles/1109704/?utm_campaign=1109704&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a7/24/18/a724183b35b6608b9eb1699aed02646a.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T08:07:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "1a2b42464037",
-   "title": "Свой ИИ-агент: пошаговое руководство для новичков",
-   "summary": "LLM стали привычным инструментом: кто-то использует их как продвинутый поиск, кто-то просит объяснить сложную тему, написать код или накидать идей.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1109694/?utm_campaign=1109694&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ca/98/22/ca9822cd86a6e86e500da9e519d92820.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-19T08:01:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "6687f7be62c3",
-   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-   "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-   "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/1GmNPxrS3qwhYU0t43dsaa/0df53811b9acf8f9699ace630362f112/performance-factory-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-19T08:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "d4d07fa02d33",
-   "title": "Федеральный суд по делам о банкротстве в США одобрил продажу данных авиакомпании Spirit Airlines корпорации Google",
-   "summary": "Федеральный суд по делам о банкротстве в Нью‑Йорке одобрил продажу внутренних бизнес‑данных бюджетной авиакомпании Spirit Airlines корпорации Google за $10 млн, пишет Reuters.",
-   "link": "https://habr.com/ru/articles/1109718/?utm_campaign=1109718&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/32/45/ac/3245aca502e8689bb95ef6d86dee3427.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-19T07:59:12+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "701930956a49",
-   "title": "Агентный RAG на JVM: как устроен Смысл.ИИ",
-   "summary": "Разбор B2B-системы Смысл.ИИ: агентный RAG на Kotlin/JVM. Вопрос по корпоративным документам — ответ с опорой на материалы и источники.",
-   "link": "https://habr.com/ru/articles/1109712/?utm_campaign=1109712&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8a/67/16/8a6716e05d4327451f6befcbaa7c9023.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T07:55:48+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "598f45164ac2",
-   "title": "Обвинённый в использовании ИИ для списывания студент скончался в Южной Корее",
-   "summary": "Ранее он оказался в центре скандала В Южной Корее скончался 32-летний Ли Джин-у, получивший высший балл на вступительном экзамене для поступления в юридическую школу.",
-   "link": "https://www.ixbt.com/news/2026/11/19/obvinennyi-v-ispolzovanii-ii-dlia-spisyvaniia-student-skoncalsia-v-iuznoi-koree.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743702/media-0e24271ba67461da4dd279237db90b03220f2ce5d71ef1a2b0acd5b6621910b9.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-19T07:52:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "734503e01bb6",
-   "title": "Anthropic провела крупнейшее IPO в истории: разработчика Claude оценили в $1,5 трлн",
-   "summary": "Помимо IPO на $81,3 млрд, Anthropic привлекает ещё $26 млрд в частном размещении. Общий объём сделки — $107,3 млрд. Рассказываю, почему это важно. И удивительно. Официальные условия IPO Anthropic",
-   "link": "https://habr.com/ru/articles/1109708/?utm_campaign=1109708&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/84/fd/21/84fd212e0926302de4acb87cf22d81f9.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T07:50:48+00:00",
-   "category": "models"
-  },
-  {
-   "id": "ebe2712f4369",
-   "title": "Тесты как промпт: подход TDD при работе с ИИ-агентом",
-   "summary": "Всем привет. Меня зовут Егор Гурин, я Go-разработчик из МТС Web Services. В предыдущем тексте я рассказывал о Document Driven Development.",
-   "link": "https://habr.com/ru/companies/ru_mts/articles/1108716/?utm_campaign=1108716&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/40/41/18/4041183a786ba4eb064a3b14fa703a12.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T07:32:57+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "d19fabdef2c1",
-   "title": "Ограничение данных для российских моделей приведет к потере их конкурентного преимущества",
-   "summary": "Российские большие языковые модели справляются лучше иностранных нейросетей в задачах, где требуется знание русского языка, истории и локального культурного контекста.",
-   "link": "https://habr.com/ru/articles/1108350/?utm_campaign=1108350&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8d/ad/c9/8dadc984954e98e910672b5fc6900196.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T07:30:07+00:00",
-   "category": "models"
-  },
-  {
-   "id": "7014dc5803bb",
-   "title": "[Перевод] Торстен Балл: Как я работаю с ИИ-агентами",
-   "summary": "Торстен Балл — автор популярных книг по написанию компиляторов и интерпретаторов на Go, бывший инженер редактора Zed и сооснователь ИИ-агента Amp — опубликовал свод своих правил работы с языковыми моделями.",
-   "link": "https://habr.com/ru/companies/hexlet/articles/1109610/?utm_campaign=1109610&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/d7/cc/13/d7cc13a4c8ae8433ac985d0e2e40381f.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T07:28:56+00:00",
-   "category": "models"
-  },
-  {
-   "id": "418e2fb1486f",
-   "title": "Корпус объемом 1,25 л и производительность 1 петафлопс. Представлен Mechrevo RTX Spark Master X10",
-   "summary": "Компактный компьютер получил производительность до 1 петафлопса в ИИ-задачах Компания Mechrevo представила мини-ПК Master Road X10 на платформе Nvidia RTX Spark.",
-   "link": "https://www.ixbt.com/news/2026/11/19/korpus-obieemom-125-l-i-proizvoditelnost-1-petaflops-predstavlen-mechrevo-rtx-spark-master-x10.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743687/media-d66e3e54d1d752d17c3a155c6159290257086d877e8f916ba4cea1ec4a21a9b9.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-19T07:12:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "73cbe8c79390",
-   "title": "ИИ-бум может захлебнуться в избытке чипов — Сэм Альтман предупредил, что OpenAI не сможет скупить всё",
-   "summary": "Гендиректор OpenAI Сэм Альтман (Sam Altman) указал на возможность возникновения дисбаланса между спросом и предложением на рынке оборудования для искусственного интеллекта.",
-   "link": "https://3dnews.ru/1151517",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151517/altman.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T07:01:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "9b28bc629920",
-   "title": "Рекорд SpaceX Илона Маска побит: Anthropic привлекла рекордные $81,3 млрд на IPO при оценке компании в $1,5 трлн",
-   "summary": "Разработчик Claude установил новый рекорд биржевого дебюта Компания Anthropic привлекла $81,3 млрд в рамках первичного публичного размещения акций (IPO), установив абсолютный рекорд среди биржевых дебютов.",
-   "link": "https://www.ixbt.com/news/2026/11/19/rekord-spacex-ilona-maska-pobit-anthropic-privlekla-rekordnye-813-mlrd-na-ipo-pri-ocenke-kompanii-v-15-trln.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743683/media-48bf9e34277f40e7415e106adfa9625c98dbe1dd4bcf1b3fee6aa8e4c6c2ba86.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-19T07:01:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "71a2cf13fda2",
-   "title": "Бари, что не так дома? Локальный голосовой ассистент год спустя",
-   "summary": "Год назад наш локальный голосовой ассистент BARY понимал не только «включи свет на кухне», но и «тут что-то жарковато». Правда, ему требовалось отдельное «железо».",
-   "link": "https://habr.com/ru/companies/wirenboard/articles/1108590/?utm_campaign=1108590&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8f/c8/45/8fc8452fd1893149a0e8d8a29b8f6c49.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T07:00:53+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "a43f21102db7",
-   "title": "США затормозили китайский ИИ: Tencent признала, что следующая LLM задержится из-за перекрытия лазеек к чипам Nvidia",
-   "summary": "Новые экспортные ограничения, введённые Вашингтоном в отношении доступа китайских компания к зарубежным центрам обработки данных, затруднят разработку новой модели искусственного интеллекта, признали в компании Tencent.",
-   "link": "https://3dnews.ru/1151509",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151509/tencent_1_tencent-com.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T06:33:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9d2443fa9041",
-   "title": "[Перевод] Как ИИ-нагрузки меняют автомасштабирование в Kubernetes",
-   "summary": "Kubernetes обеспечивает работу значительной части контейнеризованного ПО в мире благодаря разделению обязанностей между двумя циклами управления, которым прежде редко требовалось взаимодействовать.",
-   "link": "https://habr.com/ru/companies/vktech/articles/1109358/?utm_campaign=1109358&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e8/46/5f/e8465fc89e022b6ff6c853aeea2cff24.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-19T06:24:22+00:00",
-   "category": "other"
-  },
-  {
-   "id": "7b6af576c629",
-   "title": "Кажется, GTA 6 — последний цифровой продукт, сделанный людьми, а не нейросетями",
-   "summary": "Кажется, это последний крупный релиз цифрового продукта, который в большей степени сделали люди, а не промпты.",
-   "link": "https://habr.com/ru/articles/1109586/?utm_campaign=1109586&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/53/6a/48/536a48d73d315d11f0b19695ac8eb464.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T06:00:49+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0e38638c13bc",
-   "title": "Антифрод на два миллиарда: как Anthropic зарабатывает на клиентах, которых потом блокирует",
-   "summary": "За девять месяцев 2026 года Anthropic заработала до $2,33 млрд на клиентах, чьи аккаунты позднее заблокировала.",
-   "link": "https://habr.com/ru/articles/1109660/?utm_campaign=1109660&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/44/e1/22/44e122fcd27eb408ce9a55e2718a0434.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T05:43:03+00:00",
-   "category": "business"
-  },
-  {
-   "id": "762670ebc77e",
-   "title": "13 задач на Python в OpenCode: DeepSeek Flash обошёлся в $0,67, Claude Opus — в $8,76",
-   "summary": "13 задач на Python, четыре модели, по три попытки: 156 запусков в OpenCode. Все запросы отправлял через API-шлюз. С баланса за Flash списалось $0,67, за V4 Pro — $2,89, за Sonnet — $3,65, за Opus — $8,76.",
-   "link": "https://habr.com/ru/articles/1109658/?utm_campaign=1109658&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1109658/8b1f8a3ac4772f7e1ca097019b83715e/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T05:02:41+00:00",
-   "category": "models"
-  },
-  {
-   "id": "4a65cce1f1b3",
-   "title": "Anthropic продаст больше акций и дороже ожидаемого — её IPO переплюнет SpaceX",
-   "summary": "Anthropic накануне установила окончательную цену на свои акции на этапе первичного публичного размещения — она составила $83, и это выше ожидавшегося диапазона.",
-   "link": "https://3dnews.ru/1151513",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151513/anthropic.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T04:39:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "a8022fb06095",
-   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-   "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff.",
-   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Microsoft-Satya-Nadella.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T00:42:56+00:00",
-   "category": "business"
-  },
-  {
-   "id": "4b08ec50268e",
-   "title": "Deploying Daybreak Red",
-   "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-   "link": "https://openai.com/business/learn/deploying-daybreak-red",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/3oYqbsFOI2UIoDU3S2uqWu/0611437db2ca3c09777cb5ef36c2a812/deploying-daybreak-red-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-19T00:00:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "cb99e2baa62e",
-   "title": "See PR scans in action",
-   "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-   "link": "https://openai.com/business/learn/pr-scans-demo",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/6pUIP8aRHn6eGeRGBWd0B0/c447f22952fcb14b3c43104989c1e739/pr-scans-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-19T00:00:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "e29ac258c013",
-   "title": "Explore the Codex Security Plugin",
-   "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-   "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/5v8vfxgtSsA7NgJTT3kzqU/5c217881e8568e2b342dc59a8e69d7e1/codex-security-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-19T00:00:00+00:00",
-   "category": "policy"
   }
  ]
 }
