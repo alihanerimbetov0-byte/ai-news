@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:48:27.815696+00:00",
+ "updated": "2026-11-23T09:36:46.507063+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 2
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 11
+   "count": 8
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,94 @@
   }
  ],
  "items": [
+  {
+   "id": "f94afa43a790",
+   "title": "Лучшие нейросети для генерации изображений в конце 2026: Nano Banana 2.1, Seedream 5.5 и ещё 6 моделей на 8 задачах",
+   "summary": "Одна нейросеть держит лицо героини по фото, другая без ошибок пишет русский текст на постере, третья не путает, сколько фигурок стоит на полке.",
+   "link": "https://habr.com/ru/companies/syntx_ai/articles/1110828/?utm_campaign=1110828&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/42/38/aa/4238aa727766a40151c9c28c5f7ff979.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-23T09:30:12+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f960f921e8cc",
+   "title": "От радиоточки до локального управления умным домом",
+   "summary": "Мой умный дом прошёл путь от одного динамика на стене до шести комнат с синхронным звуком и голосовым помощником, который работает без единого обращения в облако.",
+   "link": "https://habr.com/ru/articles/1111120/?utm_campaign=1111120&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1111120/9ed6a66f270c39fa47c4728d682bf8be/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T09:28:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "36a96f68c556",
+   "title": "Signal ограничил создание скриншотов из‑за ИИ‑агентов",
+   "summary": "Разработчики мессенджера Signal анонсировали блокировку создания скриншотов в iOS 27, а также блокировку доступа ИИ‑помощников к перепискам на поддерживаемых устройствах Android.",
+   "link": "https://habr.com/ru/articles/1111110/?utm_campaign=1111110&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/fe/5b/a6/fe5ba6b51273677707c66527b23fed5c.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T09:27:54+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "e85de2cab3e8",
+   "title": "Ты больше не один: шесть цифровых Я, которые живут твоей жизнью",
+   "summary": "В цифровом мире у каждого из нас существует не одна, а сразу несколько версий себя.",
+   "link": "https://habr.com/ru/articles/1110962/?utm_campaign=1110962&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/60/2d/72/602d7278f6ebcb6ae87d8e575f36db3a.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T09:23:24+00:00",
+   "category": "other"
+  },
+  {
+   "id": "f4489740442b",
+   "title": "Британский стартап Spotta использует ИИ в ловушках для клопов в гостиницах",
+   "summary": "Британский стартап Spotta задействовал искусственный интеллект в ловушках для клопов в гостиницах. Использование системы Bed Pod позволяет отелям отслеживать появление клопов и других насекомых раньше постояльцев.",
+   "link": "https://habr.com/ru/articles/1111100/?utm_campaign=1111100&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d0/19/c7/d019c7764a208fa2f0aa21d44c71bb5c.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T09:05:54+00:00",
+   "category": "business"
+  },
+  {
+   "id": "4465033f9735",
+   "title": "Долг понимания: мечтают ли ИИ-агенты о риск-менеджменте?",
+   "summary": "Что общего у теоремы Ферма, зелёных тестов и кредитного риска? ИИ-агенты уже пишут код, выполняют операции и проверяют работу друг друга — порой быстрее, чем люди успевают разобраться в результатах.",
+   "link": "https://habr.com/ru/companies/alfa/articles/1108834/?utm_campaign=1108834&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7b/20/4b/7b204b9e2982866c7504d359d1023f5b.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T08:47:17+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "b7b4d48476e3",
+   "title": "«Где-то я это видел». Как не терять знания проекта в чатах и документах",
+   "summary": "Инструкции по проекту лежат в корпоративной Wiki, важные вопросы обсуждали в чате, а что решили — помнит только руководитель. Формально знания у команды есть.",
+   "link": "https://habr.com/ru/articles/1110300/?utm_campaign=1110300&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d5/21/c0/d521c0df3b6d0df2db088569297c7971.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T08:25:33+00:00",
+   "category": "other"
+  },
+  {
+   "id": "41b5ac4142a5",
+   "title": "Вебинар: Бизнес уже пишет приложения сам. Что делать ИТ?",
+   "summary": "25 ноября в 16:00 МСК пройдет бесплатный вебинар для руководителей ИТ-команд о том, как выстроить процесс ИИ-разработки в компании, от прототипа до передачи в эксплуатацию и сопровождения.",
+   "link": "https://habr.com/ru/companies/haulmont/articles/1111072/?utm_campaign=1111072&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4f/9b/c1/4f9bc10a5163df07bf8c862620c47571.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T07:51:16+00:00",
+   "category": "tools"
+  },
   {
    "id": "907327ea3087",
    "title": "ИИ стал самым удобным объяснением сокращений в ИT",
@@ -4419,94 +4507,6 @@
    "lang": "en",
    "date": "2026-11-18T17:50:57+00:00",
    "category": "other"
-  },
-  {
-   "id": "30748ff8ddfb",
-   "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-   "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
-   "link": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-   "image": "https://media.wired.com/photos/6afddee377c5562ae471019b/master/pass/GettyImages-2304258889.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-18T17:33:07+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "708e52618cd9",
-   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-   "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-   "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1497343848.jpeg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-18T17:32:10+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "e3f9813231cf",
-   "title": "Вышел проект rust-anything, который помогает переписывать игры и приложения на Rust",
-   "summary": "На GitHub опубликован открытый проект rust-anything , который помогает переписывать с разных языков программирования (TypeScript/JavaScript, Python, Go, Ruby, Java, PHP и C# пока в preview), например, игры и приложения,…",
-   "link": "https://habr.com/ru/articles/1109572/?utm_campaign=1109572&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/3f/ec/b8/3fecb820126bca2e8e5c46a6480376f4.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-18T17:30:21+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "03ca256a4adf",
-   "title": "The Gemini app is now available on lower-memory Android devices.",
-   "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-18T17:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3439be5ca604",
-   "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-   "summary": "Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-   "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305723022.jpg?w=594",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-18T16:59:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "c0bdf578bee4",
-   "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-   "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
-   "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
-   "image": "https://media.wired.com/photos/6afdd3316a27dda013bf584c/master/pass/Security_Criminals%20Have%20a%20New%20Favorite%20AI%20Hacking%20Tool_v2.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-18T16:35:24+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "f816757e046d",
-   "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-   "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-   "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-18T16:14:09+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "55f7e3940a91",
-   "title": "Pangram flags 99 percent of an award-winning Peruvian novel as AI-generated, but the publisher stands by its author",
-   "summary": "The AI detection tool Pangram flags 99 percent of a prize-winning Peruvian novel as AI-generated, but Mexican publisher Almadía is standing by the award after its own review.",
-   "link": "https://the-decoder.com/pangram-flags-99-percent-of-an-award-winning-peruvian-novel-as-ai-generated-but-the-publisher-stands-by-its-author/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/pangram_literature.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-18T16:09:08+00:00",
-   "category": "tools"
   }
  ]
 }
