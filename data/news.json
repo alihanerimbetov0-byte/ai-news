@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:13:59.875292+00:00",
+ "updated": "2026-11-23T19:13:55.266359+00:00",
  "categories": [
   {
    "id": "models",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "source": "OpenAI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,149 @@
   }
  ],
  "items": [
+  {
+   "id": "80e6180f1895",
+   "title": "ИИ стал материться от бессилия: современные модели всё чаще ругаются, когда не могут решить задачу",
+   "summary": "ИИ-модели стали заметно чаще использовать ненормативную лексику, причём обычно это происходит не в ответах пользователям, а во время внутренних рассуждений.",
+   "link": "https://3dnews.ru/1151696",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151696/5453.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-23T19:05:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "17cabec52c3d",
+   "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+   "summary": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports.",
+   "link": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wall-2.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-23T18:47:53+00:00",
+   "category": "business"
+  },
+  {
+   "id": "9a843b0cbb8d",
+   "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+   "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation.",
+   "link": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_safety.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-23T18:42:38+00:00",
+   "category": "models"
+  },
+  {
+   "id": "140edb591fff",
+   "title": "Два штата США подали в суд на SpaceX из-за сексуализированных дипфейков, созданных Grok",
+   "summary": "Ответчики — не только SpaceX, но и связанные с ней компании, включая X Corp. и структуры xAI 23 ноября генеральные прокуроры Орегона и Вирджинии подали отдельные, но согласованные иски против SpaceX, X Corp.",
+   "link": "https://www.ixbt.com/news/2026/11/23/dva-stata-ssa-podali-v-sud-na-spacex-iz-za-seksualizirovannyx-dipfeikov-sozdannyx-grok.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745503/media-97b1efa5864727d91a9050984e70dff7b7d38490a8ed83c73a3b2e8599de8b6d.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-23T18:29:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "786a4f32021c",
+   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+   "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard…",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-23T18:26:47+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a2f14d06f82b",
+   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+   "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+   "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T18:12:22+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "9aeab8bbf1ea",
+   "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+   "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+   "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+   "image": "https://media.wired.com/photos/6b0467fb5f8e6c0d7b84afc9/master/pass/Business_Nvidia%20Is%20Worth%20$1%20Trillion%20More%20Than%20It%20Was%20Yesterday.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-23T17:52:56+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "a626fead6f09",
+   "title": "Искусственный интеллект — это новый «цифровой» дрон",
+   "summary": "Сначала о том, чем ИИ является сейчас. По ощущениям модели становятся умнее с каждым поколением, и нам обещают, что в недалёком будущем они станут «цифровым богом», новой промышленной революцией и т.д.",
+   "link": "https://habr.com/ru/articles/1111466/?utm_campaign=1111466&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/bb/f4/cb/bbf4cb1da5bc513c6dbd8df36b085f1e.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T17:39:47+00:00",
+   "category": "models"
+  },
+  {
+   "id": "02839082ff9f",
+   "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here .",
+   "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "lang": "en",
+   "date": "2026-11-23T17:36:08+00:00",
+   "category": "research"
+  },
+  {
+   "id": "7ec95461cad9",
+   "title": "Harness и ИИ-ревью: как современные ИИ-агенты ревьювят ваш код",
+   "summary": "Долгие годы код-ревью было тем местом, где команда чаще теряла больше времени, чем было на создание фичи. Но теперь код-ревью стало узким местом.",
+   "link": "https://habr.com/ru/companies/bothub/articles/1111458/?utm_campaign=1111458&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d0/f3/77/d0f377a7ec2b3ed7f258307601cff184.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-23T17:23:50+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "ca38829e7312",
+   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+   "summary": "",
+   "link": "https://huggingface.co/blog/allenai/robotrack",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/0KlbITzhyUGtGPyvi09um.png",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-23T17:20:37+00:00",
+   "category": "other"
+  },
+  {
+   "id": "b65230f07406",
+   "title": "ИИ может устроить киберапокалипсис уже через 18 месяцев — эксперты ждут катастрофу, а власти вряд ли смогут её предотвратить",
+   "summary": "Верное своему «телеграфному» стилю издание Axios опубликовало исчерпывающий ряд лаконичных пунктов пугающего содержания, после прочтения которых сразу вспомнился фильм 2021 года «Не смотрите наверх» (Don't Look Up).",
+   "link": "https://3dnews.ru/1151690",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151690/cibier.png",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-23T17:20:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "6a7990e1ad10",
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+   "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-23T17:14:23+00:00",
+   "category": "hardware"
+  },
   {
    "id": "c5903c8754bb",
    "title": "A more tailored Google Search that’s uniquely yours",
@@ -184,6 +327,17 @@
    "lang": "ru",
    "date": "2026-11-23T16:32:43+00:00",
    "category": "other"
+  },
+  {
+   "id": "1cb78417896f",
+   "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+   "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was.",
+   "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-23T16:30:11+00:00",
+   "category": "hardware"
   },
   {
    "id": "bf2877544e53",
@@ -4352,160 +4506,6 @@
    "source": "iXBT",
    "lang": "ru",
    "date": "2026-11-19T10:43:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "86164da1b4b8",
-   "title": "Маскот на генерациях: как держать одного кота одинаковым на десятках площадок и что всё равно ломается",
-   "summary": "У нашей небольшой финансовой компании из Петербурга есть маскот: рыжий вислоухий кот в пиджаке. За два месяца он появился на обложках статей на десятках площадок, в карточках Pinterest, обоях на телефон и в роликах.",
-   "link": "https://habr.com/ru/articles/1109826/?utm_campaign=1109826&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ad/0e/de/ad0edeaf5ea3c5fddce8437f71a1b7c4.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T10:33:34+00:00",
-   "category": "other"
-  },
-  {
-   "id": "e4ec91369afc",
-   "title": "От машинного кода к доказательному программированию: как меняется разработка ПО",
-   "summary": "Разработка ПО проходит очередной этап изменений.",
-   "link": "https://habr.com/ru/articles/1109824/?utm_campaign=1109824&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1109824/1dcb30080095cc406f92fa53aaa125a6/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T10:32:45+00:00",
-   "category": "other"
-  },
-  {
-   "id": "16b77e071b6c",
-   "title": "AI ускоряет написание кода. Почему это не гарантирует ускорения доставки?",
-   "summary": "Как AI меняет экономику Software Development Lifecycle, почему ограничения перемещаются между этапами разработки и какой может стать архитектура Software Delivery к 2030 году. Введение. Мы ускоряем не ту часть системы?",
-   "link": "https://habr.com/ru/articles/1109822/?utm_campaign=1109822&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/36/fa/a8/36faa81ef0fb4d56c357218d0ca14961.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T10:30:52+00:00",
-   "category": "other"
-  },
-  {
-   "id": "51adef2c37b5",
-   "title": "Генерируем ассеты для FPS в стиле С.Т.А.Л.К.Е.Р. С помощью Nano Banana 2 Lite",
-   "summary": "Мы знаем как нейро-генераторы справляются с пиксельартом. А как себя покажет такая модель в генерации ассетов для игры в духе “шутер из нулевых”? За основу возьмём иконичный тайтл той эпохи S.T.A.L.K.E.R.",
-   "link": "https://habr.com/ru/companies/studyai/articles/1109500/?utm_campaign=1109500&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/bf/57/0e/bf570edbfd2ae631845babf1da53fc03.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T10:01:12+00:00",
-   "category": "models"
-  },
-  {
-   "id": "a0266bcefd77",
-   "title": "Гендиректор Microsoft Сатья Наделла объяснил, почему компания предложила 60 тысячам сотрудников уволиться",
-   "summary": "В конце прошлого месяца директор по персоналу Microsoft Эми Коулман направила 60 тыс. сотрудникам (27% персонала) предложение добровольно уволиться за денежную компенсацию.",
-   "link": "https://habr.com/ru/articles/1109798/?utm_campaign=1109798&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7e/77/80/7e77800599140bc5d4c8d04bdfa85dd7.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-19T09:55:15+00:00",
-   "category": "other"
-  },
-  {
-   "id": "f9290afa8c09",
-   "title": "Разговоры с СТО: вайб-кодинг в банке или почему мы не уволим разработчиков и не отдадим всё ИИ",
-   "summary": "Продолжаю разговоры с СТО и публикации рассуждений об автоматизации и ИИ в банковской разработке.",
-   "link": "https://habr.com/ru/companies/svoi_ru/articles/1109790/?utm_campaign=1109790&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e4/1e/aa/e41eaac7a9d314f4c06dd7a41fe6cfe3.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T09:40:20+00:00",
-   "category": "other"
-  },
-  {
-   "id": "b1c67b5c4ec5",
-   "title": "ChatGPT и Netflix без VPN: МТС открыл зарубежные сервисы для большинства абонентов",
-   "summary": "Опция «Глобальный доступ» перестала быть привилегией владельцев премиальных тарифов Оператор МТС расширил доступность опции «Глобальный доступ», с помощью которой абоненты могут пользоваться популярными зарубежными…",
-   "link": "https://www.ixbt.com/news/2026/11/19/chatgpt-i-netflix-bez-vpn-mts-otkryl-zarubeznye-servisy-dlia-bolsinstva-abonentov.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743762/media-8e2de5ad7e6a9c1a8c69dc76b1f1415e21e4ab26c3b6eb772dbe334cc9b017f3.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-19T09:39:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "5d7be5068330",
-   "title": "Вторая модель проверяет ответ ИИ-консультанта до отправки: как это устроено и чем за это платишь",
-   "summary": "В Konsul, моём ИИ-консультанте по сайту компании, ответ можно пропускать через вторую модель. Она сверяет каждое утверждение о компании с найденными источниками.",
-   "link": "https://habr.com/ru/articles/1109788/?utm_campaign=1109788&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/43/64/75/4364757a02b45ec513b05439fda15f05.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T09:35:15+00:00",
-   "category": "models"
-  },
-  {
-   "id": "bce84a240ce5",
-   "title": "OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months",
-   "summary": "Pulling text out of scanned books and records has gotten a lot cheaper with freely available AI models.",
-   "link": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/baidu-ocr-machine-nano-banana-pro.jpg",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-19T09:28:01+00:00",
-   "category": "models"
-  },
-  {
-   "id": "e9bb6bedf4e0",
-   "title": "Почтовый AI-ассистент на Python: текст, фото и голос через одного провайдера",
-   "summary": "Разбираем основные механики ИИ-агентов на Python на примере почтового ассистента с веб-интерфейсом на FastAPI и OpenAI Agents SDK. Подключаем текст, изображения, распознавание и синтез речи через одного провайдера.",
-   "link": "https://habr.com/ru/articles/1109558/?utm_campaign=1109558&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/2a/96/d5/2a96d511bd2f67e95c9cc0c5326db52e.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T09:16:08+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "2e0f9f5c9a5e",
-   "title": "Экран на 360 градусов, ИИ внутри: представлен ноутбук-трансформер Tecno Megabook T15 360 Pro",
-   "summary": "От 118 тысяч рублей Tecno представил Megabook T15 360 Pro — первый ноутбук бренда с поворотным на 360 градусов экраном.",
-   "link": "https://www.ixbt.com/news/2026/11/19/ekran-na-360-gradusov-ii-vnutri-predstavlen-noutbuk-transformer-tecno-megabook-t15-360-pro.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743748/media-e7ee35ef8c882a981f5dd3a9a7248fb18b1be7caa7e5f64290db8a15e693a410.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-19T09:15:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "bfab92884948",
-   "title": "Google представил Gemini 4 Neon — четвёртую модель семейства Gemini 4",
-   "summary": "Google выпустил Gemini 4 Neon.",
-   "link": "https://habr.com/ru/companies/gptunnel/articles/1109770/?utm_campaign=1109770&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/4d/bb/2a/4dbb2a5e00d329ce3d0b4fe466d084ad.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T09:13:01+00:00",
-   "category": "models"
-  },
-  {
-   "id": "11239930ef25",
-   "title": "Что почистить в Claude Code после того, как вас забанили",
-   "summary": "Разбираю структуру файлов Claude Code: что хранится в ~/.claude.json (userID, machineID, oauthAccount), где лежат токены доступа и резервные копии.",
-   "link": "https://habr.com/ru/articles/1109732/?utm_campaign=1109732&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1109732/7f55a359e48470681159fd424b778e3c/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T09:04:05+00:00",
-   "category": "models"
-  },
-  {
-   "id": "996c2cf7bbbd",
-   "title": "Google выпустила Gemini 4 Neon — почти флагманский рассуждающий ИИ стал быстрее и дешевле",
-   "summary": "Следом за выпущенными ранее ИИ-моделями Gemini 4 Carbon и Hydrogen компания Google представила Gemini 4 Neon.",
-   "link": "https://3dnews.ru/1151522",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151522/521.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T08:58:00+00:00",
    "category": "models"
   }
  ]
