@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:15:01.684220+00:00",
+ "updated": "2026-11-24T17:13:11.315286+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -43,23 +43,23 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "source": "OpenAI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,160 @@
   }
  ],
  "items": [
+  {
+   "id": "eaadf2423721",
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T17:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "26c3ceae0894",
+   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+   "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+   "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T16:46:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "16565a3f5dc0",
+   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "summary": "",
+   "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6847ab8c06094fa4afb6ee38/M70tUMNd7N4KO5QGI37YZ.png",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-24T16:34:13+00:00",
+   "category": "other"
+  },
+  {
+   "id": "8a546b15d29e",
+   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+   "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+   "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1373266060.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T16:10:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "760fc03afaeb",
+   "title": "Акции Anthropic скатились ниже стартовой цены IPO — но аналитики не теряют оптимизма",
+   "summary": "Сегодня акции компании Anthropic подешевели сразу на 8 %, их стоимость упала ниже цены размещения (IPO) в $83.",
+   "link": "https://3dnews.ru/1151747",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151747/ai-anthropic-12.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-24T16:10:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "ee2357a4074e",
+   "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+   "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+   "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T16:02:37+00:00",
+   "category": "other"
+  },
+  {
+   "id": "8d6c7c64bc85",
+   "title": "How Gemini is changing the game for Golden State's organization and fans.",
+   "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+   "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp",
+   "source": "Google AI",
+   "lang": "en",
+   "date": "2026-11-24T16:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "4cccc58426de",
+   "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+   "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+   "link": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+   "image": "https://media.wired.com/photos/6b04bcaa13580ca4e2bfb763/master/pass/Business_Anthropic%20Created%20a%20Honeypot%20to%20Lure%20AI%20Agents%20Into%20Misbehaving_v1.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-24T16:00:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "4a847676e926",
+   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+   "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+   "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/07/AP22104515656433.jpg?resize=1200,754",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T15:51:07+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "c212a4b10427",
+   "title": "Как делать видео с помощью нейросетей: полный гайд от сценария до готового ролика",
+   "summary": "Покажу, как я собираю видео от сценария до монтажа, и сравню цены на четыре модели в двух агрегаторах.",
+   "link": "https://habr.com/ru/articles/1111840/?utm_campaign=1111840&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/00/a6/14/00a614321e5a0669f75e3052d6e53c79.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T15:45:24+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1a5301f8373e",
+   "title": "Simplity и «Диасофт» подписали соглашение о технологическом партнерстве",
+   "summary": "Simplity, провайдер сервисов и решений в сфере ИТ и кибербезопасности, и компания «Диасофт», крупнейший российский разработчик программного обеспечения для финансового сектора и других отраслей экономики, подписали…",
+   "link": "https://habr.com/ru/companies/diasoft_company/articles/1111892/?utm_campaign=1111892&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1111892/35b0a8e798c50fef39dd38f685996d41/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T15:43:38+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "eab388baf7c7",
+   "title": "Atlantic озвучила три теории возвращения Дженсена Хуанга в Nvidia",
+   "summary": "Американская газета Atlantic озвучила три теории возвращения Дженсена Хуанга на посты генерального директора, президента и члена совета директоров Nvidia.",
+   "link": "https://habr.com/ru/articles/1111886/?utm_campaign=1111886&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/35/90/4a/35904a60ff57918b1566254408d8e244.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T15:26:33+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "ec42ff56f2b3",
+   "title": "Смартфон под контролем мошенников: в России тестируют ИИ-троян RatHat",
+   "summary": "Троян использует модель Gemini от Google, чтобы управлять вредоносными процессами, похищать данные и обходить защиту банковских приложений В России и Белоруссии выявили новый Android-троян RatHat, который использует…",
+   "link": "https://www.ixbt.com/news/2026/11/24/smartfon-pod-kontrolem-mosennikov-v-rossii-testiruiut-ii-troian-rathat.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745954/ai-image-8ninxyubkfcupv3bmyqx4lkj.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-24T15:24:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "22d7270e7a58",
+   "title": "Raising the stakes for enterprise networks with AI modernization",
+   "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network . Now, agentic AI is adding to the load.",
+   "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Tata-report-cover.jpg?w=840",
+   "source": "MIT Tech Review",
+   "lang": "en",
+   "date": "2026-11-24T15:15:16+00:00",
+   "category": "hardware"
+  },
   {
    "id": "16803f025d13",
    "title": "Z.ai выпустила GLM-5.4, которая прогоняет одни и те же слои дважды. Что известно и почему пока нет бенчмарков",
@@ -4353,160 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-20T10:31:05+00:00",
    "category": "other"
-  },
-  {
-   "id": "b2a8b1981b0d",
-   "title": "Сегментация и классификация патологий лёгких на КТ: сравнение UNet 3+, nnU‑Net, EfficientNet и Swin Transformer",
-   "summary": "Я сравнила четыре архитектуры на КТ грудной клетки: UNet 3+ и nnU-Net v2 для сегментации узлов (LIDC-IDRI), EfficientNet-B0 и Swin-Tiny для классификации срезов.",
-   "link": "https://habr.com/ru/articles/1110294/?utm_campaign=1110294&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/43/52/fb/4352fb7ee5fdd35ff508a71489ec10fa.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T10:17:11+00:00",
-   "category": "other"
-  },
-  {
-   "id": "0dba86fbc4b9",
-   "title": "Samsung готовится к новому витку ИИ-бума: руководство выпуском памяти доверили разработчику DRAM и HBM",
-   "summary": "Samsung объявила о назначении нового главы подразделения по производству чипов памяти.",
-   "link": "https://3dnews.ru/1151583",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151583/samsung.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-20T10:12:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "41802daed66a",
-   "title": "Что не так со снятием Дженсена Хуанга",
-   "summary": "Проблема с саги Дженсена Хуанга, бывшего CEO Nvidia не в том, продавал ли он — сознательно или нет — чипы в Китай в обход санкций в ИИ-гонки США против КНР, а в имплицитном принятии подспудного посылка, что США с КНР…",
-   "link": "https://habr.com/ru/articles/1107318/?utm_campaign=1107318&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/21/68/14/216814ca80783a59ea08ac89cafd34f1.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T10:03:27+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "a08c924254e4",
-   "title": "Вторую ступень Starship поймали, станут ли дата-центры орбитальными?",
-   "summary": "15 ноября 2026 года (по московскому времени) манипуляторы стартово-посадочного комплекса «Мехазилла» поймали вторую ступень (корабль) Starship.",
-   "link": "https://habr.com/ru/companies/ruvds/articles/1110272/?utm_campaign=1110272&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c2/0d/8e/c20d8e61366fb864b12ca0a8860bc010.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T10:01:09+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "3ea993db7e3c",
-   "title": "Combatting adversarial distillation",
-   "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-   "link": "https://openai.com/index/combatting-adversarial-distillation",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-20T10:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d71e9d428c0a",
-   "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
-   "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams.",
-   "link": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/06/hermes-og-image-blue.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-20T09:59:51+00:00",
-   "category": "models"
-  },
-  {
-   "id": "ece8a7ab562d",
-   "title": "Google отправит в космос спутники с ИИ-процессорами на борту: запуск поручили Blue Origin",
-   "summary": "Аппараты проекта Suncatcher объединят в вычислительную сеть, а их энергоснабжение обеспечат солнечные батареи Google заключила соглашение с Blue Origin о запуске своих спутников проекта Suncatcher — экспериментальной…",
-   "link": "https://www.ixbt.com/news/2026/11/20/google-otpravit-v-kosmos-sputniki-s-ii-processorami-na-bortu-zapusk-porucili-blue-origin.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744164/media-ba245868247e397b962dd4004eee3d1943e9c4005d5bc19be64965ddf9ce217c.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T09:46:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "deefc4533230",
-   "title": "Дашборд команды из Jira за час вместо месяца: как ИИ-агент собирает пульс спринта",
-   "summary": "Раньше качественный дашборд по командам из Jira аналитик собирал порядка месяца. Теперь сборка зашита в скиллы ИИ-агента, данные обновляются сами, и борд для новой команды я собираю максимум за час. Немного контекста.",
-   "link": "https://habr.com/ru/articles/1110260/?utm_campaign=1110260&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/90/76/a7/9076a7d9f8d76768bceb30f0f7296237.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T09:35:15+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "bc9b8dedf549",
-   "title": "[Перевод] Создание постоянно действующих агентов",
-   "summary": "Постоянно действующие (always-on) агенты работают неопределённо долго, решая, как именно и когда действовать на протяжении множества сессий.",
-   "link": "https://habr.com/ru/companies/piter/articles/1110240/?utm_campaign=1110240&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e0/1a/48/e01a485ff735fefdb4b168319ac62a73.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T09:04:28+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "7d56cef476ea",
-   "title": "Кто должен решать, чем занимается AI-команда?",
-   "summary": "Стандартный ответ на вопрос, как поделена ответственность между AI‑командой и бизнесом — это формула «бизнес = заказчик, AI = исполнитель».",
-   "link": "https://habr.com/ru/companies/tochka/articles/1109714/?utm_campaign=1109714&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/17/83/55/178355a690bc034d2c5b7356f3ac99de.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T09:01:10+00:00",
-   "category": "other"
-  },
-  {
-   "id": "b43f6e7b1ded",
-   "title": "Чат-боты стали экспертами в убеждении людей",
-   "summary": "В последнее время в ТГ-каналах и на Хабре попадаются умные собеседники, которые очень аргументированно излагают позицию. Аргументы и факты — не подкопаешься.",
-   "link": "https://habr.com/ru/companies/ruvds/articles/1102692/?utm_campaign=1102692&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b2/1a/3c/b21a3cac30626353fc3ece4fbd39c2f0.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T09:01:03+00:00",
-   "category": "other"
-  },
-  {
-   "id": "9806736593d2",
-   "title": "Как мы собираем и склеиваем объявления из 200+ Telegram-каналов Ташкента",
-   "summary": "В Ташкенте квартиру в аренду ищут не на большом сайте объявлений, а в Telegram. Каналов с объявлениями — сотни: у каждого агентства свой, плюс районные, студенческие, «без посредников».",
-   "link": "https://habr.com/ru/articles/1110216/?utm_campaign=1110216&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8e/c6/8d/8ec68dc1c96ea249818f0bfca8d6f6f8.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-20T08:36:02+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "35dbba974488",
-   "title": "«Яндекс 360» открыл доступ к своим сервисам внешним ИИ‑агентам",
-   "summary": "«Яндекс 360» запустил MCP‑сервер. Он позволяет ИИ‑агентам обращаться к данным и инструментам виртуального офиса.",
-   "link": "https://habr.com/ru/articles/1110214/?utm_campaign=1110214&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/2a/ea/9f/2aea9f3ca2b5cf9362dce85e7cc704b8.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T08:28:05+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "8aa77c257482",
-   "title": "Сколько видеопамяти нужно LLM: считаем веса, KV-кэш и запас на одновременных пользователей",
-   "summary": "Вопрос «какая видеокарта нужна под модель N миллиардов параметров» обычно получает ответ «возьмите побольше».",
-   "link": "https://habr.com/ru/articles/1110210/?utm_campaign=1110210&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110210/cca22696409efd3d173099c256545ce2/",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-20T08:23:40+00:00",
-   "category": "models"
   }
  ]
 }
