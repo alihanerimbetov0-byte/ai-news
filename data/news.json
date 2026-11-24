@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:12:19.840123+00:00",
+ "updated": "2026-11-24T21:06:07.001258+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 11
   },
   {
    "source": "Ars Technica",
@@ -109,6 +109,72 @@
  ],
  "items": [
   {
+   "id": "0794865ff5e3",
+   "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+   "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough.",
+   "link": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-24T20:42:29+00:00",
+   "category": "models"
+  },
+  {
+   "id": "30d256445c7c",
+   "title": "What's going on with the Riemann hypothesis?",
+   "summary": "Last week, news broke that a mathematician had used AI to help crack one of the biggest outstanding problems in math, a proof of the Riemann hypothesis .",
+   "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-24T20:34:53+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c7ab8d9cd739",
+   "title": "Три синусоиды и одна тревога: новичок собирает решение на платформе low‑code сам и с ИИ помощником",
+   "summary": "Представьте: вам дали незнакомую SCADA-платформу и задачу на полстраницы. Три виртуальных устройства, общий статус, тревога, два экрана, вход оператора. На знакомой платформе это работа на пару часов.",
+   "link": "https://habr.com/ru/articles/1111960/?utm_campaign=1111960&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/07/00/a6/0700a6d59f186a951fd703a426d1e953.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T20:21:40+00:00",
+   "category": "other"
+  },
+  {
+   "id": "e1f8107c4c8d",
+   "title": "Вредные советы: как обновить библиотеку, чтобы пользователи продолжали использовать старую версию",
+   "summary": "В прошлой статье я сравнивала, как агенты решают задачу на английском и на русском, находка для русскоязычных пользователей неприятная: Codex и Kimi с русской задачей перестали искать решение в интернете.",
+   "link": "https://habr.com/ru/articles/1111958/?utm_campaign=1111958&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/bc/f7/b2/bcf7b2ed08890323f524efa18cf478c0.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T20:19:58+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "32af257829de",
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job…",
+   "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0%2C1.2974525602559%2C100%2C78.525377525853&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-24T20:02:03+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "73b013ffb467",
+   "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+   "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard.",
+   "link": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-24T19:23:41+00:00",
+   "category": "business"
+  },
+  {
    "id": "11c9e9b6eedc",
    "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
    "summary": "An Amazon delivery drone that clipped a fiber-optic line before crashing onto a garage roof is now the subject of an investigation by the US Federal Aviation Administration.",
@@ -161,6 +227,17 @@
    "source": "Хабр · ML",
    "lang": "ru",
    "date": "2026-11-24T18:16:59+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c0d0459bd4a3",
+   "title": "— Папа, а люди есть? — Нет, сынок, это фантастика",
+   "summary": "У этих двоих полно общих дел и один общий знакомый — человек перед монитором.",
+   "link": "https://habr.com/ru/articles/1110526/?utm_campaign=1110526&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/05/ed/7a/05ed7a09ee545139f8b99635ce81d9cd.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T18:15:30+00:00",
    "category": "other"
   },
   {
@@ -780,6 +857,17 @@
    "category": "other"
   },
   {
+   "id": "f3aa9260f109",
+   "title": "Searching for distant planets with Astra",
+   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-24T11:00:00+00:00",
+   "category": "other"
+  },
+  {
    "id": "517bd0766068",
    "title": "Claude Opus 5.5: сравнение анимаций пеликана и расходов на пяти API-роутерах",
    "summary": "Одно задание для Claude Opus 5.5, официальный API и пять роутеров. Сравниваю три раунда анимаций пеликана на велосипеде, расход токенов и стоимость вызовов.",
@@ -1295,6 +1383,17 @@
    "lang": "en",
    "date": "2026-11-24T00:00:00+00:00",
    "category": "tools"
+  },
+  {
+   "id": "ec442b764e04",
+   "title": "How Intentful uses dots to make more time for growth",
+   "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+   "link": "https://openai.com/business/customer-stories/intentful-dots",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/2DH2aby1xmlzvADCraI7Xi/bbe8b8956578492f2c3fd7326ecbd9e1/intentful-dots-social-c.png?w=1600&h=900&fit=fill",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-24T00:00:00+00:00",
+   "category": "research"
   },
   {
    "id": "049542555c2c",
@@ -4407,105 +4506,6 @@
    "source": "Хабр · ИИ",
    "lang": "ru",
    "date": "2026-11-20T14:49:58+00:00",
-   "category": "models"
-  },
-  {
-   "id": "b4accc98cead",
-   "title": "Совокупная мощность ИИ-чипов выросла за год в 4,6 раза",
-   "summary": "По оценке Epoch AI, главный вклад в разрыв внесли новые чипы Nvidia Blackwell: они обеспечивают почти три четверти возможностей оборудования для агентного инференса Исследовательская организация Epoch AI оценила…",
-   "link": "https://www.ixbt.com/news/2026/11/20/sovokupnaia-moshhnost-ii-cipov-vyrosla-za-god-v-46-raza.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744276/media-20cf30c9621c008cbbf56b4b51fd3cd2ff6ba01326c55650ef7bd343ee076ecb.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T14:31:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "299291fdd518",
-   "title": "The week everything fell apart",
-   "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running.",
-   "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-20T14:06:59+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "7d8981ef5476",
-   "title": "Six AI-powered gadgets that could make your home office smarter",
-   "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-   "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-20T14:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "920d26e20245",
-   "title": "Как правильно выбирать задачи для LLM и избегать архитектурных ошибок",
-   "summary": "Эта статья - для двух категорий читателей. Первая - те, кто начинает внедрять LLM в рабочий проект.",
-   "link": "https://habr.com/ru/articles/1110442/?utm_campaign=1110442&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110442/17a54e575d7b73e84f33312e7e45707a/",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-20T13:46:21+00:00",
-   "category": "models"
-  },
-  {
-   "id": "756547bfd4d9",
-   "title": "США разрешили отправить в Китай почти 900 тысяч ИИ-ускорителей Nvidia и AMD — ни один ускоритель до адресата не добрался",
-   "summary": "А крупнейшие запросы Nvidia — на сотни тысяч ускорителей для Alibaba и ByteDance — вовсе не прошли согласование Администрация Дональда Трампа одобрила экспорт в Китай 879 868 ускорителей искусственного интеллекта…",
-   "link": "https://www.ixbt.com/news/2026/11/20/ssa-razresili-otpravit-v-kitai-pocti-900-tysiac-ii-uskoritelei-nvidia-i-amd-ni-odin-uskoritel-do-adresata-ne-dobralsia.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744265/media-7b0d7c421f7b6cecf1697b3bc4b4ce1883de834f332dd3db42058075d8e3768e.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T13:44:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "e969e176c541",
-   "title": "Расследование против Nvidia в США установит, мог ли Китай получать передовые процессоры или закрытые сведения компании",
-   "summary": "Генеральный прокурор штата Калифорния Роб Бонта анонсировал начало расследования против Nvidia, чтобы установить, мог ли Китай получать передовые процессоры или закрытые данные американской компании, пишет Reuters.",
-   "link": "https://habr.com/ru/articles/1110434/?utm_campaign=1110434&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/4e/00/00/4e000066ac6e0217ef3c53d342d34d47.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-20T13:26:14+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "3b9f30fdd23e",
-   "title": "Google создала параллельный интернет для обучения ИИ-агентов — в нём есть даже поддельные банки и соцсети",
-   "summary": "В процессе разработки функций искусственного интеллекта на основе моделей Gemini для браузера Chrome инженеры Google приняли дополнительные меры предосторожности, чтобы избежать непредсказуемых последствий.",
-   "link": "https://3dnews.ru/1151600",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151600/mirror_1.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-20T13:22:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9ff6be549848",
-   "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
-   "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks.",
-   "link": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-20T13:19:31+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "3694f3098465",
-   "title": "Nvidia выпустила компактные ПК для запуска ИИ-моделей на 120 млрд параметров без облака",
-   "summary": "RTX Spark от ASUS, Dell и MSI получили 20-ядерные процессоры Grace, графику Blackwell и до 128 ГБ объединённой памяти.",
-   "link": "https://www.ixbt.com/news/2026/11/20/nvidia-vypustila-kompaktnye-pk-dlia-zapuska-ii-modelei-na-120-mlrd-parametrov-bez-oblaka.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744256/media-081e07b77e02c589a260d9b1b66922924b286cec9c0bcba3a2ae931648902cf0.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T13:19:00+00:00",
    "category": "models"
   }
  ]
