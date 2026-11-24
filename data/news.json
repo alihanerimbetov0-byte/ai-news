@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:02:18.123114+00:00",
+ "updated": "2026-11-24T05:19:57.141754+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -108,6 +108,61 @@
   }
  ],
  "items": [
+  {
+   "id": "f3f9e4359a78",
+   "title": "Пять проектов за два дня: агенты ускорились, а узким горлышком стал я",
+   "summary": "22 ноября, 10:28. Агент пушит в master недельный выпуск Cassandra Index - это мой пет-проект, который оценивает риск глобального конфликта по 46 критериям.",
+   "link": "https://habr.com/ru/articles/1111474/?utm_campaign=1111474&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1111474/c3ce8370e678349dec4b07d5a482237e/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T05:09:37+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "42127f573858",
+   "title": "Случайный лес нашёл на 36 случаев оттока больше. Бустинг добавил ещё два",
+   "summary": "Сравниваю логистическую регрессию, случайный лес и градиентный бустинг при отборе 10% клиентов банка на открытых данных BankChurners. На тесте было 2026 клиентов и 326 случаев оттока.",
+   "link": "https://habr.com/ru/articles/1111556/?utm_campaign=1111556&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4f/c6/ba/4fc6baf5521010aa2d2fec19cef7b775.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T05:09:04+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "5a616e2a6af1",
+   "title": "Заново освещаем русскую живопись в браузере",
+   "summary": "Двигаешь мышь, и свет скользит по «Богатырям» Васнецова. Всадники и лошади выступают из тени, на картине появляется ощущение объёма. Такую же лампу можно поводить над «Девятым валом» и «Утром в сосновом лесу».",
+   "link": "https://habr.com/ru/articles/1111552/?utm_campaign=1111552&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/93/21/b7/9321b76f51c44070c74fccd5cbf93298.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T04:34:21+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c987bbade0ed",
+   "title": "Как отдавать письма клиентов во внешнюю LLM и не отдавать их персональные данные",
+   "summary": "Я делал ИИ-агента, который разбирает почту внутренней техподдержки. В письмах есть всё: ФИО, телефоны, паспорта, номера карт, IP-адреса. Своей языковой модели нет, значит, текст уходит внешнему провайдеру.",
+   "link": "https://habr.com/ru/articles/1111548/?utm_campaign=1111548&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d0/35/aa/d035aad09dddd8e47fabb5ab00fb531d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T04:27:24+00:00",
+   "category": "models"
+  },
+  {
+   "id": "fc446d2425e3",
+   "title": "Какие ИИ-боты читают ваш сайт и как ими управлять: GPTBot, ClaudeBot, PerplexityBot, YandexAdditional и другие",
+   "summary": "Всё больше людей задают вопросы не поисковику, а ИИ-ассистенту.",
+   "link": "https://habr.com/ru/articles/1111320/?utm_campaign=1111320&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1111320/0f43a9cf95a2e9dedffdee8d3a998407/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T03:04:32+00:00",
+   "category": "models"
+  },
   {
    "id": "f459d44841fa",
    "title": "К чему нас приведёт полный контроль в руках ИИ?",
@@ -4452,61 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-19T16:31:55+00:00",
    "category": "tools"
-  },
-  {
-   "id": "b80c1a82c17c",
-   "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-   "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-   "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T16:19:41+00:00",
-   "category": "business"
-  },
-  {
-   "id": "a9dc4e0c90c7",
-   "title": "Рандомные AI факты вам от меня",
-   "summary": "Написал 21 случайную AI мысль Вот вам несколько, остальные в посте 💌 Если вы пытаетесь воссоздать оргструктуру из AI агентов, то либо вы гений и очень хорошо понимаете, зачем это нужно и как работает.",
-   "link": "https://habr.com/ru/articles/1110008/?utm_campaign=1110008&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b4/9b/93/b49b93235232748611eebd680aa87c09.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T16:13:41+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "13f10f7c416f",
-   "title": "Преодолевая звуковой барьер в разработке ПО с ИИ",
-   "summary": "В статье рассматривается, как организовать разработку программного обеспечения с ИИ-помощниками, чтобы ускорение реализации не приводило к потере управляемости проекта.",
-   "link": "https://habr.com/ru/articles/1108644/?utm_campaign=1108644&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b5/f7/97/b5f7973303da98f7538cf448c9593977.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T15:54:29+00:00",
-   "category": "other"
-  },
-  {
-   "id": "03eb9aa47908",
-   "title": "Хакеры 10 дней атаковали системы Еврокомиссии с помощью ИИ — под угрозой личные данные чиновников",
-   "summary": "Внутренние кадровые системы Европейской комиссии подверглись кибератаке, из-за чего её сотрудники не имели доступа к Sysper — внутренней кадровой платформе. Атака длилась около 10 дней.",
-   "link": "https://3dnews.ru/1151546",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151546/alexandre-lallemand-Pcs3mOL14Sk-unsplash.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T15:53:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "c6eb8db14305",
-   "title": "Пишет ли локальная модель бэкенд по правилам проекта: 4 модели, 2 харнесса, 24 прогона",
-   "summary": "Локальные модели с открытыми весами всё чаще предлагают как замену облачным в агентной разработке, поскольку код не уходит наружу, а цена не зависит от чужих тарифов.",
-   "link": "https://habr.com/ru/companies/airi/articles/1102720/?utm_campaign=1102720&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/21/49/97/214997b3d00fb6306cd4a0ab4d322053.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T15:32:01+00:00",
-   "category": "models"
   }
  ]
 }
