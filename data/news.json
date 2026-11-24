@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:06:07.001258+00:00",
+ "updated": "2026-11-24T23:07:59.008548+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,83 @@
   }
  ],
  "items": [
+  {
+   "id": "7a5947019eec",
+   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+   "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+   "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T22:27:52+00:00",
+   "category": "other"
+  },
+  {
+   "id": "5f077d12f5ab",
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+   "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T21:48:27+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "58c846e61dff",
+   "title": "В России спроектировали подземный дата-центр на 100 МВт рекуперации — его тепло будет греть бизнес-центр и воду в аквапарке",
+   "summary": "ЦОД на 4200 ИИ-стоек В Омске планируют построить подземный центр обработки данных стоимостью 15,58 млрд рублей, который станет частью единого комплекса с бизнес-центром.",
+   "link": "https://www.ixbt.com/news/2026/11/25/v-rossii-sproektirovali-podzemnyi-data-centr-na-100-mvt-rekuperacii-ego-teplo-budet-gret-biznes-centr-i-vodu-v-akvaparke.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746037/media-ba4275fc8b703e346f6a2b1588fc4c319477091669f7b8a161170ab74a0bfb1a.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-24T21:47:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "6e5f032fb046",
+   "title": "Even the best AI agents struggle with everyday life",
+   "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+   "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T21:33:29+00:00",
+   "category": "models"
+  },
+  {
+   "id": "87d4d82f15b8",
+   "title": "Патентный ландшафт семантических слоев: Почему dbt, Looker и Cube не патентуют их, а Microsoft и IBM — да (2010-26)",
+   "summary": "Разбираем патентный ландшафт семантических слоёв (2010–2026) и выясняем парадокс: почему IBM и Microsoft патентуют технологии вокруг семантики, а лидеры Headless BI (dbt, Cube, Looker) делают ставку на открытый код.",
+   "link": "https://habr.com/ru/articles/1111972/?utm_campaign=1111972&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/79/cb/80/79cb8098ba9140e9ffad657ed6c472e3.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T21:33:03+00:00",
+   "category": "other"
+  },
+  {
+   "id": "42cb577d7e78",
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T21:32:38+00:00",
+   "category": "business"
+  },
+  {
+   "id": "724878a26e68",
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+   "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T21:19:52+00:00",
+   "category": "business"
+  },
   {
    "id": "0794865ff5e3",
    "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
@@ -689,6 +766,17 @@
    "source": "Хабр · ML",
    "lang": "ru",
    "date": "2026-11-24T13:00:57+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3c6728c1bfd1",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-24T13:00:00+00:00",
    "category": "models"
   },
   {
@@ -1394,6 +1482,17 @@
    "lang": "en",
    "date": "2026-11-24T00:00:00+00:00",
    "category": "research"
+  },
+  {
+   "id": "99b93f3e1098",
+   "title": "Clay helps sales teams win with Codex and ChatGPT",
+   "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+   "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/24rUSNlLR8iXQysKA6dq12/38954f25812d30bf772691824f747b84/clay-seo-1920.png?w=1600&h=900&fit=fill",
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-24T00:00:00+00:00",
+   "category": "models"
   },
   {
    "id": "049542555c2c",
@@ -4408,105 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-20T16:28:00+00:00",
    "category": "business"
-  },
-  {
-   "id": "d91d5c675399",
-   "title": "Нейросеть Claude нашла решения двух давних задач физики чёрных дыр",
-   "summary": "Компания Anthropic сообщила , что её нейросеть Claude получила решения двух давних задач теоретической физики, связанных с чёрными дырами.",
-   "link": "https://habr.com/ru/articles/1110482/?utm_campaign=1110482&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/91/16/45/911645c85acc75ffb369a8ac11a67c2b.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T16:05:38+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0ca09a417878",
-   "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
-   "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market.",
-   "link": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-20T15:56:03+00:00",
-   "category": "business"
-  },
-  {
-   "id": "8521572b5961",
-   "title": "Правка SGNE-CC v2 для DeepSeek-R1-1.5B (T=0): −87% зависаний, ответы в 2.7 раза короче и +11 п.п. на MATH-500",
-   "summary": "При жадном выборе токенов ( T = 0 , без сэмплирования и штрафа повторов) рассуждающая модель DeepSeek-R1-Distill-Qwen-1.5B часто вязнет в бесконечной перепроверке уже найденного решения внутри <think> и упирается в…",
-   "link": "https://habr.com/ru/articles/1110462/?utm_campaign=1110462&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f7/82/6f/f7826fbae71b7e7aa73335ba7bae2992.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T15:09:43+00:00",
-   "category": "models"
-  },
-  {
-   "id": "302263e9b653",
-   "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
-   "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices.",
-   "link": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-20T15:03:25+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "92c1cc867c01",
-   "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-   "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
-   "link": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-20T14:55:44+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "9003446b41fb",
-   "title": "GPTunneL и SKILLOUT проведут хакатон ИИ-рекламы в Москве 28–29 ноября. Открыта регистрация для онлайн-участников",
-   "summary": "SKILLOUT возвращается с II сезоном – и онлайн-лигой для команд из любой точки мира. 28–29 ноября в Москве команды с нейросетями за сутки сделают рекламные ролики для брендов в прямом эфире.",
-   "link": "https://habr.com/ru/companies/gptunnel/articles/1110472/?utm_campaign=1110472&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a8/28/22/a8282241ad5e9fec33cd7b70d01ce940.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T14:54:11+00:00",
-   "category": "models"
-  },
-  {
-   "id": "ac4e692a5c06",
-   "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
-   "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information.",
-   "link": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/inception.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-20T14:53:50+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3d491ec06908",
-   "title": "Судьба мирового рынка IT",
-   "summary": "Судьба мирового рынка IT Согласитесь, всем хочется знать, что их ожидает в будущем и IT специалисты в этом плане не исключение. Сейчас все обеспокоены будущим IT.",
-   "link": "https://habr.com/ru/articles/1110410/?utm_campaign=1110410&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/86/94/56/869456ea66dd4f5aab0b1a84857a7485.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T14:50:33+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "57c80f8b563c",
-   "title": "Как мод для Claude Code собрал 1000 звёзд за десять дней",
-   "summary": "Пару недель назад мне попалась красочная визуализация работы чьего‑то харнесса. Повосхищался пару минут и решил, что хочу себе что‑то такое же, но для своего случая и попроще.",
-   "link": "https://habr.com/ru/articles/1110470/?utm_campaign=1110470&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/95/0e/d7/950ed7f5a7e73c6d9b63f87e71035d9f.gif",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T14:49:58+00:00",
-   "category": "models"
   }
  ]
 }
