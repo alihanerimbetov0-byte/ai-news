@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:19:57.141754+00:00",
+ "updated": "2026-11-24T07:32:50.018504+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 3
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,138 @@
   }
  ],
  "items": [
+  {
+   "id": "7c5ccbb34d1c",
+   "title": "Автоматическая обработка заказов в DIY-ритейле: как мы подняли качество поиска по матрице товаров (часть 2)",
+   "summary": "Привет, Хабр! Меня зовут Александра, я Data Scientist в компании Рафт. В первой части я рассказала, как мы автоматизировали обработку заявок в DIY-ритейле от входящего письма до готового коммерческого предложения.",
+   "link": "https://habr.com/ru/companies/raft/articles/1111610/?utm_campaign=1111610&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/09/06/12/0906124b0a339c7de889edd4cbaa2917.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T07:20:59+00:00",
+   "category": "research"
+  },
+  {
+   "id": "812810e2fc89",
+   "title": "Можно ли приучить ИИ-исследователей публиковать неудачи? Опыт шанхайской площадки ArchSpace",
+   "summary": "Привет, Хабр! Если вы когда-нибудь читали технические отчеты о новых моделях DeepSeek, Qwen или Kimi, то наверняка встречали в них абзац о том, какой блок архитектуры заменили и что это дало.",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1110586/?utm_campaign=1110586&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e9/fd/18/e9fd18f28ca67b6c1dfece1788070236.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T07:16:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3d5a538fcab9",
+   "title": "Что запоминают знаки весов прореженной нейросети?",
+   "summary": "Сначала обучаем сеть распознавать рукописные цифры. Затем прореживаем её, то есть удаляем часть связей. Даже после удаления 80% связей сеть по-прежнему распознаёт большинство цифр.",
+   "link": "https://habr.com/ru/articles/1111596/?utm_campaign=1111596&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e9/18/ed/e918edf59b96fd5eaed8aba3f66d2bec.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T07:15:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "39a73821a893",
+   "title": "«Яндекс» представил носимое ИИ‑устройство — «Яндекс Пин»",
+   "summary": "24 ноября 2026 года «Яндекс» представил своё новое носимое ИИ‑устройство — «Яндекс Пин».",
+   "link": "https://habr.com/ru/articles/1104920/?utm_campaign=1104920&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3d/90/c9/3d90c9c38f305820dc3f6c6db68ef0e0.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T07:02:28+00:00",
+   "category": "other"
+  },
+  {
+   "id": "16e0ea463672",
+   "title": "Сторонний код в Яндекс 360: как мы построили проверку безопасности плагинов с помощью AI",
+   "summary": "Недавно мы запустили общую платформу плагинов Яндекс 360. Теперь расширять продукт собственным кодом можно не только в Трекере, но и в других сервисах.",
+   "link": "https://habr.com/ru/companies/yandex/articles/1109776/?utm_campaign=1109776&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/6d/38/c4/6d38c48bab1e10ac839ee7fb4b1934cd.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T07:02:11+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "9bcd2038654b",
+   "title": "180 миллиардов параметров на двух RTX 5090. Как Strata меня впечатлила, Astra разочаровала, а Claude просто исчез",
+   "summary": "В октябре под моей статьёй про локальные модели читатель посоветовал заранее приготовить замену Claude на случай блокировки. Я ответил: если отключат, перейду на Codex.",
+   "link": "https://habr.com/ru/articles/1111470/?utm_campaign=1111470&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/00/60/ae/0060ae8af9bb95d37dd15f86a941fb88.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T07:00:58+00:00",
+   "category": "models"
+  },
+  {
+   "id": "373e1fdb9b93",
+   "title": "Галлюцинации недели: GPT-6.2 Astra, Gemini 4 Neon и доказательство гипотезы Римана",
+   "summary": "Дженсен Хуанг написал в Твиттере, что совершил \"серьёзные ошибки в личной жизни\" и готов вернуться в Nvidia, если совет директоров сочтёт это правильным.",
+   "link": "https://habr.com/ru/articles/1111234/?utm_campaign=1111234&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/da/ec/5f/daec5f04f3cd4e838b6981074204e3c5.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T07:00:57+00:00",
+   "category": "models"
+  },
+  {
+   "id": "12a859d86c52",
+   "title": "Как проверять AI-генерации автоматически: расшифровка речи, лист кадров и сверка с эталоном через Gemini",
+   "summary": "Я делаю короткие ролики и рекламу с постоянными героями, и больше всего времени уходит не на генерацию, а на проверку.",
+   "link": "https://habr.com/ru/articles/1102050/?utm_campaign=1102050&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1102050/1faf5f1c69a160a486259c5dfc130fd0/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T07:00:04+00:00",
+   "category": "models"
+  },
+  {
+   "id": "7d8f14bcba35",
+   "title": "OpenAI переводит ChatGPT на GPT-6.2, но пока не для всех",
+   "summary": "Модель лучше распознает изображения, ищет информацию в интернете и учитывает несколько условий при выполнении запросов Компания OpenAI начала внедрять GPT-6.2 в ChatGPT — обновленную модель, предназначенную для…",
+   "link": "https://www.ixbt.com/news/2026/11/24/openai-perevodit-chatgpt-na-gpt-62-no-poka-ne-dlia-vsex.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745629/media-7439d412e88f1655255447be7b9babbb8a0095c958df05046e33288767a13f45.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-24T06:14:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "638a54c104f7",
+   "title": "Обыграть чемпионов мира к 2050 году: что такое RoboCup и как в Москве растят команду роботов-футболистов",
+   "summary": "Что такое футбол роботов и как это нас затянуло в разработку интересных роботов. В 1997-м, через три месяца после победы Deep Blue над Каспаровым, в Нагое решили: следующая большая задача ИИ — футбол.",
+   "link": "https://habr.com/ru/articles/1111576/?utm_campaign=1111576&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8f/0a/de/8f0adee9b9ec9bece8665a6f1b630756.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T06:12:50+00:00",
+   "category": "other"
+  },
+  {
+   "id": "5720334a784f",
+   "title": "Почему сервис распознавания речи на PyTorch съедал 8 ГБ памяти и при чём тут cuDNN",
+   "summary": "Мы делаем систему, которая распознаёт и разбирает телефонные звонки компании. Работает она на сервере заказчика, рядом с АТС.",
+   "link": "https://habr.com/ru/articles/1111568/?utm_campaign=1111568&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/6e/40/9f/6e409f9472fe79776cd8683f5f262d82.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T05:51:52+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "262492563f0f",
+   "title": "Custom encoder и RAG для закупок в Ecom",
+   "summary": "Закупщик просит медный кабель длиной 3 м, без экрана. В карточке написано «300 см», у соседнего товара есть экран, а третий поставщик вообще продаёт бухтами.",
+   "link": "https://habr.com/ru/articles/1111560/?utm_campaign=1111560&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/21/47/ca/2147ca29662ecf45f8fd99c239201368.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T05:22:12+00:00",
+   "category": "other"
+  },
   {
    "id": "f3f9e4359a78",
    "title": "Пять проектов за два дня: агенты ускорились, а узким горлышком стал я",
@@ -4375,138 +4507,6 @@
    "lang": "en",
    "date": "2026-11-19T17:38:40+00:00",
    "category": "policy"
-  },
-  {
-   "id": "4c162b38a737",
-   "title": "Google отправит ИИ-серверы в космос на ракете Безоса в 2029 году",
-   "summary": "Google заключила соглашение с аэрокосмической компанией Blue Origin Джеффа Безоса (Jeff Bezos) о запуске в космос спутников с ускорителями искусственного интеллекта.",
-   "link": "https://3dnews.ru/1151548",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151548/Blue_Origin_New_Glenn_800x600.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T17:38:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "2464c2d8c1ae",
-   "title": "Профессор Фортран в SVG: как ИИ-агент нарисовал иллюстрации к моей книге на Python",
-   "summary": "Как-то в детстве мне в руки попалась невероятно яркая книжка — «Энциклопедия профессора Фортрана».",
-   "link": "https://habr.com/ru/articles/1110036/?utm_campaign=1110036&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/3a/a8/78/3aa8783ff433d6996c61143085d4fe41.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T17:08:11+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "af01a4700c7b",
-   "title": "Европейский облачный провайдер выпустил 55 новых ИИ-продуктов и расширяет инфраструктуру на Blackwell и Rubin",
-   "summary": "OVHcloud заявляет о масштабах инфраструктуры, рассчитанной на десятки тысяч ускорителей Французская OVHcloud объявила о запуске 55 новых продуктов для облачных вычислений и искусственного интеллекта.",
-   "link": "https://www.ixbt.com/news/2026/11/19/evropeiskii-oblacnyi-provaider-vypustil-55-novyx-ii-produktov-i-rassiriaet-infrastrukturu-na-blackwell-i-rubin.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743878/media-d0976a06a302fdc23af4b55c01538e70643387fef8e4efada9d18bd4fb007b9f.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-19T17:05:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "55aef2caa97f",
-   "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
-   "summary": "Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese customers.",
-   "link": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/us_vs_china_open_models.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-19T17:02:41+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "c3e7758a2373",
-   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-   "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-19T17:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "27f297a759c1",
-   "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-   "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-   "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T17:00:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "2a01bbcb107b",
-   "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-   "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-   "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-   "image": "https://media.wired.com/photos/6aff2988bee7350f3da10056/master/pass/GettyImages-2229158642.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-19T17:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "d680d8751ecd",
-   "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-   "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-   "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T16:59:23+00:00",
-   "category": "business"
-  },
-  {
-   "id": "d0946e26531a",
-   "title": "Anthropic starts trading on Wall Street",
-   "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305334560.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-19T16:52:01+00:00",
-   "category": "other"
-  },
-  {
-   "id": "d8c47134cd5b",
-   "title": "ИИ-модель запустили на оптическом процессоре: немецкая компания Q.ANT представила фотонный процессор NPU Gen 2+",
-   "summary": "На выставке SC26 компания продемонстрировала гибридную систему с GPU AMD, в которой языковая модель использует оптические вычисления для замены одной из ресурсоёмких частей механизма внимания Немецкая компания Q.ANT…",
-   "link": "https://www.ixbt.com/news/2026/11/19/ii-model-zapustili-na-opticeskom-processore-nemeckaia-kompaniia-qant-predstavila-fotonnyi-processor-npu-gen-2.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743872/media-70584faa6d090f39059dc9877aa14ca26b27336fe395359ba2108ddc8a31bcba.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-19T16:48:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "44d2385c83c4",
-   "title": "Бизнес обяжут платить по 50 рублей за каждый запрос к МВД: как теперь проверять паспорта клиентов",
-   "summary": "Российский бизнес может получить новый счет за борьбу с мошенничеством. По данным материала Forbes, правительство поддержало плату за обращения к базам МВД – 50 рублей за каждый завершенный сеанс обмена информацией.",
-   "link": "https://habr.com/ru/companies/smartengines/articles/1110026/?utm_campaign=1110026&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/5b/bd/84/5bbd847e1b3b3cd35b0b1e5a3ebc4e6e.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T16:40:36+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "adaa82271d5f",
-   "title": "Карта сайта для ИИ-агента: Markdown, граф ссылок и первые замеры",
-   "summary": "ИИ-агенту может потребоваться несколько страниц, чтобы найти ответ на простой вопрос. Можно ли дать ему более короткий маршрут?",
-   "link": "https://habr.com/ru/articles/1109612/?utm_campaign=1109612&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e9/35/ce/e935ce46c1b38faf38decfeb45001f85.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T16:31:55+00:00",
-   "category": "tools"
   }
  ]
 }
