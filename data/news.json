@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:13:11.315286+00:00",
+ "updated": "2026-11-24T19:12:19.840123+00:00",
  "categories": [
   {
    "id": "models",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,171 @@
   }
  ],
  "items": [
+  {
+   "id": "11c9e9b6eedc",
+   "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+   "summary": "An Amazon delivery drone that clipped a fiber-optic line before crashing onto a garage roof is now the subject of an investigation by the US Federal Aviation Administration.",
+   "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-1152x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-24T18:47:57+00:00",
+   "category": "business"
+  },
+  {
+   "id": "322dc7c9321d",
+   "title": "ИИ Claude решил одну из фундаментальных проблем теории вычислений — математики 47 лет ходили вокруг да около",
+   "summary": "Компания Anthropic опубликовала математическую работу под названием «VP ≠ VNP over every field», в которой приводится доказательство гипотезы Лесли Валианта (Valiant's conjecture) — одной из фундаментальных нерешённых…",
+   "link": "https://3dnews.ru/1151759",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151759/maht.png",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-24T18:39:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "754f867302b7",
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T18:30:42+00:00",
+   "category": "business"
+  },
+  {
+   "id": "51f96382f683",
+   "title": "Навык для LLM в 1,7 МБ с точностью LoRA: открываю часть своего патентного метода DTG-MA в cortiq",
+   "summary": "Адаптер LoRA для небольшой модели Qwen3.5-0.8B весит 43 МБ. На тех же задачах, с теми же данными и тем же бюджетом обучения навык, сделанный моим методом DTG-MA, весит 1,7 МБ, а для одной задачи — 0,38 МБ.",
+   "link": "https://habr.com/ru/articles/1111938/?utm_campaign=1111938&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7c/24/4b/7c244b0adb430307c7f6a4f354fb6df9.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T18:27:59+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2a54443d2808",
+   "title": "MIA-Padezh: как я переписал склонение русских ФИО для .NET — и зачем приделал к нему нейросеть",
+   "summary": "Склонение русских ФИО — задача, которая звучит скучно, пока не попробуешь решить её «в лоб».",
+   "link": "https://habr.com/ru/articles/1111932/?utm_campaign=1111932&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/9b/7e/fb/9b7efb3730108a7e3248b23501b0ab08.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T18:16:59+00:00",
+   "category": "other"
+  },
+  {
+   "id": "3e9a37054bc9",
+   "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+   "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether…",
+   "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=20.043648851915%2C0%2C79.914576075467%2C100&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-24T18:15:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "cb0d7372f9a0",
+   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+   "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+   "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-24T18:02:59+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "d3a6c41efa8e",
+   "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
+   "summary": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis.",
+   "link": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/claude_novartis.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-24T18:01:55+00:00",
+   "category": "business"
+  },
+  {
+   "id": "07d721ca5d81",
+   "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+   "summary": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and…",
+   "link": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_driscoll.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-24T17:58:44+00:00",
+   "category": "models"
+  },
+  {
+   "id": "9336a8c017b0",
+   "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+   "summary": "The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”",
+   "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+   "image": "https://media.wired.com/photos/6b05ac8615bd092ec9b638cd/master/pass/GettyImages-2279157190.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-24T17:44:53+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "a56996675512",
+   "title": "Вышла браузерная игра No Humans Allowed, где нужно притворяться нейросетью в городке только для ИИ",
+   "summary": "В открытом доступе вышла браузерная игра под названием No Humans Allowed , где нужно притворяться нейросетью в городке только для ИИ.",
+   "link": "https://habr.com/ru/articles/1111924/?utm_campaign=1111924&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ef/a4/e8/efa4e893cef44d9d8dd79ce432e6e108.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T17:44:09+00:00",
+   "category": "other"
+  },
+  {
+   "id": "34b536284971",
+   "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+   "summary": "Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them. However, the company is about to take a harder stance.",
+   "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-24T17:34:34+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "ae4a15c5d6dd",
+   "title": "Восемь лет учился на врача, теперь пишу код и открываю магазины",
+   "summary": "Меня зовут Петр Воронин, я владелец трех магазинов Oh My Geek в Астрахани с выручкой 3–4 млн рублей в месяц. До недавнего времени в программировании я ничего не понимал.",
+   "link": "https://habr.com/ru/companies/moysklad/articles/1111920/?utm_campaign=1111920&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c1/7b/fe/c17bfe3b5f5246c2fe60d91513e22589.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T17:21:22+00:00",
+   "category": "business"
+  },
+  {
+   "id": "207e1d867056",
+   "title": "Сотрудники OpenAI и Anthropic испугались собственного ИИ — новейшие модели становятся слишком умны и опасны",
+   "summary": "Часть сотрудников OpenAI и Anthropic считает, что некоторые новейшие модели искусственного интеллекта могут оказаться слишком опасными для публичного выпуска.",
+   "link": "https://3dnews.ru/1151754",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151754/openai_anthropic_800x600.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-24T17:18:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "c7d2da5c582f",
+   "title": "Tidal will start banning AI-generated music next month",
+   "summary": "Tidal is officially banning AI-generated music on December 9th.",
+   "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-24T17:17:09+00:00",
+   "category": "policy"
+  },
   {
    "id": "eaadf2423721",
    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
@@ -142,6 +307,17 @@
    "category": "other"
   },
   {
+   "id": "c82ab5c57408",
+   "title": "Jensen Huang deepfakes are the hot new AI slop",
+   "summary": "Jensen Huang is partying it up in Ibiza.",
+   "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ai-label_1c35e3.jpg?quality=90&strip=all&crop=0%2C19.887257893553%2C100%2C60.225484212893&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-24T16:30:00+00:00",
+   "category": "other"
+  },
+  {
    "id": "8a546b15d29e",
    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
    "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
@@ -162,6 +338,17 @@
    "lang": "ru",
    "date": "2026-11-24T16:10:00+00:00",
    "category": "business"
+  },
+  {
+   "id": "dc69597abec1",
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge…",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-24T16:09:23+00:00",
+   "category": "tools"
   },
   {
    "id": "ee2357a4074e",
@@ -1097,6 +1284,17 @@
    "lang": "ru",
    "date": "2026-11-24T02:47:05+00:00",
    "category": "models"
+  },
+  {
+   "id": "71996d97862b",
+   "title": "How iFood scales coding agents across 15,000 repositories",
+   "summary": "",
+   "link": "https://openai.com/index/ifood",
+   "image": null,
+   "source": "OpenAI",
+   "lang": "en",
+   "date": "2026-11-24T00:00:00+00:00",
+   "category": "tools"
   },
   {
    "id": "049542555c2c",
@@ -4309,204 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-20T13:19:00+00:00",
    "category": "models"
-  },
-  {
-   "id": "1ef8b2bd04cf",
-   "title": "Что Apple готовит для ИИ-агентов на Mac",
-   "summary": "14 шагов вместо четырех. Столько действий, по данным Bloomberg, теперь нужно пользователю ChatGPT, чтобы разрешить стороннему инструменту управлять Mac в бете macOS 27.3.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1110360/?utm_campaign=1110360&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/24/41/d2/2441d244edf26546342e5c0a4d868600.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T13:00:24+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "628c9189170e",
-   "title": "RTX 5090, подвинься: «китайская Nvidia» обещает игровую видеокарту с рекордным объемом памяти",
-   "summary": "А еще Moore Threads обещает 64-кратный рост производительности в задачах ИИ Китайская Moore Threads опубликовала тизер новой видеокарты под кодовым названием Lushan — она, по заявлениям компании, получит рекордный объём…",
-   "link": "https://www.ixbt.com/news/2026/11/20/rtx-5090-podvinsia-kitaiskaia-nvidia-obeshhaet-igrovuiu-videokartu-s-rekordnym-obieemom-pamiati.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744252/media-aed42b1565524adb9418e03f011181ab7dc2e4bf9ee6a43f706843daf611b08d.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T12:59:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "45456cf6d98b",
-   "title": "Представлен ChatGPT for SNES",
-   "summary": "Разработчик Бендж Эдвардс представил проект локальной модели ChatGPT for SNES для 16-битной консоли Super Nintendo Entertainment System, вышедшей в 1990 году.",
-   "link": "https://habr.com/ru/articles/1110406/?utm_campaign=1110406&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/9c/f5/76/9cf57674e4777890a8e3ae26c70159f7.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T12:43:03+00:00",
-   "category": "models"
-  },
-  {
-   "id": "30e5d8ca4a1a",
-   "title": "[Перевод] Google представляет Gemini 4 Neon",
-   "summary": "Google представила Gemini 4 Neon для сложных задач программирования, аналитики и научных исследований. В статье собраны результаты тестов, цены Gemini API и четыре демонстрации работы модели в Google Antigravity.",
-   "link": "https://habr.com/ru/articles/1109990/?utm_campaign=1109990&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ad/63/01/ad63014a2b28cd55133d18f46e6f9070.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T12:38:06+00:00",
-   "category": "models"
-  },
-  {
-   "id": "779ccf54081c",
-   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-   "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0%2C3.8035109331691%2C100%2C92.392978133662&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-20T12:30:47+00:00",
-   "category": "models"
-  },
-  {
-   "id": "a9082c8904fc",
-   "title": "Первый смартфон Huawei с упором на ИИ. Представлен OSTA O1 Pro: широкий, но компактный экран 6,39 дюйма, 200 Мп, 7000 мА·ч и Kirin 9030S",
-   "summary": "Первый смартфон под управлением HarmonyOS 7 AI Pioneer Edition Huawei официально представила смартфон OSTA O1 Pro на мероприятии, посвящённом запуску суббренда OSTA (он же Starlight).",
-   "link": "https://www.ixbt.com/news/2026/11/20/pervyi-smartfon-huawei-s-uporom-na-ii-predstavlen-osta-o1-pro-sirokii-no-kompaktnyi-ekran-639-diuima-200-mp-7000-mac-i-kirin-9030s.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744237/media-fb4ac6098550cd63342ff55f1692d44e1d074816cbb71c5bcca160f4b147922d.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T12:21:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "926da4f4b3b5",
-   "title": "ИИ на ИТ-собеседовании: зло или новая норма?",
-   "summary": "В прошлые годы использование нейросетей на технических собеседованиях практически приравнивалось к читерству. Сегодня же ситуация меняется.",
-   "link": "https://habr.com/ru/companies/kryptonite/articles/1110372/?utm_campaign=1110372&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110372/b8483b0045e8ea8c11b0804bf6599a72/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T12:03:18+00:00",
-   "category": "other"
-  },
-  {
-   "id": "d8d154b5d624",
-   "title": "ИИ не человек — и это его главное преимущество",
-   "summary": "Очередная статья цикла «Человек в мире современных технологий». начинать можно с Обезьяна с гранатой: почему нам нужен манометр, а не запрет ИИ , Спор об ИИ идёт в одной и той же колее.",
-   "link": "https://habr.com/ru/articles/1109044/?utm_campaign=1109044&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/4b/7a/1e/4b7a1e7c5d9a61f0f3288d8a89f68498.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T12:00:19+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "a64a68044c39",
-   "title": "Muse Is Unleashing a World of Pettiness on Instagram",
-   "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-   "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-   "image": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-20T12:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "0c625e8bda60",
-   "title": "«Узел тоски по миру»: как я подружила OpenAI и Kimi",
-   "summary": "Я репетитор по математике, и у меня два проекта: MathExam с учебными тренажёрами и «Узел тоски по миру» — с литературными занятиями.",
-   "link": "https://habr.com/ru/articles/1110354/?utm_campaign=1110354&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7d/e1/56/7de156d25fe157d7fdc4fab033a0aa0e.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T11:53:21+00:00",
-   "category": "other"
-  },
-  {
-   "id": "115d53413e99",
-   "title": "Просьба на пять минут, а у разработки очередь. Как поддержка доработала систему под себя с помощью ИИ-агентов",
-   "summary": "Собрали руководителю поддержки отчет по обращениям, и он остался доволен. Но через неделю он попросил добавить цели по каждой группе, еще через неделю другой период, а потом вынести отдельно один тип задач.",
-   "link": "https://habr.com/ru/companies/simpleone/articles/1110350/?utm_campaign=1110350&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/d6/af/40/d6af40d8a5c34181dfd120ae15ba1cf3.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T11:48:38+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "c69d611ac696",
-   "title": "Google занялась созданием фейкового интернета для ИИ‑агентов",
-   "summary": "В процессе разработки функций для браузера Google Chrome на базе моделей искусственного интеллекта Gemini команда Google занялась созданием альтернативного интернета для ИИ‑агентов, который находится под контролем…",
-   "link": "https://habr.com/ru/articles/1110344/?utm_campaign=1110344&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a7/f9/6c/a7f96c5e8e60cfc79314cf75ec529947.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T11:47:18+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9c05855760b8",
-   "title": "Как вайбкодинг меняет IT, экономит на SaaS и заставляет программистов переучиваться — интервью с Артёмом Исламовым",
-   "summary": "Можно ли за один день создать продукт, за который раньше пришлось бы платить десятки тысяч рублей ежемесячно? А какие задачи теперь можно решить без целой команды разработчиков?",
-   "link": "https://habr.com/ru/articles/1110346/?utm_campaign=1110346&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ac/c4/13/acc41386403614f114e7eb62189bf7ce.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-20T11:43:38+00:00",
-   "category": "other"
-  },
-  {
-   "id": "5d5c45df73c3",
-   "title": "Apple опубликовала вакансию старшего руководителя инженерной команды для создания ИИ‑агента",
-   "summary": "По всей видимости, Apple работает над собственным ИИ‑агентом, способным выполнять компьютерные задачи от имени пользователя, например работать с приложениями, посещать веб‑сайты, писать программный код и многое другое.",
-   "link": "https://habr.com/ru/articles/1110310/?utm_campaign=1110310&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/dc/40/e4/dc40e430b50d7f41e1cdcce2a00b5891.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T11:07:15+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "4d5bd8e5cbab",
-   "title": "Я стал управлять проектами и командой на уровне Бога. Вот что я сделал",
-   "summary": "Помните, как в DOOM можно было ввести IDDQD и почувствовать себя богом? Я нашел такой чит-код для управления проектами. Спойлер: подключение заняло всего пару минут, а дальше я получил почти безграничные полномочия.",
-   "link": "https://habr.com/ru/companies/yougile/articles/1110326/?utm_campaign=1110326&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/dc/2f/7b/dc2f7b619276ad0b5333ea187768d54b.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T11:06:52+00:00",
-   "category": "other"
-  },
-  {
-   "id": "8fbc77318659",
-   "title": "Regular Tech Bros Are Worried About Honeypots",
-   "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
-   "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
-   "image": "https://media.wired.com/photos/6afbae0afa103e595fff7d74/master/pass/Business_Honeypot%20Fears%20Are%20Trickling%20Down%20Into%20the%20Dating%20Lives%20of%20Normal%20Dudes_v1.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-20T11:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "5a90b4812309",
-   "title": "GPTunneL Award Day 2026 – 26 ноября на ВДНХ: доклады CICADA8, ВШЭ и билайна, «суперкодинг» и Grom Agent",
-   "summary": "26 ноября в Москве мы проводим GPTunneL Award Day — клиентский день нашей платформы. Рассказываем, кто выступит, что покажем (в том числе Grom Agent и «суперкодинг») и как пройдёт вечер.",
-   "link": "https://habr.com/ru/companies/gptunnel/articles/1110312/?utm_campaign=1110312&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/41/b8/4e/41b84e20f2127fc806e362e5139d6d21.jfif",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T10:48:57+00:00",
-   "category": "models"
-  },
-  {
-   "id": "ca666326003a",
-   "title": "Вышли записи INFOSTART A&PM EVENT 2026 для аналитиков и руководителей проектов",
-   "summary": "Как найти противоречия в требованиях, спроектировать интеграцию в 1С и оценить риски изменений? Эти задачи разбирали на INFOSTART A&PM EVENT 2026, которая прошла 12–14 ноября в Санкт-Петербурге.",
-   "link": "https://habr.com/ru/companies/infostart/articles/1110302/?utm_campaign=1110302&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ea/a8/36/eaa836096e726630dbab0f6512c26044.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T10:31:05+00:00",
-   "category": "other"
   }
  ]
 }
