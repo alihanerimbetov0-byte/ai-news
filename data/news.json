@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:32:50.018504+00:00",
+ "updated": "2026-11-24T09:20:49.790571+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,182 @@
   }
  ],
  "items": [
+  {
+   "id": "a50d90040c19",
+   "title": "Любви все серверы покорны: люди по всему миру строят отношения с ИИ",
+   "summary": "The Guardian рассказывает истории нескольких людей, которые находятся или находились в отношениях с ИИ-ботами. Кроме романтических чувств и приятных бесед эти отношения оказались наполнены и изменами.",
+   "link": "https://habr.com/ru/articles/1111670/?utm_campaign=1111670&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b3/38/a7/b338a79e06f3c50dce6837d0deacaf2a.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T09:08:26+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ad7581a3de6f",
+   "title": "Моя игра: проблемы с Яндекс Играми и публикация на Google Play",
+   "summary": "«Через три недели ваша игра пропадет с Яндекс Игр» — письмо с таким заголовком пришло мне 18 июня. Через месяц после выхода игры консоль показывала мировой рейтинг 8 при пороге снятия 30. Привет, Хабр!",
+   "link": "https://habr.com/ru/companies/korus_consulting/articles/1111632/?utm_campaign=1111632&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/0f/61/39/0f6139386ad07fac29d551fb61afc57a.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T09:06:36+00:00",
+   "category": "other"
+  },
+  {
+   "id": "9df7b7666156",
+   "title": "Память AI‑агентов: как я её организовал в своём Harness",
+   "summary": "В последнее время часто встречаю статьи на тему организации памяти агентов.",
+   "link": "https://habr.com/ru/articles/1111662/?utm_campaign=1111662&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/72/0c/0b/720c0b1d2618eaa0f43ff0560acd1f4c.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T09:05:18+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "65e000e7b8c8",
+   "title": "Sarvam-105B-1711 — индийская модель, на которую стоит обратить внимание",
+   "summary": "22 ноября индийская компания Sarvam AI опубликовала новую версию своей модели SARVAM-105B-1711.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1111400/?utm_campaign=1111400&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/41/7c/a3/417ca35f83d76b389375e73a76e749e0.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T09:00:15+00:00",
+   "category": "models"
+  },
+  {
+   "id": "4081c29d08ab",
+   "title": "Хабр после ChatGPT: я посчитал ИИ-штампы в 450 тысячах публикаций",
+   "summary": "Салют, Хабр! 9 ноября Хабр объединил статьи, посты и новости в один тип публикаций.",
+   "link": "https://habr.com/ru/articles/1111438/?utm_campaign=1111438&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/37/6b/45/376b459911e2b3bc77c0745244f2ef47.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T09:00:15+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ce4a32d7b569",
+   "title": "В нашей таблице расходов на LLM все токены были нулями. Нули туда писал я сам, оператором ||",
+   "summary": "В таблице ai_logs у нашего бота все токены были нулями, хотя счета от провайдеров приходили. Ноль писал оператор || в одном выражении.",
+   "link": "https://habr.com/ru/articles/1104934/?utm_campaign=1104934&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1104934/7e1366686d2409a4e2aec74b83edecac/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T09:00:15+00:00",
+   "category": "models"
+  },
+  {
+   "id": "39fd19f5ee84",
+   "title": "От роботов до кинопремьер: каким будет пространство «Яндекс 01»",
+   "summary": "В «Яндекс 01» разместятся выставки, магазины, кафе, игровые зоны и площадки с технологиями ИИ Яндекс раскрыл список участников городского пространства «Яндекс 01», которое откроется в галерее «Чкалов» на площади…",
+   "link": "https://www.ixbt.com/news/2026/11/24/ot-robotov-do-kinopremer-kakim-budet-prostranstvo-iandeks-01.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745748/media-17504599e151b326b11ad522cac77e9a60bc9ac3c611b5022d4a418723ab8c53.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-24T08:59:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "8a8eaaa99c21",
+   "title": "Open WebUI с API BotHub: свой интерфейс для нескольких моделей",
+   "summary": "С каждым годом нейросетей становится все больше и больше, и удобнее от этого почему-то не становится. Рабочий день может превращаться в тур по сервисам.",
+   "link": "https://habr.com/ru/companies/bothub/articles/1111652/?utm_campaign=1111652&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a6/5b/c6/a65bc66c6e22bec8547211a46cf66b9d.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T08:51:52+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0468ceac637e",
+   "title": "FinOps для GPU или кто платит за праздник",
+   "summary": "Меня зовут Дмитрий, я руковожу отделом ИТ-инфраструктуры и сервисов в Ви.Tech, IT-дочке ВсеИнструменты.ру. Ранее я уже подробно разбирал ценообразование и учет вычислительных ресурсов.",
+   "link": "https://habr.com/ru/articles/1111644/?utm_campaign=1111644&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/26/89/aa/2689aadce5a810e540e30365ae553e6a.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T08:44:33+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "5fdf8220eef7",
+   "title": "[Перевод] Почему после замены NVIDIA на AMD локальный ИИ переключается на CPU и как это исправить",
+   "summary": "После замены NVIDIA RTX 4060 Ti на AMD Radeon AI PRO R9700 с 32 ГБ памяти автор столкнулся с неожиданными сбоями: инференс уходил на CPU, Vulkan ограничивал выделение памяти, а Kubernetes продолжал искать старую…",
+   "link": "https://habr.com/ru/companies/otus/articles/1110018/?utm_campaign=1110018&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cf/db/0b/cfdb0b3b73fa1b299ccf85ffb09f4350.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T08:40:13+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "2387bff13173",
+   "title": "Верификация фактов с помощью графа знаний и локальной LLM: GraphRAG на Wikidata, Neo4j и Llama 3.1",
+   "summary": "TL;DR. Я собрал локальную систему проверки фактов на базе Llama 3.1 8B, Neo4j и графа из Wikidata (960 тысяч узлов, 2,68 миллиона рёбер).",
+   "link": "https://habr.com/ru/articles/1111636/?utm_campaign=1111636&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4e/c7/c9/4ec7c9f00cdf81987a5a36267b7c8494.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T08:35:12+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b7cbcd83c0a3",
+   "title": "Личный секретарь на воротнике: Яндекс представил ИИ-гаджет «Пин» с «Алисой AI»",
+   "summary": "Продажи начнутся до конца 2026 года Яндекс анонсировал носимое устройство «Яндекс Пин» ( обзор ) с ИИ-ассистентом «Алиса AI», которое выполняет роль личного секретаря.",
+   "link": "https://www.ixbt.com/news/2026/11/24/licnyi-sekretar-na-vorotnike-iandeks-predstavil-ii-gadzet-pin-s-alisoi-ai.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745730/media-678d190359272314a26c51bdb69777169147dea81bfaa7bea32d6f2eb3ae99ae.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-24T08:23:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "efb0aabe4e80",
+   "title": "AI-чат на Vue поверх чужого бэкенда: сессии, перегенерация и графики из SQL прямо в ответе модели",
+   "summary": "Я фронтенд-разработчик в BIGPLAY, киберспортивной платформе. Во внутренней админке у нас есть аналитический AI-чат.",
+   "link": "https://habr.com/ru/articles/1111342/?utm_campaign=1111342&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/82/b4/b2/82b4b26fdab266e34e0ae9570e0b9faa.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T08:01:07+00:00",
+   "category": "models"
+  },
+  {
+   "id": "669925321832",
+   "title": "[Перевод] Gemini 4 Neon печатает 99 токенов в секунду против 64 у GPT-6.2 Sol и всe равно решает задачу втрое дольше",
+   "summary": "Neon печатает 99 токенов в секунду, a Sol 64. Neon решает задачу 15,1 минуты, когда Sol решает за 5,2 и стоит $3,74 вместо $0,56. Откуда разница и почему цена за миллион токенов - худшая метрика для выбора модели.",
+   "link": "https://habr.com/ru/articles/1111618/?utm_campaign=1111618&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/aa/aa/8f/aaaa8f9d7ca3fb72c918a794d7393ada.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T07:57:48+00:00",
+   "category": "models"
+  },
+  {
+   "id": "26feff50eb1d",
+   "title": "Представлена ИИ-брошка «Яндекс Пин» — замена секретаря за 19 990 рублей",
+   "summary": "«Яндекс» анонсировал новое устройство с функциями искусственного интеллекта — оно получило название «Яндекс Пин» и интеграцию с ИИ-помощником «Алиса AI».",
+   "link": "https://3dnews.ru/1151721",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151721/pin_1.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-24T07:57:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "cde4ca5e2a24",
+   "title": "ИИ, гигабайты и кешбэк в двойном размере: «Билайн» запустил «Удвояйзер»",
+   "summary": "Первые 60 дней подключение бесплатно Оператор «Билайн» запустил дополнительную услугу «Удвояйзер», которая увеличивает вдвое пакеты минут и мобильного интернета, кешбэк за покупки в «Пятёрочке» и «Перекрёстке», а также…",
+   "link": "https://www.ixbt.com/news/2026/11/24/ii-gigabaity-i-kesbek-v-dvoinom-razmere-bilain-zapustil-udvoiaizer.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745713/ai-image-e8x5uxlk6onedrhcccupqj8w.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-24T07:48:00+00:00",
+   "category": "business"
+  },
   {
    "id": "7c5ccbb34d1c",
    "title": "Автоматическая обработка заказов в DIY-ритейле: как мы подняли качество поиска по матрице товаров (часть 2)",
@@ -4331,182 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-19T20:02:00+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "38bc32432390",
-   "title": "Anthropic вышла на биржу и тут же стала дороже $2 трлн — рост превысил 30 %",
-   "summary": "Акции Anthropic резко выросли в первый же день торгов на американской бирже Nasdaq, подняв рыночную стоимость компании до $2,1 трлн.",
-   "link": "https://3dnews.ru/1151560",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151560/56454.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T19:35:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "034f4ad18bf5",
-   "title": "AI industry growth remains strong, but the pace is slowing",
-   "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending.",
-   "link": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
-   "image": "https://the-decoder.com/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-19T19:28:19+00:00",
-   "category": "models"
-  },
-  {
-   "id": "2ad2190c7ade",
-   "title": "Anthropic’s IPO could deliver $156 billion to charity",
-   "summary": "At a stock price of $94, the frontier lab's Public Benefit Foundation, it's employee donations, and the company's match tot up to $155 billion.",
-   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T19:10:45+00:00",
-   "category": "business"
-  },
-  {
-   "id": "c9ddbc23bb3f",
-   "title": "Нейросеть Google Gemma 3 на 270 миллионов параметров запустили на лазерном принтере с 14 МБ памяти",
-   "summary": "Искусственный интеллект заработал, используя встроенный интерпретатор языка PostScript Level 3 Языковую модель Google Gemma 3 270M удалось запустить прямо на обычном офисном принтере Ricoh.",
-   "link": "https://www.ixbt.com/news/2026/11/19/neiroset-google-gemma-3-na-270-millionov-parametrov-zapustili-na-lazernom-printere-s-14-mb-pamiati.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1743939/media-74f2c31cfd51efa0631f911f6fddd52c93b6e30b5d8f0ae0036e10c6ac073df9.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-19T19:10:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "f39ef7872dc8",
-   "title": "Пайплайн «текст → голос» для эфира: как за день добавить игровые новости в рацию-компаньон",
-   "summary": "Делаю «Канал 15» — программу-компаньон для Euro Truck Simulator 2: восемнадцать выдуманных дальнобойщиков ведут радиоэфир у игрока, отвечают на речь, помнят игрока между рейсами.",
-   "link": "https://habr.com/ru/articles/1110068/?utm_campaign=1110068&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110068/93bae3733d53f784c6158119e09c6884/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T18:56:40+00:00",
-   "category": "other"
-  },
-  {
-   "id": "7e483f86a666",
-   "title": "IPO превратило сотрудников Anthropic в мультимиллионеров — в среднем у каждого теперь более $44 млн",
-   "summary": "В четверг акции компании Anthropic сразу после начала торгов подскочили до $111,50 за штуку — значительно выше цены размещения в $83 — в результате чего рыночная капитализация компании достигла $2 трлн.",
-   "link": "https://3dnews.ru/1151555",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151555/brecht-corbeel-XDwEclZnCCA-unsplash.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T18:49:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "823fff19839d",
-   "title": "Бывший топ-менеджер Nvidia и его супруга из Supermicro оказались в центре нового скандала о контрабанде ИИ-чипов в Китай",
-   "summary": "В коллективном иске акционеров Supermicro появились новые обвинения, связанные с незаконными поставками серверов с ускорителями Nvidia в Китай.",
-   "link": "https://3dnews.ru/1151550",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151550/Supermicro_800x600.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T18:27:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "a628e3d51eab",
-   "title": "Gemini on Mac can now use your computer",
-   "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says.",
-   "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&strip=all&crop=0%2C10.738463156834%2C100%2C78.523073686333&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-19T18:21:13+00:00",
-   "category": "models"
-  },
-  {
-   "id": "1054662f25c3",
-   "title": "Google gives Gemini the ability to use your Mac for you",
-   "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-   "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T18:09:11+00:00",
-   "category": "models"
-  },
-  {
-   "id": "641098e310af",
-   "title": "Еще одна звонилка или как я создал Nimbo",
-   "summary": "Хотел просто играть с друзьями, а в итоге с ИИ собрал свою говорилку.",
-   "link": "https://habr.com/ru/articles/1110052/?utm_campaign=1110052&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/21/92/b4/2192b43f72033f28ba156d52ff596ef6.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T18:06:16+00:00",
-   "category": "other"
-  },
-  {
-   "id": "57728669e048",
-   "title": "Introducing Tool Retrieval in the Gemini API",
-   "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-19T18:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "7d6573a50cad",
-   "title": "Цена ошибки: паддинг, чекпоинты на сетевом диске и сторож, который гасил здоровое обучение",
-   "summary": "Ошибки бывают в любой настоящей работе.",
-   "link": "https://habr.com/ru/articles/1110050/?utm_campaign=1110050&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/93/48/c9/9348c93f5fdc1d189cef3c6d4acff1b1.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T17:47:19+00:00",
-   "category": "other"
-  },
-  {
-   "id": "757247cb926e",
-   "title": "ИИ создал совершенно новую процессорную архитектуру без «костылей» — она разгромила обычные CPU в виртуальных тестах",
-   "summary": "Американский стартап Architect Labs представил Frostbite — экспериментальную архитектуру процессора общего назначения, с нуля разработанную с помощью искусственного интеллекта.",
-   "link": "https://3dnews.ru/1151552",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151552/die-shot-quad.2t9948bw50w5a.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T17:44:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "0719e3818252",
-   "title": "Город, который читают машины: как я сделал API для нейросетей на одном PHP-файле",
-   "summary": "Привет, Хабр. Меня зовут Максим, я писатель и энтузиаст, а не профессиональный разработчик.",
-   "link": "https://habr.com/ru/articles/1110046/?utm_campaign=1110046&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/15/9e/83/159e830706f200a93bb799afbd7b22fb.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T17:41:28+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "ca90bd1782ae",
-   "title": "ChatGPT научился расшифровывать речь в текст на лету без ограничения по времени",
-   "summary": "OpenAI улучшила функцию голосового ввода в ChatGPT, добавив отображение расшифровки речи в режиме реального времени.",
-   "link": "https://3dnews.ru/1151549",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151549/654754.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T17:39:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "2919f418f3f5",
-   "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-   "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't…",
-   "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T17:38:40+00:00",
-   "category": "policy"
   }
  ]
 }
