@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:28:49.445134+00:00",
+ "updated": "2026-11-24T15:15:01.684220+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 3
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,116 @@
   }
  ],
  "items": [
+  {
+   "id": "16803f025d13",
+   "title": "Z.ai выпустила GLM-5.4, которая прогоняет одни и те же слои дважды. Что известно и почему пока нет бенчмарков",
+   "summary": "23 ноября Z.ai выпустила GLM-5.4. Это её первая флагманская модель на архитектуре Loop Transformer. Часть слоёв с общими весами выполняется за один проход дважды.",
+   "link": "https://habr.com/ru/articles/1111878/?utm_campaign=1111878&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/18/9d/9c/189d9c7ae310ca3ca32f2daa3a9d2e24.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T15:14:46+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2f75382e1552",
+   "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+   "summary": "On Monday morning, Jensen Huang walked into Nvidia’s Santa Clara headquarters to rapturous applause from employees lining the walkways above him.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2297759490-1024x648.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-24T14:56:50+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "bfd21f550fc1",
+   "title": "Для оплаты нейросетей и путешествий: МТС выпустил зарубежную карту, которую можно пополнять из России",
+   "summary": "Срок действия карты составит три года Оператор МТС запустил продажу пополняемой виртуальной карты зарубежного банка через сервис «МТС Оплата».",
+   "link": "https://www.ixbt.com/news/2026/11/24/dlia-oplaty-neirosetei-i-putesestvii-mts-vypustil-zarubeznuiu-kartu-kotoruiu-mozno-popolniat-iz-rossii.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745947/ai-image-gdglbyxfgagcxa8b9lawtgrg.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-24T14:44:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "fd5a78dbdf5b",
+   "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+   "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis.",
+   "link": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/alpoege_riemann.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-24T14:28:41+00:00",
+   "category": "research"
+  },
+  {
+   "id": "58688850da05",
+   "title": "Эксперты InfoWatch выступили на интенсиве НИУ ВШЭ «Кибербезопасность как стратегия»",
+   "summary": "Привет, Хабр! 20–21 ноября НИУ ВШЭ провела в Москве двухдневный очный интенсив «Кибербезопасность как стратегия».",
+   "link": "https://habr.com/ru/companies/infowatch/articles/1111862/?utm_campaign=1111862&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/15/06/a1/1506a1d09e0d11cbd5db638e5dcad4a2.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T14:11:57+00:00",
+   "category": "other"
+  },
+  {
+   "id": "5dd7dd2ccd3e",
+   "title": "Как изменилась работа программиста с ИИ-агентами: год спустя",
+   "summary": "Год назад ИИ-агенты в разработке были скорее демо на конференциях: агентами пользовалась меньшая часть разработчиков, а остальные смотрели со скепсисом. Сегодня агент открыт в соседнем окне почти у каждого второго.",
+   "link": "https://habr.com/ru/articles/1111856/?utm_campaign=1111856&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/9c/d6/04/9cd604ee3d74e27d16edfbd09f86d82c.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T14:05:12+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "fce8d06d3346",
+   "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
+   "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled.",
+   "link": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-24T14:02:31+00:00",
+   "category": "models"
+  },
+  {
+   "id": "c44342ba2380",
+   "title": "Вышла Claude Ship — теперь ИИ и пишет, и проверяет свой код",
+   "summary": "23 ноября компания Anthropic выпустила Claude Ship — инструмент для автоматизации работы с кодом в GitHub. Он объединяет в себе поверку, согласование изменений с командой, исправление кода.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1111792/?utm_campaign=1111792&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/18/92/44/189244e70c90d1d2d9bb5a6cd0de0c3b.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T14:00:02+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f00fd44f4724",
+   "title": "CCE: пытаюсь научить coding‑агента не забывать задачу после compaction",
+   "summary": "Code Context Engine, Pi, SQLite, Tree-sitter, локальные LLM и несколько экспериментов, которые пошли не по плану. С чего всё началось Я использую локальные языковые модели для своих задач, автоматизации и скриптов.",
+   "link": "https://habr.com/ru/articles/1111838/?utm_campaign=1111838&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1111838/f29a2f919d9d39e2fdb2e35bf8f7189e/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T13:33:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3ef2a6558bcd",
+   "title": "43 тысячи вакансий с ИИ: кто требует нейросети и платят ли за них больше?",
+   "summary": "Решил, значится, посмотреть, как у нас обстоят дела с нейронками и их частотой присутствия в вакансиях на платформах поиска работы, таких как hh.",
+   "link": "https://habr.com/ru/articles/1111836/?utm_campaign=1111836&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/58/6a/1d/586a1dad06dcb22f99862788d5395d02.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T13:29:49+00:00",
+   "category": "other"
+  },
   {
    "id": "49e717283922",
    "title": "Курсовые и дипломы в эпоху ИИ-агентов",
@@ -4397,116 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-20T08:23:40+00:00",
    "category": "models"
-  },
-  {
-   "id": "1dff86ee4f61",
-   "title": "Apple запустила разработку собственного ИИ-агента, который поселится в компьютерах Mac",
-   "summary": "Стало известно, что Apple работает над созданием собственного ИИ-агента, который сможет выполнять действия от имени пользователя, в том числе взаимодействовать с приложениями, посещать веб-сайты, генерировать…",
-   "link": "https://3dnews.ru/1151580",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151580/macos.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-20T08:08:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "52fb6ff3cf36",
-   "title": "США разрешили AMD и Nvidia поставлять ИИ-ускорители китайским бигтехам Tencent и Alibaba",
-   "summary": "Минторг США выдал в этом году Nvidia и AMD разрешение на поставку сотен тысяч ускорителей искусственного интеллекта китайским клиентам.",
-   "link": "https://3dnews.ru/1151581",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151581/h200.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-20T08:07:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "43167252d816",
-   "title": "Дообучаем Qwen 3.8 122B на 16 ГБ VRAM: SFT и DPO в Strata",
-   "summary": "Локальная Qwen 3.8 на 122 миллиарда параметров уже работает в Strata на видеокарте с 16 ГБ памяти и 64 ГБ ОЗУ, но в прикладных задачах всё равно привирает в числах, путает права доступа и сбивается с формата, когда…",
-   "link": "https://habr.com/ru/articles/1110182/?utm_campaign=1110182&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a0/74/02/a07402d7d4be25d406d1ec50b49cff9f.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T07:50:24+00:00",
-   "category": "models"
-  },
-  {
-   "id": "e0abdb220a00",
-   "title": "Когда большая команда ИИ-агентов решает меньше задач",
-   "summary": "Сравнил команды от одного до 64 ИИ-агентов на 14 правках Python и 30 задачах AtCoder. Посчитал стоимость патча, прошедшего тесты, и разобрал, где теряются рабочие варианты.",
-   "link": "https://habr.com/ru/articles/1110186/?utm_campaign=1110186&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/bc/28/f2/bc28f2cccded133a0d9e90f6cc0b7cef.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T07:47:56+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "8de43fd0f867",
-   "title": "3200 Вт, шесть разъемов 12V-2×6 и КПД до 92%. Представлен мощнейший блок питания Seasonic для шести видеокарт",
-   "summary": "Новинка рассчитана на рабочие станции с несколькими GPU и локальные ИИ-системы. Компания Seasonic подтвердила скорый выход в розничную продажу блока питания Prime Enterprise PX-3200 мощностью 3200 Вт.",
-   "link": "https://www.ixbt.com/news/2026/11/20/3200-vt-sest-razieemov-12v-26-i-kpd-do-92-predstavlen-moshhneisii-blok-pitaniia-seasonic-dlia-sesti-videokart.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744105/media-bf681436c1b760ded1b9e84d549d9de2fb48f77c0f87050b15559a540cd0f5fb.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T07:40:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "4b90cd4522f1",
-   "title": "Как AI-агент работает в конвейере требований",
-   "summary": "Продолжаем тему внедрения ИИ в конвейер требований. В прошлый раз мы рассказывали про инструменты, которые превращают хаос из встреч, БФТ и заметок в упорядоченный Markdown.",
-   "link": "https://habr.com/ru/companies/ppr/articles/1110176/?utm_campaign=1110176&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110176/0ab10792ef53ec1bb2b85f1cde53e904/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T07:37:26+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "36d35d72de46",
-   "title": "От поиска квартиры до архитектуры: «Алиса AI» Яндекса будет предлагать темы для разговоров на основе прошлых запросов",
-   "summary": "Нейросеть анализирует интересы пользователей В приложении «Яндекс — с Алисой AI» и «Яндекс Браузере» появились персональные ИИ-подсказки, которые формируются с учётом интересов пользователя.",
-   "link": "https://www.ixbt.com/news/2026/11/20/ot-poiska-kvartiry-do-arxitektury-alisa-ai-iandeksa-budet-predlagat-temy-dlia-razgovorov-na-osnove-proslyx-zaprosov.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744092/media-108f1bc61f80831962b55d7cad66f1a880376a1e74fd8f7ff6899fc778a6954a.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T07:06:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "c190178b4794",
-   "title": "Nvidia рассматривает главу Arm Рене Хааса в качестве кандидата на пост генерального директора",
-   "summary": "Рекрутинговое агентство Heidrick & Struggles, нанятое советом директоров Nvidia после отставки Дженсена Хуанга, предложило возглавить компанию 64-летнему генеральному директору британской Arm Рене Хаасу, пишет…",
-   "link": "https://habr.com/ru/articles/1110152/?utm_campaign=1110152&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b9/79/6f/b9796f116f571bce0b2bb37636b3cb64.jpeg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-20T07:02:52+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "18fec7122bc6",
-   "title": "Дневник 1С-разработчика об ИИ. Запись 1: с чего начать",
-   "summary": "Начинать работу с ИИ в 1С лучше не с выбора модели, а с безопасного процесса: копия, контекст, задача на чтение, проверка результата.",
-   "link": "https://habr.com/ru/companies/infostart/articles/1109938/?utm_campaign=1109938&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/9c/13/0b/9c130b4582e7f7c137de22d6fbbeb26e.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T07:00:51+00:00",
-   "category": "models"
-  },
-  {
-   "id": "a7839ae95aff",
-   "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-   "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-   "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-   "image": "https://media.wired.com/photos/6aff9b51715a3d6f512c8dee/master/pass/The-Boy-Who-Builds-Missiles-Business.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-20T07:00:00+00:00",
-   "category": "business"
   }
  ]
 }
