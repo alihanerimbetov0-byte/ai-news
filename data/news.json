@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:20:49.790571+00:00",
+ "updated": "2026-11-24T11:03:57.408643+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 11
+   "count": 7
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,138 @@
   }
  ],
  "items": [
+  {
+   "id": "3330636cbba3",
+   "title": "Домашняя LLM: ставим llama.cpp с RPC на Windows 11 и сравниваем варианты «расширения» VRAM",
+   "summary": "Всем привет, меня зовут Илья, и я DevOps-инженер в YADRO . Хочу рассказать о своем опыте по внедрению инструментов на базе ИИ для автоматизации своей ежедневной рабочей рутины.",
+   "link": "https://habr.com/ru/companies/yadro/articles/1111718/?utm_campaign=1111718&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/67/af/e0/67afe0520fd80f1e1a1fcd2a31aab4d0.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T11:01:17+00:00",
+   "category": "models"
+  },
+  {
+   "id": "517bd0766068",
+   "title": "Claude Opus 5.5: сравнение анимаций пеликана и расходов на пяти API-роутерах",
+   "summary": "Одно задание для Claude Opus 5.5, официальный API и пять роутеров. Сравниваю три раунда анимаций пеликана на велосипеде, расход токенов и стоимость вызовов.",
+   "link": "https://habr.com/ru/articles/1111720/?utm_campaign=1111720&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/30/b5/fb/30b5fbf8ee402aba40c0500b23fc252c.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T10:52:36+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e611b2aebab8",
+   "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+   "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+   "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+   "image": "https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/master/pass/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-24T10:45:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "8b5e08ca4589",
+   "title": "Anthropic запустила Claude Ship для проверки и исправления кода",
+   "summary": "Компания Anthropic расширяет функционал Claude: теперь ИИ не только пишет код, но и помогает разработчикам определять, готов ли он к внедрению.",
+   "link": "https://habr.com/ru/articles/1111722/?utm_campaign=1111722&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/fa/21/e8/fa21e821249a732ad0179ef7e2e546e7.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T10:37:45+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e08d874cd4a9",
+   "title": "OpenIDE 2026.3: новый главный экран, Git worktrees для работы с агентами и поддержка 14 СУБД",
+   "summary": "Вышла OpenIDE 2026.3 . Это самое большое обновление с выхода 2026.2 в сентябре. В свежую сборку вошли новый главный экран, удобная работа с несколькими ветками Git и новый терминал.",
+   "link": "https://habr.com/ru/companies/haulmont/articles/1111696/?utm_campaign=1111696&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b1/4b/d4/b14bd43c27a62f60c68af8eadb49df98.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T10:20:36+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "1a4db0a69568",
+   "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+   "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+   "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+   "image": "https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/master/pass/112326-Riemann-hypothesis-ai.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-24T10:15:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "91b8816f1761",
+   "title": "Boom Supersonic впервые запустила двигатель для сверхзвукового лайнера — его «близнец» будет питать ИИ-дата-центры",
+   "summary": "Американская компания Boom Supersonic впервые запустила прототип газогенератора Sprint Core — центральной части двигателя Symphony для сверхзвукового пассажирского самолёта Overture.",
+   "link": "https://3dnews.ru/1151728",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151728/image.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-24T09:51:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "c1210789a785",
+   "title": "Почему ваш ИИ-проект умрёт в первом квартале",
+   "summary": "Три года запускаю продукты, которые должны были изменить поведение людей. CRM, аналитика, мобильные приложения. Каждый раз одна история: технология работает, люди — нет.",
+   "link": "https://habr.com/ru/articles/1109830/?utm_campaign=1109830&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ae/01/41/ae014168f59036123e4e012811b9f612.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T09:37:02+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "b30e349803ff",
+   "title": "Что такое TDD: четыре мифа, короткая обратная связь и чистый код",
+   "summary": "Когда я впервые услышал про test-driven development, расшифровка показалась мне очевидной: сначала нужно написать все тесты.",
+   "link": "https://habr.com/ru/companies/oleg-bunin/articles/1111692/?utm_campaign=1111692&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c1/2f/e2/c12fe2dc437e9c73e9e315f7726c2869.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T09:36:32+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c9fa23c859e3",
+   "title": "Команда AI VK собирает второй RecSys Meetup",
+   "summary": "3 и 4 декабря снова собираем в Москве ML-инженеров, исследователей и всех, кто занимается рекомендательными системами.",
+   "link": "https://habr.com/ru/companies/vk/articles/1111654/?utm_campaign=1111654&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a6/44/e7/a644e7ee0c2cc193c22af74386444dd9.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T09:30:23+00:00",
+   "category": "research"
+  },
+  {
+   "id": "e998a67f998f",
+   "title": "Вакансия: Требуется senior! Разобрать то, что мы полгода вайбкодили…",
+   "summary": "Представим вакансию: Ищем сильного backend-разработчика. Задачи: аудит архитектуры, стабилизация продукта, устранение технического долга. Нужен самостоятельный человек, способный разобраться в сложной системе.",
+   "link": "https://habr.com/ru/articles/1111676/?utm_campaign=1111676&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/9f/15/f6/9f15f69dbbb13bdaeb7d5a1d370caf87.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T09:16:11+00:00",
+   "category": "other"
+  },
+  {
+   "id": "6782c7cf390c",
+   "title": "Когда DFlash ускоряет Qwen3.5 4B на RTX 3060 и что показывает KernelCache",
+   "summary": "В прошлой статье я сравнила Ollama 0.40.14 и Magnitude 0.2.16 на своей RTX 3060 с 12 ГБ видеопамяти. Оба движка работали с одинаковыми весами Qwen3.5 4B.",
+   "link": "https://habr.com/ru/companies/first/articles/1110318/?utm_campaign=1110318&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/63/2b/26/632b2672e96258995fa87a6fc07ef8f4.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T09:13:19+00:00",
+   "category": "models"
+  },
   {
    "id": "a50d90040c19",
    "title": "Любви все серверы покорны: люди по всему миру строят отношения с ИИ",
@@ -393,6 +525,17 @@
    "lang": "ru",
    "date": "2026-11-24T06:12:50+00:00",
    "category": "other"
+  },
+  {
+   "id": "1b0350886e32",
+   "title": "Чёрная пятница: Ноутбук-трансформер MSI Prestige N16 Flip AI+ C1XMT-057RUY на базе Nvidia RTX Spark",
+   "summary": "MSI Prestige N16 Flip AI+ C1XMT-057RUY — это ноутбук-трансформер с функциональностью портативной рабочей станции, созданной для локального инференса больших ИИ-моделей, творческих проектов и ИИ-разработки с применением…",
+   "link": "https://3dnews.ru/1151632",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/21/1151632/Prestige_N16_Flip_AI_Scenario_Photo.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-24T05:52:19+00:00",
+   "category": "models"
   },
   {
    "id": "5720334a784f",
@@ -4364,149 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-19T22:04:30+00:00",
    "category": "models"
-  },
-  {
-   "id": "74e2df778984",
-   "title": "A brief history of Nvidia’s recent stock fluctuations",
-   "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-19T21:59:35+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "6f0f2d869f0f",
-   "title": "Meta’s new Muse Charm device may cost $300",
-   "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-   "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T21:58:06+00:00",
-   "category": "other"
-  },
-  {
-   "id": "bb79788fc6f4",
-   "title": "What’s With All These Outages?",
-   "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-   "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-   "image": "https://media.wired.com/photos/6afe24032a6a9296f65dbfa1/master/pass/Uncanny-Valley-FAA-Outage-Business.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-19T21:57:01+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "f2dddf2ea7d8",
-   "title": "These tech outages are giving Y2K, AI agent style",
-   "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-   "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Muharrem-huner.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T21:42:31+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "6ec7aebf63fd",
-   "title": "Google внедрила чаты с ИИ прямо на главную страницу поисковика",
-   "summary": "Google обновила главную страницу поисковика, добавив боковую панель для работы с ИИ-чатами.",
-   "link": "https://3dnews.ru/1151564",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151564/sm.google-homepage_01.800.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T21:34:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "f239426cc888",
-   "title": "Нобелевские лауреаты призвали не верить в посулы Anthropic — но инвесторы их не услышали",
-   "summary": "За день до триумфального выхода компании Anthropic на биржу ценных бумаг группа нобелевских лауреатов и ряд глав техногигантов опубликовали открытую петицию, обвиняющую Anthropic в отказе от ранее заявленных принципов…",
-   "link": "https://3dnews.ru/1151565",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151565/ai_net.png",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T21:30:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "d1fa79484c1d",
-   "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-   "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed…",
-   "link": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/agent_mail_compromise.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-19T21:15:01+00:00",
-   "category": "models"
-  },
-  {
-   "id": "394e8021d9a9",
-   "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-   "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
-   "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
-   "image": "https://media.wired.com/photos/6afe3efb681d658b6618bff6/master/pass/Model-Behavior-Jensen-Taiwanes-Restaurants-Business.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-19T20:34:17+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "b0341a0ae375",
-   "title": "Meta’s Muse Charm might cost $300",
-   "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information.",
-   "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-19T20:22:17+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "a18d40e53c3a",
-   "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-   "summary": "In October 2025, four Black high school students were sharing Cool Ranch Doritos after football practice, winding down, and waiting for their rides home to arrive.",
-   "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-19T20:19:28+00:00",
-   "category": "other"
-  },
-  {
-   "id": "423b8c753c11",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-   "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-19T20:18:49+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "6900f6014b2a",
-   "title": "Google is putting AI chats right on the homepage",
-   "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.",
-   "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-19T20:05:06+00:00",
-   "category": "other"
-  },
-  {
-   "id": "9f9f16229744",
-   "title": "На AMD обрушили обвинения в рискованных ИИ-сделках и зависимости от Китая — акции рухнули почти на 9 %",
-   "summary": "В четверг, 19 ноября, стоимость акций компании AMD упала почти на 9 % — до $484 за штуку — после публикации отчёта инвестиционного фонда Hunterbrook.",
-   "link": "https://3dnews.ru/1151562",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/19/1151562/amd_title.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-19T20:02:00+00:00",
-   "category": "hardware"
   }
  ]
 }
