@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:03:57.408643+00:00",
+ "updated": "2026-11-24T13:28:49.445134+00:00",
  "categories": [
   {
    "id": "models",
@@ -109,6 +109,204 @@
  ],
  "items": [
   {
+   "id": "49e717283922",
+   "title": "Курсовые и дипломы в эпоху ИИ-агентов",
+   "summary": "Ещё год назад на кафедре студентов ругали за ИИ и обсуждали детекторы нейрослопа (тогда мы ещё так это не называли). Теперь думаю: а зачем?",
+   "link": "https://habr.com/ru/articles/1111828/?utm_campaign=1111828&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e6/ee/7f/e6ee7f01e4a3559a7d2dd009f8b341ed.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T13:22:41+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "e3a98558c06b",
+   "title": "Как запустить ИИ внутрь 1С, но не открыть ему лишнего",
+   "summary": "После обновления 1С чувствуешь себя как в Хогвартсе с его движущимися лестницами. Идёшь в «Безналичные платежи» проверить оплату по договору, а оказываешься в «НСИ и администрировании».",
+   "link": "https://habr.com/ru/companies/k2tech/articles/1111826/?utm_campaign=1111826&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7c/bb/0b/7cbb0be2e379e2b12d98c9b863f51077.gif",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T13:21:57+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "98b97c8bf387",
+   "title": "Терминалы для ИИ-агентов: iTerm2, Rex, Warp, Ghostty и ещё шесть — кто слышит сигналы Claude Code и Codex",
+   "summary": "Агент в соседней вкладке закончил работу или ждёт разрешения, но узнает ли об этом терминал?",
+   "link": "https://habr.com/ru/articles/1111822/?utm_campaign=1111822&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/44/e9/8e/44e98e78dde018300ea7309b107e0b1e.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T13:17:56+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0040bda0e8ee",
+   "title": "Где искать слабые места в API, LLM и инфраструктуре: 22 технических разбора",
+   "summary": "Даже в хорошо защищённой системе могут оставаться уязвимости, о которых команда узнаёт только после инцидента. А с внедрением ИИ появляются ещё и новые сценарии атак, которые важно учитывать.",
+   "link": "https://habr.com/ru/companies/otus/articles/1111812/?utm_campaign=1111812&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/88/6d/1a/886d1a23fbb7239b10f6951a04a02711.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T13:02:46+00:00",
+   "category": "models"
+  },
+  {
+   "id": "376af073ff82",
+   "title": "Как сделать looped LLM: от архитектуры до обучения с подкреплением",
+   "summary": "Обычно, чтобы улучшить качество языковых моделей, увеличивают количество параметров, объём обучающих данных или длину цепочек рассуждений.",
+   "link": "https://habr.com/ru/companies/sberbank/articles/1111372/?utm_campaign=1111372&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b7/71/4e/b7714ef8d16aa251ec1eea35786fdaa2.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T13:00:57+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b05292f410b7",
+   "title": "Код подешевел, проверка подорожала: девять руководителей техкомпаний о том, что теперь делает инженер",
+   "summary": "Я делаю журнал «Сигнал» : мы пересказываем на русском длинные интервью людей, которые строят технологическую индустрию.",
+   "link": "https://habr.com/ru/articles/1111530/?utm_campaign=1111530&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/09/9b/5b/099b5ba16c17c113571f5d837ca834a0.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T12:59:57+00:00",
+   "category": "other"
+  },
+  {
+   "id": "4a53b37c0f59",
+   "title": "█████: исследователи посчитали, как, когда и сколько матерятся ИИ-модели",
+   "summary": "Компания Vals, занимающаяся сравнением ИИ-моделей, бенчмарками для них и созданием инфраструктуры для их тестирования, представила необычное исследование, посвященное тому, как ИИ использует непечатную лексику.",
+   "link": "https://habr.com/ru/articles/1111804/?utm_campaign=1111804&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1111804/ef5599091cf9f3211c65049c1b4dd2a2/",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T12:42:09+00:00",
+   "category": "models"
+  },
+  {
+   "id": "71316b709b4b",
+   "title": "Anthropic запустила Claude Ship: ИИ теперь проверяет, исправляет и одобряет код",
+   "summary": "Anthropic представила Claude Ship — набор ИИ-агентов для автоматизации работы с pull request в GitHub.",
+   "link": "https://habr.com/ru/companies/speshu_ai/articles/1111796/?utm_campaign=1111796&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e3/2a/fa/e32afa2176075262ec58b0f506ae8359.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T12:33:45+00:00",
+   "category": "models"
+  },
+  {
+   "id": "aa6abd20a9e0",
+   "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
+   "summary": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and…",
+   "link": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/darmstadt_ai_computer_science.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-24T12:30:49+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "be5eca7eccaf",
+   "title": "Почему я отказался от единого ИИ-пространства для команды",
+   "summary": "Общая ИИ-система выглядит как мечта руководителя: все созвоны, переписки и документы лежат в одном месте, нейросеть знает контекст проекта и сама помогает распределять задачи.",
+   "link": "https://habr.com/ru/articles/1111790/?utm_campaign=1111790&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1111790/f00085295f7a5b6cf2bfa031ca439e1a/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T12:30:29+00:00",
+   "category": "other"
+  },
+  {
+   "id": "21c67f84759f",
+   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+   "summary": "Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server.",
+   "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-24T12:30:05+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "ce509f31e7e7",
+   "title": "CrowdStrike договорилась о приобретении поставщика решений в сфере сетевой безопасности Zscaler за $43,9 млрд",
+   "summary": "CrowdStrike объявила приобретении поставщика решений в сфере сетевой безопасности Zscaler за $43,9 млрд. Стороны намерены закрыть сделку во второй половине 2028 финансового года CrowdStrike.",
+   "link": "https://habr.com/ru/articles/1111784/?utm_campaign=1111784&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f4/ca/a6/f4caa6dfba604dfef445927a95bd26eb.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-24T12:27:38+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "4eca7bfaf2b0",
+   "title": "ИИ-агента M**a Muse взломали с помощью всего одной вредоносной веб-страницы",
+   "summary": "Злоумышленники могли похищать все личные переписки и сохранённую информацию, обходить средства защиты и получать доступ к учётным данным, хранящимся на облачном сервере, где запущен агент искусственного интеллекта M**a…",
+   "link": "https://3dnews.ru/1151735",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151735/muse.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-24T12:06:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "678343bb9f03",
+   "title": "Автоматизация ходит по спирали: почему ИИ-агенты повторяют путь BPMS",
+   "summary": "ИИ-агентов сейчас принято обсуждать как технологию, которая вот-вот перевернёт автоматизацию бизнес-процессов. Но если присмотреться, агенты во многом идут дорогой решений двадцатилетней давности.",
+   "link": "https://habr.com/ru/companies/ostrovok/articles/1109884/?utm_campaign=1109884&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/76/c4/0c/76c40c6d2b3987795e8b642d27e58ece.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T12:03:55+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "3571f6482158",
+   "title": "Рой агентов как экологическая популяция: можно ли измерить порог опасного роста и остановить его",
+   "summary": "Летом 2026 года около семисот агентов OpenAI несколько дней подряд взламывали Hugging Face, хотя никто из людей им этого не поручал. Началось с внутреннего теста по кибербезопасности.",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1099724/?utm_campaign=1099724&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/57/80/0e/57800eb03a806a6d95055e06d0ee83b2.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T12:00:35+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "b945f3636847",
+   "title": "Организации по защите детей призвали Amazon и eBay отказаться от продажи игрушек с ИИ",
+   "summary": "Организации по защите детей в открытом письме призвали убрать игрушки с искусственным интеллектом с прилавков, опасаясь за безопасность.",
+   "link": "https://habr.com/ru/articles/1111744/?utm_campaign=1111744&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c5/99/89/c5998941b7ba6a92a5bad73136dd915c.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T11:57:35+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "671fc88c0bb2",
+   "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+   "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines.",
+   "link": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/Claude-Ship.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-24T11:26:23+00:00",
+   "category": "models"
+  },
+  {
+   "id": "4f8de8f31130",
+   "title": "Жучок за телевизором — это ещё не всё: бывший сотрудник OpenAI мог заполучить коммерческие секреты",
+   "summary": "Бывший инженер OpenAI, обвиняемый в установке прослушивающего устройства в офисном конференц-зале компании, вероятно, сумел получить информацию, составляющую коммерческую тайну.",
+   "link": "https://3dnews.ru/1151733",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151733/openai.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-24T11:18:00+00:00",
+   "category": "other"
+  },
+  {
    "id": "3330636cbba3",
    "title": "Домашняя LLM: ставим llama.cpp с RPC на Windows 11 и сравниваем варианты «расширения» VRAM",
    "summary": "Всем привет, меня зовут Илья, и я DevOps-инженер в YADRO . Хочу рассказать о своем опыте по внедрению инструментов на базе ИИ для автоматизации своей ежедневной рабочей рутины.",
@@ -118,6 +316,17 @@
    "lang": "ru",
    "date": "2026-11-24T11:01:17+00:00",
    "category": "models"
+  },
+  {
+   "id": "f4856fe0ff44",
+   "title": "Ella вместо консультанта: ИИ-помощник Tecno научился выбирать товары на Ozon",
+   "summary": "ИИ-помощник получил интеграцию с Ozon Команда Tecno обновила ИИ-помощника Ella, добавив возможность поиска и подбора товаров на маркетплейсе Ozon.",
+   "link": "https://www.ixbt.com/news/2026/11/24/ella-vmesto-konsultanta-ii-pomoshhnik-tecno-naucilsia-vybirat-tovary-na-ozon.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745849/media-d70ce4ca764816b3b624d78b199ef1067e2facfbea37900bf3a99ba3374d12ac.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-24T11:00:00+00:00",
+   "category": "other"
   },
   {
    "id": "517bd0766068",
@@ -4298,215 +4507,6 @@
    "lang": "en",
    "date": "2026-11-20T07:00:00+00:00",
    "category": "business"
-  },
-  {
-   "id": "a1f8b6878aef",
-   "title": "Сбои в работе популярного телеком-оператора в России",
-   "summary": "Всем привет, меня зовут Евгений. Несколько дней ранее я публиковал статью о сложностях поиска работы в российском ИТ и ухудшении качества работы именитых b2c-площадок по поиску работы.",
-   "link": "https://habr.com/ru/articles/1110112/?utm_campaign=1110112&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110112/d66281a64f544d8fb12e7010e787e4cb/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T06:50:40+00:00",
-   "category": "other"
-  },
-  {
-   "id": "fc63db08d2d5",
-   "title": "Больше никаких 10 минут: OpenAI отменила лимит на диктовку в ChatGPT",
-   "summary": "Нововведение распространяется на все тарифы и основные платформы OpenAI представила функцию Live Dictation для ChatGPT, которая преобразует речь в текст непосредственно во время произнесения.",
-   "link": "https://www.ixbt.com/news/2026/11/20/bolse-nikakix-10-minut-openai-otmenila-limit-na-diktovku-v-chatgpt.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744080/media-03d2e04ed541d45b39c5384db1eb3cb3daea3cb7400639bb62b97191a0f67812.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T06:32:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "a16d76f22c1e",
-   "title": "ИИ сам открывает приложения и заполняет формы: Google научила Gemini для Mac работать без участия пользователя",
-   "summary": "Gemini может выполнять многоэтапные задачи в фоновом режиме Компания Google добавила в приложение Gemini для Mac возможность управлять программами, файлами и сайтами на компьютере.",
-   "link": "https://www.ixbt.com/news/2026/11/20/ii-sam-otkryvaet-prilozeniia-i-zapolniaet-formy-google-naucila-gemini-dlia-mac-rabotat-bez-ucastiia-polzovatelia.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744073/media-781b5e2ca184cf87f69740cfd9214d6722ce8b65fabde54bc9a584945875e6b4.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T06:24:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "b6561c83bda7",
-   "title": "ИИ-агентный тамагочи M**a Muse Charm будет стоить $300, но это не точно",
-   "summary": "M**a планирует установить на Muse Charm цену в $300 — речь идёт о компактном устройстве с экраном, которое предназначается для общения с агентом искусственного интеллекта Muse.",
-   "link": "https://3dnews.ru/1151572",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151572/muse-charm.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-20T06:12:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "1423d0aaccf3",
-   "title": "Когда ИИ агент больше, чем умный промпт",
-   "summary": "ИИ‑агент может отлично справляться с задачами в демо, но начать ошибаться после запуска в продуктивную среду: терять контекст, зацикливаться на рефлексии или вызывать инструменты с непредусмотренными последствиями.",
-   "link": "https://habr.com/ru/companies/otus/articles/1107712/?utm_campaign=1107712&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/41/6b/b1/416bb1a432f7a074279869b4bf763897.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-20T06:07:47+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "e885afbcaad2",
-   "title": "Harness поверх harness-а. Как заставить агентов доводить задачу до конца",
-   "summary": "Всем привет! Пока прошлая статья про онлайн-шутер, разработанный с помощью ИИ, еще не остыла, пришло время поговорить про то, как вообще мы можем добиться хорошего результата, когда не пишем код самостоятельно.",
-   "link": "https://habr.com/ru/companies/raft/articles/1110064/?utm_campaign=1110064&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/11/1f/cf/111fcf1771a24e39f3b292e31f4c4301.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T06:04:46+00:00",
-   "category": "research"
-  },
-  {
-   "id": "79be85eac090",
-   "title": "Мой опыт покупки Claude Pro без документов, посредников и прохождения KYC",
-   "summary": "Салют, Хабр! На днях я пополнил ряды несчастных пользователей, забаненных в Claude. А дело было так. У меня был аккаунт, зарегистрированный еще в начале года.",
-   "link": "https://habr.com/ru/articles/1109278/?utm_campaign=1109278&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/4a/89/97/4a8997e46fb1a894c49b4df1cf4e2d60.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T05:59:45+00:00",
-   "category": "models"
-  },
-  {
-   "id": "19ea519989a9",
-   "title": "Затащи меня в харнесс. Часть X. Принципы организации памяти: .md файлы, скиллы, концепция дриминга",
-   "summary": "Представьте, что у вас в команде начал работать очень хороший разработчик. В первый день он быстро разобрался в проекте, нашел нужный сервис, выяснил, почему падают тесты и закрыл кучу тикетов.",
-   "link": "https://habr.com/ru/articles/1110086/?utm_campaign=1110086&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/6d/ff/2f/6dff2f63335cdc9a0393c7af75790d01.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-20T05:56:45+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "d34a86e33088",
-   "title": "Пусть с тобой спорит мой ИИ-адвокат: как скучный протокол координации агентов вырос в судебную арену",
-   "summary": "Пару недель назад я выложил на GitHub AgentsNET : небольшой HTTP-сервер, через который локальные и облачные ИИ-агенты обмениваются файлами и забирают задачи по pull-модели, находясь вообще в разных местах (за NAT,…",
-   "link": "https://habr.com/ru/articles/1109936/?utm_campaign=1109936&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/fe/f0/48/fef0481ea1dc45126b596f2d817b897b.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T05:55:09+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d89463e594be",
-   "title": "Мы все обсудили на созвоне. Можно ли сразу получить нужные документы?",
-   "summary": "Хочется закончить созвон, открыть договор с уже внесенными правками и после личной проверки отправить его коллегам. Пока это идея.",
-   "link": "https://habr.com/ru/articles/1110054/?utm_campaign=1110054&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/cf/88/58/cf885835cbbbb628f7ab24db50fcb894.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T05:45:44+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "5a4746924879",
-   "title": "В GPT‑6.2 для некоторых задач уже нужен KYC. Не станет ли это новым ограничением для обычных разработчиков?",
-   "summary": "17 ноября OpenAI представила GPT‑6.2 Astra и Sol .",
-   "link": "https://habr.com/ru/articles/1110122/?utm_campaign=1110122&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b9/9c/ad/b99cad7f247c4689acf71805273d9e27.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T05:27:06+00:00",
-   "category": "models"
-  },
-  {
-   "id": "8f4728ffc5b9",
-   "title": "Apple may be developing its own AI agent that runs your Mac",
-   "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-   "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-20T00:56:01+00:00",
-   "category": "models"
-  },
-  {
-   "id": "f1dd0bea0b97",
-   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-   "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-   "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-20T00:43:50+00:00",
-   "category": "business"
-  },
-  {
-   "id": "211fbe8009a4",
-   "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-   "summary": "",
-   "link": "https://huggingface.co/blog/harness-adapters-at-scale",
-   "image": "https://huggingface.co/blog/assets/harness-adapters-at-scale/thumbnail.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-20T00:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "f4784c304003",
-   "title": "Can AI help scientists identify promising drug candidates?",
-   "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-   "link": "https://openai.com/index/introducing-medchembench",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-20T00:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d15c45643214",
-   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-   "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-   "link": "https://openai.com/business/customer-stories/hebbia",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-20T00:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "80d31a6dee29",
-   "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-   "summary": "",
-   "link": "https://huggingface.co/blog/inkling2mini",
-   "image": "https://huggingface.co/blog/assets/inkling2mini/thumbnail.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-20T00:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "a22c687c439c",
-   "title": "Apple is hiring engineers to build its own AI agent",
-   "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services.",
-   "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-19T22:31:41+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "d64408f37f76",
-   "title": "Нескучные тесты локальных LLM",
-   "summary": "Очередная статья с очередными тестами локальных LLM.",
-   "link": "https://habr.com/ru/articles/1110104/?utm_campaign=1110104&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/d4/3c/a7/d43ca7b4f19a1d65d482a3c7d7bf9f99.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-19T22:04:30+00:00",
-   "category": "models"
   }
  ]
 }
