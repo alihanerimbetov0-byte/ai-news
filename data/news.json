@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:35:59.641418+00:00",
+ "updated": "2026-11-25T15:20:31.118958+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "source": "Ars Technica",
@@ -108,6 +108,116 @@
   }
  ],
  "items": [
+  {
+   "id": "cbe48fd90b4f",
+   "title": "Навык для работы с 1С накладываем на Qwen3.8-27B и получаем отличный результат",
+   "summary": "Под моей прошлой статьёй про навыки для LLM завязался разговор в комментариях.",
+   "link": "https://habr.com/ru/articles/1112346/?utm_campaign=1112346&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cd/b4/ef/cdb4ef0a0b6656edbb8a6d1de76720e1.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-25T15:19:22+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0987b114d816",
+   "title": "Акции бигтехов продолжили падение — эйфория сменилась осознанием того, что «внимание к экосистеме ИИ усилится»",
+   "summary": "Последние дни инвесторы начали избавляться от акций компаний, которые ранее были главными бенефициарами бума в сфере ИИ.",
+   "link": "https://3dnews.ru/1151801",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/25/1151801/stock-market-2-unsplash.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-25T15:15:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "f062868cd4f9",
+   "title": "Оживляем картинки: тест аватаров от Kandinsky, Wan, InfiniteTalk и FantasyTalking",
+   "summary": "Одно изображение, одна русская реплика и пять секунд видео. Задача — оживить картинку так, чтобы персонаж произнес заранее озвученную мной реплику.",
+   "link": "https://habr.com/ru/articles/1112328/?utm_campaign=1112328&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/72/74/a8/7274a82a9cc8ec2b3200f7450fd0c178.jpeg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-25T14:52:29+00:00",
+   "category": "other"
+  },
+  {
+   "id": "441eb9937a38",
+   "title": "[Перевод] Где исполняется ваш ИИ‑агент?",
+   "summary": "Илья Кучмин, автор курса « Разработка ПО с AI‑агентами » поднимает мысль, о которой в повседневной жизни сложно задуматься: А где на самом деле выполняется код, который пишет ваш агент?",
+   "link": "https://habr.com/ru/companies/spring_aio/articles/1112322/?utm_campaign=1112322&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a0/c3/98/a0c3986a816126bef0334686378583a6.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-25T14:35:19+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "83314d6a53e1",
+   "title": "Разработка в эпоху ИИ: часть 1",
+   "summary": "Разработку без ИИ уже представить сложно. Он помогает быстрее проверять идеи, разбираться в незнакомом коде и справляться с рутиной: от написания тестов до подготовки документации.",
+   "link": "https://habr.com/ru/companies/naumen/articles/1112318/?utm_campaign=1112318&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/21/4e/03/214e03f92566be7ce1e27df39a6dab9e.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T14:30:40+00:00",
+   "category": "other"
+  },
+  {
+   "id": "d49c5b30cc63",
+   "title": "Вышла модель Ternary Bonsai 2.5 в которой сжали 27-миллиардов параметров в 5,9 ГБ VRAM",
+   "summary": "Тяжелые модели для кода всегда упирались в дефицит видеопамяти. Чтобы работать, им нужны десятки гигабайт VRAM и желательно без сжатия.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1112284/?utm_campaign=1112284&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b3/d0/f5/b3d0f5c479f96abbd413dc1c80401ae6.jpeg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-25T14:16:24+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e1845ee0b548",
+   "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+   "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune.",
+   "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-25T14:12:33+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "61cb6e1f95ec",
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+   "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-25T14:10:18+00:00",
+   "category": "business"
+  },
+  {
+   "id": "882ede7d2356",
+   "title": "Мир есть текст. Почему LLM попали прямо в операционную систему цивилизации",
+   "summary": "В дискуссиях об искусственном интеллекте мы спорим о том, понимает ли машина смысл, обладает ли сознанием и можно ли считать её мышление настоящим.",
+   "link": "https://habr.com/ru/articles/1112254/?utm_campaign=1112254&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ca/4d/a0/ca4da076cd715a63ee00155608a0f94f.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T13:39:08+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2b4b85b4ada8",
+   "title": "Закрытый номер не поможет: «Автодор» подключает ИИ к поиску машин с нечитаемыми номерами",
+   "summary": "Технология формирует цифровой отпечаток машины и позволяет сопоставлять ее с более ранними поездками «Автодор» внедряет систему на основе искусственного интеллекта, которая позволяет распознавать автомобили с закрытыми…",
+   "link": "https://www.ixbt.com/news/2026/11/25/zakrytyi-nomer-ne-pomozet-avtodor-podkliucaet-ii-k-poisku-masin-s-necitaemymi-nomerami.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746317/ai-image-0iuhblo2vx7qemthqtyovhvm.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-25T13:35:00+00:00",
+   "category": "other"
+  },
   {
    "id": "7354ff43a60c",
    "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
@@ -4397,116 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-21T12:11:16+00:00",
    "category": "models"
-  },
-  {
-   "id": "d51085682472",
-   "title": "Хейт к вайбкодерам, или как я без знания кода сделал своё первое приложение для скачивания и нарезки видео",
-   "summary": "Я за всю жизнь не написал ни строчки кода и ничего не понимаю в программировании, но много лет работаю с видео, моушн-дизайном и неплохо разбираюсь в UI/UX.",
-   "link": "https://habr.com/ru/articles/1110654/?utm_campaign=1110654&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b5/f7/7c/b5f77c0394422731ec9e5b5fe4549f60.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T12:00:06+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "cf46210b7d59",
-   "title": "Хайп-цикл Гартнера — это гегелевская триада. Что инженеру делать во впадине разочарования",
-   "summary": "Продолжение цикла о философии техники Изначальная статья, самая интересная на мой вкус Зияющие алгоритмы, или Обезьяна с гранатой: почему нам нужен манометр, а не запрет ИИ , Вторая — о расцеплении тела, места и…",
-   "link": "https://habr.com/ru/articles/1109036/?utm_campaign=1109036&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c3/f3/a9/c3f3a9ffa96a5072425359182fa113d3.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T12:00:05+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "1c73f30f09f8",
-   "title": "Стартап учит нейросети разбираться в запахах и создавать новые по промптам",
-   "summary": "Стартап Osmo создаёт первую в мире «базовую модель» для распознавания запахов. Затем исследователи планируют обучить нейросети создавать новые запахи по текстовым запросам.",
-   "link": "https://habr.com/ru/articles/1110646/?utm_campaign=1110646&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a0/3f/c7/a03fc767d17967efeb63a32c08454328.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T11:57:04+00:00",
-   "category": "models"
-  },
-  {
-   "id": "afea1a4fd46a",
-   "title": "MCP-сервер поверх своего REST API без SDK: что видит модель и где она ломает данные",
-   "summary": "Model Context Protocol (MCP) позволяет агенту вроде Claude Code или Cursor вызывать внешние инструменты.",
-   "link": "https://habr.com/ru/articles/1110650/?utm_campaign=1110650&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110650/b6f810d5057a955d4f8b318fc8308858/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T11:52:11+00:00",
-   "category": "models"
-  },
-  {
-   "id": "fbd5351d4bca",
-   "title": "Стартап Миры Мурати выпустил Inkling 2 Mini — локальный ИИ для кода и агентов, который работает на MacBook",
-   "summary": "Thinking Machines Lab, основанная бывшим техническим директором OpenAI Мирой Мурати (Mira Murati), выпустила Inkling 2 Mini — мультимодальную ИИ-модель с открытыми весами под лицензией Apache 2.0.",
-   "link": "https://3dnews.ru/1151639",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/21/1151639/inkling_1.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-21T11:49:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3d2a11199d38",
-   "title": "Персонажи с памятью и миры под управлением ИИ — Ubisoft создала Motherbrain для внедрения ИИ в игры",
-   "summary": "Французское издательство Ubisoft официально объявило о создании дочерней компании Motherbrain, которая займётся разработкой технологий на базе генеративного ИИ для игрового процесса.",
-   "link": "https://3dnews.ru/1151640",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/21/1151640/ubisoft_title.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-21T11:38:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "44a6e26486d1",
-   "title": "DLSS 5 на видеокартах Radeon стала ещё быстрее. Заодно автор мода AMDLSS5 реализовал генератор кадров до 6х",
-   "summary": "Всё это бесплатно Автор мода AMDLSS5 , который реализует на видеокартах Radeon поддержку DLSS 5 и не только, обновил ПО до версии 2.5, повысив скорость обработки нейросети на величину до 60%.",
-   "link": "https://www.ixbt.com/news/2026/11/21/dlss-5-na-videokartax-radeon-stala-eshhe-bystree-zaodno-avtor-moda-amdlss5-realizoval-generator-kadrov-do-6x.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744595/media-5e31bae6a5ba2ee27d5e494890adf9a97ba10177999374979fccfea663cc5462.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-21T11:24:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "9c9ec1c5f197",
-   "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
-   "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages.",
-   "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_riemann.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-21T11:19:49+00:00",
-   "category": "models"
-  },
-  {
-   "id": "53342757c5ab",
-   "title": "Теперь можно объединять несколько ПК по USB4 для работы с большими ИИ-моделями. Microsoft реализовала работу RDMA новым способом",
-   "summary": "Для обычных задач нет смысла Компания Microsoft реализовала работу технологии RDMA (Remote Direct Memory Access) через USB, что позволяет объединять несколько ПК в единую систему для запуска более крупных ИИ-моделей.",
-   "link": "https://www.ixbt.com/news/2026/11/21/teper-mozno-obieediniat-neskolko-pk-po-usb4-dlia-raboty-s-bolsimi-ii-modeliami-microsoft-realizovala-rabotu-rdma-novym-sposobom.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744584/media-f60d0b527f5dfa0ff384b60579a200a3745e1e7c35367ba69cafb7126a81cd67.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-21T11:12:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "4aa8a7120dc7",
-   "title": "Промпт — это не строка, а шаблон",
-   "summary": "В репозитории проекта лежит 203 килобайта промптов — примерно треть от объёма всего PHP-кода.",
-   "link": "https://habr.com/ru/articles/1084308/?utm_campaign=1084308&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/getpro/habr/upload_files/02b/76a/7ad/02b76a7ad1618742d65d65ee9e3e259c.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T10:43:59+00:00",
-   "category": "other"
   }
  ]
 }
