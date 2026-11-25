@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:37:19.822895+00:00",
+ "updated": "2026-11-25T09:25:04.863989+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 10
   },
   {
    "source": "Ars Technica",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "source": "OpenAI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 8
+   "count": 6
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,138 @@
   }
  ],
  "items": [
+  {
+   "id": "7693bcfd7371",
+   "title": "Агент убил сам себя, кавычка сломала дашборд, а мы потеряли первую версию: как мы делали мигратор BI-отчетов Morphism AI",
+   "summary": "Однажды один из наших агентов-разработчиков запустил команду pkill -f и убил сам себя. Команда нашла среди подходящих процессов оболочку, в которой он работал, и завершила ее вместе с собой.",
+   "link": "https://habr.com/ru/companies/glowbyte/articles/1112128/?utm_campaign=1112128&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4c/e4/07/4ce40799b55b7e9812ae530c0d659a7d.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T09:14:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "cc33ad15b8b8",
+   "title": "Под видом соцсети: как Android-троян RatHat использует Gemini на заражённом смартфоне",
+   "summary": "Приложение обещало доступ к новой соцсети, но вместо регистрации предлагало изменить настройки телефона.",
+   "link": "https://habr.com/ru/companies/speshu_ai/articles/1112124/?utm_campaign=1112124&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7e/b6/07/7eb607598cb06aa3006fd899f7d25968.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T09:10:59+00:00",
+   "category": "models"
+  },
+  {
+   "id": "464350d44ba2",
+   "title": "Купить, доработать или создать с ИИ: как эффективнее распределить ИТ-бюджет в 2027 году",
+   "summary": "Бизнесу всегда нужна новая функциональность — желательно быстрее и без лишних затрат. Но с развитием ИИ привычные правила выбора ПО меняются.",
+   "link": "https://habr.com/ru/companies/korus_consulting/articles/1112122/?utm_campaign=1112122&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a5/aa/8a/a5aa8a1c17a1a593e37b172b969b8136.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T09:04:21+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "39d67b49a104",
+   "title": "Tidal будет удалять музыку, целиком сгенерированную ИИ",
+   "summary": "С 9 декабря 2026 года стриминговый сервис Tidal начнёт удалять музыку, которую целиком сгенерировали при помощи инструментов искусственного интеллекта.",
+   "link": "https://habr.com/ru/articles/1112120/?utm_campaign=1112120&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/55/7b/f7/557bf7f9e51656936c80d1ebcd6febd9.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T09:03:26+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "4daea3885266",
+   "title": "[Перевод] Что, если эти модели вообще нельзя безопасно использовать? О чём спорят в OpenAI и Anthropic",
+   "summary": "Обычно перед выпуском новой модели разработчикам нужно решить, готова ли она к работе с пользователями.",
+   "link": "https://habr.com/ru/companies/speshu_ai/articles/1112112/?utm_campaign=1112112&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/79/09/e1/7909e1a340e3dce4e6808166820d4e5e.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T08:59:05+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1ad91689d904",
+   "title": "MES для цеха переработки руды за 50 минут: от ТЗ до работающего приложения",
+   "summary": "Горно-обогатительное предприятие прислало ТЗ на MES для цеха переработки сырья, несколько приложений к нему и свой брендбук. Нужно было демо, которое можно показать заказчику.",
+   "link": "https://habr.com/ru/articles/1112104/?utm_campaign=1112104&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/01/3f/b6/013fb602100da570689cfc75c5424d0a.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T08:57:05+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "96e80060ac9e",
+   "title": "Почему мы не взяли LLM для разметки интернета",
+   "summary": "Привет, Хабр! Я Степан Кульчицкий из ML-команды Positive Technologies. Мы вместе с коллегами делаем Сервис URL-категоризации.",
+   "link": "https://habr.com/ru/companies/pt/articles/1110028/?utm_campaign=1110028&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/85/85/31/858531b453f03164f0854423a1e7e039.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T08:21:06+00:00",
+   "category": "models"
+  },
+  {
+   "id": "8da6ca0aabe8",
+   "title": "[Перевод] Я создал фальшивую научную статью с помощью ИИ. Вот что из этого вышло",
+   "summary": "Бенджамин Скус решил проверить, сможет ли научная работа, созданная искусственным интеллектом, сойти за настоящую. У науки возникла проблема со спамом. И фильтры, призванные с ним бороться, уже не справляются.",
+   "link": "https://habr.com/ru/articles/1111896/?utm_campaign=1111896&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d4/5b/18/d45b18f83874570858f5e3daf57c336a.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T08:13:48+00:00",
+   "category": "research"
+  },
+  {
+   "id": "064cbb6f8d26",
+   "title": "Почему одинаковые вопросы к LLM дают разные ответы, и как с этим жить?",
+   "summary": "Ты отправляешь модели один и тот же вопрос два раза. В первый раз получаешь нормальный ответ.",
+   "link": "https://habr.com/ru/companies/timeweb/articles/1101040/?utm_campaign=1101040&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/12/b0/a7/12b0a7989b9fff77a295ca6f42216997.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T08:05:47+00:00",
+   "category": "models"
+  },
+  {
+   "id": "91d43d2a59ad",
+   "title": "Оптимизация инференса LLM: как работают технологии Speculative Decoding и PagedAttention",
+   "summary": "Когда LLM отвечает пользователю, текст обычно появляется постепенно. Модель выбирает следующий токен — например, слово, часть слова или знак препинания — и переходит к следующему.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1112066/?utm_campaign=1112066&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/10/d8/a3/10d8a3f8079b81a39806e84af6acdce3.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T08:00:46+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2864a85bd669",
+   "title": "Как сделать приложение для процесса, которого нет в коробке",
+   "summary": "Участников много, согласований много, времени уходит тоже много, а решение одно: сделать своё приложение под свои процессы. Делаем.",
+   "link": "https://habr.com/ru/companies/bitrix/articles/1111768/?utm_campaign=1111768&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/1f/49/14/1f49141ef6b4fe0cfe73576e7037a860.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T08:00:46+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "ef1ea383cf77",
+   "title": "Из Claude Code в корпоративный контур: как устроены навыки в VK AI Space",
+   "summary": "Загрузить навык из Claude Code в корпоративного агента довольно просто.",
+   "link": "https://habr.com/ru/companies/vktech/articles/1111700/?utm_campaign=1111700&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/10/85/19/1085192e5bad25d735826895be0464fa.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T07:49:43+00:00",
+   "category": "models"
+  },
   {
    "id": "1c6986bdd274",
    "title": "Сам себе Edtech: как я попросил Claude научить меня работе с агентами на OpenCode и DeepSeek Harness… и научился оО",
@@ -140,6 +272,28 @@
    "lang": "ru",
    "date": "2026-11-25T07:00:40+00:00",
    "category": "tools"
+  },
+  {
+   "id": "4f23e654ca6a",
+   "title": "Как вернуть ФИО в ответ нейросети в правильном падеже, не показав ей ФИО",
+   "summary": "Бухгалтер вставляет договор в нейросеть и просит найти риски. Вместе с договором уходят ИНН, счета, паспорт подписанта и телефон директора.",
+   "link": "https://habr.com/ru/articles/1112050/?utm_campaign=1112050&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1112050/a93e4c5b78eeac77bc231c3b073c751e/",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-25T06:48:15+00:00",
+   "category": "other"
+  },
+  {
+   "id": "0a66245e54bf",
+   "title": "зDRAвый смысл: превратили сложный DRA в две строки YAML",
+   "summary": "Если вы пытались настроить шаринг GPU в Kubernetes через сырой DRA, то уже знаете эту боль: десятки строк YAML, хитрые CEL-селекторы и страх уронить прод при миграции.",
+   "link": "https://habr.com/ru/companies/flant/articles/1109794/?utm_campaign=1109794&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3d/2a/42/3d2a42e70ed4c39e7c1d7ba89d2448c4.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-25T06:31:41+00:00",
+   "category": "hardware"
   },
   {
    "id": "ee4dfd5052ba",
@@ -4353,160 +4507,6 @@
    "lang": "en",
    "date": "2026-11-20T20:59:08+00:00",
    "category": "business"
-  },
-  {
-   "id": "0bc5c6261faf",
-   "title": "Китайская Trina Storage создала гибридную электростанцию для ИИ-дата-центров: аккумуляторы и газовые турбины выдают до 1 ГВт мощности",
-   "summary": "Elementa Hybrid Genset рассчитана на разные сценарии питания дата-центров Китайская компания Trina Storage представила гибридную энергетическую систему Elementa Hybrid Genset, предназначенную для обеспечения…",
-   "link": "https://www.ixbt.com/news/2026/11/20/kitaiskaia-trina-storage-sozdala-gibridnuiu-elektrostanciiu-dlia-ii-data-centrov-akkumuliatory-i-gazovye-turbiny-vydaiut-do-1-gvt-moshhnosti.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744368/media-b7cd328cf17f5dee54160c979077cd80f947ad245fcbcd0561061939153d4714.webp",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T20:58:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "49973232093d",
-   "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
-   "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol.",
-   "link": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/02/ai_model_distill.jpeg",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-20T20:31:50+00:00",
-   "category": "models"
-  },
-  {
-   "id": "b0688bcfaa25",
-   "title": "Первое изображение чёрной дыры M87* независимо подтвердили с помощью ИИ",
-   "summary": "Алгоритм восстановил кольцо вокруг сверхмассивной чёрной дыры по исходным данным телескопа Event Horizon Telescope без предварительно заданной формы изображения Знаменитое изображение сверхмассивной чёрной дыры M87*,…",
-   "link": "https://www.ixbt.com/news/2026/11/20/pervoe-izobrazenie-cernoi-dyry-m87-nezavisimo-podtverdili-s-pomoshhiu-ii.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744356/media-ad8120718c79a036282d67229f7e54943963ae0ea1a0b381ddc0c4774e38bee8.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T20:23:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "340614cb1d45",
-   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-20T19:53:41+00:00",
-   "category": "business"
-  },
-  {
-   "id": "cd728ceea767",
-   "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
-   "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
-   "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-   "image": "https://media.wired.com/photos/6b007b4f6873ef9746910ee1/master/pass/GettyImages-2298479100.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-20T19:52:21+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "b2d3378f104a",
-   "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-   "summary": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats.",
-   "link": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/signal_ai_agents.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-20T19:50:27+00:00",
-   "category": "models"
-  },
-  {
-   "id": "6e9e23c5964e",
-   "title": "[Перевод] Гипотеза Римана и Claude: заметки о работе над доказательством",
-   "summary": "От переводчика: Сегодня математик Левент Альпёге (Levent Alpöge) выложил доказательство гипотезы Римана. Дальше идет перевод его заметки.",
-   "link": "https://habr.com/ru/articles/1110544/?utm_campaign=1110544&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110544/81f015c2b5d054a59813640fc3c21c42/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T19:49:34+00:00",
-   "category": "models"
-  },
-  {
-   "id": "16afc5b45e24",
-   "title": "ИИ спроектировал роботов для реальной полосы препятствий. Учёные MIT вручную собрали и протестировали 135 из них",
-   "summary": "Испытания показали проблему, которую не обнаружить лишь моделированием: в реальности справились с препятствиями 66% В эксперименте MIT 4 ИИ-агента создали проекты 12 774 роботов и провели 16 427 виртуальных испытаний.",
-   "link": "https://www.ixbt.com/news/2026/11/20/ii-sproektiroval-robotov-dlia-realnoi-polosy-prepiatstvii-ucenye-mit-vrucnuiu-sobrali-i-protestirovali-135-iz-nix.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744348/media-9e901a94d39a6601c4594a0914eb8c955ebfad7c2ebaee7c643af1cf0770bc9f.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T19:47:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d6bff5841b5a",
-   "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
-   "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-   "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-20T19:32:08+00:00",
-   "category": "other"
-  },
-  {
-   "id": "06e3185415af",
-   "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
-   "summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working.",
-   "link": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-20T18:50:31+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3a0cb236fd32",
-   "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-   "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.",
-   "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-20T18:50:19+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "16fc470a5f70",
-   "title": "Свайпомойка: чистилка галереи с механиками из Tinder на Capacitor",
-   "summary": "Я сделал приложение, которое раскладывает мусор из галереи по колодам и даёт смахивать его свайпами: влево - в корзину, вправо - оставить, вверх - в избранное.",
-   "link": "https://habr.com/ru/articles/1110534/?utm_campaign=1110534&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/0b/63/ff/0b63ffaeaae835188eec78c3c5e5785e.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-20T18:25:32+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "d621e080ae7f",
-   "title": "В 4,6 раза эффективнее обычного процессора: ИИ придумал новую архитектуру CPU",
-   "summary": "Новая модель обеспечивает почти в 9 раз большую производительность на единицу площади по сравнению с обычным процессорным ядром Американский стартап Architect Labs заявил о разработке экспериментальной архитектуры…",
-   "link": "https://www.ixbt.com/news/2026/11/20/v-46-raza-effektivnee-obycnogo-processora-ii-pridumal-novuiu-arxitekturu-cpu.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744325/media-fe3611ff0e9a83efe9f70f2dbf0602776925ee17ac63e008bbd98c90d882f81f.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T18:17:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "294757448238",
-   "title": "Математик заявил, что вместе с Claude доказал гипотезу Римана — одну из главных нерешённых задач математики",
-   "summary": "Он опубликовал формализацию на языке Lean — огромный массив кода, который ещё предстоит независимо проверить Математик Левент Альпёге (Levent Alpöge), работающий в Anthropic, заявил, что вместе с ИИ-моделью Claude…",
-   "link": "https://www.ixbt.com/news/2026/11/20/matematik-zaiavil-cto-vmeste-s-claude-dokazal-gipotezu-rimana-odnu-iz-glavnyx-neresennyx-zadac-matematiki.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744327/media-91cdb40c1e20d8e0c892f247c6740fa7e8902e7decd1aad9b044dd3e9cfbb312.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T18:16:00+00:00",
-   "category": "models"
   }
  ]
 }
