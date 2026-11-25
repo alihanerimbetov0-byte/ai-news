@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:21:44.986677+00:00",
+ "updated": "2026-11-25T07:37:19.822895+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 11
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 3
   },
   {
    "source": "Google AI",
@@ -108,6 +108,83 @@
   }
  ],
  "items": [
+  {
+   "id": "1c6986bdd274",
+   "title": "Сам себе Edtech: как я попросил Claude научить меня работе с агентами на OpenCode и DeepSeek Harness… и научился оО",
+   "summary": "Пару недель назад я впервые доверил ИИ-агенту свой компьютер. Повод был вполне житейский. С марта я рисую картинки к статьям, своим и чужим, в том числе обложки для корпоративного блога на Хабре.",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1111144/?utm_campaign=1111144&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a6/e8/73/a6e8738118f2b6474ef3bc4646dd74a7.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T07:10:42+00:00",
+   "category": "models"
+  },
+  {
+   "id": "fa3ea177f440",
+   "title": "Тайфун, Чеджу и 12 статей про ИИ‑агентов: отчёт с конференции KDD 2026",
+   "summary": "Всем привет! Меня зовут Александр Исаков, я руковожу группой разработки аналитических ИИ‑решений в Яндекс Лавке.",
+   "link": "https://habr.com/ru/companies/yandex/articles/1107752/?utm_campaign=1107752&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7c/3d/c4/7c3dc4359ffd1c67c6899e8ed461479d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T07:01:16+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "0592b2a4c99b",
+   "title": "71 нейросеть в одной таблице: что из этого работает в России в конце 2026 года",
+   "summary": "Мы ведём справочник по 71 нейросети: чаты, картинки, видео, голос, помощники для кода, агенты. По каждой отмечаем две вещи: открывается ли сервис с российского адреса и можно ли заплатить ему российской картой.",
+   "link": "https://habr.com/ru/articles/1111492/?utm_campaign=1111492&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/af/81/a7/af81a7e659c8af51005a0ab8a5e9968b.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T07:00:40+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "ee4dfd5052ba",
+   "title": "ИИтаризм: как посредник становится единственным мостом",
+   "summary": "Представим человека, который увольняется из компании. Через месяц он обнаруживает, что почти все его рабочие знакомства остались в корпоративном мессенджере.",
+   "link": "https://habr.com/ru/articles/1111952/?utm_campaign=1111952&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/67/4f/36/674f3630ab264b51c6fbf770a2121944.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T06:31:38+00:00",
+   "category": "other"
+  },
+  {
+   "id": "afc3e6fb5dc2",
+   "title": "Как я заменил Whisper на GigaAM v3 в радиокомпаньоне для ETS2 и ускорил отклик в 20 раз",
+   "summary": "В радиокомпаньоне «Канал 15» для Euro Truck Simulator 2 локальный faster-whisper на одном процессоре с игрой и стримом задыхался: ответы рации приходили через 12 секунд, а треть фраз улетала в таймауты.",
+   "link": "https://habr.com/ru/articles/1111962/?utm_campaign=1111962&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1111962/fee9455165b9241ec8a5f21d02aac58f/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T06:15:36+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "64a24aea2901",
+   "title": "Их память — их правила? Уже нет. Память и правила наши — SKV Network",
+   "summary": "Ваша память больше не зависит от компании, которая делает модель. Недели и месяцы работы с ИИ-агентом — это проекты, решения, договорённости и ваш стиль. Сейчас всё это живёт у вендора.",
+   "link": "https://habr.com/ru/articles/1112034/?utm_campaign=1112034&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1112034/258336338410c415175e2c3a4cb1e275/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T06:05:03+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3e08b140bca0",
+   "title": "Как оплатить DeepSeek API из России: 5 способов и сколько рублей уходит на $1",
+   "summary": "Под прошлой статьёй о ценах на DeepSeek API больше всего спорили об оплате: у одних QR-код Alipay в Сбере проходит за три минуты, у других деньги списываются и не доходят.",
+   "link": "https://habr.com/ru/articles/1112018/?utm_campaign=1112018&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1112018/a47b55b30569ba4c3603fdbe4d379270/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T05:38:26+00:00",
+   "category": "models"
+  },
   {
    "id": "05f887d0221c",
    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
@@ -4430,83 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-20T18:16:00+00:00",
    "category": "models"
-  },
-  {
-   "id": "01449c61c8b8",
-   "title": "The most misunderstood graph in AI just got a major update",
-   "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require…",
-   "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-20T18:15:15+00:00",
-   "category": "models"
-  },
-  {
-   "id": "079373956374",
-   "title": "Chips can survive the space environment — can their financing?",
-   "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-   "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-20T17:40:01+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "8ee373262b41",
-   "title": "ИИ Anthropic продвинулся в теории квантовой гравитации, где физики десятилетиями топчутся на месте",
-   "summary": "Компания Anthropic сообщила о двух результатах, полученных с помощью ИИ-модели Claude в области теоретической физики.",
-   "link": "https://3dnews.ru/1151613",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151613/bh_ai.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-20T17:20:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "078cca657a62",
-   "title": "Anthropic заявила о доказательстве гипотезы Римана с помощью ИИ — одной из главных загадок математики, над которой бились 167 лет",
-   "summary": "Математик из компании Anthropic заявил, что нашёл доказательство гипотезы Римана — одной из самых известных и трудноразрешимых проблем в математике.",
-   "link": "https://3dnews.ru/1151612",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151612/numbers-1-markus-krisetya-unsplash.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-20T17:17:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "7affc48ef744",
-   "title": "Контекст-инжиниринг для кодинг-агента Дуэйд: что положить в контекст, а что оставить за его пределами",
-   "summary": "Не гадать, а измерить Каждый, кто хоть раз давал кодинг-агенту задачу, поймет о чем речь. Хочется передать ему побольше: техническое задание, документацию на внешний API, правила команды, примеры готового кода.",
-   "link": "https://habr.com/ru/companies/domate/articles/1110520/?utm_campaign=1110520&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/23/ee/66/23ee66bea34271b7b74b2083ce8983f7.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T17:02:31+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "6d3528baa167",
-   "title": "411 комментариев в pull request и другие задачи, которые мы отдали ИИ",
-   "summary": "Привет, я Арина, системный аналитик ЮMoney. ИИ уже прочно вошёл в нашу профессию: с ним собирают информацию, анализируют код, готовят техническую документацию и проверяют решения.",
-   "link": "https://habr.com/ru/companies/yoomoney/articles/1110422/?utm_campaign=1110422&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c3/ac/9a/c3ac9af3008e27a8c46106f56f69dde7.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T17:01:11+00:00",
-   "category": "other"
-  },
-  {
-   "id": "274079c1fbdc",
-   "title": "GPU на вечер: поды, VPS и цены на аренду RTX 5090 в России",
-   "summary": "В статье изучили российский рынок GPU-VPS аренды, сравнили подходы к тарификации и на примере GPUGO показали, как поминутный биллинг помогает сократить расходы на вычисления без оплаты простаивающих часов и суток.",
-   "link": "https://habr.com/ru/companies/gpugo/articles/1110514/?utm_campaign=1110514&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f8/e9/83/f8e983e2a2b0f0e120acff798641240d.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T16:45:16+00:00",
-   "category": "hardware"
   }
  ]
 }
