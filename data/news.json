@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:20:31.118958+00:00",
+ "updated": "2026-11-25T17:14:27.872910+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 12
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -44,7 +44,7 @@
   {
    "source": "DeepMind",
    "ok": true,
-   "count": 3
+   "count": 4
   },
   {
    "source": "Google AI",
@@ -54,7 +54,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "source": "MIT Tech Review",
@@ -109,6 +109,72 @@
  ],
  "items": [
   {
+   "id": "148a75b422c2",
+   "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+   "summary": "Drone attacks on data centers.",
+   "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+   "source": "Ars Technica",
+   "lang": "en",
+   "date": "2026-11-25T16:47:14+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "dc8fa3c5c439",
+   "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+   "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results.",
+   "link": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/met_muse_gadget_logo.jpg",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-25T16:44:37+00:00",
+   "category": "business"
+  },
+  {
+   "id": "d3e408e77b60",
+   "title": "Как создатель Minecraft стал вайбкодером (и почему не стоит над ним смеяться)",
+   "summary": "Если взять два поста Маркуса «Notch» Перссона в социальной сети X с разницей в четыре месяца, получится идеальный мем о шизофрении современной IT-индустрии. 14 июля 2026 года.",
+   "link": "https://habr.com/ru/articles/1112364/?utm_campaign=1112364&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7c/fa/08/7cfa0862e85116ea2711d3f45d58a918.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T16:20:26+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ad76b5fa16ff",
+   "title": "ИИ уничтожит слабый бизнес — кто попадёт под раздачу? И что будет дальше?",
+   "summary": "Недавно состоялась пленарная дискуссия «Новая экономика доверия: ИИ, платформы и человекоцентричность на финансовом рынке» в рамках Четвёртой конференции Банка России «Фокус на клиента».",
+   "link": "https://habr.com/ru/articles/1112360/?utm_campaign=1112360&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/0a/42/c2/0a42c27fdf65a6fd522977c126b81fd6.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T16:08:40+00:00",
+   "category": "other"
+  },
+  {
+   "id": "6b1c4ab3d056",
+   "title": "Nothing offers a full look at its AI earbuds and charging case",
+   "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release.",
+   "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-25T16:00:59+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b47f021e12d7",
+   "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+   "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt.",
+   "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Anita-Verma-Lallian-2.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-25T15:41:43+00:00",
+   "category": "hardware"
+  },
+  {
    "id": "cbe48fd90b4f",
    "title": "Навык для работы с 1С накладываем на Qwen3.8-27B и получаем отличный результат",
    "summary": "Под моей прошлой статьёй про навыки для LLM завязался разговор в комментариях.",
@@ -129,6 +195,17 @@
    "lang": "ru",
    "date": "2026-11-25T15:15:00+00:00",
    "category": "business"
+  },
+  {
+   "id": "03aab080bd2f",
+   "title": "Каждый третий пост про цифровой апокалипсис в интернете написали ИИ‑боты",
+   "summary": "За последнюю неделю боты способствовали распространению теорий заговора о волне крупных сбоев в работе технологических компаний, пишет Axios.",
+   "link": "https://habr.com/ru/articles/1112338/?utm_campaign=1112338&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3b/54/54/3b5454a783fa7a2d86451fee9b893d28.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T15:04:02+00:00",
+   "category": "other"
   },
   {
    "id": "f062868cd4f9",
@@ -824,6 +901,17 @@
    "category": "hardware"
   },
   {
+   "id": "d8d6777ecf09",
+   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+   "summary": "",
+   "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+   "image": "https://huggingface.co/blog/assets/inkling-2-mini-inference-hillclimb/thumbnail.png",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-25T00:00:00+00:00",
+   "category": "other"
+  },
+  {
    "id": "51ecb190edf1",
    "title": "[Перевод] Дата-центры для ИИ. Кто на самом деле за них платит?",
    "summary": "По данным специализирующегося на энергетике аналитического центра Cleanview, суммарная мощность дата-центров в США составляет около 65 гигаватт.",
@@ -1482,6 +1570,17 @@
    "lang": "ru",
    "date": "2026-11-24T13:17:56+00:00",
    "category": "models"
+  },
+  {
+   "id": "dd94f7af62fb",
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+   "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo",
+   "source": "DeepMind",
+   "lang": "en",
+   "date": "2026-11-24T13:07:53+00:00",
+   "category": "research"
   },
   {
    "id": "0040bda0e8ee",
@@ -4407,105 +4506,6 @@
    "source": "Хабр · ИИ",
    "lang": "ru",
    "date": "2026-11-21T13:49:12+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d536e38a7a19",
-   "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
-   "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding.",
-   "link": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-21T13:32:35+00:00",
-   "category": "models"
-  },
-  {
-   "id": "236c43648db7",
-   "title": "[Перевод] Дообучаем на Mac малую языковую модель для RAG в браузере",
-   "summary": "Задача выглядела довольно простой: дообучить Qwen3-0.6B отвечать на вопросы по фрагментам текста, найденным семантическим поиском.",
-   "link": "https://habr.com/ru/companies/otus/articles/1106704/?utm_campaign=1106704&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/98/54/ab/9854ab607bf536ac2bc8443fe4504428.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T13:12:10+00:00",
-   "category": "models"
-  },
-  {
-   "id": "ad524383181c",
-   "title": "Как я перестал быть диспетчером у своих ИИ-агентов",
-   "summary": "Рядом с рабочим монитором у меня долго стоял ноутбук с открытым окном агентов. Раз в двадцать–тридцать минут я ловил себя на том, что опять туда кошусь: не встал ли кто-нибудь на вопросе, не пошёл ли крутиться по кругу.",
-   "link": "https://habr.com/ru/articles/1110668/?utm_campaign=1110668&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ae/68/bf/ae68bf938f4e21a1ce2c95090cf90b98.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T13:04:14+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "1bfb860fa24a",
-   "title": "Кого заменит LLM",
-   "summary": "LLM наступают, топы вещают о повсеместном внедрении ИИ, повышении производительности, ускорении процессов и сокращении персонала.",
-   "link": "https://habr.com/ru/articles/1110674/?utm_campaign=1110674&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7e/cd/60/7ecd6047752af3963175aecae0d20e92.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T13:00:26+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9dd04be51f1d",
-   "title": "The Outages Are Just Getting Started",
-   "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-   "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-   "image": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-21T13:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "f1e872ce27ca",
-   "title": "Зеркальная аугментация лидара: почему при больших углах наклона отражателя дрон перестаёт видеть тёмные препятствия",
-   "summary": "Установка плоского зеркала перед лидаром позволяет заглянуть в слепые зоны под дроном без лишнего веса и механики. Но что происходит с лазерным импульсом при двойном отражении?",
-   "link": "https://habr.com/ru/articles/1110660/?utm_campaign=1110660&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7c/cb/d0/7ccbd0e8e10f05e5b940510c337ca2bc.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-21T12:26:15+00:00",
-   "category": "other"
-  },
-  {
-   "id": "8a863fc2a55c",
-   "title": "Естественная совесть искусственного интеллекта",
-   "summary": "В связи с развитием ИИ и, особенно, с прогнозом получения им сознания, критически важным, особенно на начальном этапе (пока сам в себя не придет и не “повзрослеет”), становиться наличие в нём (разработанных нами, а…",
-   "link": "https://habr.com/ru/articles/1017134/?utm_campaign=1017134&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/0d/84/6d/0d846d7aae14eef39ebaa91629487a74.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T12:20:15+00:00",
-   "category": "other"
-  },
-  {
-   "id": "09b51d29b0be",
-   "title": "Как я перестал платить за токены и собрал локальный RAG на 72 000 чанков в SQLite",
-   "summary": "Мне 22 года, я AI/ML-инженер и исследователь: закончил бакалавриат по прикладной информатике и защите информации в СГЭУ (2022–2026), а сейчас учусь в магистратуре Самарского университета им.",
-   "link": "https://habr.com/ru/articles/1110658/?utm_campaign=1110658&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/95/0d/9e/950d9e56d3d68b4cb1024fca7ca6aaef.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T12:19:48+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "2f83981a361d",
-   "title": "Будущее чистки мусора на MacOS",
-   "summary": "Простая идея: поручить Claude последовательно установить более 900 популярных приложений на «чистую» виртуальную машину с macOS (нескольких версий).",
-   "link": "https://habr.com/ru/articles/1110656/?utm_campaign=1110656&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/57/58/1b/57581b32b1db11a40bdfdbfc9f45de8b.webp",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T12:11:16+00:00",
    "category": "models"
   }
  ]
