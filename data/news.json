@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:08:10.520471+00:00",
+ "updated": "2026-11-25T23:05:47.335387+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -108,6 +108,83 @@
   }
  ],
  "items": [
+  {
+   "id": "707319c903aa",
+   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+   "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+   "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-25T22:44:32+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "1ab56cdf65dc",
+   "title": "Разбор OpenAI Codex на Windows и macOS: обрыв на 516 токенах и слив до 1 МБ git diff в обход opt-out",
+   "summary": "В октябре Codex Desktop в режиме ultra стал заметно хуже справляться с кодом: модели начали мгновенно выплёвывать длинные куски текста, промахиваться мимо очевидных вещей, квота улетала быстрее, а сами рассуждения…",
+   "link": "https://habr.com/ru/articles/1112460/?utm_campaign=1112460&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/26/74/58/2674589df737a266ac6860c266c5ed30.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T22:16:16+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a00a30c4b098",
+   "title": "Как мы делали LLM‑бота для ЖКХ, который работает полностью в закрытом контуре",
+   "summary": "Как мы заменили скриптового робота с 60 сценариями на LLM‑бота, который работает полностью в закрытом контуре, отвечает голосом и текстом в пяти каналах и закрывает 72% обращений без оператора.",
+   "link": "https://habr.com/ru/articles/1112458/?utm_campaign=1112458&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/2a/92/f7/2a92f77e839d8d2091167c3771ce6e89.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-25T22:15:02+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ceecf9e348f1",
+   "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+   "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users.",
+   "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375%2C11.97652241473%2C93.788122558594%2C75.148782257541&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-25T21:51:26+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ae1959ce5ce6",
+   "title": "Когда одной видеокарты мало: как я объединил три ноутбука для запуска локальных LLM",
+   "summary": "Пару недель назад я вспомнил про свой старый игровой ноутбук ASUS ROG с RTX 2070 и решил повозиться с локальными нейронками. Почистил его, обновил ОС, установил Ollama и запустил Qwen 3.5:9B.",
+   "link": "https://habr.com/ru/articles/1112452/?utm_campaign=1112452&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/0c/29/25/0c29258730fe2089be65d122a2037288.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-25T21:46:28+00:00",
+   "category": "models"
+  },
+  {
+   "id": "827720b4f46a",
+   "title": "Разработка системы мониторинга терминалов: от C# к Node.js, Protobuf и AI‑аналитике",
+   "summary": "Агент на устройстве, бинарные сообщения, команды через очередь и передача логов по частям. Показываю, как это устроено в разрабатываемой системе мониторинга, что уже работает и что ещё требует доработки.",
+   "link": "https://habr.com/ru/articles/1112448/?utm_campaign=1112448&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f7/8e/f9/f78ef9106f6e4133868c03e0fe6b2ef8.gif",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-25T21:40:08+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "b00d51eea623",
+   "title": "До цифрового апокалипсиса остались считанные дни — если верить слухам о взломе RSA",
+   "summary": "На Reddit в одном сообщении собрали высказывания трёх экспертов в области криптографии о появившихся около десяти дней назад многочисленных слухах, будто бы OpenAI и Anthropic нашли способ факторизовать большие целые…",
+   "link": "https://3dnews.ru/1151819",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/26/1151819/rsa_end_00.png",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-25T21:31:00+00:00",
+   "category": "other"
+  },
   {
    "id": "bf32abdcd127",
    "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
@@ -4430,83 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-22T11:20:00+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "5dafed3b9694",
-   "title": "tiny-voca-ru: русский голос в 21 мегабайте",
-   "summary": "TL;DR.",
-   "link": "https://habr.com/ru/articles/1110838/?utm_campaign=1110838&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/bf/c0/8b/bfc08bbb7d500190d1e65fd1d7493a4a.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T11:12:35+00:00",
-   "category": "other"
-  },
-  {
-   "id": "fa9fd258dbb9",
-   "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
-   "summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code.",
-   "link": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/05/ai_and_math.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-22T11:08:31+00:00",
-   "category": "business"
-  },
-  {
-   "id": "31c336541238",
-   "title": "Banks Have Had It Up to Here With Your AI Agent",
-   "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
-   "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-   "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-22T11:00:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "3af4a29d8838",
-   "title": "Перестаньте учить каждое незнакомое слово. Как научиться читать на английском",
-   "summary": "Примерно восемь лет назад я решил совместить два полезных дела: разобраться в JavaScript поглубже и заодно подтянуть английский. Нашел техническую книгу в оригинале, открыл первую главу и начал читать.",
-   "link": "https://habr.com/ru/articles/1110784/?utm_campaign=1110784&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/6d/ca/6b/6dca6b60e0e2165cc945718e4ca04045.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T09:57:32+00:00",
-   "category": "other"
-  },
-  {
-   "id": "8382a3cd890e",
-   "title": "У Китая заканчиваются деньги на ИИ: местным разработчикам всё труднее догонять американских конкурентов",
-   "summary": "Пока Anthropic и другие ИИ-гиганты Кремниевой долины привлекают десятки миллиардов долларов инвестиций, их китайские конкуренты изо всех сил пытаются не отставать в финансовом плане.",
-   "link": "https://3dnews.ru/1151650",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/22/1151650/528.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-22T09:57:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "c4e40287f1a8",
-   "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
-   "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency.",
-   "link": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/OpenAI-Logo.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-22T09:41:37+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0cc8fa1ba6b1",
-   "title": "Lexometrica Ground Truth: 15 LLM на 30 кейсах по практике ВС РФ",
-   "summary": "Рейтинги языковых моделей обычно читают как турнирную таблицу.",
-   "link": "https://habr.com/ru/articles/1110824/?utm_campaign=1110824&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/55/cd/a9/55cda95d6317b56bb6bd99b36c068152.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-22T09:25:45+00:00",
-   "category": "models"
   }
  ]
 }
