@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:07:59.008548+00:00",
+ "updated": "2026-11-25T01:30:09.046332+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,39 @@
   }
  ],
  "items": [
+  {
+   "id": "05f887d0221c",
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal…",
+   "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-25T00:12:02+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "51ecb190edf1",
+   "title": "[Перевод] Дата-центры для ИИ. Кто на самом деле за них платит?",
+   "summary": "По данным специализирующегося на энергетике аналитического центра Cleanview, суммарная мощность дата-центров в США составляет около 65 гигаватт.",
+   "link": "https://habr.com/ru/articles/1111976/?utm_campaign=1111976&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/webt/0d/5b/ca/0d5bcac50a947148b0c785610d1982ff.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-24T23:52:10+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "c380f1e9589a",
+   "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+   "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+   "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+   "image": "https://media.wired.com/photos/6b05a2cb470266bfec0ce9be/master/pass/GettyImages-2306037065.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-24T23:39:04+00:00",
+   "category": "hardware"
+  },
   {
    "id": "7a5947019eec",
    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
@@ -4474,39 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-20T16:45:16+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "a4262f3a6ce6",
-   "title": "ChatGPT оптимизировала будущие процессоры AMD — GPU стал эффективнее на 14%",
-   "summary": "CPU тоже удалось улучшить, но на несколько процентов Модели искусственного интеллекта OpenAI помогли AMD оптимизировать конструкцию будущих флагманских графических процессоров.",
-   "link": "https://www.ixbt.com/news/2026/11/20/chatgpt-optimizirovala-budushhie-processory-amd-gpu-stal-effektivnee-na-14.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744286/media-0ed21309bd6f3fad6c068c3b357d6bf39d1af1cae2bff1758e25c5587ff952c2.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-20T16:44:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "859ee3ec8c20",
-   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-   "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's…",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305894185.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-20T16:34:13+00:00",
-   "category": "models"
-  },
-  {
-   "id": "23f3d57fc7ab",
-   "title": "Рекордное IPO Anthropic не развеяло опасения по поводу ИИ — биржевые индексы упали по всему миру",
-   "summary": "Акции бигтехов возглавили очередную волну снижения на рынках Азии и Европы.",
-   "link": "https://3dnews.ru/1151609",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151609/stock-market-glasses-unsplash.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-20T16:28:00+00:00",
-   "category": "business"
   }
  ]
 }
