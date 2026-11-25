@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:06:24.069720+00:00",
+ "updated": "2026-11-25T21:08:10.520471+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -108,6 +108,105 @@
   }
  ],
  "items": [
+  {
+   "id": "bf32abdcd127",
+   "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+   "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report.",
+   "link": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/us_china.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-25T20:51:02+00:00",
+   "category": "models"
+  },
+  {
+   "id": "32d625604948",
+   "title": "США захлопнули лазейку для удалённого обучения китайского ИИ — теперь ускорители Blackwell B300 некуда девать",
+   "summary": "Американские ограничения на доступ китайских компаний к передовым ускорителям Nvidia ударили по рынку серверного оборудования: продавцы начали избавляться от крупных партий чипов, включая новейшие B300.",
+   "link": "https://3dnews.ru/1151818",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/25/1151818/6575.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-25T20:34:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "27547b04a9f0",
+   "title": "Санкции США не в силах остановить торговлю чипами Nvidia в Китае — там открыто продают даже новейшие Blackwell B300",
+   "summary": "Несмотря на американские экспортные ограничения, в Китае по-прежнему можно сравнительно свободно приобрести новейшие ускорители Nvidia для разработки систем искусственного интеллекта.",
+   "link": "https://3dnews.ru/1151817",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/25/1151817/china_nv.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-25T20:18:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "9136aa5e82c2",
+   "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+   "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems.",
+   "link": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/09/anthropic_amodei.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-25T20:15:50+00:00",
+   "category": "business"
+  },
+  {
+   "id": "8337cb13655b",
+   "title": "Какая модель Gemini 4 лучше: Hydrogen, Neon, Carbon или Argon – разбор, бенчмарки и доступ",
+   "summary": "Gemini 4 Neon вышел 18 ноября. Одни называют её лучшей моделью Google, другие напоминают, что есть ещё Carbon, Hydrogen и Argon. Чем же они различаются?",
+   "link": "https://habr.com/ru/companies/gptunnel/articles/1112424/?utm_campaign=1112424&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ff/99/dc/ff99dcf81c063b80340c07220bc16414.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T20:15:40+00:00",
+   "category": "models"
+  },
+  {
+   "id": "dc85126b0ac7",
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-25T20:03:27+00:00",
+   "category": "other"
+  },
+  {
+   "id": "fb5a7d58c9a9",
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+   "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-25T19:54:57+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "78d331cfe3fe",
+   "title": "Китай в российской обертке: проверил Алису, GigaChat 3.5 и T-Pro на реальных задачах",
+   "summary": "Еще пару лет назад Алису и GigaChat открывали в основном случайно, но к концу 2026 года 21 зарубежный сервис закрыл доступ из России, а Anthropic начала требовать паспорт и селфи.",
+   "link": "https://habr.com/ru/articles/1112420/?utm_campaign=1112420&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b5/f8/ce/b5f8ce18991fa03ec116b708d790d7a5.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T19:52:16+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "00d3c793baf9",
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+   "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-25T19:44:24+00:00",
+   "category": "models"
+  },
   {
    "id": "868243647e70",
    "title": "OpenAI заявила, что нашла математический предел скорости умножения матриц",
@@ -4408,105 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-22T09:25:45+00:00",
    "category": "models"
-  },
-  {
-   "id": "dca0c71ed1df",
-   "title": "Домашняя фотостудия с ИИ: обучение LoRA, примерка одежды и стилист в Imagecaster",
-   "summary": "Локальная ИИ-фотостудия: как обучить LoRA на своих фотографиях, примерить одежду, создать образы с личным стилистом и устроить красивую фотосессию. В статье — примеры результатов и список используемых инструментов.",
-   "link": "https://habr.com/ru/articles/1110810/?utm_campaign=1110810&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/72/2a/80/722a80af1114f96d787cf2fed3de1904.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T07:54:13+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "e88e7dbab661",
-   "title": "Если долго смотреть в глубину",
-   "summary": "Я один делаю программу-компаньон для Euro Truck Simulator 2 — рацию «Канал 15».",
-   "link": "https://habr.com/ru/articles/1110800/?utm_campaign=1110800&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110800/7ca887f104921569d5c2ae0b559d5a2b/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T06:49:47+00:00",
-   "category": "other"
-  },
-  {
-   "id": "07394813ec57",
-   "title": "«Ого! Это круто!», «Я думал, что это ИИ», «Графика лучше, чем в GTA 6». Новая визуализация Tesla выглядит впечатлила пользователей",
-   "summary": "Вышло обновление Full Self-Driving версии 15 Компания запустила обновление Full Self-Driving версии 15, главным новшеством которого стала генеративная визуализация в реальном времени.",
-   "link": "https://www.ixbt.com/news/2026/11/22/ogo-eto-kruto-ia-dumal-cto-eto-ii-grafika-lucse-cem-v-gta-6-novaia-vizualizaciia-tesla-vygliadit-vpecatlila-polzovatelei.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744827/media-b54d6affe912c24fca5ddddd83c26b8aa28e7d17560403111a03cda1ab69816a.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T05:03:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "de5cd1a6d51d",
-   "title": "Perplexity and Intelligence",
-   "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-   "link": "https://openai.com/index/perplexity-and-intelligence",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-22T00:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "8d54d4add32f",
-   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-21T21:37:10+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "127326b87b53",
-   "title": "A tale of two Nvidias",
-   "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-21T21:07:42+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "c00fb9108da4",
-   "title": "«Наши две флагманские языковые модели входят в число лучших в мире». Проверяем по открытому рейтингу",
-   "summary": "«Входят в число лучших в мире»: сверяем заявление с открытым рейтингом Есть простой способ проверить громкие заявления о нейросетях — открытый рейтинг, в котором реальные пользователи вслепую выбирают лучший ответ из…",
-   "link": "https://habr.com/ru/articles/1110766/?utm_campaign=1110766&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8f/3b/02/8f3b02c867c0a5ef18c9ad00d97ee225.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T20:29:08+00:00",
-   "category": "models"
-  },
-  {
-   "id": "234da3fc1867",
-   "title": "The UN fails to agree on rules regulating ‘killer robots’",
-   "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings…",
-   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0%2C11.089604074363%2C100%2C77.820791851273&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-21T20:03:37+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "7ae580f685f3",
-   "title": "Что происходит с профессией разработчика: мой опыт и данные индустрии",
-   "summary": "Как это началось у нас Я работаю в команде разработки примерно из двух десятков человек: разработчики на 1С и смежных стеках, несколько тестировщиков и аналитиков.",
-   "link": "https://habr.com/ru/articles/1110762/?utm_campaign=1110762&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/4c/a8/98/4ca8989c2cdd316fc24ca56599bbe77a.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T19:19:53+00:00",
-   "category": "other"
   }
  ]
 }
