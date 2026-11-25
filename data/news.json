@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:25:04.863989+00:00",
+ "updated": "2026-11-25T11:09:13.970332+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 3
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "source": "OpenAI",
@@ -108,6 +108,149 @@
   }
  ],
  "items": [
+  {
+   "id": "eb1eafada42c",
+   "title": "ИИ-учёных будут обучать на 44 млрд результатов реальных экспериментов: стартап Leash Biosciences привлёк $11 млн",
+   "summary": "Cоздана автоматизированная лаборатория, которая уже проверила 6,3 млн молекул почти на 1000 белковых мишенях.",
+   "link": "https://www.ixbt.com/news/2026/11/25/ii-ucenyx-budut-obucat-na-44-mlrd-rezultatov-realnyx-eksperimentov-startap-leash-biosciences-privlek-11-mln.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746261/media-9dd7d5df1d6254b6d4720eab294f3af8404c4c013d2d5fbc2565d330f1721eff.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-25T11:07:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "f27b156bf3f1",
+   "title": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
+   "summary": "MIT researchers have developed a method that lets AI climate models get by with a single training run instead of the usual six to eight.",
+   "link": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/mit_climate.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-25T10:47:51+00:00",
+   "category": "models"
+  },
+  {
+   "id": "de3f84f3a57a",
+   "title": "ChatGPT отказался рисовать кровавый алтарь, а с Codex я сделал расчленёнку в Unreal Engine",
+   "summary": "Генератор картинок OpenAI отказался показать повреждённый алтарь из моей игры. А с Codex от той же OpenAI я сделал сцену, где у чудовища выпадают кишки. Показываю запрос, отказ и запись из Unreal Engine.",
+   "link": "https://habr.com/ru/articles/1111876/?utm_campaign=1111876&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cf/da/25/cfda2565f45c1451cb1e70ea58766bac.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T10:42:04+00:00",
+   "category": "other"
+  },
+  {
+   "id": "e1c4f653ba85",
+   "title": "Даже аналоговые микросхемы теперь проектирует ИИ: в MIT научили небольшую модель работать как инженер",
+   "summary": "Исследователи Массачусетского технологического института (MIT) разработали метод SLIC (Small LM Iterating on Circuits), позволяющий обучать небольшие языковые модели проектированию и оптимизации аналоговых интегральных…",
+   "link": "https://3dnews.ru/1151790",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/25/1151790/analog_ai.png",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-25T10:42:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b4278795244d",
+   "title": "В Epochal создали «машину времени» для нейросетей",
+   "summary": "Стартап Epochal представил AI Time Machine — инструмент, который имитирует исторические интернет‑среды для прогнозного моделирования. Компания смогла проиндексировать более триллиона веб‑страниц 1990-х годов.",
+   "link": "https://habr.com/ru/articles/1112170/?utm_campaign=1112170&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f5/98/b6/f598b688df0cbec05c1af03e9d08414b.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T10:37:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f0ec00074164",
+   "title": "Не самая топовая Gemini 4 Neon обогнала флагман Google",
+   "summary": "Три месяца назад Google DeepMind списывали со счетов, а сейчас в X пишут ему извинения. 18 ноября Google выпустила Gemini 4 Neon.",
+   "link": "https://habr.com/ru/articles/1112168/?utm_campaign=1112168&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/1a/4b/68/1a4b68686533541a671d7cf0dcb6e73f.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T10:23:36+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d0a3a7f662b5",
+   "title": "An Indic Voice Agent with CUGA",
+   "summary": "",
+   "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/67fe070a4e8cc28ba346f53c/-QNcrxSDbjI8VOCBlhi-C.png",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-25T10:22:09+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "e861ae4584dd",
+   "title": "В LibreOffice ужесточили правила в отношении ИИ‑кода",
+   "summary": "Организация The Document Foundation, курирующая развитие пакета LibreOffice, объявила о введении более строгих правил в отношении программного кода, созданного с помощью ИИ.",
+   "link": "https://habr.com/ru/articles/1112154/?utm_campaign=1112154&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/be/8b/62/be8b62c93994e03878df08b3b0248f94.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T10:17:58+00:00",
+   "category": "other"
+  },
+  {
+   "id": "43afcbf3cf4d",
+   "title": "GigaChat API на практике: токен на 30 минут, сертификат Минцифры, файлы и JSON",
+   "summary": "Я подключал GigaChat к сервису на Node.js, который уже работал с OpenAI-совместимыми провайдерами. Казалось, хватит сменить base URL и ключ. На деле отличий набралось шесть, и каждое ломает код, написанный под OpenAI.",
+   "link": "https://habr.com/ru/articles/1112158/?utm_campaign=1112158&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a3/a4/23/a3a4235ff3977bb797a77b2db4ece65b.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T10:14:07+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "a92a533b0031",
+   "title": "История изменений в Директе: выгрузка в Excel в 3026 году",
+   "summary": "Нужно было разобрать, что прошлый подрядчик менял в аккаунте клиента и как это сказалось на заявках.",
+   "link": "https://habr.com/ru/articles/1112150/?utm_campaign=1112150&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d9/a4/8b/d9a48b33c38dcd2f5cfbe5e08559bf84.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T10:00:46+00:00",
+   "category": "other"
+  },
+  {
+   "id": "cb4782794f2f",
+   "title": "AI is straining America’s open records systems",
+   "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer.",
+   "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "lang": "en",
+   "date": "2026-11-25T10:00:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "16430f7b1db8",
+   "title": "Автономный агент Dots от OpenAI собрал мне Midnight Commander, но не дал мне в нём покомандовать, добровольно…",
+   "summary": "Оказывается, Dots помимо всего прочего выделяет пользователю «вкусную» виртуальную машину: CPU: 9 логических процессоров, Intel Xeon Platinum 8573C. RAM: 9,7 ГиБ всего, 8,8 ГиБ было доступно. Свопа нет.",
+   "link": "https://habr.com/ru/articles/1112148/?utm_campaign=1112148&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/51/bb/f1/51bbf1b838cc9e395eed7252a2bb58bb.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T09:57:17+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "b6aaf626b318",
+   "title": "Робот-пылесос Roborock Saros 20 Flow с ИИ и станцией самоочистки — эффективное решение реальных бытовых задач",
+   "summary": "Робот-пылесос Roborock Saros 20 Flow с поддержкой ИИ сделает процесс уборки по-настоящему комфортным, обеспечив при этом высокое качество очистки без «слепых» зон.",
+   "link": "https://3dnews.ru/1151411",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/17/1151411/1.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-25T09:47:00+00:00",
+   "category": "other"
+  },
   {
    "id": "7693bcfd7371",
    "title": "Агент убил сам себя, кавычка сломала дашборд, а мы потеряли первую версию: как мы делали мигратор BI-отчетов Morphism AI",
@@ -4364,149 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-21T06:11:34+00:00",
    "category": "tools"
-  },
-  {
-   "id": "5572cbbab701",
-   "title": "Модель заменили, точность не упала",
-   "summary": "Допустим, я заменил одну модель в системе. На своих задачах она не хуже прежней. Но раньше пустой ответ означал «проверил и ничего не нашёл», а теперь — «не проверял». Как её коллегам заметить разницу?",
-   "link": "https://habr.com/ru/articles/1110536/?utm_campaign=1110536&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a4/64/cc/a464ccfafa9de38ad8047086831586da.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T06:07:33+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d6b536ae0c10",
-   "title": "Идеальный диплом",
-   "summary": "История бедного студента, который просто хотел сдать диплом Осторожно: после прочтения ваша оригинальность может оказаться под сомнением!",
-   "link": "https://habr.com/ru/articles/1109984/?utm_campaign=1109984&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/dc/bc/99/dcbc994ce1bb19dbf8994aa74baedaa5.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T06:00:32+00:00",
-   "category": "other"
-  },
-  {
-   "id": "d7d2a3a86512",
-   "title": "Как я собрала контент-заводик для пловцовой команды на Google-табличке и ChatGPT",
-   "summary": "Привет! Я Мария. Работаю в ИТ и на волонтёрских началах капитаню в любительской команде пловцов. В сезоне 2026 я собрала для этой моей второй \"работы\" небольшой контент-заводик.",
-   "link": "https://habr.com/ru/articles/1108046/?utm_campaign=1108046&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e9/8c/c5/e98cc5754f1da048152a616c428d4778.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T05:47:59+00:00",
-   "category": "other"
-  },
-  {
-   "id": "d96b13d24e5a",
-   "title": "Управление одной кнопкой. Создатели Nothing Phone выпускают новый гаджет 8 декабря",
-   "summary": "Устройство должно стать помощником для работы с голосовой информацией Компания Nothing объявила дату презентации своего первого устройства, изначально разработанного для работы с искусственным интеллектом.",
-   "link": "https://www.ixbt.com/news/2026/11/21/upravlenie-odnoi-knopkoi-sozdateli-nothing-phone-vypuskaiut-novyi-gadzet-8-dekabria.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744422/media-8dadf5606249a7161e699c8aaca0da693897be17fb2919494dc92e8ed97cbe41.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-21T05:33:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "e6892524297f",
-   "title": "Из разработки в FDE. Почему я ставлю на инженеров, которые сами идут к заказчику",
-   "summary": "На новом рынке труда я делаю ставку на инженеров, которые умеют разобраться в задачах заказчика, написать код и довести решение до внедрения.",
-   "link": "https://habr.com/ru/articles/1110540/?utm_campaign=1110540&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a6/39/41/a6394110a098c4d78fed1825e55fff19.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T05:30:30+00:00",
-   "category": "other"
-  },
-  {
-   "id": "a7d20c80270e",
-   "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-   "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
-   "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-   "image": "https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-20T23:24:02+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "4687080606f0",
-   "title": "Как я свой терминал делал с блэкджеком и двумя Fable",
-   "summary": "Я обычно работаю над несколькими проектами сразу, так что вопрос «а сколько терминал будет жрать, если я открою их двадцать?» для меня вполне практический. Особенно когда этот терминал я сам решил сделать на Electron :)",
-   "link": "https://habr.com/ru/articles/1110564/?utm_campaign=1110564&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a3/d2/b8/a3d2b8efda093f933844475be22a4621.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T22:48:35+00:00",
-   "category": "other"
-  },
-  {
-   "id": "5a49fd4a2d77",
-   "title": "Google rolls out new search homepage with AI chat history and no search button",
-   "summary": "Google's flagship search experience is evolving into an AI experience with stunning speed.",
-   "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-20T21:58:29+00:00",
-   "category": "other"
-  },
-  {
-   "id": "c4b0222f29f2",
-   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-   "summary": "Meta’s executives are rethinking the company’s original goal of achieving net-zero emissions by 2030.",
-   "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-20T21:47:10+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "c8c71ad2126f",
-   "title": "Доказательство гипотезы Римана с помощью ИИ",
-   "summary": "Прямо сейчас происходит историческое событие! Речь не про GTA VI, которая установила рекорд индустрии развлечений и заработала $3,79 млрд за первые сутки продаж.",
-   "link": "https://habr.com/ru/articles/1110558/?utm_campaign=1110558&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ac/84/79/ac8479d016964400e4008d093e6cd6c3.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-20T21:31:59+00:00",
-   "category": "business"
-  },
-  {
-   "id": "65346d90fa26",
-   "title": "Micron собралась поставить память прямо на процессоры — многослойная DRAM появится в 2028–2029 годах",
-   "summary": "Многослойная оперативная память, размещаемая непосредственно поверх чипов ИИ-ускорителей, может появиться на рынке в 2028–2029 годах.",
-   "link": "https://3dnews.ru/1151620",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/20/1151620/micron_boise_800x600.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-20T21:30:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "3d389eeb8df2",
-   "title": "Что дают графовые нейросети сверх истории событий: эксперименты на Лиме и Чикаго",
-   "summary": "По истории зарегистрированных преступлений предсказываем, в каких частях города на следующий день произойдёт больше событий. На данных Лимы и Чикаго сравниваем экспоненциальное сглаживание, GRU, TCN и графовые нейросети.",
-   "link": "https://habr.com/ru/articles/1110522/?utm_campaign=1110522&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110522/79e63071ec954f7d6ce271b9c74d88fc/",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-20T21:01:21+00:00",
-   "category": "other"
-  },
-  {
-   "id": "99727b65c290",
-   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-   "summary": "Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services to find out what happened to sensitive information entrusted to them.",
-   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-20T20:59:08+00:00",
-   "category": "business"
   }
  ]
 }
