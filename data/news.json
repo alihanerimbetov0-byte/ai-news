@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:14:27.872910+00:00",
+ "updated": "2026-11-25T19:06:24.069720+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -108,6 +108,138 @@
   }
  ],
  "items": [
+  {
+   "id": "868243647e70",
+   "title": "OpenAI заявила, что нашла математический предел скорости умножения матриц",
+   "summary": "Показатель сложности умножения квадратных матриц равен \\(9/4\\), а не может стремиться к 2, как предполагала гипотеза OpenAI опубликовала математическую работу, в которой утверждает, что показатель сложности умножения…",
+   "link": "https://www.ixbt.com/news/2026/11/25/openai-zaiavila-cto-nasla-matematiceskii-predel-skorosti-umnozeniia-matric.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746403/media-3d2dfada0b8d657ce61421e914cccc8b465b2ad560524fcd01d1e1cac0c825b2.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-25T19:03:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "f9e20fe35843",
+   "title": "Миллиарды зависли: новые антикитайские ограничения США заморозили инвестиции в азиатские дата-центры",
+   "summary": "Кредиторы и инвесторы поставили на паузу многомиллиардные сделки по финансированию дата-центров в Азиатско-Тихоокеанском регионе после того, как США ужесточили правила экспорта передовых ИИ-ускорителей.",
+   "link": "https://3dnews.ru/1151808",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/25/1151808/sm.data_chips_center_title.800.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-25T18:56:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "37b5c9ba9326",
+   "title": "Where scientists draw the line on AI agents",
+   "summary": "",
+   "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/F32BgZC_rj0kg99apJlto.png",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-25T18:52:55+00:00",
+   "category": "research"
+  },
+  {
+   "id": "ba24a311cef8",
+   "title": "SpaceX получила разрешение на запуск миллиона спутников для космических ИИ-дата-центров",
+   "summary": "Система Starmind должна обрабатывать данные прямо на орбите, используя солнечную энергию, а передавать результаты на Землю через лазерные каналы связи Федеральная комиссия по связи США (FCC) разрешила SpaceX развернуть…",
+   "link": "https://www.ixbt.com/news/2026/11/25/spacex-polucila-razresenie-na-zapusk-milliona-sputnikov-dlia-kosmiceskix-ii-data-centrov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746400/media-8e5dfa0c86587969a53fddb4f371589a6c3922feaed47aac202f014a2b457f2f.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-25T18:51:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "4ca06eb27dd9",
+   "title": "Как сравнить страницы из Search Console и мониторинга ответов нейросетей и почему расхождение ещё не означает ошибку",
+   "summary": "Список страниц из Search Console ИИ-мониторинг не обязан повторять: условия попадания URL в эти источники различаются. Само расхождение ещё не доказывает ошибку мониторинга.",
+   "link": "https://habr.com/ru/articles/1112404/?utm_campaign=1112404&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/14/61/b6/1461b6468d1ebcc8fdf77b8fe1d71c0b.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T18:37:40+00:00",
+   "category": "other"
+  },
+  {
+   "id": "1abbeffa2ac6",
+   "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+   "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data.",
+   "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-25T18:22:02+00:00",
+   "category": "models"
+  },
+  {
+   "id": "4f0b7bfbd5a5",
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+   "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-25T18:11:46+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "38988953e46b",
+   "title": "Запущен проект по коллективной расшифровке манускрипта Войнича при помощи ИИ‑агентов",
+   "summary": "Пользователь github Ayan Bandyopadhyay запустил проект Voynich Swarm и специальный сайт для этого проекта. Он посвящён эксперименту по организации коллективного научного исследования с помощью роя ИИ‑агентов.",
+   "link": "https://habr.com/ru/articles/1112398/?utm_campaign=1112398&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ec/a4/a0/eca4a0ed0a4b5ce5615c57208cb1f354.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T18:10:40+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "3c8ad07639e9",
+   "title": "Один сотрудник вместо четырех. Как ИИ помог готовить КП за 5 минут",
+   "summary": "Представим альтернативную версию «Железного человека». Тони Старк вместо оружия начал выпускать полимерпесчаные люки. В отделе продаж остался только Сергей. – Джарвис, автоматизируй отдел продаж. – С чего начнем, сэр?",
+   "link": "https://habr.com/ru/articles/1112394/?utm_campaign=1112394&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/25/82/f5/2582f54887ded42ecf1c0b617ea0a0e0.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T18:03:27+00:00",
+   "category": "other"
+  },
+  {
+   "id": "6359c2ce0900",
+   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative.",
+   "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0%2C10.756615395926%2C100%2C78.486769208148&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-25T17:44:51+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "16ddaf7683c8",
+   "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+   "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-25T17:35:58+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "d6d6084d387b",
+   "title": "Как использовать рейтинг брендов в ChatGPT для продвижения в Рунете и что проверять на своих запросах",
+   "summary": "Продвижение сайта в Рунете нельзя строить только на месте бренда в рейтинге ChatGPT: оно не объясняет причину упоминаний. Рейтинг Ahrefs даёт гипотезы, которые нужно проверять на вопросах своей аудитории.",
+   "link": "https://habr.com/ru/articles/1112382/?utm_campaign=1112382&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d3/43/3d/d3433dd7bdb1e1cb00e8b5033473c063.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-25T17:15:25+00:00",
+   "category": "other"
+  },
   {
    "id": "148a75b422c2",
    "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
@@ -4375,138 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-21T19:19:53+00:00",
    "category": "other"
-  },
-  {
-   "id": "caa7b980e23b",
-   "title": "15 субагентов Claude Code писали систему. Принял её по уликам, а не по отчётам",
-   "summary": "Свою производственную систему я писал командой из 15 субагентов Claude Code: тех-лид на Opus, бэкенд и Android, QA, верификатор сборки и контролёр релиза.",
-   "link": "https://habr.com/ru/articles/1110754/?utm_campaign=1110754&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110754/635a4f1ca9dc07fb42ddc8463ce95ce9/",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-21T19:06:01+00:00",
-   "category": "models"
-  },
-  {
-   "id": "031c9e0efc7d",
-   "title": "Гипотезу Римана попытались доказать дважды с публикациями в один день: с ИИ и без него",
-   "summary": "На фоне заявления сотрудника Anthropic о доказательстве с помощью Claude президент Американского математического общества опубликовал независимую работу доказательства без ИИ 20 ноября в математическом сообществе…",
-   "link": "https://www.ixbt.com/news/2026/11/21/gipotezu-rimana-popytalis-dokazat-dvazdy-s-publikaciiami-v-odin-den-s-ii-i-bez-nego.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744721/media-4ce80679ee99ee853d2053749588dbc7a2a94ac0897731aafa5af4c962a815ca.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-21T17:57:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "01945f6a907c",
-   "title": "Here are the top AI agents that can live in your text messages",
-   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-21T17:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "5a5f6d350b70",
-   "title": "1,6 кВт и экран 4,3 дюйма за $640. Gigabyte встроила в блок питания дисплей больше, чем был у оригинального iPhone",
-   "summary": "Он поддерживает подключение четырех видеокарт Gigabyte начала продажи блока питания AORUS P1600W AI TOP мощностью 1600 Вт, оснащённого встроенным 4,3-дюймовым LCD-дисплеем. В Китае новинку продают за $640.",
-   "link": "https://www.ixbt.com/news/2026/11/21/16-kvt-i-ekran-43-diuima-za-640-gigabyte-vstroila-v-blok-pitaniia-displei-bolse-cem-byl-u-originalnogo-iphone.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744699/media-010e89924766f1a21ce5114513c73a96acbb9b22691df6f5545625d688291b18.webp",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-21T16:50:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "033823f6f4fd",
-   "title": "Nvidia researchers argue huge AI context windows are a dead end",
-   "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative.",
-   "link": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/you-dont-need-long-context-nano-banana-pro.jpg",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-21T16:23:45+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d770c4ef93fe",
-   "title": "Кит уплыл в мир агентов: что на самом деле поменялось в Docker после «Run on trust»",
-   "summary": "Даже Docker, который казался вечным фундаментом под любым проектом, меняется вслед за AI. 19 ноября компания сменила кита и слоган, а первый экран docker.com теперь целиком про агентов.",
-   "link": "https://habr.com/ru/articles/1110714/?utm_campaign=1110714&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7b/ca/a7/7bcaa7af56aa93ac347ac5d8783ec95d.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T16:11:26+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "a35786f03510",
-   "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
-   "summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god.",
-   "link": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/buddhist_ai_sect.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-21T16:04:29+00:00",
-   "category": "other"
-  },
-  {
-   "id": "89298d3b7fb0",
-   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-21T16:00:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "2bad4b9dbe84",
-   "title": "Представлен ClawDOS — ИИ‑агент для написания кода в среде DOS",
-   "summary": "Разработчик Рич Акоста совместно с Claude представил открытый проект ClawDOS ( веб-сайт решения ). Это ИИ‑агент для написания кода в среде DOS.",
-   "link": "https://habr.com/ru/articles/1110726/?utm_campaign=1110726&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f5/35/ad/f535ad257158aa049c58c921e13b30e9.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T15:41:21+00:00",
-   "category": "models"
-  },
-  {
-   "id": "a9f34b76fcc6",
-   "title": "Can Anthropic afford to put safety first?",
-   "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life.",
-   "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-21T15:00:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "e74727ec8af7",
-   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-   "summary": "Chess.com is ready to go a lot bigger than chess.",
-   "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-21T14:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "b32f30b955b3",
-   "title": "Gemini 4 Neon догнала Opus 5.5, но релиз почти никто не заметил",
-   "summary": "Неделю назад я бы рассмеялся в лицо любому, кто сказал бы, что я буду хвалить нейросеть Google. Рынок давно сжался до Opus 5.5 наверху и вечных споров с ChatGPT внизу.",
-   "link": "https://habr.com/ru/articles/1110692/?utm_campaign=1110692&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/77/fa/1e/77fa1e983b0bc420493a890c9cf1c29e.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-21T13:49:12+00:00",
-   "category": "models"
   }
  ]
 }
