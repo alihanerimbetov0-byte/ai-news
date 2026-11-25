@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:30:09.046332+00:00",
+ "updated": "2026-11-25T03:09:28.488773+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 11
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 3
   },
   {
    "source": "Google AI",
