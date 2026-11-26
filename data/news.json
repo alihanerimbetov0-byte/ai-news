@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:29:44.037910+00:00",
+ "updated": "2026-11-26T03:07:52.645310+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "source": "Ars Technica",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "63cfdbdd4fcb",
+   "title": "Бесплатный AI-агент из обычного браузерного чата: как я устал от счетов за токены и правок, ломающих проект",
+   "summary": "Большинство разработчиков уже давно используют нейросети через обычный браузер: Gemini (в том числе через Google AI Studio), Claude, ChatGPT, DeepSeek, Qwen.",
+   "link": "https://habr.com/ru/articles/1112488/?utm_campaign=1112488&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/18/e5/4e/18e54ed610bc64a187bc6cb29a010873.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T01:58:50+00:00",
+   "category": "models"
+  },
   {
    "id": "846cc8e368f5",
    "title": "Запрещай, запрещай, а остальное всё — дребедень. Песня о безопаснике Бобби и нейросетях",
@@ -4496,17 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-22T12:01:11+00:00",
    "category": "tools"
-  },
-  {
-   "id": "3179901b8f2d",
-   "title": "Куда я потратил грант Яндекса: пишем с нуля C++/CUDA-движок для LLM, который обгоняет llama.cpp на старой RTX 2080 Ti",
-   "summary": "В начале 2026 года Яндекс объявил грант на лучшие open-source проекты на своей новой платформе SourceCraft.",
-   "link": "https://habr.com/ru/articles/1110758/?utm_campaign=1110758&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1110758/b0496eeb0ded362bb98dddbc06ab3941/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T11:48:33+00:00",
-   "category": "models"
   }
  ]
 }
