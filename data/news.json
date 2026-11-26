@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:15:56.308614+00:00",
+ "updated": "2026-11-26T17:19:03.583951+00:00",
  "categories": [
   {
    "id": "models",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "source": "OpenAI",
@@ -108,6 +108,116 @@
   }
  ],
  "items": [
+  {
+   "id": "4f73fc673759",
+   "title": "OpenAI нашла баг в лимитах GPT-6.2. Неделю он работал на пользователей",
+   "summary": "Целую неделю ошибка дарила подписчикам лишние запросы, и OpenAI нашла её сама.",
+   "link": "https://habr.com/ru/articles/1112816/?utm_campaign=1112816&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/44/7f/96/447f96f28c4c20ad5973598fff179857.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T17:05:03+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6969ee9ea59f",
+   "title": "Почему сотрудники обходят корпоративный ИИ, как изменить ситуацию и стоит ли",
+   "summary": "Компания запускает корпоративный ИИ-инструмент, чтобы сотрудники работали быстрее.",
+   "link": "https://habr.com/ru/companies/cloud_ru/articles/1112680/?utm_campaign=1112680&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f6/4f/4d/f64f4d5135c7e7f0dee10b0588954ebb.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T16:54:52+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "55eaec36c792",
+   "title": "Как я с Claude английский изучаю",
+   "summary": "Находясь всё ещё в мечтах о получении работы на валютной удаленке, решил освежить свои знания английского языка. Хотелось одновременно прокачивать и словарный запас, и разговорный английский , и грамматику.",
+   "link": "https://habr.com/ru/articles/1112810/?utm_campaign=1112810&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1112810/a56e219d6eb9e8a872f0fc023fad2701/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T16:37:46+00:00",
+   "category": "models"
+  },
+  {
+   "id": "11f21ecd847d",
+   "title": "«Сбер» представил семейство ИИ-роботов «Грин» 2.0 — некоторые из них даже стали участниками ледового шоу",
+   "summary": "На международной конференции AI Journey «Сбер» представил новую линейку роботов, построенных на нейросетевой платформе GreenVLA 2.0 собственной разработки.",
+   "link": "https://3dnews.ru/1151857",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/26/1151857/robots-sber-1.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-26T16:35:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "7f62ad84552c",
+   "title": "Как проверить, видят ли боты нейросетей текст сайта, и найти техническую блокировку",
+   "summary": "Страница открывается в браузере, а получает ли её поисковый ИИ-бот — непонятно. Чтобы проверить доступ сайта для ботов нейросетей, нужны правила обхода, логи и сам HTML.",
+   "link": "https://habr.com/ru/articles/1112806/?utm_campaign=1112806&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/5e/01/b9/5e01b9cfc7af83adf993b65264b2a996.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T16:29:42+00:00",
+   "category": "other"
+  },
+  {
+   "id": "dc5c772800b2",
+   "title": "Citibank разрешил клиентам использовать ИИ‑агентов на свой страх и риск",
+   "summary": "Citibank, третий по величине коммерческий банк в США, обновил условия обслуживания.",
+   "link": "https://habr.com/ru/articles/1112804/?utm_campaign=1112804&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/19/e8/99/19e8992309c361c05a7a08dfbd50d1cd.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T16:20:48+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "e5c5d8632474",
+   "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+   "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-26T16:00:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "9052beabd7a9",
+   "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+   "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data.",
+   "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/us_china.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-26T15:45:08+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ca4c1499eaf4",
+   "title": "«Сбер» представил ИИ-модель GigaChat 4, которая способна самостоятельно решать многошаговые задачи",
+   "summary": "«Сбер» представил на конференции AI Journey большую языковую модель GigaChat 4, способную решать сложные многошаговые задачи, включая разработку плана, проверку промежуточных результатов и исправление ошибок.",
+   "link": "https://3dnews.ru/1151855",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/26/1151855/38.jpeg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-26T15:44:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a7ebeb083c81",
+   "title": "Продукты стало делать легче ⇒ продукты стало делать сложнее",
+   "summary": "Коллега за пару вечеров собрал для команды трекер, который раньше мы бы даже не стали заказывать: обошлись бы Excel.",
+   "link": "https://habr.com/ru/articles/1112374/?utm_campaign=1112374&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/49/bb/70/49bb70b0a7db64d31021509c1b758ddb.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T15:30:55+00:00",
+   "category": "other"
+  },
   {
    "id": "6cc72401083c",
    "title": "В России предложили создать систему независимой проверки доверенного ИИ",
@@ -4397,116 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-23T12:26:00+00:00",
    "category": "tools"
-  },
-  {
-   "id": "ddd44f3daf49",
-   "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
-   "summary": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI.",
-   "link": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/gpt_lean_proof.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-23T12:17:01+00:00",
-   "category": "models"
-  },
-  {
-   "id": "eb944213bf2f",
-   "title": "Learning rate, объём выборки и шум: проверяем теорию сходимости на линейной регрессии",
-   "summary": "Насколько можно доверять формулам из курса оптимизации, когда смотришь на реальные кривые обучения?",
-   "link": "https://habr.com/ru/articles/1111274/?utm_campaign=1111274&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/59/f1/65/59f16520640d5e1bf829771643a366d3.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-23T12:09:48+00:00",
-   "category": "other"
-  },
-  {
-   "id": "d4975a0aab2f",
-   "title": "От категорийных весогабаритов к ML: как создаём модели, чтобы точнее предсказывать стоимость доставки на Авито",
-   "summary": "Всем привет! Меня зовут Владислав Векленко, я дата-сайентист в команде Товаров в Авито . Один из проектов, которым мы занимаемся, связан с улучшением пользовательского опыта доставки товаров на нашей площадке.",
-   "link": "https://habr.com/ru/companies/avito/articles/1110140/?utm_campaign=1110140&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/bf/9c/26/bf9c2661ffcdfb63151f5559dbeafcd0.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-23T12:05:03+00:00",
-   "category": "models"
-  },
-  {
-   "id": "92effb5a3302",
-   "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-   "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
-   "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
-   "image": "https://media.wired.com/photos/6b00ca934909d8ae8eb24f03/master/pass/livestream_ama_ai_safety.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-23T12:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "70a4447641e0",
-   "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
-   "summary": "Buying a new computer in the last few years has meant wading through all manner of AI branding nonsense .",
-   "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Asus-P16-3-1152x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-23T12:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "4ef03a051284",
-   "title": "The Binding of Isaac: Rebirth спустя 12 лет после релиза угодила в ИИ-скандал — фанаты забросали дополнение Repentance+ в Steam негативными отзывами",
-   "summary": "Вышедшее в один день с GTA VI обновление Repentance+ для консольных версий культового роглайка The Binding of Isaac: Rebirth принесло с собой не только долгожданный онлайн, но и сгенерированную ИИ музыку.",
-   "link": "https://3dnews.ru/1151674",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151674/00.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-23T11:59:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0b5d710abe33",
-   "title": "Мультимодальная 3D‑сегментация грузов произвольной формы: как подружить ToF‑камеры и RGB в системах ВГХ",
-   "summary": "Складская логистика сегодня требует мгновенного определения весогабаритных характеристик (ВГХ) прямо на приёмке: длины, ширины, высоты и массы груза.",
-   "link": "https://habr.com/ru/articles/1111258/?utm_campaign=1111258&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111258/639a29fca8dd65e2f6cc5291462dc009/",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-23T11:54:29+00:00",
-   "category": "other"
-  },
-  {
-   "id": "281ee5345da1",
-   "title": "Скиллы — это всего лишь методички для агентов",
-   "summary": "В конце 90-х выходил сериал «Притворщик» (The Pretender), где герой мгновенно мог стать кем угодно — врачом, полицейским, пилотом.",
-   "link": "https://habr.com/ru/articles/1111254/?utm_campaign=1111254&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111254/02566a64f3307a9d243f905890b7f8c2/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T11:46:55+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "d208b7e5305d",
-   "title": "«Это нас задело»: Claude Code всего за полгода задвинул VS Code на второй план, признал глава Microsoft",
-   "summary": "Разработчики всё чаще признаются в том, что перестали пользоваться редактором кода VS Code от Microsoft.",
-   "link": "https://3dnews.ru/1151675",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151675/680.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-23T11:37:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "33355944bc01",
-   "title": "В Москве открылся первый в России банковский офис с цифровым сотрудником",
-   "summary": "Клиентов нового офиса «Сбера» в Москве консультирует фотореалистичный цифровой аватар на основе искусственного интеллекта. Как сообщили в пресс‑службе банка, это первый подобный банковский офис в России.",
-   "link": "https://habr.com/ru/articles/1111246/?utm_campaign=1111246&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/fa/94/79/fa9479f0f74fdea230daf362f1548f26.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T11:31:13+00:00",
-   "category": "other"
   }
  ]
 }
