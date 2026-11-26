@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:05:02.370419+00:00",
+ "updated": "2026-11-26T23:08:46.190550+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "1ee5eda5cb8b",
+   "title": "Разгон LLM модели qwen 3.8 до 40+ токенов",
+   "summary": "Начну с истории очередного LLM сервера и особенностей AMD / ROCm. Но основная тема публикации настройка - оптимизация скорость платформы vLLM при работе с популярной моделью qwen 3.8.",
+   "link": "https://habr.com/ru/articles/1112874/?utm_campaign=1112874&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/24/b1/dd/24b1dd2bd724c7da92d06350ba264358.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T21:19:06+00:00",
+   "category": "models"
+  },
   {
    "id": "94305b427e5a",
    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -4496,17 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-23T13:46:00+00:00",
    "category": "models"
-  },
-  {
-   "id": "70320c02db86",
-   "title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
-   "summary": "US intelligence agencies tracked contacts between Alice Huang and China's Ministry of State Security for over a year, the New York Times reports.",
-   "link": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_logo_glitch.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-23T13:45:32+00:00",
-   "category": "hardware"
   }
  ]
 }
