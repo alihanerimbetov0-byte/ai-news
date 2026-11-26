@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:05:47.335387+00:00",
+ "updated": "2026-11-26T01:29:44.037910+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 4
   },
   {
    "source": "Google AI",
@@ -54,7 +54,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "source": "MIT Tech Review",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "846cc8e368f5",
+   "title": "Запрещай, запрещай, а остальное всё — дребедень. Песня о безопаснике Бобби и нейросетях",
+   "summary": "Помнишь «Остров сокровищ» 1986 года? Посреди мультфильма вдруг выходит хор, и под фортепиано рассказывают историю мальчика Бобби. «С рождения Бобби пай-мальчиком был.",
+   "link": "https://habr.com/ru/articles/1112482/?utm_campaign=1112482&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b0/2b/e3/b02be31d564440cf28afb36d575cd112.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T00:02:41+00:00",
+   "category": "other"
+  },
   {
    "id": "707319c903aa",
    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -4496,17 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-22T11:48:33+00:00",
    "category": "models"
-  },
-  {
-   "id": "cbb4a0ca96d5",
-   "title": "Нейросеть на 367 тысяч параметров уместили на дискету — она отвечает голосом и требует всего 540 КБ оперативной памяти",
-   "summary": "Работает на системах с Intel 486DX Разработчик с ником WollyMonjac создал компактную нейросеть Tiny 2.1, способную работать на компьютерах эпохи DOS — вплоть до систем с процессорами Intel 486DX и Pentium.",
-   "link": "https://www.ixbt.com/news/2026/11/22/neiroset-na-367-tysiac-parametrov-umestili-na-disketu-ona-otvecaet-golosom-i-trebuet-vsego-540-kb-operativnoi-pamiati.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744942/media-db815c2227278e469b27b0e1130436e3feb6c6d9c816620e0b85bb23d80c938b.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T11:20:00+00:00",
-   "category": "hardware"
   }
  ]
 }
