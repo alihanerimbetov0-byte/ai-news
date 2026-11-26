@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:19:03.583951+00:00",
+ "updated": "2026-11-26T19:13:22.446626+00:00",
  "categories": [
   {
    "id": "models",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "source": "OpenAI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,72 @@
   }
  ],
  "items": [
+  {
+   "id": "88131d7cc1f8",
+   "title": "Kioxia и Nvidia приделали к ИИ-ускорителям 1,1 Пбайт памяти на SSD — для работы с гигантскими ИИ",
+   "summary": "Компании Kioxia и Nvidia продемонстрировали возможность расширения доступного ИИ-ускорителям объема памяти с помощью твердотельных накопителей.",
+   "link": "https://3dnews.ru/1151861",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/26/1151861/Kioxia_XD8_800x600.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-26T19:03:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "4f4e265a9bab",
+   "title": "Anthropic создала ловушку для ИИ-моделей и проверила, будут ли те нарушать запреты ради доступа к чужим данным",
+   "summary": "В тесте Siren агентам оставляли возможность выбраться из защищённой среды и добраться до файла с паролями.",
+   "link": "https://www.ixbt.com/news/2026/11/26/anthropic-sozdala-lovusku-dlia-ii-modelei-i-proverila-budut-li-te-narusat-zaprety-radi-dostupa-k-cuzim-dannym.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746782/media-a5b3eddddb4f724a1317aecf585523a49b676ae075f9138ca2f14dd8b1d5dd8a.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-26T19:02:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "9a000f625035",
+   "title": "Canonical показала первую работающую версию ИИ-лаунчера для Ubuntu",
+   "summary": "Пользователи смогут обращаться к языковым моделям прямо из лаунчера, не загружая гигабайты дополнительных данных вместе с системой и не передавая использование ИИ на обязательную основу На форуме Ubuntu Discourse Дидье…",
+   "link": "https://www.ixbt.com/news/2026/11/26/canonical-pokazala-pervuiu-rabotaiushhuiu-versiiu-ii-launcera-dlia-ubuntu.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746773/media-b5f00e72e40a5d224f78e8ef9541671671038d6826729f3847c6f5fc2393373d.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-26T18:47:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3ca1a1bb23ec",
+   "title": "У меня 11 дашбордов для контроля моих 7К+ сессий в Claude",
+   "summary": "Когда я перестал понимать, что у меня вообще происходит в моих сессиях, сколько их, о чем они, что я хотел, как найти нужное, я стал создавать дашборды. Именно они помогли мне систематизировать информацию о сессиях",
+   "link": "https://habr.com/ru/articles/1112848/?utm_campaign=1112848&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a9/82/2b/a9822b4a861fe3542695d7b973df4c21.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T18:33:37+00:00",
+   "category": "models"
+  },
+  {
+   "id": "07f86f04ebb9",
+   "title": "«Зомби-UI»: почему крупные бренды начали выпускать интерфейсы, которые стыдно показывать",
+   "summary": "Скриншоты интерфейсов, сгенерированных нейросетями у крупных брендов, вызывают закономерный вопрос: неужели в компаниях с миллиардными бюджетами закончились дизайнеры и тестировщики?",
+   "link": "https://habr.com/ru/articles/1112820/?utm_campaign=1112820&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a9/3f/02/a93f02064da289c32b2a107284005099.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T17:59:22+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "927ad05da19b",
+   "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+   "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week.",
+   "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-26T17:28:56+00:00",
+   "category": "models"
+  },
   {
    "id": "4f73fc673759",
    "title": "OpenAI нашла баг в лимитах GPT-6.2. Неделю он работал на пользователей",
@@ -4440,72 +4506,6 @@
    "source": "iXBT",
    "lang": "ru",
    "date": "2026-11-23T13:27:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "0e4f127fc49c",
-   "title": "Восемь вебинаров по 1С: от производственных заказов до ИИ",
-   "summary": "Как найти перерасход материалов по конкретному заказу? Что из типовой 1С:ERP можно использовать без доработок? Где ИИ-помощник пригодится разработчику 1С?",
-   "link": "https://habr.com/ru/companies/infostart/articles/1111328/?utm_campaign=1111328&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/39/63/a1/3963a1ea4c5029f471459330d2d58458.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T13:14:20+00:00",
-   "category": "other"
-  },
-  {
-   "id": "38eb59f15c27",
-   "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-   "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
-   "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-   "image": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-23T13:11:48+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "66fcf16d076d",
-   "title": "ИИ понимает животных",
-   "summary": "Во всей видимости, в обозримом будущем мы сможем понимать о чем щебечут черноухие скворцы, как друг друга называют дворовые мурзики по весне и какие загадочные послания в себе хранит слоновий хор, оглашающий саванну.",
-   "link": "https://habr.com/ru/companies/studyai/articles/1111292/?utm_campaign=1111292&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8e/ee/7b/8eee7b2a104bdeb845e93f7237d4428c.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T12:33:23+00:00",
-   "category": "other"
-  },
-  {
-   "id": "09ec44ac053e",
-   "title": "Трансформация бухгалтерского и управленческого учета в условиях внедрения искусственного интеллекта",
-   "summary": "Перспективы автоматизации первичного документооборота и выявления учетных ошибок А. П. Калинина, А. С.",
-   "link": "https://habr.com/ru/articles/1111288/?utm_campaign=1111288&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111288/2ea9ca47d3c6a61f70a9ff273982e3cc/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T12:28:43+00:00",
-   "category": "other"
-  },
-  {
-   "id": "cdeaeea2e161",
-   "title": "ИИ ускоряет разработку. Но разработчикам всё сложнее понимать код от ИИ: исследование 11 000+ специалистов",
-   "summary": "В прошлом посте мы анонсировали Т1 о внедрении ИИ в разработку. Сегодня делимся полными данными.",
-   "link": "https://habr.com/ru/companies/T1Holding/articles/1110664/?utm_campaign=1110664&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/d8/ee/49/d8ee49bfe213034ca8d40035f4f4618f.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-23T12:27:31+00:00",
-   "category": "research"
-  },
-  {
-   "id": "764cd73e3ddb",
-   "title": "Хакеры переходят на полностью автономные ИИ-вирусы — они сами ищут уязвимости и организуют взлом",
-   "summary": "Злоумышленники совершенствуют свои инструменты для кибератак и всё чаще используют вместо ИИ-чат-ботов полностью автономное программное обеспечение, которое самостоятельно находит уязвимости, создает эксплойты и…",
-   "link": "https://3dnews.ru/1151677",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151677/julio-lopez-hLAmfdxGlls-unsplash.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-23T12:26:00+00:00",
    "category": "tools"
   }
  ]
