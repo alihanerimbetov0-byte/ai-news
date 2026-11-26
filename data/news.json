@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:13:22.446626+00:00",
+ "updated": "2026-11-26T21:05:02.370419+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 4
   },
   {
    "source": "Google AI",
@@ -108,6 +108,39 @@
   }
  ],
  "items": [
+  {
+   "id": "94305b427e5a",
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+   "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-26T20:03:54+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "7e69e25001ac",
+   "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+   "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia.",
+   "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/09/math_geometry_openai_hodge.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-26T19:31:46+00:00",
+   "category": "research"
+  },
+  {
+   "id": "803024afd35e",
+   "title": "Владимир Путин: Россия должна развивать подконтрольный и обученный на отечественных данных ИИ, который не смогут отключить из-за рубежа",
+   "summary": "Владимир Путин предложил предоставить пользователям смартфонов возможность самостоятельно выбирать нейросети и ИИ-агентов, включая отечественные разработки.",
+   "link": "https://3dnews.ru/1151865",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/26/1151865/ai_01.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-26T19:14:00+00:00",
+   "category": "tools"
+  },
   {
    "id": "88131d7cc1f8",
    "title": "Kioxia и Nvidia приделали к ИИ-ускорителям 1,1 Пбайт памяти на SSD — для работы с гигантскими ИИ",
@@ -4474,39 +4507,6 @@
    "lang": "en",
    "date": "2026-11-23T13:45:32+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "0a862def8a1c",
-   "title": "Замахнёмся на святое: можно ли заменить топ-менеджера Газпрома ИИ-агентом?",
-   "summary": "Топ-менеджер \"Газпрома\" не точит гайки сам, он раздаёт работу и спрашивает за результат.",
-   "link": "https://habr.com/ru/articles/1111348/?utm_campaign=1111348&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/2c/bd/5c/2cbd5ca625850595be5ca145f0345039.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T13:45:27+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "8356c843c3c8",
-   "title": "Bitrix24 SDK: Король умер, да здравствует король",
-   "summary": "В 2024 году в Битрикс24 задумали Летучий Корабль — универсальный шаблон тиражного приложения, с которого любой разработчик стартует к порталу на любом бэкенде.",
-   "link": "https://habr.com/ru/articles/1111340/?utm_campaign=1111340&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f9/eb/67/f9eb67c9d02c5e7c8985a462bb4bf68d.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T13:34:15+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "75f4ef8e2500",
-   "title": "Решать, а не списывать: помощник по математике на основе «Алисы AI» появился на «Госуслугах» по всей России",
-   "summary": "Сервис объясняет темы, разбирает задачи и подсказывает путь к решению, не выдавая готовых ответов ИИ-помощник по математике в приложении «Госуслуги Моя школа» стал доступен школьникам и родителям по всей России.",
-   "link": "https://www.ixbt.com/news/2026/11/23/resat-a-ne-spisyvat-pomoshhnik-po-matematike-na-osnove-alisy-ai-poiavilsia-na-gosuslugax-po-vsei-rossii.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745433/ai-image-hch8osqqnwcrv3g2yykz75xr.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-23T13:27:00+00:00",
-   "category": "tools"
   }
  ]
 }
