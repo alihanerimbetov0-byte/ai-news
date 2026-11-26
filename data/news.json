@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:34:08.864828+00:00",
+ "updated": "2026-11-26T15:15:56.308614+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,13 +43,13 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "source": "Hugging Face",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 9
+   "count": 11
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,116 @@
   }
  ],
  "items": [
+  {
+   "id": "6cc72401083c",
+   "title": "В России предложили создать систему независимой проверки доверенного ИИ",
+   "summary": "Бизнес предложил допустить независимые лаборатории до проверок ИИ‑систем на полигонах, то есть в специальных средах.",
+   "link": "https://habr.com/ru/articles/1112786/?utm_campaign=1112786&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f6/e4/b4/f6e4b4bf8c9cd2798a74b9ffbf775dbc.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T14:52:51+00:00",
+   "category": "other"
+  },
+  {
+   "id": "abf34b6981b3",
+   "title": "Робот вышел на лёд: «Юни» Сбера станцевал на льду с олимпийской чемпионкой Анной Щербаковой",
+   "summary": "Постановка основана на русской сказке «Царевна-лягушка» и приурочена к 185-летию Сбера На конференции AI Journey в России представили первое в мире ледовое шоу с участием человекоподобного робота.",
+   "link": "https://www.ixbt.com/news/2026/11/26/robot-vysel-na-led-iuni-sbera-stanceval-na-ldu-s-olimpiiskoi-cempionkoi-annoi-shherbakovoi.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746707/media-4d332b86d4e9fe4d930063f737414d59f6c3f73f28582a3d88ac52a8b3eb1858.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-26T14:39:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "cbebdf30fd29",
+   "title": "Расшифровка звонков и встреч на базе ИИ",
+   "summary": "Расшифровка на ИИ превращает записи звонков и встреч в текст с разметкой, кто что сказал, а языковая модель делает из него протокол, оценку разговора или запись в CRM.",
+   "link": "https://habr.com/ru/companies/itglobalcom/articles/1112780/?utm_campaign=1112780&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f3/48/43/f348439393c2b320390b0e5f6779848b.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T14:36:07+00:00",
+   "category": "models"
+  },
+  {
+   "id": "92d5cd1cb322",
+   "title": "Skills over MCP: скилл теперь приезжает вместе с MCP-сервером",
+   "summary": "24 ноября Anthropic открыла в Claude и Claude Code публичную бету Skills over MCP: MCP-сервер теперь сам отдаёт скилл, и ставить его вручную больше не нужно.",
+   "link": "https://habr.com/ru/articles/1112776/?utm_campaign=1112776&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cc/46/d3/cc46d39861444d20c03d31e5c6f17975.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T14:31:40+00:00",
+   "category": "models"
+  },
+  {
+   "id": "c369327c2e09",
+   "title": "Роботы выходят в люди: Сбер представил нового «Грина», акробата «Юни» и курьера",
+   "summary": "Все три платформы работают на базе собственной модели физического ИИ GreenVLA 2.0 На конференции AI Journey Сбер представил три новые робототехнические платформы: антропоморфного робота «Грин 2.0», робота-атлета «Юни» и…",
+   "link": "https://www.ixbt.com/news/2026/11/26/roboty-vyxodiat-v-liudi-sber-predstavil-novogo-grina-akrobata-iuni-i-kurera.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746703/media-885298323f0b80f1ebea8ea04bf8daebfc0d0ae0505279dcfedc30cafe13fd01.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-26T14:16:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0735b44d9b0b",
+   "title": "Я выбрал модель, а отвечала другая: 129 проверок Perplexity",
+   "summary": "Я заплатил за Perplexity Pro так как всегда считал, что это один из самых удобных AI инструментов с достойной подборкой различных LLM на выбор и до определенного момента считал, что этот выбор работает.",
+   "link": "https://habr.com/ru/articles/1111446/?utm_campaign=1111446&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/84/51/df/8451df8ea917168b15838a84553ed674.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T14:09:55+00:00",
+   "category": "models"
+  },
+  {
+   "id": "7cdf190d6d96",
+   "title": "Dell и HPE заявили, что стали «другими» — ИИ изменил их",
+   "summary": "Dell и HPE на этой неделе объявили финансовые результаты за последние три месяца, и обе отметили, что они «стали другими».",
+   "link": "https://3dnews.ru/1151835",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/26/1151835/sm.scott-rodgerson-PSpf_XgOM5w-unsplash.800.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-26T13:43:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "a6eb08723d8f",
+   "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+   "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers.",
+   "link": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/SpaceX-xAI-Satellite-scaled.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-26T13:41:07+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "266aa64f4d39",
+   "title": "Русский ModernBERT: предобучение и постобучение",
+   "summary": "Привет, Хабр! Меня зовут Антон Кабаев, технический лидер Центра обработки естественного языка MWS AI. В этой статье мы расскажем, как обучали две модели ModernBERT для русского языка.",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1112532/?utm_campaign=1112532&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/fb/5f/76/fb5f76e89a02c26a019221483635529b.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T13:40:07+00:00",
+   "category": "models"
+  },
+  {
+   "id": "7ed7aebe4c08",
+   "title": "Нейросеть для постеров и типографики на русском: Nano Banana 2.1, GPT Image 2.6, Seedream 5.5 и Kling 4.0 Image",
+   "summary": "Ошибка в одной букве ломает афишу сильнее любой кривой детали: странную руку зритель может и не заметить, а латинскую букву в названии фильма заметит сразу.",
+   "link": "https://habr.com/ru/companies/syntx_ai/articles/1112726/?utm_campaign=1112726&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/e8/af/14/e8af149b6df684567f5ea2794198e5ea.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T13:39:26+00:00",
+   "category": "models"
+  },
   {
    "id": "46439e7b1bae",
    "title": "Thinkmine представила язык программирования Kobo для .NET",
@@ -4396,116 +4506,6 @@
    "source": "Хабр · ИИ",
    "lang": "ru",
    "date": "2026-11-23T11:31:13+00:00",
-   "category": "other"
-  },
-  {
-   "id": "de975a256d24",
-   "title": "Нейросеть для создания игр и обучающие ролики: ролик за час вместо 12 — создание сервера MMORPG, ч. 23",
-   "summary": "Один обучающий ролик о том, как собрать свою MMORPG, раньше отнимал у меня около 12 часов.",
-   "link": "https://habr.com/ru/articles/1111140/?utm_campaign=1111140&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/49/32/81/49328158acdd92b8fb2ff98186a86bfa.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T11:26:18+00:00",
-   "category": "other"
-  },
-  {
-   "id": "4cb5174dd00d",
-   "title": "Выбор GPU для ИИ-проекта: от MVP до продакшена под нагрузкой и гиперскейлинга",
-   "summary": "Хороший ИИ-продукт как для внутренних (корпоративных), так и для внешних пользователей решает конкретные проблемы, стоит недорого и, конечно же, не зависит от вендоров.",
-   "link": "https://habr.com/ru/companies/itglobalcom/articles/1111212/?utm_campaign=1111212&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/0e/3f/9a/0e3f9a13cf5273523ec03c3db868925f.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T11:24:21+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "872ce8fee5b4",
-   "title": "Как ИИ будет чувствовать себя в 2035 году: продолжил пять графиков и посмотрел, где они ломаются",
-   "summary": "Взял пять рядов, которые публично измеряют METR, Epoch AI и МЭА, и продолжил каждый до 2035 года.",
-   "link": "https://habr.com/ru/articles/1111232/?utm_campaign=1111232&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111232/76df89eb9e321475a26ef3d5d3809bcb/",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-23T11:18:40+00:00",
-   "category": "other"
-  },
-  {
-   "id": "656bd0ed1128",
-   "title": "Как заставить LLM не врать в цифрах: код считает, модель формулирует",
-   "summary": "Я в одиночку делаю AI-ассистента по финансам для владельцев малого бизнеса: он смотрит на данные из учёта и коротко пишет, что происходит.",
-   "link": "https://habr.com/ru/articles/1111224/?utm_campaign=1111224&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111224/595d7bd7a63395586ad7c15d642cf122/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T11:16:23+00:00",
-   "category": "models"
-  },
-  {
-   "id": "af703fb812d6",
-   "title": "Какой моделью читать старинные документы: тест конфигураций LLM на рукописях XVIII-XIX веков",
-   "summary": "Эта статья отвечает на вопрос, какая LLM лучше всего читает старинные документы на русском языке.",
-   "link": "https://habr.com/ru/articles/1111214/?utm_campaign=1111214&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/06/ae/9b/06ae9be418723c16cdcc095855408485.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-23T11:14:19+00:00",
-   "category": "models"
-  },
-  {
-   "id": "725ffbe059bf",
-   "title": "Мы опубликовали Silero VAD v6.3",
-   "summary": "Мы опубликовали новые модели, для 8 кГц и 16 кГц. Они полностью обратно совместимы со всеми АПИ. Плюс накопилось много маленьких приятных улучшений. Что изменилось?",
-   "link": "https://habr.com/ru/articles/1111202/?utm_campaign=1111202&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/1e/95/b0/1e95b0ad9d9f8038ea578a3599b5cff5.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-23T11:01:47+00:00",
-   "category": "models"
-  },
-  {
-   "id": "106e5d1cffec",
-   "title": "Meta Muse can now do your Black Friday shopping at Walmart",
-   "summary": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-23T11:00:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "c82dcfbd0de1",
-   "title": "States Sue SpaceX Over Grok Deepfakes",
-   "summary": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
-   "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-   "image": "https://media.wired.com/photos/6b00c213fb286bb31d23bec0/master/pass/Security_Virginia%20and%20Oregon%20Sue%20Grok%20Over%20Nonconsensual%20Intimate%20Imagery_v1.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-23T11:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "4dc1eca1ca0c",
-   "title": "Вайбкодинг добрых дел: создай проект, который принесёт реальную пользу",
-   "summary": "«X5 Клуб», благотворительный фонд X5 «Выручаем» и агентство Trend Surfers запускают совместный конкурс, который поможет объединить возможности вайбкодинга и добрые дела. Что получит победитель?",
-   "link": "https://habr.com/ru/companies/X5Tech/articles/1111190/?utm_campaign=1111190&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/73/a5/81/73a5810e82ec6e0f19ea68ed2032f1eb.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T10:45:25+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "9332a309adec",
-   "title": "Вместо человека — ИИ: Сбер открыл офис с виртуальным сотрудником",
-   "summary": "До конца 2027 года банк планирует открыть ещё несколько подобных отделений Сбер открыл в Москве первый банковский офис, в котором клиентов консультирует фотореалистичный цифровой аватар на базе искусственного…",
-   "link": "https://www.ixbt.com/news/2026/11/23/vmesto-celoveka-ii-sber-otkryl-ofis-s-virtualnym-sotrudnikom.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745362/media-d092df1cc74c2d87d50f0fa474b29f6e70e655b06ed3e71f130dc87d764951d4.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-23T10:31:00+00:00",
    "category": "other"
   }
  ]
