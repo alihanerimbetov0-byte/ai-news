@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:22:00.513776+00:00",
+ "updated": "2026-11-26T11:08:15.936110+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 4
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,83 @@
   }
  ],
  "items": [
+  {
+   "id": "4d2b88c4a8c6",
+   "title": "Take‑Two добилась закрытия 3007 репозиториев с фанатскими портами GTA VI",
+   "summary": "Take‑Two Interactive добилась от GitHub блокировки неофициального порта Grand Theft Auto VI на ПК под названием Leonida, а также связанной с ним сети из 3007 репозиториев в соответствии с Законом об авторском праве в…",
+   "link": "https://habr.com/ru/articles/1112640/?utm_campaign=1112640&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/6d/f1/4d/6df14d23df9eea98c706249e8960d13b.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T10:56:11+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "40603fc3c1ac",
+   "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+   "summary": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+   "link": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+   "image": "https://media.wired.com/photos/6b07201067745997b8ffd8ed/master/pass/Meta-Refused-to-Share-Muse-for-Testing-Business-2300550254.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-26T10:51:27+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "1a0c45bda502",
+   "title": "Зачем вам ElevenLabs, когда есть Qwen TTS (и как научить его русским ударениям)",
+   "summary": "Всем привет! Я фронтенд-разработчик. В марте я писал здесь, как сделал голосовых NPC в Unity с помощью LLM . Голос там шёл через edge-tts, и для прототипа этого хватало.",
+   "link": "https://habr.com/ru/articles/1112584/?utm_campaign=1112584&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ed/7e/1a/ed7e1abb6f67783aecafc9e7ad192118.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T10:41:30+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6d57a3a7d4a6",
+   "title": "RuDecider-0.8B: как я учу модель принятия решений (System 1) на AMD Strix Halo — и почему внутренние метрики врут",
+   "summary": "Зачем гонять тяжёлую генеративную LLM с рассуждениями на каждой развилке пайплайна, если выбор из вариантов, бинарную проверку и оценку по шкале можно делать за один прямой проход за десятки миллисекунд?",
+   "link": "https://habr.com/ru/articles/1112620/?utm_campaign=1112620&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/5c/fb/91/5cfb91617d208b7817a06f47a36cb906.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T10:30:09+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ee1a9c9c4d54",
+   "title": "GigaChat 4: новые агентные навыки и первый миллион",
+   "summary": "Привет, Хабр! Представляем GigaChat 4 — две новые модели: на 37 и 708 миллиардов параметров.",
+   "link": "https://habr.com/ru/companies/sberbank/articles/1112118/?utm_campaign=1112118&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f9/9d/e9/f99de97c756bb565bc1b42288c6eea06.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T10:00:10+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d1285c46285f",
+   "title": "Как мы перестали вручную приклеивать кастрюли к кухне",
+   "summary": "Есть особый вид дизайнерской медитации: сидеть над макетом и пытаться сделать так, чтобы кастрюля не выглядела как кастрюля, которую только что вырезали из одного файла и приклеили в другой.",
+   "link": "https://habr.com/ru/companies/X5Tech/articles/1108268/?utm_campaign=1108268&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ce/17/f8/ce17f8394a0f9fb7e5819e9ba5900e0c.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T09:28:11+00:00",
+   "category": "other"
+  },
+  {
+   "id": "2bbb18c0d8ed",
+   "title": "Как я вытащил свою медицинскую историю из Медси и ИНВИТРО и собрал ИИ-медика на OpenCode",
+   "summary": "Привет, Хабр! Я внедряю ИИ-агентов не только в рабочие процессы, но и в свою личную жизнь. Один из экспериментов перерос состояние \"игрушки\" и дозрел.",
+   "link": "https://habr.com/ru/articles/1112308/?utm_campaign=1112308&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/bb/79/6f/bb796f0f359c2631e27a53faa52be600.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T09:23:01+00:00",
+   "category": "tools"
+  },
   {
    "id": "527313567132",
    "title": "От задержки письма до переключения базы: о чем поговорить на Продуктовой аллее HighLoad++ 2026",
@@ -4430,83 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-23T05:25:33+00:00",
    "category": "other"
-  },
-  {
-   "id": "04504f1c4726",
-   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-   "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-23T01:25:53+00:00",
-   "category": "business"
-  },
-  {
-   "id": "6fd4c32fe34a",
-   "title": "How to build and maintain an agentic evaluation",
-   "summary": "",
-   "link": "https://huggingface.co/blog/agentic-evals",
-   "image": "https://huggingface.co/blog/assets/agentic-evals/thumbnail.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-23T00:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "6290ba5abe0d",
-   "title": "«Ваш разговор стал слишком длинным»: как Google Antigravity неожиданно режет контекст и как Gemini это решил",
-   "summary": "Отображение размера контекстного окна сессии для Google Antigravity 2.0 Antigravity сжимает контекст, выводит об этом сообщение, что приводит к потере деталей, важных правил и инструкций в начале сессии, чтобы…",
-   "link": "https://habr.com/ru/articles/1111006/?utm_campaign=1111006&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b3/ec/d2/b3ecd2f86582a90fc2ae517defb9842f.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T23:08:19+00:00",
-   "category": "models"
-  },
-  {
-   "id": "e7090200216e",
-   "title": "We haven’t seen the last of the major tech outages",
-   "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase.",
-   "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-22T22:48:02+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "f85af8de327c",
-   "title": "Агентская разработка в геймдеве на Unity, или Как я скормил агенту рекламу мобильной игры",
-   "summary": "Агентская разработка в геймдеве: как из рекламы мобильной игры, скормленной агенту, получился полноценный 3D-экшен на Unity.",
-   "link": "https://habr.com/ru/articles/1110996/?utm_campaign=1110996&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f8/b3/6f/f8b36f3195e574ef78513e6b763b2279.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T21:51:01+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "68267e99b15a",
-   "title": "Китайские спецслужбы начали охоту за передовыми ИИ-чипами задолго до скандала вокруг Nvidia",
-   "summary": "Китайские спецслужбы начали охоту за передовыми чипами для искусственного интеллекта задолго до скандала вокруг Nvidia и обвинений в слежке за её руководителем Дженсеном Хуангом (Jensen Huang).",
-   "link": "https://3dnews.ru/1151661",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/22/1151661/7854.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-22T21:45:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "716c53fa8fce",
-   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-   "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-22T21:14:07+00:00",
-   "category": "research"
   }
  ]
 }
