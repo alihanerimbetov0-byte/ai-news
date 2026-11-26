@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:35:48.624366+00:00",
+ "updated": "2026-11-26T09:22:00.513776+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 8
+   "count": 11
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,182 @@
   }
  ],
  "items": [
+  {
+   "id": "527313567132",
+   "title": "От задержки письма до переключения базы: о чем поговорить на Продуктовой аллее HighLoad++ 2026",
+   "summary": "На Продуктовую аллею HighLoad++ 2026 стоит заглянуть, если вы подбираете инструмент для своего проекта и хотите узнать, как он работает в реальных условиях.",
+   "link": "https://habr.com/ru/companies/oleg-bunin/articles/1112502/?utm_campaign=1112502&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/30/8c/eb/308ceb886d15de7c34cfdec443aeff89.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T09:20:06+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "c32be0c9caba",
+   "title": "Корпоративный ИИ на видеокарте с 12 ГБ: фантастика или новая реальность? Разбираем Ternary Bonsai 2.5",
+   "summary": "Мощный ИИ на вашей простой видеокарте? Появилась фантастическая возможность запуска 27B-модели на массовых видеокартах с 12 ГБ VRAM?",
+   "link": "https://habr.com/ru/articles/1112562/?utm_campaign=1112562&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/c2/f8/ab/c2f8abc64badc299dea31d5b7673728f.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T09:14:39+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a22a9c911688",
+   "title": "Облако или On-Premise для ИИ: как выбрать GPU-инфраструктуру и не переплатить",
+   "summary": "Компания определила бизнес-задачу, выбрала архитектуру ИИ-сервиса и протестировала модель.",
+   "link": "https://habr.com/ru/companies/orion_soft/articles/1112556/?utm_campaign=1112556&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/9a/27/83/9a2783baed1e9705d26396f2b61f997e.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T09:02:34+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2f9c7bf3a712",
+   "title": "Мини-ПК с двумя манипуляторами и локальным ИИ — комплект ASRock Industrial RBK-100 Robotics-in-a-Box",
+   "summary": "ASRock Industrial совместно с Intel анонсировали программно-аппаратный комплекс RBK-100 Robotics-in-a-Box.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1112306/?utm_campaign=1112306&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/71/9e/15/719e15f92c531d65fdb5a55299284de4.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T09:01:04+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "188ad778818d",
+   "title": "Работаем с данными с помощью ИИ-агентов на DataLens Platform",
+   "summary": "Yandex B2B Tech обновила аналитическую платформу DataLens Platform . Встроенный Нейроаналитик и внешние ИИ-агенты теперь могут выполнять задачи на всех этапах работы с данными по запросу на естественном языке.",
+   "link": "https://habr.com/ru/companies/yandex_cloud_and_infra/articles/1112340/?utm_campaign=1112340&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d3/3e/9f/d33e9fe45282888034fcc55e580d7f6b.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T08:56:37+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "0d25549e7332",
+   "title": "Американские писатели обвинили Nvidia в незаконном распространении их произведений",
+   "summary": "Несколько американских авторов книг обвинили Nvidia в незаконном распространении их произведений.",
+   "link": "https://habr.com/ru/articles/1112548/?utm_campaign=1112548&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/cb/c8/7e/cbc87ecf5d456be4a4ebfbc8d1ebc5cb.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T08:44:09+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "09a116d7200d",
+   "title": "Сбер представил «интеллектуальные кинотеатры» с «ГигаЧатом» и подсветкой RGB MiniLED: 85 тыс. рублей за 55 дюймов",
+   "summary": "Тонкие телевизоры оснащены экранами 4К с кадровой частотой до 288 Гц Сбер представил линейку телевизоров серии 9000, которые компания называет «интеллектуальным кинотеатром».",
+   "link": "https://www.ixbt.com/news/2026/11/26/sber-predstavil-intellektualnye-kinoteatry-s-gigacatom-i-podsvetkoi-rgb-miniled-85-tys-rublei-za-55-diuimov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746559/media-3869509d4bb468030aa9bb0dae51c08c9207ac46144d9e6dabcf09c9edfafb48.webp",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-26T08:16:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "1f2024ed123b",
+   "title": "Сбер вывел умные телевизоры на новый уровень: 85 дюймов, RGB MiniLED, объёмный звук и «ГигаЧат»",
+   "summary": "От 85 тысяч рублей Сбер представил на конференции AI Journey интеллектуальный кинотеатр серии 9000 с подсветкой RGB MiniLED, объёмным звуком Dolby Atmos и голосовым помощником «ГигаЧат».",
+   "link": "https://www.ixbt.com/news/2026/11/26/sber-vyvel-umnye-televizory-na-novyi-uroven-85-diuimov-rgb-miniled-obieemnyi-zvuk-i-gigacat.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746557/media-4be9b16eb9488cafe5e14315064d9ac227140da8a811a556439ad8c1e9cca4e4.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-26T08:15:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "157cf46ceabf",
+   "title": "Nvidia заморозила поставки ИИ-чипов в четыре азиатские страны — чтобы ими не воспользовался Китай",
+   "summary": "Nvidia распорядилась, чтобы её производственные партнёры прекратили поставки серверов в четыре страны Юго-Восточной Азии.",
+   "link": "https://3dnews.ru/1151833",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/26/1151833/nvidia_2.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-26T08:13:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "7d1ec2d26755",
+   "title": "Вместо мощного сервера хватит обычного ноутбука: Сбер выпустил компактный GigaChat 4 37B",
+   "summary": "Модель поддерживает рассуждения, работу с ИИ-агентами и контекст до 1 млн токенов Сбер представил GigaChat 4 37B — компактную языковую модель, рассчитанную на высокую скорость работы и экономное использование…",
+   "link": "https://www.ixbt.com/news/2026/11/26/vmesto-moshhnogo-servera-xvatit-obycnogo-noutbuka-sber-vypustil-kompaktnyi-gigachat-4-37b.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746553/media-777045f63c290bef310d8a90574925bc9505aa87c945a2d78bc24683696a6b5b.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-26T08:08:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b97cdddbc57a",
+   "title": "Локальные LLM на своем сервере: что выбрать и как посчитать экономику",
+   "summary": "В феврале я считал знакомому, во что ему обойдется «своя нейросеть». Восемь человек в бюро, все гоняли через API: договоры, письма, выжимки из встреч. Счет за месяц — 11 тысяч рублей, и его это устраивало.",
+   "link": "https://habr.com/ru/companies/timeweb/articles/1095876/?utm_campaign=1095876&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b2/3b/4a/b23b4ae0f4b154b418d94ebafea99bb4.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T08:05:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ad6c3bf49cd4",
+   "title": "Нужны ли дорогие Claude и GPT, когда есть Deepseek Flash",
+   "summary": "ИИ — та самая аббревиатура из двух букв, которую в конце 2026 года слышно буквально из каждого утюга. Большие языковые модели уже во всю меняют привычные рабочие процессы.",
+   "link": "https://habr.com/ru/companies/domclick/articles/1111484/?utm_campaign=1111484&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f8/4b/92/f84b92d451eecce20b26e7a8938c12eb.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T08:02:12+00:00",
+   "category": "models"
+  },
+  {
+   "id": "844beb7a75e4",
+   "title": "От фото до видео в 2K с несколькими персонажами: Сбер обновил нейросеть Kandinsky",
+   "summary": "Нейросеть научилась объединять людей, предметы и локации с разных фотографий в одном ролике, сохранять внешность персонажей и создавать сцены с заданными начальным и конечным кадрами На конференции AI Journey Сбер…",
+   "link": "https://www.ixbt.com/news/2026/11/26/ot-foto-do-video-v-2k-s-s-neskolkimi-personazami-sber-obnovil-neiroset-kandinsky.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746549/media-26acf12a3f940a9a8f128f4b6c89d2c2562978bd5f41c4d9c6e2efe9e6f140df.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-26T08:02:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "71a4beb55ce4",
+   "title": "Аутентичный ML для самых маленьких: линейная регрессия",
+   "summary": "Напомню, что решить задачу регрессии — значит найти или предсказать по имеющимся данным число. В предыдущей статье мы классифицировали результаты зачета на обман, то есть предсказывали метку списал/не списал.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1111528/?utm_campaign=1111528&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4a/f6/4d/4af64d388a3d903ba0e34dee6cf9f11b.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T08:00:59+00:00",
+   "category": "other"
+  },
+  {
+   "id": "8972ca2bf573",
+   "title": "«Сбер» выпустил телевизоры 9000-й серии с RGB MiniLED, 4K@144 Гц и «ГигаЧатом» — от 84 999 рублей",
+   "summary": "«Сбер» представил на конференции AI Journey модели умных телевизоров новой 9000-й серии. Новинки предлагают экраны размером 55, 65, 75 и впервые в ассортименте «Сбера» — 85 дюймов.",
+   "link": "https://3dnews.ru/1151811",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/25/1151811/photo_2026-11-25_19-59-18.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-26T08:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "fcffe7a415f5",
+   "title": "Миллион токенов и часы автономной работы: Сбер представил GigaChat 4, способную доводить задачи до результата без участия человека",
+   "summary": "Нейросеть может разрабатывать приложения, анализировать большие массивы документов и взаимодействовать с внешними сервисами Сбер представил новую языковую модель GigaChat 4, способную самостоятельно выполнять сложные…",
+   "link": "https://www.ixbt.com/news/2026/11/26/million-tokenov-i-casy-avtonomnoi-raboty-sber-predstavil-gigachat-4-sposobnuiu-dovodit-zadaci-do-rezultata-bez-ucastiia-celoveka.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746548/media-69c884ab2a823e5112a2092c0d399f693a7e9c60d30a4cc9b959f042d98910c7.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-26T07:55:00+00:00",
+   "category": "models"
+  },
   {
    "id": "5a3799f67019",
    "title": "Чем пахнет безопасность? Учим муху-дрозофилу нюхать SOC-алерты",
@@ -4331,182 +4507,6 @@
    "lang": "en",
    "date": "2026-11-22T21:14:07+00:00",
    "category": "research"
-  },
-  {
-   "id": "c15e7e0dedcb",
-   "title": "Гипотеза Римана. Часть вторая: как устроено опубликованное доказательство",
-   "summary": "Последний шаг опубликованного доказательства гипотезы Римана умещается в одну строку Lean и понятен почти школьнику: если некоторый «остаток» в сумме по простым числам не больше √X с любой сколь угодно малой добавкой,…",
-   "link": "https://habr.com/ru/articles/1110970/?utm_campaign=1110970&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/64/d5/eb/64d5ebdff9e72800b32dfcd901b1eb01.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T20:49:14+00:00",
-   "category": "other"
-  },
-  {
-   "id": "3a41a4d10f95",
-   "title": "Создатель Call of Duty, компания Activision, подала патент на ИИ-персонажей для обмена оскорблениями голосом игроков",
-   "summary": "Система сможет перенимать реакции пользователей, чтобы NPC в играх звучали естественнее.",
-   "link": "https://www.ixbt.com/news/2026/11/22/sozdatel-call-of-duty-kompaniia-activision-podala-patent-na-ii-personazei-dlia-obmena-oskorbleniiami-golosom-igrokov.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745141/media-e7760bd828d515379a473165b70201093d16314ad26689503c5440a574b2c3f3.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T20:48:00+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "a8190c76088c",
-   "title": "Гипотеза Римана. Часть первая: как мы её не доказали",
-   "summary": "20 ноября 2026 года гипотезу Римана доказали. Не я: Левент Альпёге вместе с моделью Claude, и сообщества Lean и Mathlib уже подтвердили формальную проверку.",
-   "link": "https://habr.com/ru/articles/1110964/?utm_campaign=1110964&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f3/bb/3c/f3bb3c606da983fcd14a747f66a08a50.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T20:47:14+00:00",
-   "category": "models"
-  },
-  {
-   "id": "166dc0e3cdf9",
-   "title": "Млечный Путь впервые смоделировали с рекордной детализацией до отдельных звёзд, используя три суперкомпьютера",
-   "summary": "Модель учитывает 3,4 млрд частиц и использует искусственный интеллект, чтобы ускорить расчёты последствий взрывов сверхновых в 20 раз Модель Млечного Пути, в которой можно проследить движение отдельных звёзд и…",
-   "link": "https://www.ixbt.com/news/2026/11/22/mlecnyi-put-vpervye-smodelirovali-s-rekordnoi-detalizaciei-do-otdelnyx-zvezd-ispolzuia-tri-superkompiutera.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745100/media-cabba110dd33bea993510f9d2ee98687d0b875dac98c209643c1b7b83a904d69.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T20:05:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "dd41bb73643e",
-   "title": "Гипотеза Римана: появилось подтверждение проверки доказательства Claude",
-   "summary": "Появилось совместное заявление Lean и Mathlib — сообществ, которые занимаются формализацией математики и проверкой доказательств, — и результаты независимых проверок Сообщества Lean и Mathlib 21 ноября официально…",
-   "link": "https://www.ixbt.com/news/2026/11/22/gipoteza-rimana-poiavilos-podtverzdenie-proverki-dokazatelstva-claude.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745098/media-ea6e2b94b2fb310dd70342e4674cfd4b9295b905aa57df5e41eb1672cc059e99.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T19:51:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "d02a99828373",
-   "title": "Ролевая игра с RAG: как нейросеть стала библиотекарем",
-   "summary": "Во время игры на полигоне всегда есть момент, когда игрок подходит с лицом человека, у которого наконец-то созрел правильный вопрос, а у мастера в этот момент в голове план полигона, в одной руке рация а в другой чужой…",
-   "link": "https://habr.com/ru/articles/1110956/?utm_campaign=1110956&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/52/97/89/52978911942abb920d80856595f9ae87.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T19:22:10+00:00",
-   "category": "other"
-  },
-  {
-   "id": "b3f3d5b5559b",
-   "title": "Apple создает ИИ-агента, который будет работать с компьютером как человек",
-   "summary": "Но догнать конкурентов в этой ИИ-гонке — OpenAI, Anthropic, Google — будет непросто Apple разрабатывает нового ИИ-агента, способного самостоятельно работать с компьютером, взаимодействовать с приложениями, выполнять…",
-   "link": "https://www.ixbt.com/news/2026/11/22/apple-sozdaet-ii-agenta-kotoryi-budet-rabotat-s-kompiuterom-kak-celovek.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745076/media-dda7e0d8119fd933a9ed5296685a81f238ffdd8cd9f2be03bc2c76491410079d.webp",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T19:16:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "71a4667464e1",
-   "title": "Три моих кейса, где экономия времени с ИИ-автоматизациями обернулась постоянными переделками и фиксами",
-   "summary": "Автоматизация с ИИ может быстро выдать результат и всё же потребовать настройки, проверки и ремонта.",
-   "link": "https://habr.com/ru/articles/1109850/?utm_campaign=1109850&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c2/3b/6f/c23b6fb2371c10614c24ee149eabd4ce.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T18:52:19+00:00",
-   "category": "other"
-  },
-  {
-   "id": "ecc3277a83a4",
-   "title": "ИИ теряет до 35% точности, если пользователь спорит о климате",
-   "summary": "В отдельных случаях точность ответов на вопросы о климатической политике оказалась не выше случайного угадывания Учёные из Университетского колледжа Лондона (UCL) и Организации Объединённых Наций по вопросам…",
-   "link": "https://www.ixbt.com/news/2026/11/22/ii-teriaet-do-35-tocnosti-esli-polzovatel-sporit-o-klimate.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745042/media-b2cf4ea2efe17a65c83d753df0fd033a62d822ee27fcd887b347aeaa13be4905.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T18:14:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "74f939e081ec",
-   "title": "Why data centers are at the center of the Big Tech backlash",
-   "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-   "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-22T18:08:43+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "8e5613ff00fb",
-   "title": "Тайна простых чисел раскрыта: математики подтвердили доказательство гипотезы Римана, найденное ИИ Claude",
-   "summary": "На днях Anthropic заявила, что её ИИ-модель семейства Claude помогла решить одну из самых известных нерешённых задач математики, которую не удавалось доказать с 1859 года, гипотезу Римана.",
-   "link": "https://3dnews.ru/1151659",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/22/1151659/65454.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-22T18:04:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "4aa93fe215f8",
-   "title": "Способен ли ИИ разработать лекарство? OpenAI представила MedChemBench — тест из 99 задач по медицинской химии, приближенных к реальной деятельности специалистов",
-   "summary": "Модели должны восстанавливать структуры молекул, объяснять результаты экспериментов, сравнивать соединения и предсказывать их свойства OpenAI представила MedChemBench — тест, который проверяет, насколько хорошо ИИ…",
-   "link": "https://www.ixbt.com/news/2026/11/22/sposoben-li-ii-razrabotat-lekarstvo-openai-predstavila-medchembench-test-iz-99-zadac-po-medicinskoi-ximii-priblizennyx-k-realnoi-deiatelnosti-specialistov.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745030/media-20ed0c56c090ad710875f31e803cfde9f9587918b044869f1173f3706e21ee98.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T17:32:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "265c68ec3a4c",
-   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-   "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music.",
-   "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-22T17:25:20+00:00",
-   "category": "other"
-  },
-  {
-   "id": "b51ded52a872",
-   "title": "ИИ получил ещё одно необычное «чувство» — обоняние: компания Osmo заявила, что её модель превзошла парфюмеров крупной компании",
-   "summary": "Модель научили связывать химический состав вещества с тем, как человек воспринимает его запах Американский стартап Osmo заявил, что его ИИ-модель научилась распознавать и различать запахи примерно на уровне среднего…",
-   "link": "https://www.ixbt.com/news/2026/11/22/ii-polucil-eshhe-odno-neobycnoe-cuvstvo-obonianie-kompaniia-osmo-zaiavila-cto-ee-model-prevzosla-parfiumerov-krupnoi-kompanii.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745026/media-ccdb1063874351b3b2d1b7a25f8428e5f1ebb6484c4d6c83b1a91b0693405b8d.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T17:12:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "2dd3f4829852",
-   "title": "Signal начал блокировать скриншоты переписок, чтобы ИИ-агенты не могли читать личные сообщения",
-   "summary": "Мессенджер опасается, что встроенные в iOS и Android ИИ-агенты смогут копировать личные данные за пределы защищённого шифрованием приложения Signal — мессенджер со сквозным шифрованием переписки — начала ограничивать…",
-   "link": "https://www.ixbt.com/news/2026/11/22/signal-nacal-blokirovat-skrinsoty-perepisok-ctoby-ii-agenty-ne-mogli-citat-licnye-soobshheniia.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745018/media-550731009132beda64ea6790b52c4291b5a1d95ef7e1e26964a801aaa2d92589.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T16:53:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "2099fe964b6c",
-   "title": "OpenAI GPT-6.2 Astra и GPT-6.2 Sol оказались одними из лучших ИИ-моделей для разработки игр",
-   "summary": "Новые модели OpenAI GPT-6.2 Astra и GPT-6.2 Sol показали высокие результаты в тестах платформы DesignArena, оценивающей возможности искусственного интеллекта в разработке игр.",
-   "link": "https://3dnews.ru/1151657",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/22/1151657/532.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-22T16:02:00+00:00",
-   "category": "models"
   }
  ]
 }
