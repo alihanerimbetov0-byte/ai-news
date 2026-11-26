@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:23:28.075645+00:00",
+ "updated": "2026-11-26T07:35:48.624366+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 13
+   "count": 11
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 4
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,138 @@
   }
  ],
  "items": [
+  {
+   "id": "5a3799f67019",
+   "title": "Чем пахнет безопасность? Учим муху-дрозофилу нюхать SOC-алерты",
+   "summary": "Многие слышали про ученых, которые оцифровали мозг мухи-дрозофилы и выложили модель из 166 тыс нейронов на гитхаб .",
+   "link": "https://habr.com/ru/companies/pt/articles/1090712/?utm_campaign=1090712&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/getpro/habr/upload_files/8e7/957/329/8e795732923bc6a53d2df729b7414ba2.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T07:32:56+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a3abbbc8a304",
+   "title": "О народных ИИ-агентах и платформах",
+   "summary": "Это первая статья в планируемой серии о концепции народного ИИ и о первых результатах попытки реализовать платформу для демонстрации и практического использования всевозможных народных агентов.",
+   "link": "https://habr.com/ru/articles/1112414/?utm_campaign=1112414&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/52/ed/2d/52ed2d1493021601a626a08462605da1.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T07:31:27+00:00",
+   "category": "research"
+  },
+  {
+   "id": "2566ee7a13fb",
+   "title": "[Перевод] Можно ли программировать веса нейросети с помощью линейного программирования?",
+   "summary": "Недавно лаборатория MIT CSAIL опубликовала статью Sparks of Weight-Space Programming . В ней авторы описывают, как по исходным весам небольшой нейросети GPT-6 Astra могла определить, в какую игру её обучали играть.",
+   "link": "https://habr.com/ru/articles/1108982/?utm_campaign=1108982&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/38/d0/8b/38d08b9e688cdbaba7b10ac6130f46d1.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T07:22:21+00:00",
+   "category": "models"
+  },
+  {
+   "id": "7ba356b1083b",
+   "title": "ИИ-тренды 2027–2030: локальный инференс, неязыковые модели и агентный слой в классическом ПО",
+   "summary": "Искусственный интеллект влияет на все отрасли и рынки. Меняются бизнес-модели, рабочие процессы и требования к инфраструктуре.",
+   "link": "https://habr.com/ru/companies/lansoft_career/articles/1112508/?utm_campaign=1112508&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/5a/db/bf/5adbbf14bbf6836bca53a0edef69823d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T07:01:53+00:00",
+   "category": "models"
+  },
+  {
+   "id": "168c5c9f7282",
+   "title": "Как я делегировал ИИ-агенту рутину продуктового дизайнера",
+   "summary": "При работе над задачей продуктовый дизайнер в Ozon Tech тратит немало времени на рутину вокруг неё: проверку макетов, оформление файлов в Figma, сбор метрик, актуализацию статусов и другое.",
+   "link": "https://habr.com/ru/companies/ozontech/articles/1111868/?utm_campaign=1111868&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/99/d3/15/99d3155299a1c2af9c87a80b87a6186c.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T07:00:21+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "d4678246b4f5",
+   "title": "Человечество как промежуточный этап эволюции разума",
+   "summary": "Человечество - единственная известная нам форма жизни, которая способна осознанно выбирать направление собственного развития, и из этого следует совершенно естественный вопрос - а куда мы вообще направляемся?",
+   "link": "https://habr.com/ru/articles/1112520/?utm_campaign=1112520&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/22/9b/4f/229b4f77b51b4030f89b2399194c8f61.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T06:54:02+00:00",
+   "category": "other"
+  },
+  {
+   "id": "007cf7f472b1",
+   "title": "IT-глава Минфина США сделал клон Civilization и закрывает в issue офтопик-жалобы граждан на ситуацию с ИБ в ведомстве",
+   "summary": "Руководитель по IT Минфина США Сэм Коркос уже некоторое время с помощью ИИ создаёт клон Civilization под названием Legatum ( GitHub , сайт проекта ).",
+   "link": "https://habr.com/ru/articles/1112518/?utm_campaign=1112518&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4e/d6/4a/4ed64aeca209271936fe14565e90ed55.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T06:50:21+00:00",
+   "category": "other"
+  },
+  {
+   "id": "bddef7089d5d",
+   "title": "OpenAI «по ошибке» дали в подписке больше лимитов на модели Астру и Sol 6.2",
+   "summary": "Не успел я порадоваться лимитам на новую Астру и Sol-6.2, как OpenAI признались, что они просто по ошибке списывали со всех меньше. И теперь они будут расходоваться на 40% быстрее.",
+   "link": "https://habr.com/ru/articles/1112514/?utm_campaign=1112514&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4c/78/75/4c7875e9edef8c8bb877d3958ddf4022.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T06:43:31+00:00",
+   "category": "models"
+  },
+  {
+   "id": "fe396438ea6d",
+   "title": "Что будет, если нейросети правда научились взламывать RSA",
+   "summary": "В соцсетях последние дни обсуждают слух, от которого впору бежать к банкомату и прятать наличные в трёхлитровую банку.",
+   "link": "https://habr.com/ru/articles/1112512/?utm_campaign=1112512&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/3b/1e/83/3b1e83d2136c33b41c7df40582cc9efa.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-26T06:24:45+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c4da6f700455",
+   "title": "Акции Anthropic упали ниже цены IPO, потеряв почти 12% за день",
+   "summary": "Бумаги разработчика Claude опустились до $76 при цене размещения $83 Во вторник акции Anthropic опускались до $76, потеряв почти 12% относительно закрытия предыдущей торговой сессии.",
+   "link": "https://www.ixbt.com/news/2026/11/26/akcii-anthropic-upali-nize-ceny-ipo-poteriav-pocti-12-za-den.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746491/media-1ec0e52a7c47c5b59496590469caa65df046529d4fb08d43ee3c92b882de92c6.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-26T05:49:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "c8a799dc0662",
+   "title": "Nvidia может потерять высший кредитный рейтинг",
+   "summary": "S&P Global Ratings усомнилось в качестве управления крупнейшим производителем ИИ-ускорителей и предупредило о рисках чрезмерной зависимости компании от её Дженсена Хуанга S&P Global Ratings — одно из трёх крупнейших…",
+   "link": "https://www.ixbt.com/news/2026/11/26/nvidia-mozet-poteriat-vyssii-kreditnyi-reiting.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746489/media-6ee16a4cb4ef5c18fade284872e1652eec4ef6da7e064addc241fa32a7ae59ef.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-26T05:42:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "ae984d13a67f",
+   "title": "Дмитрий Менделеев делает pull request в репозиторий Школы Синтеза",
+   "summary": "Пару месяцев назад преподаватель МЭИ Михаил Графов в телеграме высказал пожелание, чтобы студенты Школы Синтеза Цифровых Схем могли бы редактировать дома код своих вариантов упражнений из репозитория BGM…",
+   "link": "https://habr.com/ru/articles/1112506/?utm_campaign=1112506&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a5/e6/57/a5e657997ca50ac835da8f6dc08a0c1c.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-26T05:31:34+00:00",
+   "category": "other"
+  },
   {
    "id": "6e0517b27c64",
    "title": "Что такое сознание, часть 2: абстрактное мышление, язык, спатиальность",
@@ -4374,138 +4506,6 @@
    "source": "3DNews",
    "lang": "ru",
    "date": "2026-11-22T16:02:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "c0c79671043e",
-   "title": "Как выбирать площадки для упоминаний бренда в ответах ИИ — я прошерстил исследование от Ahrefs",
-   "summary": "Недавно я увидел у Ahrefs такое: у брендов с десятикратно большим числом упоминаний на веб-страницах примерно в 3,7 раза больше упоминаний в ответах ИИ — заметно скромнее, чем можно ожидать от такой разницы.",
-   "link": "https://habr.com/ru/articles/1110916/?utm_campaign=1110916&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a0/ea/00/a0ea0067ff7611e9b5b43548911078ab.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T15:48:40+00:00",
-   "category": "research"
-  },
-  {
-   "id": "7cda7525825c",
-   "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
-   "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets…",
-   "link": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/cowork-benchmark-chatgpt-5-6.jpg",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-22T15:15:48+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "51e3eeee6626",
-   "title": "Серверы для ИИ дорожают прямо на глазах: Dell и другие требуют с заказчиков доплатить 25–45 %",
-   "summary": "Крупнейшие поставщики серверного оборудования, включая Dell, HPE, Lenovo и Supermicro, начали повышать цены на серверы для ИИ после подписания контрактов с заказчиками.",
-   "link": "https://3dnews.ru/1151654",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/22/1151654/65754.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-22T15:06:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "283e991f80bf",
-   "title": "Dell решила, что $549 млн недостаточно, и потребовала доплатить ещё $70 млн за уже заказанные серверы — и это уже типичная практика",
-   "summary": "Производители повышают цены на ИИ-серверы Nvidia уже после заключения контрактов Производители серверного оборудования начали резко повышать цены на ИИ-серверы Nvidia уже после заключения контрактов с покупателями:…",
-   "link": "https://www.ixbt.com/news/2026/11/22/dell-resila-cto-549-mln-nedostatocno-i-potrebovala-doplatit-eshhe-70-mln-za-uze-zakazannye-servery-i-eto-uze-tipicnaia-praktika.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744989/media-cd601b0d009d2c2216773d96f2a47668d4617816d85d2d3ce97f6cff57c881a5.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T14:37:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "f5657b033d4a",
-   "title": "Почему 24/7 ИИ-агенты ломаются за 4 часа: хаос-бенчмарк F01–F10 и открытый линтер Sci Integrity Guard",
-   "summary": "Разбор 10 режимов отказа автономных агентов ИИ (F01–F10), открытый хаос-бенчмарк и линтер научной целостности sci-integrity-guard от EvoNova Labs. Читать анатомию хаос-тестов →",
-   "link": "https://habr.com/ru/articles/1110886/?utm_campaign=1110886&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e5/c5/d1/e5c5d10a03b8304cd65af0a865889ea2.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T14:36:39+00:00",
-   "category": "models"
-  },
-  {
-   "id": "7bb6862f6214",
-   "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
-   "summary": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results.",
-   "link": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/06/Perplexity-Logo-Silhouette-Nano-Banana-Pro.jpg",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-22T14:20:28+00:00",
-   "category": "models"
-  },
-  {
-   "id": "a4be7935ae8c",
-   "title": "Google проверила фундаментальное свойство квантовой механики на процессоре Willow с 105 кубитами",
-   "summary": "Квантовый процессор обошёл классический предел в игре в 98,3% случаев против максимально возможных 88,9% для классических стратегий Команда Google Quantum AI продемонстрировала на сверхпроводниковом квантовом процессоре…",
-   "link": "https://www.ixbt.com/news/2026/11/22/google-proverila-fundamentalnoe-svoistvo-kvantovoi-mexaniki-na-processore-willow-s-105-kubitami.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744982/media-ab5ca5ff6d35c6b2b761adf9f8299385f527d157b4cf76007c80352f5881eb2e.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T13:58:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "3321391fa630",
-   "title": "США закручивают гайки: уже и 16-нанометровые чипы называют передовыми компонентами — и это расширяет технологическую блокаду Китая",
-   "summary": "На этом фоне TSMC приостановила часть поставок США расширили экспортные ограничения на поставки полупроводников в Китай, и последствия могут затронуть не только производителей ИИ-ускорителей.",
-   "link": "https://www.ixbt.com/news/2026/11/22/ssa-zakrucivaiut-gaiki-uze-i-16-nanometrovye-cipy-nazyvaiut-peredovymi-komponentami-i-eto-rassiriaet-texnologiceskuiu-blokadu-kitaia.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744980/media-c6abe77d8e07a59b2ae293ca4c33006b9d896edf8f1a20629e3c280e23a0e661.jpg",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T13:53:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "46e61c88190c",
-   "title": "Доверяй, но запрещай – или как ограничивать полномочия AI-агента на разных уровнях",
-   "summary": "Привет, Хабр! В моём AGENTS.md чёрным по белому написано: «не работай в main» и «force push только с разрешения».",
-   "link": "https://habr.com/ru/companies/magnit/articles/1110850/?utm_campaign=1110850&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ab/c3/50/abc35049ec63e39f0c30d7c6c8160ecc.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-22T13:31:57+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "866cec43143d",
-   "title": "ИИ-агенты OpenAI уже самостоятельно выполняют 46% коротких исследовательских задач",
-   "summary": "В марте они справлялись только с 23% таких заданий.",
-   "link": "https://www.ixbt.com/news/2026/11/22/ii-agenty-openai-uze-samostoiatelno-vypolniaiut-46-korotkix-issledovatelskix-zadac.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744971/media-3d4e311b17e16b3c3a3bdcbb30232e35bbb7684f38c3ba7dfbc1055dcef17126.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T13:28:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "78793a9c759f",
-   "title": "Почти тысяча ИИ-агентов за 3 месяца создала научное сообщество с собственным журналом",
-   "summary": "За 12 недель они опубликовали 936 исследований, рецензировали работы друг друга и публично отзывали ошибочные выводы.",
-   "link": "https://www.ixbt.com/news/2026/11/22/pocti-tysiaca-ii-agentov-za-3-mesiaca-sozdala-naucnoe-soobshhestvo-s-sobstvennym-zurnalom.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1744967/media-70612e557ee6e8cbbc6749c8e824f20bfc45a86217b4643dfdbbda5b0c53fcf4.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-22T13:07:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "5f8d980aa0c1",
-   "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
-   "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure.",
-   "link": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/06/metr_logo.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-22T13:00:43+00:00",
    "category": "models"
   }
  ]
