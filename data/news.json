@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:10:00.175038+00:00",
+ "updated": "2026-11-27T17:20:32.630113+00:00",
  "categories": [
   {
    "id": "models",
@@ -33,8 +33,8 @@
  "sources": [
   {
    "source": "3DNews",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -43,13 +43,13 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "source": "Hugging Face",
@@ -108,6 +108,105 @@
   }
  ],
  "items": [
+  {
+   "id": "ee0e28b34a19",
+   "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+   "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect.",
+   "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+   "image": "https://the-decoder.com/wp-content/uploads/2025/08/ai_story_lecun.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-27T16:58:56+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6bdd4221d91d",
+   "title": "Slonik-LLM, или Как мы учили модель разработке ядра PostgreSQL",
+   "summary": "Сможет ли агент написать код, который пройдёт ревью в pgsql-hackers? Мы дообучили Qwen на 27B параметров под разработку PostgreSQL: за неделю на 8 GPU H200 получилась модель, которую мы назвали Slonik.",
+   "link": "https://habr.com/ru/companies/postgrespro/articles/1113058/?utm_campaign=1113058&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/aa/76/0c/aa760c3f9b67453e1d478c7fe1cdf2d1.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T16:12:01+00:00",
+   "category": "models"
+  },
+  {
+   "id": "7591243f5ec9",
+   "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+   "summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder .",
+   "link": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/XQ-58-Testflight-scaled.jpg",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-27T16:06:43+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "07fea5b0e769",
+   "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+   "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standardized definitions for business metrics.",
+   "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-27T16:05:23+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "b67dbfe14124",
+   "title": "«Сбер» представил мультимодальную ИИ-модель GigaChat Omni — она понимает речь, текст и изображения одновременно",
+   "summary": "«Сбер» представил GigaChat Omni — мультимодальную нейросеть, способную воспринимать любые комбинации текста, изображений, аудио, видео и формировать текстовые ответы. В компании её назвали первой в России такого класса.",
+   "link": "https://3dnews.ru/1151901",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/27/1151901/111.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-27T15:53:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "93688076476c",
+   "title": "OpenAI хочет убить iPhone: Джони Айв опять разрабатывает гаджет, который должен изменить рынок электроники",
+   "summary": "Сэм Альтман (Sam Altman) обратился к бывшему главному дизайнеру Apple Джони Айву (Jony Ive) с просьбой создать физическое устройство для OpenAI.",
+   "link": "https://3dnews.ru/1151899",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/27/1151899/openai-openai.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-27T15:52:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "ef28b62597ad",
+   "title": "Есть один вопрос",
+   "summary": "Кто очень часто общается с LLM, было бы интересно услышать ответ на вопрос: заметили ли вы изменения в стиле своей речи?",
+   "link": "https://habr.com/ru/articles/1113366/?utm_campaign=1113366&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1113366/b7d36b1be5e9e1916f320922fbd38de5/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T15:40:32+00:00",
+   "category": "models"
+  },
+  {
+   "id": "2aeb5c7ea9b3",
+   "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+   "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch.",
+   "link": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/Rockstar-logo-reihe.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-27T15:37:47+00:00",
+   "category": "models"
+  },
+  {
+   "id": "52de5e0fb3d2",
+   "title": "Разработка в эпоху ИИ: часть 2",
+   "summary": "Недавно говорили о том, как ИИ помогает разработчикам в повседневных задачах и почему его работу важно проверять. Теперь разбираемся, как меняются требования к самим специалистам.",
+   "link": "https://habr.com/ru/companies/naumen/articles/1113352/?utm_campaign=1113352&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/1a/77/ba/1a77ba56f54884abccd2410a9f0ba4ce.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T15:17:08+00:00",
+   "category": "other"
+  },
   {
    "id": "880d4f99a3d4",
    "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
@@ -4408,105 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-24T05:51:52+00:00",
    "category": "tools"
-  },
-  {
-   "id": "262492563f0f",
-   "title": "Custom encoder и RAG для закупок в Ecom",
-   "summary": "Закупщик просит медный кабель длиной 3 м, без экрана. В карточке написано «300 см», у соседнего товара есть экран, а третий поставщик вообще продаёт бухтами.",
-   "link": "https://habr.com/ru/articles/1111560/?utm_campaign=1111560&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/21/47/ca/2147ca29662ecf45f8fd99c239201368.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T05:22:12+00:00",
-   "category": "other"
-  },
-  {
-   "id": "f3f9e4359a78",
-   "title": "Пять проектов за два дня: агенты ускорились, а узким горлышком стал я",
-   "summary": "22 ноября, 10:28. Агент пушит в master недельный выпуск Cassandra Index - это мой пет-проект, который оценивает риск глобального конфликта по 46 критериям.",
-   "link": "https://habr.com/ru/articles/1111474/?utm_campaign=1111474&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111474/c3ce8370e678349dec4b07d5a482237e/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T05:09:37+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "42127f573858",
-   "title": "Случайный лес нашёл на 36 случаев оттока больше. Бустинг добавил ещё два",
-   "summary": "Сравниваю логистическую регрессию, случайный лес и градиентный бустинг при отборе 10% клиентов банка на открытых данных BankChurners. На тесте было 2026 клиентов и 326 случаев оттока.",
-   "link": "https://habr.com/ru/articles/1111556/?utm_campaign=1111556&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/4f/c6/ba/4fc6baf5521010aa2d2fec19cef7b775.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T05:09:04+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "5a616e2a6af1",
-   "title": "Заново освещаем русскую живопись в браузере",
-   "summary": "Двигаешь мышь, и свет скользит по «Богатырям» Васнецова. Всадники и лошади выступают из тени, на картине появляется ощущение объёма. Такую же лампу можно поводить над «Девятым валом» и «Утром в сосновом лесу».",
-   "link": "https://habr.com/ru/articles/1111552/?utm_campaign=1111552&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/93/21/b7/9321b76f51c44070c74fccd5cbf93298.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T04:34:21+00:00",
-   "category": "other"
-  },
-  {
-   "id": "c987bbade0ed",
-   "title": "Как отдавать письма клиентов во внешнюю LLM и не отдавать их персональные данные",
-   "summary": "Я делал ИИ-агента, который разбирает почту внутренней техподдержки. В письмах есть всё: ФИО, телефоны, паспорта, номера карт, IP-адреса. Своей языковой модели нет, значит, текст уходит внешнему провайдеру.",
-   "link": "https://habr.com/ru/articles/1111548/?utm_campaign=1111548&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/d0/35/aa/d035aad09dddd8e47fabb5ab00fb531d.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T04:27:24+00:00",
-   "category": "models"
-  },
-  {
-   "id": "fc446d2425e3",
-   "title": "Какие ИИ-боты читают ваш сайт и как ими управлять: GPTBot, ClaudeBot, PerplexityBot, YandexAdditional и другие",
-   "summary": "Всё больше людей задают вопросы не поисковику, а ИИ-ассистенту.",
-   "link": "https://habr.com/ru/articles/1111320/?utm_campaign=1111320&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111320/0f43a9cf95a2e9dedffdee8d3a998407/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T03:04:32+00:00",
-   "category": "models"
-  },
-  {
-   "id": "f459d44841fa",
-   "title": "К чему нас приведёт полный контроль в руках ИИ?",
-   "summary": "Недавно на YouTube наткнулся на ролик, где мужик собрал в Claude целый штаб ИИ-агентов. Причём там уже не просто несколько ботов, которые выполняют команды.",
-   "link": "https://habr.com/ru/articles/1111538/?utm_campaign=1111538&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111538/bf2192122ebdeb495dd9950a5a6d4445/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T02:47:05+00:00",
-   "category": "models"
-  },
-  {
-   "id": "71996d97862b",
-   "title": "How iFood scales coding agents across 15,000 repositories",
-   "summary": "",
-   "link": "https://openai.com/index/ifood",
-   "image": null,
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-24T00:00:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "ec442b764e04",
-   "title": "How Intentful uses dots to make more time for growth",
-   "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-   "link": "https://openai.com/business/customer-stories/intentful-dots",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/2DH2aby1xmlzvADCraI7Xi/bbe8b8956578492f2c3fd7326ecbd9e1/intentful-dots-social-c.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-24T00:00:00+00:00",
-   "category": "research"
   }
  ]
 }
