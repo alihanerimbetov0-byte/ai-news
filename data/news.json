@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:11:03.528767+00:00",
+ "updated": "2026-11-27T05:22:34.144953+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "fbe92488f850",
+   "title": "Как мы проверяем, называют ли нас Claude и ChatGPT: 29 вопросов, веб-поиск и потолок 2 доллара в неделю",
+   "summary": "У небольшого сайта нет проблемы позиций, у него другая проблема: человек спрашивает Claude или ChatGPT «где почитать про психосоматику у женщин» и получает ответ, в котором нашего сайта нет.",
+   "link": "https://habr.com/ru/articles/1110796/?utm_campaign=1110796&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1110796/903b392fe5a5689d5ce0121cce9ea3d5/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T05:00:09+00:00",
+   "category": "models"
+  },
   {
    "id": "1ee5eda5cb8b",
    "title": "Разгон LLM модели qwen 3.8 до 40+ токенов",
@@ -4496,17 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-23T13:56:32+00:00",
    "category": "other"
-  },
-  {
-   "id": "a059b7b2167c",
-   "title": "Z.ai представила ИИ-модель GLM-5.4, которая повторно использует одни и те же слои для более глубоких вычислений",
-   "summary": "Компания применила архитектуру Loop Transformer во флагманской модели с 750 млрд параметров.",
-   "link": "https://www.ixbt.com/news/2026/11/23/zai-predstavila-ii-model-glm-54-kotoraia-povtorno-ispolzuet-odni-i-te-ze-sloi-dlia-bolee-glubokix-vycislenii.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745439/media-7a37cb79968e741b21420858f27c222e7563b3e421486720dba763eabacb328b.gif",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-23T13:46:00+00:00",
-   "category": "models"
   }
  ]
 }
