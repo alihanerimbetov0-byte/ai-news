@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T09:22:46.378106+00:00",
+ "updated": "2026-11-27T11:04:00.071402+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,182 @@
   }
  ],
  "items": [
+  {
+   "id": "54c592ee4cb5",
+   "title": "Как мы искали границу между семантическим слоем и контролем ИИ-агента",
+   "summary": "Привет, ХАБР! Эта статья написана по итогам разработки контроллера деятельности ИИ-агентов.",
+   "link": "https://habr.com/ru/articles/1113088/?utm_campaign=1113088&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/92/73/67/927367674483ccdfce5e7c806091d6a3.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T11:00:37+00:00",
+   "category": "research"
+  },
+  {
+   "id": "df22647c819b",
+   "title": "Advent Of Code 2026",
+   "summary": "Годы идут, а решение Advent of Code давно стало для меня обязательной предновогодней традицией.",
+   "link": "https://habr.com/ru/articles/1113102/?utm_campaign=1113102&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8c/06/51/8c06516f69c80b6ac0b5057e0d04b0d8.gif",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T10:58:34+00:00",
+   "category": "other"
+  },
+  {
+   "id": "15f0f11b9a86",
+   "title": "Ренессанса найма в IT не будет. Расходимся",
+   "summary": "Вайбкодинг встретился с продакшеном. Инженерия понадобится. Прежнее штатное расписание — вряд ли. Приложение собрали за вечер. Оно открывается, принимает данные и даже похоже на продукт.",
+   "link": "https://habr.com/ru/articles/1113100/?utm_campaign=1113100&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/17/9b/fa/179bfa1603d1328c1bb27b9f00b30c3e.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T10:54:59+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "df49a65c30a8",
+   "title": "Локальный AI-контур без облаков: связка Android + Ollama на своём железе",
+   "summary": "Я DevOps/SRE из Екатеринбурга. Полгода строил контур, в котором ИИ работает на моём железе, а телефон остаётся тонким клиентом.",
+   "link": "https://habr.com/ru/articles/1113092/?utm_campaign=1113092&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1113092/f0880f5b471684b246fa6b3fe9eb84b1/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T10:46:56+00:00",
+   "category": "other"
+  },
+  {
+   "id": "effe2ea2c0b9",
+   "title": "Минэкономразвития предложило установить правила для сделок с участием ИИ‑агентов",
+   "summary": "Минэкономразвития предложило определить правовой статус сделок, которые автономные ИИ‑агенты смогут самостоятельно заключать от имени пользователей, и распределить ответственность за причинённый ими вред.",
+   "link": "https://habr.com/ru/articles/1113084/?utm_campaign=1113084&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/34/1e/70/341e70b955cd7f1ec7920b0a24e1b747.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T10:38:13+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "ce6e19152eab",
+   "title": "Ubuntu будет внедрять ИИ, но совсем не как Windows: без облаков, слежки и навязчивых помощников",
+   "summary": "Вопрос генеративного искусственного интеллекта вызывает дискуссии в сообществе сторонников открытого ПО.",
+   "link": "https://3dnews.ru/1151888",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/27/1151888/ubuntu.png",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-27T10:38:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ecc98c082e31",
+   "title": "В ядре Linux 7.5 планируют добавить специальные инструкции для ИИ‑агентов",
+   "summary": "В рамках предстоящего окна слияния для ядра Linux 7.5, которое откроется в конце декабря, ожидается представление набора «навыков для ИИ‑агентов» (AI agent skills).",
+   "link": "https://habr.com/ru/articles/1113076/?utm_campaign=1113076&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a0/ce/b8/a0ceb8274a0fd8f65817b7c3231dc600.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T10:27:34+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "00d2f5edfc62",
+   "title": "SAP готовит сокращение не менее 10 тысяч сотрудников из‑за перестройки бизнеса под ИИ",
+   "summary": "Немецкая компания‑разработчик корпоративного программного обеспечения SAP готовит план по сокращению минимум 10 тыс.",
+   "link": "https://habr.com/ru/articles/1113072/?utm_campaign=1113072&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/49/b0/73/49b073d35434e5d53587af372a230337.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T10:22:32+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c71687179946",
+   "title": "«Сбер ГигаАгент» научился не только отвечать, но и действовать: ИИ сам разберёт почту, спланирует дела и закажет продукты",
+   "summary": "«Сбер» анонсировал новую версию «ГигаАгента» — своего агента искусственного интеллекта.",
+   "link": "https://3dnews.ru/1151885",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/27/1151885/gigaagent.png",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-27T10:13:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "c6caa680ed78",
+   "title": "Что реально умеет ИИ в таск-трекерах: обзор MCP в 8 системах управления проектами",
+   "summary": "Зачем вообще открывать таск-трекер, если проектом может управлять нейросеть? Разобрался, что ChatGPT и Claude умеют в восьми системах управления проектами и где заканчивается магия MCP. Узнать о возможностях ИИ",
+   "link": "https://habr.com/ru/companies/yougile/articles/1113066/?utm_campaign=1113066&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7f/9a/fd/7f9afde708297f039de853bd73a9a1ba.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T10:09:34+00:00",
+   "category": "models"
+  },
+  {
+   "id": "9237943179f5",
+   "title": "deskhatch: открытый аналог «Install as app» из Claude. Одна среда для всех приложений, без сети, без аккаунта и с Linux",
+   "summary": "24 ноября Anthropic начала выпускать в Claude бету функции «Install as app» ( объявление ). Страницу, которую Claude собрал в чате, теперь можно поставить на компьютер как программу со своей иконкой и своим окном.",
+   "link": "https://habr.com/ru/articles/1113056/?utm_campaign=1113056&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/54/de/ad/54deadd2e0dc6a8ad0604000e67668ea.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T09:49:44+00:00",
+   "category": "models"
+  },
+  {
+   "id": "c039047b45c5",
+   "title": "Новые российские ракеты для космоса будут создавать при помощи ИИ",
+   "summary": "Искусственный интеллект позволит создавать самую прогрессивную космическую технику Роскосмос намерен активнее использовать искусственный интеллект при проектировании ракетно-космической техники и обработке данных…",
+   "link": "https://www.ixbt.com/news/2026/11/27/novye-rossiiskie-rakety-dlia-kosmosa-budut-sozdavat-pri-pomoshhi-ii.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746951/media-55a551e3bd4eb8b5a8b3a6bbe6b841e8580705df6e6a118d2924bcf57d828223.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T09:49:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "cf767e63d30c",
+   "title": "Слушайте выпуск #8 подкаста «про код.ии.прод»",
+   "summary": "Привет! Меня зовут Женя, я деврел в Банки.ру.",
+   "link": "https://habr.com/ru/companies/banki/articles/1113050/?utm_campaign=1113050&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/2a/4b/4c/2a4b4c289e0d790e48d681dee37316aa.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T09:45:17+00:00",
+   "category": "other"
+  },
+  {
+   "id": "9be0132da5b8",
+   "title": "Почему ИИ не заменит сильных разработчиков — дело не в коде, а в цене ошибки",
+   "summary": "Предупреждён, значит вооружён Эта статья написана не ради очередного холивара и не для того, чтобы обвинить в некомпетентности тех, кто активно использует нейросети в работе.",
+   "link": "https://habr.com/ru/articles/1113046/?utm_campaign=1113046&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1113046/2cea6a9073e27f9760f5039b911cef35/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T09:37:32+00:00",
+   "category": "research"
+  },
+  {
+   "id": "92f6b706a74a",
+   "title": "Вас нельзя переселить в компьютер",
+   "summary": "С развитием ИИ все чаще появляются рассуждения о переносе сознания в компьютер. Высказываются предположения, что это позволит достичь бессмертия или что в компьютер уйдут целые цивилизации.",
+   "link": "https://habr.com/ru/articles/1113042/?utm_campaign=1113042&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1113042/2288a3ebec71bff907112360d6b77478/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T09:34:10+00:00",
+   "category": "other"
+  },
+  {
+   "id": "185159a54b84",
+   "title": "Apple грозит штраф до $48 млн за рекламу ИИ-функций, которых покупатели iPhone 16 так и не дождались",
+   "summary": "Комиссия по справедливой торговле Южной Кореи (KFTC) объявила о начале официального разбирательства в отношении Apple в связи с рекламой функций искусственного интеллекта Apple Intelligence для смартфонов линейки iPhone…",
+   "link": "https://3dnews.ru/1151884",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/27/1151884/iphone.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-27T09:28:00+00:00",
+   "category": "hardware"
+  },
   {
    "id": "433a72e2905d",
    "title": "А зачем тогда посредники? Подключил DeepSeek Harness и пересчитал четыре агрегатора заново",
@@ -4331,182 +4507,6 @@
    "lang": "en",
    "date": "2026-11-23T18:26:47+00:00",
    "category": "models"
-  },
-  {
-   "id": "a2f14d06f82b",
-   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-   "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-   "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-23T18:12:22+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "9aeab8bbf1ea",
-   "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
-   "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
-   "link": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
-   "image": "https://media.wired.com/photos/6b0467fb5f8e6c0d7b84afc9/master/pass/Business_Nvidia%20Is%20Worth%20$1%20Trillion%20More%20Than%20It%20Was%20Yesterday.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-23T17:52:56+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "a626fead6f09",
-   "title": "Искусственный интеллект — это новый «цифровой» дрон",
-   "summary": "Сначала о том, чем ИИ является сейчас. По ощущениям модели становятся умнее с каждым поколением, и нам обещают, что в недалёком будущем они станут «цифровым богом», новой промышленной революцией и т.д.",
-   "link": "https://habr.com/ru/articles/1111466/?utm_campaign=1111466&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/bb/f4/cb/bbf4cb1da5bc513c6dbd8df36b085f1e.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T17:39:47+00:00",
-   "category": "models"
-  },
-  {
-   "id": "02839082ff9f",
-   "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here .",
-   "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/simulacra2a.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "lang": "en",
-   "date": "2026-11-23T17:36:08+00:00",
-   "category": "research"
-  },
-  {
-   "id": "7ec95461cad9",
-   "title": "Harness и ИИ-ревью: как современные ИИ-агенты ревьювят ваш код",
-   "summary": "Долгие годы код-ревью было тем местом, где команда чаще теряла больше времени, чем было на создание фичи. Но теперь код-ревью стало узким местом.",
-   "link": "https://habr.com/ru/companies/bothub/articles/1111458/?utm_campaign=1111458&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/d0/f3/77/d0f377a7ec2b3ed7f258307601cff184.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T17:23:50+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "ca38829e7312",
-   "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-   "summary": "",
-   "link": "https://huggingface.co/blog/allenai/robotrack",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/0KlbITzhyUGtGPyvi09um.png",
-   "source": "Hugging Face",
-   "lang": "en",
-   "date": "2026-11-23T17:20:37+00:00",
-   "category": "other"
-  },
-  {
-   "id": "b65230f07406",
-   "title": "ИИ может устроить киберапокалипсис уже через 18 месяцев — эксперты ждут катастрофу, а власти вряд ли смогут её предотвратить",
-   "summary": "Верное своему «телеграфному» стилю издание Axios опубликовало исчерпывающий ряд лаконичных пунктов пугающего содержания, после прочтения которых сразу вспомнился фильм 2021 года «Не смотрите наверх» (Don't Look Up).",
-   "link": "https://3dnews.ru/1151690",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151690/cibier.png",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-23T17:20:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "6a7990e1ad10",
-   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-   "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-   "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-23T17:14:23+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "c5903c8754bb",
-   "title": "A more tailored Google Search that’s uniquely yours",
-   "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
-   "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
-   "source": "Google AI",
-   "lang": "en",
-   "date": "2026-11-23T17:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "9dddeb89e408",
-   "title": "Finding faster quantum algorithms with agents and formal verification",
-   "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-   "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-   "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
-   "source": "DeepMind",
-   "lang": "en",
-   "date": "2026-11-23T16:59:40+00:00",
-   "category": "research"
-  },
-  {
-   "id": "b7579835e4e7",
-   "title": "Jensen Huang isn’t out of the woods yet",
-   "summary": "It’s safe to say no one expected this.",
-   "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-23T16:57:40+00:00",
-   "category": "other"
-  },
-  {
-   "id": "1042e977aaea",
-   "title": "Распродажа акций ИИ-компаний оказалась следствием лопнувшего «мини-пузыря» — теперь главное, чтобы не лопнул большой",
-   "summary": "Распродажа акций компаний в сфере ИИ, которая в последние недели наблюдается на фондовом рынке, сильно напоминает крах «пузыря доткомов».",
-   "link": "https://3dnews.ru/1151684",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151684/maxim-hopman-fiXLQXAhCfk-unsplash.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-23T16:45:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "a73a496406a2",
-   "title": "Рынок найма в ИТ ждет ренессанс",
-   "summary": "Потребность в технологиях никуда не делась, но все почему-то рисуют профессии айтишника сомнительные перспективы. Эти же “визионеры” ранее называли промпт-инженера профессией будущего. И где она сейчас?",
-   "link": "https://habr.com/ru/articles/1110976/?utm_campaign=1110976&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/6c/8a/e9/6c8ae95efb0cf0aa54c1d4fd4c25a31f.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T16:43:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "81a464b2bd01",
-   "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-   "summary": "\"I spoke to them, let me put it that way... And I convinced them,\" the president told CNBC.",
-   "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-23T16:39:10+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "16d271a0eda2",
-   "title": "Видимость бренда в нейросетях: почему для аудита Алисы AI и ChatGPT нужны обращения клиентов",
-   "summary": "Рекомендации аудита видимости бренда в нейросетях зависят от того, насколько вопросы для проверки соответствуют реальным обращениям клиентов.",
-   "link": "https://habr.com/ru/articles/1111448/?utm_campaign=1111448&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/dc/f1/83/dcf183b4f7b5336ec09719e90344fba8.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T16:32:43+00:00",
-   "category": "other"
-  },
-  {
-   "id": "1cb78417896f",
-   "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
-   "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was.",
-   "link": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-23T16:30:11+00:00",
-   "category": "hardware"
   }
  ]
 }
