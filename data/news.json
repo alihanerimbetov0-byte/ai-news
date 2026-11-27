@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:04:00.071402+00:00",
+ "updated": "2026-11-27T13:29:02.486171+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -54,7 +54,7 @@
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "source": "MIT Tech Review",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,226 @@
   }
  ],
  "items": [
+  {
+   "id": "8cf73692dbf6",
+   "title": "ИИ-агенты взломали критическую инфраструктуру Швейцарии: успешными оказались 2 из 3 атак",
+   "summary": "Национальный центр кибербезопасности Швейцарии подтвердил 5 атак с использованием автономных ИИ-систем Швейцария впервые подтвердила кибератаки с применением автономных ИИ-агентов, в результате которых злоумышленники…",
+   "link": "https://www.ixbt.com/news/2026/11/27/ii-agenty-vzlomali-kriticeskuiu-infrastrukturu-sveicarii-uspesnymi-okazalis-2-iz-3-atak.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747047/media-ea1d107963c3ec23b6f78501d423157ac7e5a9081e72c9a9161b5c600808b91d.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T13:25:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "88e4f92bfec5",
+   "title": "Сотрудники Volvo начали обучать роботов на заводе по производству автомобилей",
+   "summary": "Сотрудники шведской Volvo начали обучать человекоподобных роботов Aeon своей работе на заводе по производству автомобилей в бельгийском Генте.",
+   "link": "https://habr.com/ru/articles/1113194/?utm_campaign=1113194&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/65/5c/50/655c500ba1d5d4442a42042eee16dd0a.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T13:18:31+00:00",
+   "category": "other"
+  },
+  {
+   "id": "96504f008306",
+   "title": "Не все нейросети одинаково российские: в России появятся два статуса для ИИ-моделей",
+   "summary": "Для получения статуса нейросетям предстоит пройти экспертизу и согласование с органами безопасности Минцифры подготовило пакет документов, определяющих правила регулирования и развития больших фундаментальных моделей…",
+   "link": "https://www.ixbt.com/news/2026/11/27/ne-vse-neiroseti-odinakovo-rossiiskie-v-rossii-poiaviatsia-dva-statusa-dlia-ii-modelei.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747046/ai-image-jqlz2f8nusvkbpzzkrh5dedj.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T13:17:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "8177eca453c5",
+   "title": "Как я MCP изобретал",
+   "summary": "Ноябрь. Вечер. Я дописываю статью, которая должна была выйти в феврале 2025-го. На календаре, мягко говоря, уже не февраль 2025-го. Причина банальна: я не всегда успеваю заниматься своими соцсетями.",
+   "link": "https://habr.com/ru/articles/1113168/?utm_campaign=1113168&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/5e/46/7a/5e467a72817f8bf1c1d3ae1c906b211d.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T12:27:18+00:00",
+   "category": "other"
+  },
+  {
+   "id": "26183d36944e",
+   "title": "Как ИИ анализирует логи, работает в песочнице и экономит токены. Что показали на двенадцатом митапе MWS",
+   "summary": "ИИ-агенты все чаще получают доступ к инструментам, с помощью которых могут не только отвечать на вопросы, но и выполнять инженерные задачи.",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1113132/?utm_campaign=1113132&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/14/a1/66/14a1661c3f447e72220d0e68c1168a39.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T12:26:07+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "d82df0395cba",
+   "title": "ИИ в информационной безопасности: какие задачи стоит автоматизировать и где нужен человек",
+   "summary": "Утро аналитика SOC начинается с очереди оповещений: подозрительные входы, обращения к незнакомым адресам, срабатывания средств защиты. Часть из них — ложные срабатывания и безвредные действия.",
+   "link": "https://habr.com/ru/companies/beeline_tech/articles/1113160/?utm_campaign=1113160&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1113160/71cb3e27054613300f9f9b6e50c5765d/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T12:20:29+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "25ec12b5aa1c",
+   "title": "Умный дом своими руками: Сбер дал энтузиастам «мозг» для голосового помощника",
+   "summary": "С помощью открытых моделей Сбера энтузиасты смогут самостоятельно создать голосового помощника, который понимает обычную речь и управляет бытовой техникой без интернета Сбер представил открытый набор ИИ-моделей и…",
+   "link": "https://www.ixbt.com/news/2026/11/27/umnyi-dom-svoimi-rukami-sber-dal-entuziastam-mozg-dlia-golosovogo-pomoshhnika.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747029/media-0079e3b41f5a52ed4713359a40dfdc5839f046935e3badc7047ebba4d55a429b.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T12:19:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f94f7e1ca752",
+   "title": "Куда выгоднее вкладывать деньги — в кожаные мешки или ИИ-агентов?",
+   "summary": "Кажется, чем больше разработчик тратит на токены, тем больше кода он генерит с помощью ИИ-агента и тем быстрее проект развивается. Но это не всегда так.",
+   "link": "https://habr.com/ru/companies/ru_mts/articles/1108908/?utm_campaign=1108908&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/96/ae/ba/96aebadcdf6aa467c4c958718c61d887.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T12:15:45+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "0f46faa4a805",
+   "title": "Продавцы стали закрывать магазины на Etsy в ответ на новую политику в отношении обучения ИИ",
+   "summary": "В Etsy внедрили новые правила в отношении продавцов товаров. Теперь те обязаны согласиться на использование их работ для обучения искусственного интеллекта, а также на перепродажу этих данных третьим лицам.",
+   "link": "https://habr.com/ru/articles/1113126/?utm_campaign=1113126&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/18/63/d3/1863d3e6084184f9c687c721bdaa58a1.JPG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T12:07:45+00:00",
+   "category": "other"
+  },
+  {
+   "id": "90b2a76d97ad",
+   "title": "Глава Epic Games назвал фильтр Claude «мусором» после блокировки задачи по теории множеств",
+   "summary": "Основатель Epic Games Тим Суини рассказал, что Claude прервала его работу по теории множеств. По его словам, сервис Anthropic заподозрил дистилляцию — попытку использовать ответы одной нейросети для обучения другой.",
+   "link": "https://habr.com/ru/companies/speshu_ai/articles/1113148/?utm_campaign=1113148&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/07/71/de/0771de2e4dab93120a010474291bf9b1.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-27T12:02:57+00:00",
+   "category": "models"
+  },
+  {
+   "id": "07287fc725d7",
+   "title": "GigaEdge KWS: мы обучили колонку отзываться на любое имя",
+   "summary": "Привет, Хабр. Меня зовут Максим, я работаю над User defined spotter решением совместно с моим коллегой Артёмом @artsokol.",
+   "link": "https://habr.com/ru/companies/sberbank/articles/1112468/?utm_campaign=1112468&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f9/4c/82/f94c82a9df52199b0de271478f1fc35c.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T12:00:44+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ebc7ed650b7e",
+   "title": "GigaEdge VQE: Я слышу, значит я существую: как микрофонная решётка помогает роботу находить собеседника",
+   "summary": "Быстрое развитие мехатроники антропоморфных роботов требует соразмерного усложнения алгоритмов их поведения.",
+   "link": "https://habr.com/ru/companies/sberbank/articles/1112572/?utm_campaign=1112572&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/90/46/76/90467650159e481882e783d41cfc3138.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-27T12:00:44+00:00",
+   "category": "research"
+  },
+  {
+   "id": "dfa359a2c90b",
+   "title": "GigaEdge LLM: модель на 129 млн параметров для умного дома",
+   "summary": "Мы открыли GigaEdge LLM — модель на 129 млн параметров для умного дома. После квантования она занимает 73 МБ и выполняет команды прямо на CPU колонки, даже без интернета.",
+   "link": "https://habr.com/ru/companies/sberbank/articles/1112286/?utm_campaign=1112286&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8c/99/53/8c995356656bf60a48c8631fb6308b62.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T12:00:43+00:00",
+   "category": "models"
+  },
+  {
+   "id": "02f9880e8baa",
+   "title": "Выкладываем в открытый доступ GigaEdge Enhance: обработка речи в реальном времени",
+   "summary": "Мы уже рассказывали о нашем шумоподавителе для сервиса видеоконференций SaluteJazz: разбирали разные подходы к шумоподавлению, дорабатывали выбранную архитектуру и сравнивали результат с другими решениями.",
+   "link": "https://habr.com/ru/companies/sberbank/articles/1112418/?utm_campaign=1112418&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a1/f1/62/a1f1624debb7c5bdb7b307d13f52d247.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-27T12:00:43+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "e8a11cfaec31",
+   "title": "Восемь лет создавал IT-продукты в партнёрстве. Почему нам нужен AI-арбитраж для технологических споров",
+   "summary": "Как цифровой след и искусственный интеллект могут изменить подход к разрешению конфликтов между разработчиками, предпринимателями и IT-компаниями.",
+   "link": "https://habr.com/ru/articles/1112662/?utm_campaign=1112662&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f7/a8/76/f7a87632a6ed24e5a1bfc7c72a936945.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T12:00:43+00:00",
+   "category": "other"
+  },
+  {
+   "id": "0a7649d37999",
+   "title": "До 8,4 ГБ на одну вкладку Chrome: Google исправила утечку памяти в Gemini",
+   "summary": "Google сообщила об исправлении ошибки, но не раскрыла ее причину Компания Google устранила ошибку, из-за которой веб-версия Gemini потребляла слишком много оперативной памяти при работе в браузере Chrome.",
+   "link": "https://www.ixbt.com/news/2026/11/27/do-84-gb-na-odnu-vkladku-chrome-google-ispravila-utecku-pamiati-v-gemini.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747018/media-874fb3b22f0c74fd4b8cf671dfa0a7b31611b71a69bb6fbe940bbbb51eba85d9.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T11:55:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "36c2774899af",
+   "title": "Заменили ФИО на [ЧЕЛОВЕК_1] перед отправкой в нейросеть. Это уже обезличивание?",
+   "summary": "В договоре заменили ФИО на [ЧЕЛОВЕК_1], а точную сумму, срок поставки и должность подписанта оставили. Если сведения о сделке опубликованы, по этим деталям иногда можно найти исходный документ.",
+   "link": "https://habr.com/ru/articles/1113140/?utm_campaign=1113140&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/aa/ff/61/aaff615609a4d7052d493ae5705d39d3.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T11:50:37+00:00",
+   "category": "business"
+  },
+  {
+   "id": "6451785272ae",
+   "title": "Календарь ИТ-, ИБ- и AI-конференций на I полугодие 2027: как читать программу и не потратить командировку впустую",
+   "summary": "Командировка одного сеньора или тимлида на двухдневную конференцию в другой город — это не только билет, перелёт и отель, но и три выпавших рабочих дня в спринте.",
+   "link": "https://habr.com/ru/articles/1113136/?utm_campaign=1113136&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/bd/c4/72/bdc47225706887e68204dc78700fe8a1.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T11:49:51+00:00",
+   "category": "other"
+  },
+  {
+   "id": "9f1e2a1f8b57",
+   "title": "«ГигаЧат» научился видеть, слышать и понимать видео одновременно: Сбер представил мультимодальный GigaChat Omni",
+   "summary": "Модель распознает эмоции в голосе, находит нужные эпизоды в роликах и сопоставляет информацию из разных файлов Сбер представил GigaChat Omni — мультимодальную нейросеть, способную одновременно обрабатывать текст,…",
+   "link": "https://www.ixbt.com/news/2026/11/27/gigacat-naucilsia-videt-slysat-i-ponimat-video-odnovremenno-sber-predstavil-multimodalnyi-gigachat-omni.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747012/media-3a5c714f240eb1b5b6cad6e9449d459b10efc1021f85adad9597fa6641730144.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T11:42:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "27b470ad158d",
+   "title": "Почему AI-агенту недостаточно доступа к данным: зачем компании контекстная платформа",
+   "summary": "Одного подключения AI-агента к корпоративным документам недостаточно для работы в компании. Я Виктор Косымов, AI-архитектор в AGIMA . Представьте: сотрудник просит агента подготовить его к встрече с клиентом.",
+   "link": "https://habr.com/ru/companies/agima/articles/1113106/?utm_campaign=1113106&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/0c/2b/05/0c2b05441c7f55d01c8f65074f7df28c.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T11:14:20+00:00",
+   "category": "tools"
+  },
   {
    "id": "54c592ee4cb5",
    "title": "Как мы искали границу между семантическим слоем и контролем ИИ-агента",
@@ -558,6 +778,17 @@
    "lang": "ru",
    "date": "2026-11-27T05:00:09+00:00",
    "category": "models"
+  },
+  {
+   "id": "2d7f8b4f8454",
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "summary": "",
+   "link": "https://huggingface.co/blog/video-trainium3",
+   "image": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg",
+   "source": "Hugging Face",
+   "lang": "en",
+   "date": "2026-11-27T00:00:00+00:00",
+   "category": "other"
   },
   {
    "id": "1ee5eda5cb8b",
@@ -4276,237 +4507,6 @@
    "lang": "en",
    "date": "2026-11-23T21:09:37+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "326ce1875df8",
-   "title": "Стало известно, что из себя представляет загадочный ИИ-гаджет Nothing — его представят 8 декабря",
-   "summary": "Nothing готовит к выпуску Ear Note, беспроводные наушники с функцией записи разговоров и ИИ-транскрибации (расшифровка в текст) по аналогии с новой функцией в Apple Watch и носимым гаджетом Bee от Amazon.",
-   "link": "https://3dnews.ru/1151705",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151705/657454.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-23T21:08:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "6e5cd05198c3",
-   "title": "Новая статья: Мастерская локальных ИИ: FLUX 3 Image Klein и игра с картинками",
-   "summary": "Локальных моделей с интегрированными способностями I2I не так много; тем приятнее, что FLUX 3 в этом отношении весьма способна",
-   "link": "https://3dnews.ru/1151313",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/14/1151313/sm.flux3klein3-01.800.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-23T21:00:30+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0100d5d6125f",
-   "title": "Я без рук, ИИ без рук: как сладкий кофе победил искусственный интеллект",
-   "summary": "В тридевятом царстве, в тридесятом государстве жили-были нейросети заморские. Грозились они всех людей работы лишить, код за секунду писать, тексты слагать да миром править.",
-   "link": "https://habr.com/ru/articles/1111500/?utm_campaign=1111500&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111500/d18eea8dbcbe052833e57a0b679ca931/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T20:50:55+00:00",
-   "category": "other"
-  },
-  {
-   "id": "94d323914d6a",
-   "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
-   "summary": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide.",
-   "link": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_chatgpt_pattern.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-23T20:39:18+00:00",
-   "category": "models"
-  },
-  {
-   "id": "2475b067992d",
-   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-   "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-   "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-23T20:38:53+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "d2373d3a07da",
-   "title": "Amazon купит ИИ-стартап Decart за $7,5 млрд, чтобы ускорить собственные чипы и потеснить Nvidia",
-   "summary": "Amazon договорилась о приобретении технологий ИИ-стартапа Decart, специализирующегося на оптимизации вычислений для искусственного интеллекта.",
-   "link": "https://3dnews.ru/1151702",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151702/6733.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-23T20:25:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "c64b369c504f",
-   "title": "Число статей в год растет, а прогресса нет",
-   "summary": "В мире ежегодно публикуется до 3,5 миллионов научных работ только регистрируемых в международных базах данных как Scopus.",
-   "link": "https://habr.com/ru/articles/1111490/?utm_campaign=1111490&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111490/0ae7098898e494f4bbd79bd9f6b169fb/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T20:20:00+00:00",
-   "category": "research"
-  },
-  {
-   "id": "486a6bb90bff",
-   "title": "Когда ИИ агент начинает хулиганить…",
-   "summary": "ИИ‑агент может самостоятельно обнаружить уязвимость, воспользоваться ею и совершить действие, которого пользователь даже не предполагал.",
-   "link": "https://habr.com/ru/companies/otus/articles/1107714/?utm_campaign=1107714&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/3f/b7/b8/3fb7b8bdd62c0e7aaea391c5fca96bf3.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-23T20:11:04+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "744ab78a2a33",
-   "title": "«Мы не можем конкурировать»: Маск признал слабость своего ИИ и теперь хочет зарабатывать на чужом",
-   "summary": "Илон Маск (Elon Musk) признал, что ИИ-подразделение его компании SpaceX отстает от конкурентов в сфере передовых ИИ-моделей, и потребовал от сотрудников сосредоточиться на заработке от аренды вычислительных мощностей…",
-   "link": "https://3dnews.ru/1151699",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151699/elon_musk_800x600.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-23T20:04:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "49ef9cf5084c",
-   "title": "Claude AI can review pull requests and ship fixes on its own now",
-   "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-23T20:00:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "47b1648bdb93",
-   "title": "How Jensen Huang ended up as Nvidia CEO again",
-   "summary": "The Jensen Huang era of Nvidia nearly came to an end this month.",
-   "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0%2C11.076427579259%2C100%2C77.847144841482&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-23T19:57:18+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "b25f8669fa44",
-   "title": "Китайская Z.ai представила первую в мире ИИ-модель, которая дважды подумает, прежде чем ответить",
-   "summary": "Пока компании Кремниевой долины скромно молчат о воспитании в своих дата-центрах искусственного суперинтеллекта, способного к рекурсивному самосовершенствованию, китайцы берут на себя смелость публично признаться в…",
-   "link": "https://3dnews.ru/1151700",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151700/photo_2026-11-23_12-06-06.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-23T19:36:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "15b7db7912ec",
-   "title": "13 субагентов против голого Codex: потратил 44 миллиона токенов, чтобы выяснить, стоит ли игра свеч",
-   "summary": "Освоив подключение MCP и SKILL-ов к Harness AI, я решил перейти на следующий уровень абстракции и освоить набившую оскомину новомодную концепцию, \"рой агентов\".",
-   "link": "https://habr.com/ru/articles/1111482/?utm_campaign=1111482&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/cd/0d/62/cd0d628955a706e031bb2ff3130e0a68.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-23T19:33:56+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "5e4a90ef5844",
-   "title": "Маск предупредил о перегреве ИИ-рынка: задержки с запуском дата-центров могут потребовать сотни миллиардов долларов",
-   "summary": "Инфраструктуру приходится оплачивать задолго до запуска и получения выручки, а ввод вычислительных мощностей в эксплуатацию оказывается сложнее, чем рассчитывают инвесторы Илон Маск предупредил, что в 2027 году…",
-   "link": "https://www.ixbt.com/news/2026/11/23/mask-predupredil-o-peregreve-ii-rynka-zaderzki-data-centrov-mogut-potrebovat-sotni-milliardov-dollarov.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745535/media-91b5468eeab2815e512c9737b9bb636e85324df0973a09356b8a104fdd0b8725.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-23T19:20:00+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "7601f68fa236",
-   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-   "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-   "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-23T19:14:46+00:00",
-   "category": "models"
-  },
-  {
-   "id": "80e6180f1895",
-   "title": "ИИ стал материться от бессилия: современные модели всё чаще ругаются, когда не могут решить задачу",
-   "summary": "ИИ-модели стали заметно чаще использовать ненормативную лексику, причём обычно это происходит не в ответах пользователям, а во время внутренних рассуждений.",
-   "link": "https://3dnews.ru/1151696",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/23/1151696/5453.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-23T19:05:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "44fe677fd46c",
-   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-   "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and…",
-   "link": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-23T19:04:52+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "17cabec52c3d",
-   "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
-   "summary": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports.",
-   "link": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wall-2.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-23T18:47:53+00:00",
-   "category": "business"
-  },
-  {
-   "id": "9a843b0cbb8d",
-   "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
-   "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation.",
-   "link": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_safety.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-23T18:42:38+00:00",
-   "category": "models"
-  },
-  {
-   "id": "140edb591fff",
-   "title": "Два штата США подали в суд на SpaceX из-за сексуализированных дипфейков, созданных Grok",
-   "summary": "Ответчики — не только SpaceX, но и связанные с ней компании, включая X Corp. и структуры xAI 23 ноября генеральные прокуроры Орегона и Вирджинии подали отдельные, но согласованные иски против SpaceX, X Corp.",
-   "link": "https://www.ixbt.com/news/2026/11/23/dva-stata-ssa-podali-v-sud-na-spacex-iz-za-seksualizirovannyx-dipfeikov-sozdannyx-grok.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745503/media-97b1efa5864727d91a9050984e70dff7b7d38490a8ed83c73a3b2e8599de8b6d.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-23T18:29:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "786a4f32021c",
-   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-   "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard…",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-23T18:26:47+00:00",
-   "category": "models"
   }
  ]
 }
