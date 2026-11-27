@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:08:04.795768+00:00",
+ "updated": "2026-11-27T23:07:52.148099+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,39 @@
   }
  ],
  "items": [
+  {
+   "id": "0c5f117b7764",
+   "title": "HMD представила смартфон за $110, и в нем даже есть ИИ. HMD Rise получил батарею 5000 мАч и Android 16 Go Edition",
+   "summary": "HMD обещает обновлять смартфон два года HMD представила в Индии бюджетный смартфон Rise — всего через день после утечки его полных характеристик.",
+   "link": "https://www.ixbt.com/news/2026/11/28/hmd-predstavila-smartfon-za-110-i-v-nem-daze-est-ii-hmd-rise-polucil-batareiu-5000-mac-i-android-16-go-edition.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747154/media-f05de8f848de73f95ea186faf1819014c368e656aefe5c3e5d8c4be9bb4abe1c.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T22:16:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "f201206e66d0",
+   "title": "Samsung научит смартфоны Galaxy менять ракурс уже сделанных фотографий с помощью ИИ — функция уже реализована в One UI 9.5 Beta",
+   "summary": "Пока работает неидеально Samsung разрабатывает новую функцию редактирования фотографий с помощью искусственного интеллекта для приложения «Галерея».",
+   "link": "https://www.ixbt.com/news/2026/11/28/samsung-naucit-smartfony-galaxy-meniat-rakurs-uze-sdelannyx-fotografii-s-pomoshhiu-ii-funkciia-uze-realizovana-v-one-ui-95-beta.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747151/media-05ff415d0ecbaa747a1e35d6a6f854ae6c63f2a0cd160f55fd40e847ab98ae7b.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T22:11:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "4891d829f40d",
+   "title": "Вайбкодинг для дизайнеров: разрешить нельзя запретить",
+   "summary": "Раньше дизайнер приносил макет в Figma и гифку с Dribbble: «Тут карточка выезжает с пружинкой, а при свайпе — лёгкий хаптик».",
+   "link": "https://habr.com/ru/articles/1113430/?utm_campaign=1113430&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/73/98/e2/7398e2e425d30f2f635007fe2082a80b.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T21:28:42+00:00",
+   "category": "policy"
+  },
   {
    "id": "13e999b1b57b",
    "title": "ИИ-стоматолог для Planmeca: от поиска патологий на всей панораме к анализу каждого зуба",
@@ -4474,39 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-24T07:57:00+00:00",
    "category": "tools"
-  },
-  {
-   "id": "cde4ca5e2a24",
-   "title": "ИИ, гигабайты и кешбэк в двойном размере: «Билайн» запустил «Удвояйзер»",
-   "summary": "Первые 60 дней подключение бесплатно Оператор «Билайн» запустил дополнительную услугу «Удвояйзер», которая увеличивает вдвое пакеты минут и мобильного интернета, кешбэк за покупки в «Пятёрочке» и «Перекрёстке», а также…",
-   "link": "https://www.ixbt.com/news/2026/11/24/ii-gigabaity-i-kesbek-v-dvoinom-razmere-bilain-zapustil-udvoiaizer.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745713/ai-image-e8x5uxlk6onedrhcccupqj8w.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-24T07:48:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "7c5ccbb34d1c",
-   "title": "Автоматическая обработка заказов в DIY-ритейле: как мы подняли качество поиска по матрице товаров (часть 2)",
-   "summary": "Привет, Хабр! Меня зовут Александра, я Data Scientist в компании Рафт. В первой части я рассказала, как мы автоматизировали обработку заявок в DIY-ритейле от входящего письма до готового коммерческого предложения.",
-   "link": "https://habr.com/ru/companies/raft/articles/1111610/?utm_campaign=1111610&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/09/06/12/0906124b0a339c7de889edd4cbaa2917.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T07:20:59+00:00",
-   "category": "research"
-  },
-  {
-   "id": "812810e2fc89",
-   "title": "Можно ли приучить ИИ-исследователей публиковать неудачи? Опыт шанхайской площадки ArchSpace",
-   "summary": "Привет, Хабр! Если вы когда-нибудь читали технические отчеты о новых моделях DeepSeek, Qwen или Kimi, то наверняка встречали в них абзац о том, какой блок архитектуры заменили и что это дало.",
-   "link": "https://habr.com/ru/companies/ru_mts/articles/1110586/?utm_campaign=1110586&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e9/fd/18/e9fd18f28ca67b6c1dfece1788070236.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T07:16:00+00:00",
-   "category": "models"
   }
  ]
 }
