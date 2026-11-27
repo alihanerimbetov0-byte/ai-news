@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:34:31.075869+00:00",
+ "updated": "2026-11-27T09:22:46.378106+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -108,6 +108,149 @@
   }
  ],
  "items": [
+  {
+   "id": "433a72e2905d",
+   "title": "А зачем тогда посредники? Подключил DeepSeek Harness и пересчитал четыре агрегатора заново",
+   "summary": "В комментариях к прошлой статье спросили: если DeepSeek API можно оплатить напрямую по QR-коду через Сбер, зачем вообще нужны посредники? Подключил DeepSeek Harness и разобрался.",
+   "link": "https://habr.com/ru/articles/1113016/?utm_campaign=1113016&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1113016/1270327a27462ec70eda77936b3ce759/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T09:02:24+00:00",
+   "category": "models"
+  },
+  {
+   "id": "91499df6fc51",
+   "title": "AutoTavern, или как ИИ-агенты сами научились обыгрывать всех в Hearthstone",
+   "summary": "Могут ли LLM-агенты решить сложную задачу из реального мира, пройдя путь от сырых данных до системы, способной на равных соперничать с людьми?",
+   "link": "https://habr.com/ru/companies/ruvds/articles/1112500/?utm_campaign=1112500&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/da/b0/0e/dab00e1aecacf2bcdf221d447e4c3b85.webp",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-27T09:01:28+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e9036e9cdf17",
+   "title": "У двух американских партнёров Nvidia обнаружились китайские корни",
+   "summary": "Два американских партнёра Nvidia, получившие право закупать её передовые ИИ-ускорители, оказались связаны с китайскими компаниями, одна из которых попала под санкции США.",
+   "link": "https://3dnews.ru/1151882",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/27/1151882/nvidia.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-27T08:44:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "470b6262ae5f",
+   "title": "CharacterAI намерена продать на аукционе чаты: переписки 21 млн пользователей — среди них 2,1 млн несовершеннолетних",
+   "summary": "Прокуроры 42 штатов США пытаются заблокировать продажу личных данных Character.AI намерена продать на аукционе переписки пользователей вместе с другими персональными данными.",
+   "link": "https://www.ixbt.com/news/2026/11/27/characterai-namerena-prodat-na-aukcione-caty-perepiski-21-mln-polzovatelei-sredi-nix-21-mln-nesoversennoletnix.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746919/media-5d8243440ad87c6d1ff857436ac38b2a28498565b08f67165dbec7b47ed29ec0.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T08:42:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "f2daf11adca6",
+   "title": "Workflow разработки с ИИ – что изменилось",
+   "summary": "Общее мнение – применение ИИ должно принципиально поменять разработку, хотя пока во многих компаниях дело ограничивается ИИ-помощниками и агентами, которые воспроизводят существующий процесс в более быстром и…",
+   "link": "https://habr.com/ru/companies/oleg-bunin/articles/1112570/?utm_campaign=1112570&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/2c/da/03/2cda03ccf9cc84484da89a5015219408.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T08:38:51+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "61bf4e8cc2d4",
+   "title": "New York Times предостерегает фотографов от использования обновлённого Photoshop из‑за функций на базе ИИ",
+   "summary": "Газета New York Times попросила внештатных фотографов не использовать последнюю версию Adobe Photoshop, поскольку функции обновлённого графического редактора применяют искусственный интеллект «способами, которые могут…",
+   "link": "https://habr.com/ru/articles/1113002/?utm_campaign=1113002&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/09/cb/e4/09cbe490052b685687d9d91496499f94.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T08:14:30+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "ec94ef9a39f2",
+   "title": "Роботы встали на пуанты: «Юни» Сбера дебютировали на балетной сцене",
+   "summary": "Для выступления инженеры обучили роботов воспроизводить хореографические движения, соблюдать ритм и синхронизироваться с танцорами На открытии международной конференции AI Journey Сбер представил балетную постановку с…",
+   "link": "https://www.ixbt.com/news/2026/11/27/roboty-vstali-na-puanty-iuni-sbera-debiutirovali-na-baletnoi-scene.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746912/media-e0f167316fb333f90f4cf3f3481bb7878f307fcaa785f9404308c60d57da406a.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T08:11:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "58f7f5a57854",
+   "title": "Почему ИИ ускоряет работу команды 1С и что это меняет для заказчика",
+   "summary": "25 ноября вышел второй выпуск подкаста Инфостарта «Кодовое слово». Команда 1С может быстрее разобраться, почему тормозит система, если поручит ИИ-агенту разбор технологического журнала.",
+   "link": "https://habr.com/ru/companies/infostart/articles/1113000/?utm_campaign=1113000&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/03/97/96/039796814717c25792ffe19abf69bd57.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T08:08:51+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "536ed7ea54a9",
+   "title": "«Ъ»: «Яндекс» протестирует доставку заказов человекоподобными роботами",
+   "summary": "«Яндекс» до конца 2026 года начнёт пилотный проект по доставке человекоподобными роботами, рассказали «Ъ» два источника на IT‑рынке. По словам одного из собеседников, на первом этапе он охватит четыре локации.",
+   "link": "https://habr.com/ru/articles/1112994/?utm_campaign=1112994&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f8/b7/6c/f8b76c128cbe44a7bf031307e83ac6e8.webp",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T08:02:29+00:00",
+   "category": "other"
+  },
+  {
+   "id": "9360b69fe768",
+   "title": "GigaAM-v4 и GigaAM Multilingual-v2: потоковое распознавание, 21 язык и новый уровень качества",
+   "summary": "В нашем прошлом релизе GigaAM-v3 мы подняли планку качества распознавания для open-source-моделей ASR (Automatic Speech Recognition) на русском языке, уделив внимание удобству восприятия текста: добавили поддержку…",
+   "link": "https://habr.com/ru/companies/sberbank/articles/1112846/?utm_campaign=1112846&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/45/6a/64/456a64feea1a11a4365c9050e224f993.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-27T08:00:05+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6b2fb221244d",
+   "title": "Ответил — не значит помог: как мы учили ИИ быть дежурным",
+   "summary": "Представим обычное обсуждение в канале поддержки. Коллега спрашивает, где получить доступ к сервису. Дежурный находит инструкцию и отправляет ссылку.",
+   "link": "https://habr.com/ru/companies/2gis/articles/1106468/?utm_campaign=1106468&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/29/73/e2/2973e2981d573a56bf6330e3e6545503.PNG",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T07:51:52+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "44f840f833b0",
+   "title": "Мониторинг ИТ-инфраструктуры на AIoT платформе: отдали ТЗ ИИ-агенту и получили готовое приложение",
+   "summary": "На одной площадке существуют одновременно сеть, серверы, IP-телефония, инженерные системы ЦОД и бизнес процессы. Обычно за этим смотрят в разных программах.",
+   "link": "https://habr.com/ru/articles/1112990/?utm_campaign=1112990&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/10/6e/93/106e93add34dd378acaa1213d5d4c212.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T07:47:44+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "0e17ae99d5f5",
+   "title": "«ГигаАгент» Сбера научился предугадывать желания: ИИ сам планирует день, заказывает продукты и строит маршруты",
+   "summary": "Среди главных особенностей — переход к проактивной работе Сбер обновил «ГигаАгента» — автономного ИИ-помощника, который теперь способен самостоятельно анализировать расписание, расставлять приоритеты и предлагать…",
+   "link": "https://www.ixbt.com/news/2026/11/27/gigaagent-sbera-naucilsia-predugadyvat-zelaniia-ii-sam-planiruet-den-zakazyvaet-produkty-i-stroit-marsruty.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746893/ai-image-k8pior6rqcrxxk5966btuei6.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T07:45:00+00:00",
+   "category": "other"
+  },
   {
    "id": "576e27cb44cb",
    "title": "США могут вдвое замедлить выпуск китайских ИИ-моделей, по данным Reuters",
@@ -4363,149 +4506,6 @@
    "source": "The Verge",
    "lang": "en",
    "date": "2026-11-23T16:30:11+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "bf2877544e53",
-   "title": "Совет директоров Nvidia одобрил возвращение Дженсена Хуанга",
-   "summary": "Руководство Nvidia объявило о восстановлении Дженсена Хуанга на постах президента, генерального директора и члена совета директоров американской компании.",
-   "link": "https://habr.com/ru/articles/1111444/?utm_campaign=1111444&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ef/9a/88/ef9a8843d5e07ff1a791856fbc5d57bc.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-23T16:25:32+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "de36b121eed6",
-   "title": "Tech leaders are celebrating Jensen Huang’s return",
-   "summary": "Let's say you're Jensen Huang.",
-   "link": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-23T16:14:04+00:00",
-   "category": "other"
-  },
-  {
-   "id": "bbf08f9e13f2",
-   "title": "Я попытался разобраться, как и за что банят в Claude",
-   "summary": "В ноябре 2026 года по всем пользователям Claude прошла волна банов и запросов на верификацию (читай бан).",
-   "link": "https://habr.com/ru/articles/1111436/?utm_campaign=1111436&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/85/e3/b2/85e3b2aa5cfbaa5868aa7a64c1ba22a1.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T16:12:08+00:00",
-   "category": "models"
-  },
-  {
-   "id": "2208c2f7eb4a",
-   "title": "Build in Public: сИИстемный поиск работы, спринт #2",
-   "summary": "Build in Public: сИИстемный поиск работы, спринт #2 1) Статистика и воронка: 46-я неделя против 45-й 46 неделя (стало) Откликов отправлено 155 (10 %) Прямой контакт с HR 4 (3 %) Собеседований 2 (50 %) 45 неделя (было)…",
-   "link": "https://habr.com/ru/articles/1111424/?utm_campaign=1111424&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/52/de/be/52debe86683897b6c3a89a66d20e91e9.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T15:44:30+00:00",
-   "category": "other"
-  },
-  {
-   "id": "cbca6c786464",
-   "title": "Я нанял ИИ искать мне работу. Финал: четырнадцать откликов, ноль собеседований — и что я понял про рынок",
-   "summary": "Четыре недели вместо восьми. Шестнадцать дайджестов, около 160 вакансий, 14 откликов, 3 открытия резюме, 3 шаблонных ответа, 0 собеседований. Где сломалась воронка, что показал рынок и я закрываю эксперимент досрочно.",
-   "link": "https://habr.com/ru/articles/1111420/?utm_campaign=1111420&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111420/30c1fe25130a5469768e1adbad9ef1bf/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T15:43:08+00:00",
-   "category": "other"
-  },
-  {
-   "id": "dff8ecfdbf17",
-   "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
-   "summary": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters.",
-   "link": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/06/zhipu-ai-logo-wall-nano-banana-pro.jpg",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-23T15:13:03+00:00",
-   "category": "models"
-  },
-  {
-   "id": "aa93777566bc",
-   "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-   "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-   "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-23T15:04:01+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "7d33d8bc9647",
-   "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
-   "summary": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power.",
-   "link": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/03/AI-Fake-Carrier-Iran-small.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-23T14:43:23+00:00",
-   "category": "research"
-  },
-  {
-   "id": "d6a5b08e3fa8",
-   "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-   "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-   "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-23T14:43:03+00:00",
-   "category": "business"
-  },
-  {
-   "id": "cf1147d13ded",
-   "title": "[Перевод] Больше агентов не значит лучше",
-   "summary": "Вы с командой на плоту посреди океана. Оставить можно только что-то одно. Репеллент от акул, астролябию или спасжилеты на всех. Договориться нужно единогласно за 10 минут.",
-   "link": "https://habr.com/ru/companies/spring_aio/articles/1111390/?utm_campaign=1111390&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/99/55/9f/99559f0b106be7d98ab5f04e6a086125.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T14:41:09+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "178bc81effc3",
-   "title": "[Перевод] ИИ оказался внимательнее и заметил кровоизлияние, а врач — нет",
-   "summary": "50-летнего пациента привезли в больницу с признаками инсульта. Врачи собирались ввести препарат для растворения тромба, но сначала нужно было исключить кровоизлияние: в этом случае лекарство могло усилить кровотечение.",
-   "link": "https://habr.com/ru/companies/speshu_ai/articles/1111386/?utm_campaign=1111386&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/01/ed/3f/01ed3f395aafb98e63a416954d065e50.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T14:35:57+00:00",
-   "category": "other"
-  },
-  {
-   "id": "ae30a27c5b45",
-   "title": "Что такое Loop Transformer и как GLM-5.4 догоняет модели на 2–3 трлн параметров",
-   "summary": "Как заставить нейросети умнеть, не раздувая их до гигантских размеров? Ответ 23 ноября представила китайская лаборатория Z.ai, которую раньше знали под именем Zhipu AI. 28 слоев, два прохода и ни одного нового параметра.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1111336/?utm_campaign=1111336&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/18/44/fe/1844fe9757b5e1244b8993dca6f73ebd.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T14:30:41+00:00",
-   "category": "models"
-  },
-  {
-   "id": "8425a12bb072",
-   "title": "Jensen Huang Is Back as Nvidia CEO",
-   "summary": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
-   "link": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
-   "image": "https://media.wired.com/photos/6b04495d307e146147156b9d/master/pass/GettyImages-2266718431.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-23T14:27:35+00:00",
    "category": "hardware"
   }
  ]
