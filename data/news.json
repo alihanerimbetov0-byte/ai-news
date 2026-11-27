@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:11:16.375764+00:00",
+ "updated": "2026-11-27T21:08:04.795768+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 4
   },
   {
    "source": "Google AI",
@@ -108,6 +108,61 @@
   }
  ],
  "items": [
+  {
+   "id": "13e999b1b57b",
+   "title": "ИИ-стоматолог для Planmeca: от поиска патологий на всей панораме к анализу каждого зуба",
+   "summary": "Исследовательский эксперимент на открытых данных. Это не медицинское изделие и не инструмент диагностики. Мне нужна была модель, которая работает на снимках конкретного оборудования, Planmeca 3D.",
+   "link": "https://habr.com/ru/articles/1113422/?utm_campaign=1113422&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/87/11/ab/8711ab3fb66164e9c88b891d774f0490.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-27T20:48:50+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3ab9a2a3c501",
+   "title": "OpenAI пошла в контратаку и обвинила Apple в краже секретов и попытках задушить конкурента",
+   "summary": "Компания OpenAI подала встречный иск против Apple, обвинив производителя iPhone в незаконном использовании коммерческих секретов и давлении на поставщиков оборудования.",
+   "link": "https://3dnews.ru/1151916",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/27/1151916/OpenAI_logo_800x600.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-27T20:31:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "dfe2badd460b",
+   "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+   "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer.",
+   "link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/openai_apple.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-27T19:38:37+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "8ebeef93a26e",
+   "title": "«Госуслуги» могут выйти за пределы портала и стать национальным российским ИИ-помощником",
+   "summary": "Глава Минцифры считает, что «Госуслуги» знают о пользователях достаточно, чтобы стать ИИ-агентом «Госуслуги» могут превратиться в универсального национального ИИ-агента, который будет помогать пользователям решать…",
+   "link": "https://www.ixbt.com/news/2026/11/27/gosuslugi-mogut-vyiti-za-predely-portala-i-stat-nacionalnym-rossiiskim-ii-pomoshhnikom.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747137/media-7e722fedda2fee39c158d90e0c9d55502f976555fff6deec8ae3bd0e497f695d.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T19:38:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "12f2972dcdfa",
+   "title": "Google подала патент на телеканал, в котором зритель сам становится звездой фильмов",
+   "summary": "Заявка описывает ИИ-систему, которая создаёт персональные видео по истории просмотров, местоположению и возрасту пользователя, добавляет его внешность и голос, а в каждый ролик встраивает рекламу Google может превратить…",
+   "link": "https://www.ixbt.com/news/2026/11/27/google-podala-patent-na-telekanal-v-kotorom-zritel-sam-stanovitsia-zvezdoi-filmov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747133/media-8681d8136ebc6af3282eb00c9a7571f241360470df78e40da94297760ff37d63.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T19:27:00+00:00",
+   "category": "other"
+  },
   {
    "id": "b36d3dc3363e",
    "title": "Anthropic заблокировала работу главы Epic Games в Claude",
@@ -4451,61 +4506,6 @@
    "source": "Хабр · ИИ",
    "lang": "ru",
    "date": "2026-11-24T07:16:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3d5a538fcab9",
-   "title": "Что запоминают знаки весов прореженной нейросети?",
-   "summary": "Сначала обучаем сеть распознавать рукописные цифры. Затем прореживаем её, то есть удаляем часть связей. Даже после удаления 80% связей сеть по-прежнему распознаёт большинство цифр.",
-   "link": "https://habr.com/ru/articles/1111596/?utm_campaign=1111596&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e9/18/ed/e918edf59b96fd5eaed8aba3f66d2bec.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T07:15:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "39a73821a893",
-   "title": "«Яндекс» представил носимое ИИ‑устройство — «Яндекс Пин»",
-   "summary": "24 ноября 2026 года «Яндекс» представил своё новое носимое ИИ‑устройство — «Яндекс Пин».",
-   "link": "https://habr.com/ru/articles/1104920/?utm_campaign=1104920&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/3d/90/c9/3d90c9c38f305820dc3f6c6db68ef0e0.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T07:02:28+00:00",
-   "category": "other"
-  },
-  {
-   "id": "16e0ea463672",
-   "title": "Сторонний код в Яндекс 360: как мы построили проверку безопасности плагинов с помощью AI",
-   "summary": "Недавно мы запустили общую платформу плагинов Яндекс 360. Теперь расширять продукт собственным кодом можно не только в Трекере, но и в других сервисах.",
-   "link": "https://habr.com/ru/companies/yandex/articles/1109776/?utm_campaign=1109776&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/6d/38/c4/6d38c48bab1e10ac839ee7fb4b1934cd.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T07:02:11+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "9bcd2038654b",
-   "title": "180 миллиардов параметров на двух RTX 5090. Как Strata меня впечатлила, Astra разочаровала, а Claude просто исчез",
-   "summary": "В октябре под моей статьёй про локальные модели читатель посоветовал заранее приготовить замену Claude на случай блокировки. Я ответил: если отключат, перейду на Codex.",
-   "link": "https://habr.com/ru/articles/1111470/?utm_campaign=1111470&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/00/60/ae/0060ae8af9bb95d37dd15f86a941fb88.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T07:00:58+00:00",
-   "category": "models"
-  },
-  {
-   "id": "373e1fdb9b93",
-   "title": "Галлюцинации недели: GPT-6.2 Astra, Gemini 4 Neon и доказательство гипотезы Римана",
-   "summary": "Дженсен Хуанг написал в Твиттере, что совершил \"серьёзные ошибки в личной жизни\" и готов вернуться в Nvidia, если совет директоров сочтёт это правильным.",
-   "link": "https://habr.com/ru/articles/1111234/?utm_campaign=1111234&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/da/ec/5f/daec5f04f3cd4e838b6981074204e3c5.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T07:00:57+00:00",
    "category": "models"
   }
  ]
