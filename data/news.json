@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:20:32.630113+00:00",
+ "updated": "2026-11-27T19:11:16.375764+00:00",
  "categories": [
   {
    "id": "models",
@@ -108,6 +108,61 @@
   }
  ],
  "items": [
+  {
+   "id": "b36d3dc3363e",
+   "title": "Anthropic заблокировала работу главы Epic Games в Claude",
+   "summary": "Тим Суини утверждает, что ИИ-сервис прервал его занятия теорией множеств и ошибочно принял их за попытку скопировать возможности модели Глава Epic Games Тим Суини сообщил, что Claude заблокировал работу над теорией…",
+   "link": "https://www.ixbt.com/news/2026/11/27/anthropic-zablokirovala-rabotu-glavy-epic-games-v-claude.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747128/media-94bc658fce691a70617dc26b413ca3ada98f05a1ecee1df091a2539ded34e861.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T19:09:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d5698bbbc1bf",
+   "title": "По ком звонит Гигачат?",
+   "summary": "26 ноября 2026 года весь AI мир содрогнулся - «Сбер» явил человечеству новую линейку LLM под названием GigaChat 4 .",
+   "link": "https://habr.com/ru/articles/1113400/?utm_campaign=1113400&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1113400/9a64e6ff196dc595c6c211fe0e730f6c/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T18:41:23+00:00",
+   "category": "models"
+  },
+  {
+   "id": "a590fc975ebe",
+   "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+   "summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese manufacturer Gigabyte.",
+   "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/jensen_huang_china.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-27T18:27:02+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "cf6723128260",
+   "title": "Половина работы моих ИИ-агентов уходит на хозяйство. На деньги 4%",
+   "summary": "Я посчитал, куда за полгода ушли выходные токены моих ИИ-агентов: 27 794 рабочие сессии на шести компьютерах. Около половины ушло на хозяйство: правила для самих агентов, рутины, синхронизацию машин.",
+   "link": "https://habr.com/ru/articles/1113396/?utm_campaign=1113396&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1113396/208403c972586e3998527c2594b61d14/",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-27T18:11:41+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "5d6e85c1bd15",
+   "title": "Выше reasoning effort — не всегда лучше: бенчмарк локальных LLM на разных уровнях мышления",
+   "summary": "При работе с Claude Code я интуитивно выбирал уровень reasoning под тип задачи — high для планирования, low для кода по плану, чтобы экономить токены.",
+   "link": "https://habr.com/ru/articles/1113394/?utm_campaign=1113394&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/eb/cd/45/ebcd450c30a2398d8a3d87b98272ded8.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T17:44:21+00:00",
+   "category": "models"
+  },
   {
    "id": "ee0e28b34a19",
    "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
@@ -4452,61 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-24T07:00:57+00:00",
    "category": "models"
-  },
-  {
-   "id": "12a859d86c52",
-   "title": "Как проверять AI-генерации автоматически: расшифровка речи, лист кадров и сверка с эталоном через Gemini",
-   "summary": "Я делаю короткие ролики и рекламу с постоянными героями, и больше всего времени уходит не на генерацию, а на проверку.",
-   "link": "https://habr.com/ru/articles/1102050/?utm_campaign=1102050&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1102050/1faf5f1c69a160a486259c5dfc130fd0/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T07:00:04+00:00",
-   "category": "models"
-  },
-  {
-   "id": "7d8f14bcba35",
-   "title": "OpenAI переводит ChatGPT на GPT-6.2, но пока не для всех",
-   "summary": "Модель лучше распознает изображения, ищет информацию в интернете и учитывает несколько условий при выполнении запросов Компания OpenAI начала внедрять GPT-6.2 в ChatGPT — обновленную модель, предназначенную для…",
-   "link": "https://www.ixbt.com/news/2026/11/24/openai-perevodit-chatgpt-na-gpt-62-no-poka-ne-dlia-vsex.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745629/media-7439d412e88f1655255447be7b9babbb8a0095c958df05046e33288767a13f45.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-24T06:14:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "638a54c104f7",
-   "title": "Обыграть чемпионов мира к 2050 году: что такое RoboCup и как в Москве растят команду роботов-футболистов",
-   "summary": "Что такое футбол роботов и как это нас затянуло в разработку интересных роботов. В 1997-м, через три месяца после победы Deep Blue над Каспаровым, в Нагое решили: следующая большая задача ИИ — футбол.",
-   "link": "https://habr.com/ru/articles/1111576/?utm_campaign=1111576&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8f/0a/de/8f0adee9b9ec9bece8665a6f1b630756.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T06:12:50+00:00",
-   "category": "other"
-  },
-  {
-   "id": "1b0350886e32",
-   "title": "Чёрная пятница: Ноутбук-трансформер MSI Prestige N16 Flip AI+ C1XMT-057RUY на базе Nvidia RTX Spark",
-   "summary": "MSI Prestige N16 Flip AI+ C1XMT-057RUY — это ноутбук-трансформер с функциональностью портативной рабочей станции, созданной для локального инференса больших ИИ-моделей, творческих проектов и ИИ-разработки с применением…",
-   "link": "https://3dnews.ru/1151632",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/21/1151632/Prestige_N16_Flip_AI_Scenario_Photo.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-24T05:52:19+00:00",
-   "category": "models"
-  },
-  {
-   "id": "5720334a784f",
-   "title": "Почему сервис распознавания речи на PyTorch съедал 8 ГБ памяти и при чём тут cuDNN",
-   "summary": "Мы делаем систему, которая распознаёт и разбирает телефонные звонки компании. Работает она на сервере заказчика, рядом с АТС.",
-   "link": "https://habr.com/ru/articles/1111568/?utm_campaign=1111568&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/6e/40/9f/6e409f9472fe79776cd8683f5f262d82.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T05:51:52+00:00",
-   "category": "tools"
   }
  ]
 }
