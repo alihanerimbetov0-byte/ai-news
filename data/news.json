@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:22:34.144953+00:00",
+ "updated": "2026-11-27T07:34:31.075869+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "source": "Ars Technica",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 13
+   "count": 15
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,127 @@
   }
  ],
  "items": [
+  {
+   "id": "576e27cb44cb",
+   "title": "США могут вдвое замедлить выпуск китайских ИИ-моделей, по данным Reuters",
+   "summary": "Moonshot AI опасается, что без аренды зарубежных дата-центров интервал между крупными релизами компании вырастет с привычных 6 месяцев до года и более Новые американские ограничения на доступ к вычислительным мощностям…",
+   "link": "https://www.ixbt.com/news/2026/11/27/ssa-mogut-vdvoe-zamedlit-vypusk-kitaiskix-ii-modelei-po-dannym-reuters.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746876/media-066663192a070929e2f1b323a370c00eccbf5734c4a195df5e921cb1981b7f39.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T07:13:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e622d4d1599a",
+   "title": "DeepSeek-V4.1-Flash для кодинга и ИИ-агентов в каталоге GPT Model Hub",
+   "summary": "Привет, Хабр! Добавили DeepSeek-V4.1-Flash в GPT Model Hub — сервис для работы с LLM через OpenAI-совместимый API внутри MWS Cloud Platform. В каталоге доступна актуальная версия модели — DeepSeek-V4.1-Flash 1017 .",
+   "link": "https://habr.com/ru/companies/mws/articles/1112710/?utm_campaign=1112710&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/48/59/dd/4859dd6c1904f5b0e35b80e059b8a315.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-27T07:01:18+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b59900d4a349",
+   "title": "От почты до встреч: в Mail объединили сервисы с ИИ-агентами",
+   "summary": "Получать информацию из аккаунтов других пользователей нельзя Команда Mail представила MCP-сервер для подключения ИИ-агентов к своим сервисам.",
+   "link": "https://www.ixbt.com/news/2026/11/27/ot-pocty-do-vstrec-v-mail-obieedinili-servisy-s-ii-agentami.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1746714/media-5b40357b4bd7bab1273f89a38da34ba400d80643d658f7377139e53fdbbcb3e4.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-27T07:01:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "0a8ec564dae7",
+   "title": "Толстой, Конституция и абзац от нейросети: что на самом деле измеряют детекторы ИИ-текста",
+   "summary": "Детекторы ИИ-текста в 2026 году проверяют дипломы, статьи и сопроводительные письма. Большинство из них так или иначе опирается на одну величину: насколько текст предсказуем для языковой модели.",
+   "link": "https://habr.com/ru/articles/1111494/?utm_campaign=1111494&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/08/e4/d0/08e4d03673590908b00860a51aab186e.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T07:00:17+00:00",
+   "category": "models"
+  },
+  {
+   "id": "3c1d86a54916",
+   "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+   "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+   "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+   "image": "https://media.wired.com/photos/6b073e1d34813a006d725bef/master/pass/QANT-CEO-QandA-Business.jpg",
+   "source": "Wired",
+   "lang": "en",
+   "date": "2026-11-27T07:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "56f13c01479f",
+   "title": "Я проверил пять открытых анонимайзеров на 2 000 синтетических документах. Даже лучшие пропустили данные в каждом третьем",
+   "summary": "В этом году Бабушкинский районный суд Москвы признал законным увольнение директора по продажам, которая загрузила отчёты из корпоративного Power BI в DeepSeek (дело № 02-1545/2026, Право.ру ).",
+   "link": "https://habr.com/ru/articles/1112972/?utm_campaign=1112972&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/0d/c5/0d/0dc50d0a8104320442d06f2796b87d5e.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-27T06:58:57+00:00",
+   "category": "models"
+  },
+  {
+   "id": "7ff0b9f460e8",
+   "title": "Аналитика воронки продаж: как объединить данные CRM и речевой аналитики, чтобы не считать события дважды",
+   "summary": "Маркетинг отчитывается о росте качественных лидов. Отдел продаж утверждает, что заявок стало больше, а работать не с кем. Часто обе команды опираются на правильные цифры — просто считают разные события.",
+   "link": "https://habr.com/ru/articles/1112968/?utm_campaign=1112968&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/12/60/7c/12607c68c4631aa65ab7329a1a263f46.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T06:47:49+00:00",
+   "category": "other"
+  },
+  {
+   "id": "436ce8576d5f",
+   "title": "Система продуктивности готова на 100% и работает на 40%: что я понял, став руководителем",
+   "summary": "Привет, Хабр!",
+   "link": "https://habr.com/ru/companies/sberbank/articles/1111904/?utm_campaign=1111904&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/34/ab/d7/34abd757694e264b1a89573320f646a1.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T06:28:57+00:00",
+   "category": "other"
+  },
+  {
+   "id": "797641776cc4",
+   "title": "Сколько в мире умных людей?",
+   "summary": "А пока вы не осознали, в какую кротовую нору заведёт этот вопрос, задам ещё один. Если ИИ захочет уничтожить только часть человечества, то по каким признакам он решит, кого оставить? Ответ ИИ в конце текста.",
+   "link": "https://habr.com/ru/articles/1112944/?utm_campaign=1112944&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/bc/16/9a/bc169a8979c37f97b09214566e5bc2a4.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T06:13:23+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c17915aba7bf",
+   "title": "Фронтир нужен реже, чем кажется: как срезать расходы на токены и где на них нельзя экономить",
+   "summary": "Привет, Хабр! Меня зовут Денис Тимощук, я отвечаю за развитие экосистемы AI-driven Digital Q.",
+   "link": "https://habr.com/ru/companies/diasoft_company/articles/1112858/?utm_campaign=1112858&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7d/dc/4f/7ddc4fd02049fbcc4b952ba724a699e0.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T06:01:14+00:00",
+   "category": "other"
+  },
+  {
+   "id": "b5ca20155f17",
+   "title": "Claude заблокировал аккаунт: что утекло на сервер и как начать с чистого листа",
+   "summary": "Для работы с Claude из неподдерживаемого региона одного VPN может быть недостаточно: веб-версия, Claude Desktop и Claude Code CLI передают не только IP-адрес, но и параметры браузера, ОС и постоянные идентификаторы…",
+   "link": "https://habr.com/ru/articles/1112882/?utm_campaign=1112882&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f9/cb/b8/f9cbb805c552ec58bbfdeb34032b5751.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-27T05:36:12+00:00",
+   "category": "models"
+  },
   {
    "id": "fbe92488f850",
    "title": "Как мы проверяем, называют ли нас Claude и ChatGPT: 29 вопросов, веб-поиск и потолок 2 доллара в неделю",
@@ -4386,127 +4507,6 @@
    "lang": "en",
    "date": "2026-11-23T14:27:35+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "88e2b52a598f",
-   "title": "Nvidia tried life without Jensen Huang and it lasted about two weeks",
-   "summary": "Nvidia's board of directors has reinstated Jensen Huang as president, CEO, and board member, effective immediately.",
-   "link": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/05/huang_sccp_ai_screenshot-scaled.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-23T14:24:47+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "d36a9884df14",
-   "title": "Дженсен Хуанг вернулся в Nvidia",
-   "summary": "За семь торговых сессий после отставки Дженсена Хуанга акции Nvidia подешевели почти на 28%. Рыночная капитализация компании сократилась примерно на $1,16 трлн.",
-   "link": "https://habr.com/ru/companies/bothub/articles/1111374/?utm_campaign=1111374&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/57/ab/f5/57abf5ee5d4addf47c1d790195a62092.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T14:22:40+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "564568718638",
-   "title": "Т-Банк прислал чужую выписку: я обратился в суд с ИИ, и банк оштрафовали на 5000 рублей",
-   "summary": "В июле 2025 года я запросил в чате Т-Банка стандартную выписку по своим счетам, а на почту получил PDF-файлы с финансовой жизнью незнакомого человека из другого региона.",
-   "link": "https://habr.com/ru/articles/1111106/?utm_campaign=1111106&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/82/64/c3/8264c36d555c3ce09653b710908118da.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T14:22:11+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "10a3c3f04b73",
-   "title": "Первый в России офис с цифровым сотрудником: как устроен ИИ-аватар",
-   "summary": "В Москве заработал банковский офис, где клиента может консультировать не только специалист, но и фотореалистичный цифровой сотрудник. ИИ-аватар помогает выбрать вклад, сравнить продукты и составить финансовый план.",
-   "link": "https://habr.com/ru/companies/speshu_ai/articles/1111376/?utm_campaign=1111376&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a7/ba/0a/a7ba0a5ae289d6eb3d9a380b47ab3d68.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T14:22:02+00:00",
-   "category": "other"
-  },
-  {
-   "id": "90f831b4fd3e",
-   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-   "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
-   "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-23T14:21:59+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "5bba863e544d",
-   "title": "Как собрать harness-систему в OpenCode: от провайдера до серверных автономных агентов",
-   "summary": "В последнее время в ИИ-сфере все больше и больше развивается сфера абстракций, отличная от технического тюнинга или улучшений ИИ. Такая система зовет название Harness.",
-   "link": "https://habr.com/ru/companies/bothub/articles/1111370/?utm_campaign=1111370&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/3f/f0/40/3ff040e7f4fde119c69ef6631c772964.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T14:15:07+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "a3ba0b6523c8",
-   "title": "ФБР поговорило с пользователем, который написал шутку в диалог с Claude и попытался затроллить нейросеть",
-   "summary": "Агенты Федерального бюро расследований США поговорили с пользователем из штата Нью‑Гэмпшир, который написал шутку в диалог с чат‑ботом Claude и попытался затроллить нейросеть.",
-   "link": "https://habr.com/ru/articles/1111368/?utm_campaign=1111368&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/8a/64/1a/8a641a5ec1ba2a584ca5acea82e69c47.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T14:11:19+00:00",
-   "category": "models"
-  },
-  {
-   "id": "e09aa9a8dd80",
-   "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-   "summary": "Nvidia's board of directors has voted to reinstate Jensen Huang as CEO and chairman of the board, just 11 days after he resigned in the wake of multiple scandals .",
-   "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2301328096-1024x648.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-23T14:10:18+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "09afcc847896",
-   "title": "Jensen Huang is back as Nvidia’s CEO",
-   "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr.",
-   "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_05.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "source": "The Verge",
-   "lang": "en",
-   "date": "2026-11-23T14:04:24+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "a8ba6f15f26b",
-   "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
-   "summary": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner.",
-   "link": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_logo-2.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-23T13:59:36+00:00",
-   "category": "other"
-  },
-  {
-   "id": "11f920d8de21",
-   "title": "ИИ — это новый компилятор",
-   "summary": "В октябре 2026 года в сообществе разработчиков ядра Linux возник спор о том, можно ли для этой задачи использовать ИИ.",
-   "link": "https://habr.com/ru/articles/1111354/?utm_campaign=1111354&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/dc/05/9e/dc059e8b4cd088c123da7ef63551fb87.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-23T13:56:32+00:00",
-   "category": "other"
   }
  ]
 }
