@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:59:27.580029+00:00",
+ "updated": "2026-11-28T13:13:14.889174+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 4
   },
   {
    "source": "Google AI",
@@ -108,6 +108,138 @@
   }
  ],
  "items": [
+  {
+   "id": "b89fd065f158",
+   "title": "Nvidia разогнала обучение ИИ-моделей до 13 эксафлопс на 12 288 ускорителях",
+   "summary": "Новая система Generalized Tensor Parallelism обеспечила суммарную производительность 13 эксафлопс и эффективность масштабирования 98,2%.",
+   "link": "https://www.ixbt.com/news/2026/11/28/nvidia-razognala-obucenie-ii-modelei-do-13-eksaflops-na-12-288-uskoriteliax.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747377/media-8deaca5cb91b109381deb889965a40b79292a7360e25e97f4063c635f63076c7.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T13:10:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "0329cc19a4cb",
+   "title": "[Перевод] 64 PR до обеда: как ИИ‑агенты ускорили разработку, а я стал узким местом",
+   "summary": "64 пулл-реквеста за два часа — впечатляющий результат работы ИИ‑агентов.",
+   "link": "https://habr.com/ru/companies/otus/articles/1108096/?utm_campaign=1108096&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/92/ed/49/92ed49d8b1729e36650d786fca55985c.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T13:05:28+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "f61575b09d62",
+   "title": "Ubisoft потребовал от студий включать ИИ в концепцию каждой новой игры",
+   "summary": "Издатель не одобряет новые проекты без плана применения генеративных моделей либо подробного обоснования отказа от них Как сообщает игровое издание Vertical Slice, Ubisoft изменила внутреннюю процедуру рассмотрения…",
+   "link": "https://www.ixbt.com/news/2026/11/28/ubisoft-potreboval-ot-studii-vkliucat-ii-v-koncepciiu-kazdoi-novoi-igry.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747373/media-bd5e79fc0a433a3f8731c8d2963369fbcd87221200ff8ba2be9444f1b7109a53.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T12:26:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "346607af6561",
+   "title": "Слухи о взломе RSA с помощью ИИ набирают обороты — что будет с интернетом, если они подтвердятся",
+   "summary": "На фоне серии математических прорывов с участием ИИ среди исследователей поползли слухи: Anthropic или OpenAI могли найти быстрый способ разложения больших чисел на множители.",
+   "link": "https://3dnews.ru/1151930",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/28/1151930/crypto_1.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-28T12:22:00+00:00",
+   "category": "research"
+  },
+  {
+   "id": "7b0f092c488f",
+   "title": "OpenAI подала встречный иск к Apple",
+   "summary": "Встречный иск обострил конфликт между партнёрами по интеграции ChatGPT в iPhone, который разгорелся после покупки OpenAI студии дизайна Джони Айва за $6,4 млрд OpenAI утверждает, что Apple давит на поставщиков,…",
+   "link": "https://www.ixbt.com/news/2026/11/28/openai-podala-vstrecnyi-isk-k-apple.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747372/media-d69b660cf5ab586ae49b1f21dd7048f16a300ac0438b3b625343d9cfd694ffb9.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T12:19:00+00:00",
+   "category": "business"
+  },
+  {
+   "id": "3686cda23acb",
+   "title": "Минэкономразвития предложило определить правовой статус ИИ-агентов при заключении сделок от имени владельцев",
+   "summary": "Проект национальной стратегии до 2036 года предусматривает правила для автономных цифровых помощников и распределение ответственности за ущерб от их действий Минэкономразвития предложило законодательно определить статус…",
+   "link": "https://www.ixbt.com/news/2026/11/28/minekonomrazvitiia-predlozilo-opredelit-pravovoi-status-ii-agentov-pri-zakliucenii-sdelok-ot-imeni-vladelcev.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747371/media-cdb5f60fad1a1e973a41a5faa8c38aa7f424a6c754b926241b7bccc8d42b3ba2.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T12:11:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "721caae64acb",
+   "title": "Китайский спутник провёл полноценное обучение ИИ-модели на орбите",
+   "summary": "Спутник Libra за один виток выполнил полный цикл обновления весов модели Китайский спутник Libra провёл в космосе 45 минут 33 секунды непрерывного полно-параметрического обучения ИИ-модели.",
+   "link": "https://www.ixbt.com/news/2026/11/28/kitaiskii-sputnik-provel-polnocennoe-obucenie-ii-modeli-na-orbite.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747369/media-c631b37564e58cfa831d918684f14367077524b8996a709773fb046093c50846.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T11:59:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b8fe68612f35",
+   "title": "ИИ‑агенты в виртуальных IT‑компаниях провалили более 90% реальных рабочих задач",
+   "summary": "Исследователи TokenWave AI проверили , как ИИ‑агенты справляются с работой программистов в рамках виртуальной IT‑компании.",
+   "link": "https://habr.com/ru/articles/1113528/?utm_campaign=1113528&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ac/89/f6/ac89f673495baaedc12ffa97b2bd79c3.JPG",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-28T11:47:21+00:00",
+   "category": "research"
+  },
+  {
+   "id": "309a90bbb121",
+   "title": "В Anthropic разработали тест‑приманку для ИИ‑агентов Siren",
+   "summary": "Исследователи из Anthropic разработали Siren — тест‑приманку для ИИ‑агентов в реалистичной симуляции, призванный сподвигнуть модели искусственного интеллекта на плохое поведение.",
+   "link": "https://habr.com/ru/articles/1113520/?utm_campaign=1113520&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/f6/05/1d/f6051d6dcb819e3a885e238a970e1604.JPG",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-28T11:27:19+00:00",
+   "category": "models"
+  },
+  {
+   "id": "cac8bf906105",
+   "title": "Резервный LLM-провайдер: как сделать fallback без потери смысла",
+   "summary": "Многие проекты используют LLM-провайдеров. Чаты с клиентами, генерация документами и даже агентные системы — и все это завязано на один-два API-эндпоинта, которые вы не контролируете.",
+   "link": "https://habr.com/ru/companies/bothub/articles/1113526/?utm_campaign=1113526&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/20/51/22/2051222197227ce2a8fe78aa9925c31b.jpeg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T11:26:22+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6c1021b8f88b",
+   "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+   "summary": "Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2 Astra stumble when asked for 16…",
+   "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/neural_network_coffee.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-28T11:12:30+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ceafed434323",
+   "title": "Что такое модель машинного обучения?",
+   "summary": "В современном мире модели машинного обучения используются во многих областях, таких как медицина, финансы, транспорт и кибербезопасность. На самом деле, таких областей гораздо больше.",
+   "link": "https://habr.com/ru/articles/1113522/?utm_campaign=1113522&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ff/0f/93/ff0f93bee95cdb7d9f4698bd015c5c6d.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-28T11:03:12+00:00",
+   "category": "models"
+  },
   {
    "id": "2709044ad7d0",
    "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
@@ -4375,138 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-24T12:00:35+00:00",
    "category": "tools"
-  },
-  {
-   "id": "b945f3636847",
-   "title": "Организации по защите детей призвали Amazon и eBay отказаться от продажи игрушек с ИИ",
-   "summary": "Организации по защите детей в открытом письме призвали убрать игрушки с искусственным интеллектом с прилавков, опасаясь за безопасность.",
-   "link": "https://habr.com/ru/articles/1111744/?utm_campaign=1111744&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c5/99/89/c5998941b7ba6a92a5bad73136dd915c.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T11:57:35+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "671fc88c0bb2",
-   "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
-   "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines.",
-   "link": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/Claude-Ship.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-24T11:26:23+00:00",
-   "category": "models"
-  },
-  {
-   "id": "4f8de8f31130",
-   "title": "Жучок за телевизором — это ещё не всё: бывший сотрудник OpenAI мог заполучить коммерческие секреты",
-   "summary": "Бывший инженер OpenAI, обвиняемый в установке прослушивающего устройства в офисном конференц-зале компании, вероятно, сумел получить информацию, составляющую коммерческую тайну.",
-   "link": "https://3dnews.ru/1151733",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151733/openai.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-24T11:18:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "3330636cbba3",
-   "title": "Домашняя LLM: ставим llama.cpp с RPC на Windows 11 и сравниваем варианты «расширения» VRAM",
-   "summary": "Всем привет, меня зовут Илья, и я DevOps-инженер в YADRO . Хочу рассказать о своем опыте по внедрению инструментов на базе ИИ для автоматизации своей ежедневной рабочей рутины.",
-   "link": "https://habr.com/ru/companies/yadro/articles/1111718/?utm_campaign=1111718&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/67/af/e0/67afe0520fd80f1e1a1fcd2a31aab4d0.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T11:01:17+00:00",
-   "category": "models"
-  },
-  {
-   "id": "f4856fe0ff44",
-   "title": "Ella вместо консультанта: ИИ-помощник Tecno научился выбирать товары на Ozon",
-   "summary": "ИИ-помощник получил интеграцию с Ozon Команда Tecno обновила ИИ-помощника Ella, добавив возможность поиска и подбора товаров на маркетплейсе Ozon.",
-   "link": "https://www.ixbt.com/news/2026/11/24/ella-vmesto-konsultanta-ii-pomoshhnik-tecno-naucilsia-vybirat-tovary-na-ozon.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745849/media-d70ce4ca764816b3b624d78b199ef1067e2facfbea37900bf3a99ba3374d12ac.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-24T11:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "f3aa9260f109",
-   "title": "Searching for distant planets with Astra",
-   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
-   "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-24T11:00:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "517bd0766068",
-   "title": "Claude Opus 5.5: сравнение анимаций пеликана и расходов на пяти API-роутерах",
-   "summary": "Одно задание для Claude Opus 5.5, официальный API и пять роутеров. Сравниваю три раунда анимаций пеликана на велосипеде, расход токенов и стоимость вызовов.",
-   "link": "https://habr.com/ru/articles/1111720/?utm_campaign=1111720&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/30/b5/fb/30b5fbf8ee402aba40c0500b23fc252c.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T10:52:36+00:00",
-   "category": "models"
-  },
-  {
-   "id": "e611b2aebab8",
-   "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
-   "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
-   "link": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
-   "image": "https://media.wired.com/photos/6b04ca840ad1d7b44d47c2ed/master/pass/Dont-Bring-Up-AI-if-You-Want-to-Enjoy-Thanksgiving-Business.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-24T10:45:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "8b5e08ca4589",
-   "title": "Anthropic запустила Claude Ship для проверки и исправления кода",
-   "summary": "Компания Anthropic расширяет функционал Claude: теперь ИИ не только пишет код, но и помогает разработчикам определять, готов ли он к внедрению.",
-   "link": "https://habr.com/ru/articles/1111722/?utm_campaign=1111722&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/fa/21/e8/fa21e821249a732ad0179ef7e2e546e7.JPG",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T10:37:45+00:00",
-   "category": "models"
-  },
-  {
-   "id": "e08d874cd4a9",
-   "title": "OpenIDE 2026.3: новый главный экран, Git worktrees для работы с агентами и поддержка 14 СУБД",
-   "summary": "Вышла OpenIDE 2026.3 . Это самое большое обновление с выхода 2026.2 в сентябре. В свежую сборку вошли новый главный экран, удобная работа с несколькими ветками Git и новый терминал.",
-   "link": "https://habr.com/ru/companies/haulmont/articles/1111696/?utm_campaign=1111696&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b1/4b/d4/b14bd43c27a62f60c68af8eadb49df98.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T10:20:36+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "1a4db0a69568",
-   "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
-   "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
-   "link": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
-   "image": "https://media.wired.com/photos/6b04a99395eb5d98cc1eb23a/master/pass/112326-Riemann-hypothesis-ai.jpg",
-   "source": "Wired",
-   "lang": "en",
-   "date": "2026-11-24T10:15:00+00:00",
-   "category": "business"
-  },
-  {
-   "id": "91b8816f1761",
-   "title": "Boom Supersonic впервые запустила двигатель для сверхзвукового лайнера — его «близнец» будет питать ИИ-дата-центры",
-   "summary": "Американская компания Boom Supersonic впервые запустила прототип газогенератора Sprint Core — центральной части двигателя Symphony для сверхзвукового пассажирского самолёта Overture.",
-   "link": "https://3dnews.ru/1151728",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151728/image.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-24T09:51:00+00:00",
-   "category": "hardware"
   }
  ]
 }
