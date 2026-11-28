@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:03:43.204368+00:00",
+ "updated": "2026-11-28T05:13:21.928010+00:00",
  "categories": [
   {
    "id": "models",
@@ -34,7 +34,7 @@
   {
    "source": "3DNews",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Ars Technica",
@@ -108,6 +108,39 @@
   }
  ],
  "items": [
+  {
+   "id": "96d0f0af175f",
+   "title": "FRIDA V2 — модели мультимодального поиска и принятия решений",
+   "summary": "Мы выпускаем в открытый доступ второе поколение FRIDA — моделей для поиска и принятия решений. FRIDA-Embeddings V2 ищет по текстам, коду и изображениям страниц.",
+   "link": "https://habr.com/ru/companies/sberbank/articles/1112312/?utm_campaign=1112312&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ab/35/5b/ab355b018709f0daec2bb52660440bea.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-28T05:08:48+00:00",
+   "category": "models"
+  },
+  {
+   "id": "d3432a8c685c",
+   "title": "Как Иван-дурак свободное время искал",
+   "summary": "Сказка о том, почему умные помощники экономят время, а свободного времени так не прибавляется. Хоть и ложь, да в ней намек… Осторожно: после прочтения у вас может пропасть свободное время. Или появиться.",
+   "link": "https://habr.com/ru/articles/1111526/?utm_campaign=1111526&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/b4/6c/fa/b46cfa18bb7525e91ccd53f0daf54c59.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T05:00:49+00:00",
+   "category": "other"
+  },
+  {
+   "id": "c7562a9b2c53",
+   "title": "В команде Ubuntu анонсировали приложение Ubuntu Launcher с возможностью ИИ-ассистента",
+   "summary": "В команде проекта дистрибутива Ubuntu сообщили о работе над новым приложением под названием Ubuntu Launcher. Этот инструмент будет включать в себя возможности ИИ‑ассистента.",
+   "link": "https://habr.com/ru/articles/1112986/?utm_campaign=1112986&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/7e/59/62/7e59627d51a2b624da971cb9151e1458.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T03:52:15+00:00",
+   "category": "tools"
+  },
   {
    "id": "0c5f117b7764",
    "title": "HMD представила смартфон за $110, и в нем даже есть ИИ. HMD Rise получил батарею 5000 мАч и Android 16 Go Edition",
@@ -4473,39 +4506,6 @@
    "source": "iXBT",
    "lang": "ru",
    "date": "2026-11-24T08:23:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "efb0aabe4e80",
-   "title": "AI-чат на Vue поверх чужого бэкенда: сессии, перегенерация и графики из SQL прямо в ответе модели",
-   "summary": "Я фронтенд-разработчик в BIGPLAY, киберспортивной платформе. Во внутренней админке у нас есть аналитический AI-чат.",
-   "link": "https://habr.com/ru/articles/1111342/?utm_campaign=1111342&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/82/b4/b2/82b4b26fdab266e34e0ae9570e0b9faa.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T08:01:07+00:00",
-   "category": "models"
-  },
-  {
-   "id": "669925321832",
-   "title": "[Перевод] Gemini 4 Neon печатает 99 токенов в секунду против 64 у GPT-6.2 Sol и всe равно решает задачу втрое дольше",
-   "summary": "Neon печатает 99 токенов в секунду, a Sol 64. Neon решает задачу 15,1 минуты, когда Sol решает за 5,2 и стоит $3,74 вместо $0,56. Откуда разница и почему цена за миллион токенов - худшая метрика для выбора модели.",
-   "link": "https://habr.com/ru/articles/1111618/?utm_campaign=1111618&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/aa/aa/8f/aaaa8f9d7ca3fb72c918a794d7393ada.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T07:57:48+00:00",
-   "category": "models"
-  },
-  {
-   "id": "26feff50eb1d",
-   "title": "Представлена ИИ-брошка «Яндекс Пин» — замена секретаря за 19 990 рублей",
-   "summary": "«Яндекс» анонсировал новое устройство с функциями искусственного интеллекта — оно получило название «Яндекс Пин» и интеграцию с ИИ-помощником «Алиса AI».",
-   "link": "https://3dnews.ru/1151721",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151721/pin_1.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-24T07:57:00+00:00",
    "category": "tools"
   }
  ]
