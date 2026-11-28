@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T13:13:14.889174+00:00",
+ "updated": "2026-11-28T14:59:00.458657+00:00",
  "categories": [
   {
    "id": "models",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "source": "OpenAI",
@@ -108,6 +108,105 @@
   }
  ],
  "items": [
+  {
+   "id": "37efe7ecca9c",
+   "title": "Terence Tao sees AI ushering in \"Big Math,\" but calls major tech firms' proofs \"toxic waste\"",
+   "summary": "Terence Tao outlines his vision of \"Big Math\" on the Hard Fork podcast. Instead of solo work, human-AI teams would systematically map thousands of problems.",
+   "link": "https://the-decoder.com/terence-tao-sees-ai-ushering-in-big-math-but-calls-major-tech-firms-proofs-toxic-waste/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/03/terence_tao_ai_math.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-28T14:45:01+00:00",
+   "category": "other"
+  },
+  {
+   "id": "1d844ca6b2eb",
+   "title": "После хайпа ИИ-агенты оставят рутину коду",
+   "summary": "Хайп вокруг «ИИ-трансформации» схлопнется, когда бизнес перестанет платить за слова. Качество моделей тут ни при чём. Останется конкретный процесс с болью и метрикой, а слово «ИИ» в его описании станет необязательным.",
+   "link": "https://habr.com/ru/articles/1113564/?utm_campaign=1113564&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/4a/bc/09/4abc0967071f3d7c5fab441a7333e5fe.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T14:33:53+00:00",
+   "category": "models"
+  },
+  {
+   "id": "88d98b0973eb",
+   "title": "GreenVLA 2.0. От общего предобучения к задачам на разных роботах",
+   "summary": "В начале 2026 года наш робот брал предметы со стола. Что из этого опыта пригодится роботу, которому сначала нужно самому подойти к полке? Ради таких задач мы и взялись за GreenVLA 2.0.",
+   "link": "https://habr.com/ru/companies/sberbank/articles/1113512/?utm_campaign=1113512&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/23/c3/1c/23c31cad4a57f5fabe63876f7e1da8c9.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-28T14:23:30+00:00",
+   "category": "other"
+  },
+  {
+   "id": "d08e65ff6228",
+   "title": "Квест на 192 гигабайта RAM: как заставить Windows 11 и VirtualBox отдать всю RAM под локальный ИИ и “зоопарк” агентов",
+   "summary": "Представьте ситуацию: у вас под рукой рабочая станция мечты.",
+   "link": "https://habr.com/ru/articles/1113562/?utm_campaign=1113562&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habr.com/share/publication/1113562/108987b47b7f1c9e660e634dc706915a/",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T14:16:58+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "765ab0a36bed",
+   "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+   "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+   "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/david-ha-Sakana-AI-.jpg?resize=1200,1200",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-28T14:00:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "6d01ae3b7129",
+   "title": "Пересел с Claude Code на Antigravity, мои впечатления через неделю использования",
+   "summary": "Неделю назад я целиком переехал с Claude Code и Opus 5.5 на Google Antigravity и Gemini 4 Neon за $200.",
+   "link": "https://habr.com/ru/articles/1113558/?utm_campaign=1113558&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/a9/2d/32/a92d322dbed0437e95f60ea17b0b5c71.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T13:56:06+00:00",
+   "category": "models"
+  },
+  {
+   "id": "f2cade991675",
+   "title": "OpenAI и Anthropic заподозрили во взломе RSA: учёные обсуждают слухи об алгоритме, способном поставить под угрозу безопасность всего интернета",
+   "summary": "Если одна из лабораторий действительно научилась быстро раскладывать огромные числа на простые множители, это может подорвать защиту HTTPS, цифровых подписей и банковских систем В научном сообществе обсуждают слухи о…",
+   "link": "https://www.ixbt.com/news/2026/11/28/openai-i-anthropic-zapodozrili-vo-vzlome-rsa-ucenye-obsuzdaiut-sluxi-ob-algoritme-sposobnom-postavit-pod-ugrozu-bezopasnost-vsego-interneta.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747383/ai-image-xqsoskox23j9fyhj4txul5bv.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T13:55:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "108d57c673f0",
+   "title": "UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence",
+   "summary": "The UK Parliament is turning up the pressure on Anthropic. Committee chair Liam Byrne is demanding the unredacted METR safety report on AI acceleration by December 4.",
+   "link": "https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/ukflag_blue.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-28T13:42:00+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "3bdad932612c",
+   "title": "Нейросети всё чаще ссылаются на YouTube — где лежит ответ: в заголовке, описании, субтитрах или под видео?",
+   "summary": "На одном созвоне клиент спросил: нейросети всё чаще ссылаются на YouTube — пора ли снимать ролики и что оптимизировать: заголовок, описание, субтитры или ссылку под видео?",
+   "link": "https://habr.com/ru/articles/1113554/?utm_campaign=1113554&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/ec/a4/0d/eca40d95e934ea7d13ca51f416d6128c.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T13:19:55+00:00",
+   "category": "other"
+  },
   {
    "id": "b89fd065f158",
    "title": "Nvidia разогнала обучение ИИ-моделей до 13 эксафлопс на 12 288 ускорителях",
@@ -4408,105 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-24T12:59:57+00:00",
    "category": "other"
-  },
-  {
-   "id": "4a53b37c0f59",
-   "title": "█████: исследователи посчитали, как, когда и сколько матерятся ИИ-модели",
-   "summary": "Компания Vals, занимающаяся сравнением ИИ-моделей, бенчмарками для них и созданием инфраструктуры для их тестирования, представила необычное исследование, посвященное тому, как ИИ использует непечатную лексику.",
-   "link": "https://habr.com/ru/articles/1111804/?utm_campaign=1111804&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111804/ef5599091cf9f3211c65049c1b4dd2a2/",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T12:42:09+00:00",
-   "category": "models"
-  },
-  {
-   "id": "71316b709b4b",
-   "title": "Anthropic запустила Claude Ship: ИИ теперь проверяет, исправляет и одобряет код",
-   "summary": "Anthropic представила Claude Ship — набор ИИ-агентов для автоматизации работы с pull request в GitHub.",
-   "link": "https://habr.com/ru/companies/speshu_ai/articles/1111796/?utm_campaign=1111796&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e3/2a/fa/e32afa2176075262ec58b0f506ae8359.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T12:33:45+00:00",
-   "category": "models"
-  },
-  {
-   "id": "aa6abd20a9e0",
-   "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
-   "summary": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and…",
-   "link": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/darmstadt_ai_computer_science.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-24T12:30:49+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "be5eca7eccaf",
-   "title": "Почему я отказался от единого ИИ-пространства для команды",
-   "summary": "Общая ИИ-система выглядит как мечта руководителя: все созвоны, переписки и документы лежат в одном месте, нейросеть знает контекст проекта и сама помогает распределять задачи.",
-   "link": "https://habr.com/ru/articles/1111790/?utm_campaign=1111790&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111790/f00085295f7a5b6cf2bfa031ca439e1a/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T12:30:29+00:00",
-   "category": "other"
-  },
-  {
-   "id": "21c67f84759f",
-   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-   "summary": "Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server.",
-   "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
-   "source": "Ars Technica",
-   "lang": "en",
-   "date": "2026-11-24T12:30:05+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "ce509f31e7e7",
-   "title": "CrowdStrike договорилась о приобретении поставщика решений в сфере сетевой безопасности Zscaler за $43,9 млрд",
-   "summary": "CrowdStrike объявила приобретении поставщика решений в сфере сетевой безопасности Zscaler за $43,9 млрд. Стороны намерены закрыть сделку во второй половине 2028 финансового года CrowdStrike.",
-   "link": "https://habr.com/ru/articles/1111784/?utm_campaign=1111784&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/f4/ca/a6/f4caa6dfba604dfef445927a95bd26eb.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T12:27:38+00:00",
-   "category": "policy"
-  },
-  {
-   "id": "4eca7bfaf2b0",
-   "title": "ИИ-агента M**a Muse взломали с помощью всего одной вредоносной веб-страницы",
-   "summary": "Злоумышленники могли похищать все личные переписки и сохранённую информацию, обходить средства защиты и получать доступ к учётным данным, хранящимся на облачном сервере, где запущен агент искусственного интеллекта M**a…",
-   "link": "https://3dnews.ru/1151735",
-   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/24/1151735/muse.jpg",
-   "source": "3DNews",
-   "lang": "ru",
-   "date": "2026-11-24T12:06:00+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "678343bb9f03",
-   "title": "Автоматизация ходит по спирали: почему ИИ-агенты повторяют путь BPMS",
-   "summary": "ИИ-агентов сейчас принято обсуждать как технологию, которая вот-вот перевернёт автоматизацию бизнес-процессов. Но если присмотреться, агенты во многом идут дорогой решений двадцатилетней давности.",
-   "link": "https://habr.com/ru/companies/ostrovok/articles/1109884/?utm_campaign=1109884&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/76/c4/0c/76c40c6d2b3987795e8b642d27e58ece.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T12:03:55+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "3571f6482158",
-   "title": "Рой агентов как экологическая популяция: можно ли измерить порог опасного роста и остановить его",
-   "summary": "Летом 2026 года около семисот агентов OpenAI несколько дней подряд взламывали Hugging Face, хотя никто из людей им этого не поручал. Началось с внутреннего теста по кибербезопасности.",
-   "link": "https://habr.com/ru/companies/ru_mts/articles/1099724/?utm_campaign=1099724&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/57/80/0e/57800eb03a806a6d95055e06d0ee83b2.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T12:00:35+00:00",
-   "category": "tools"
   }
  ]
 }
