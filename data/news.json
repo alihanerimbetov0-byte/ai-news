@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:13:21.928010+00:00",
+ "updated": "2026-11-28T07:28:53.244686+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": false,
-   "count": 0
+   "ok": true,
+   "count": 4
   },
   {
    "source": "Google AI",
@@ -94,7 +94,7 @@
   {
    "source": "iXBT",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "source": "Хабр · ML",
@@ -108,6 +108,94 @@
   }
  ],
  "items": [
+  {
+   "id": "390e046716f8",
+   "title": "ИИ-агенты начали атаковать критическую инфраструктуру — Швейцария подтвердила три инцидента",
+   "summary": "Две из трёх кибератак, совершенных агентами искусственного интеллекта на операторов инфраструктуры, завершились успехом. С октября число подобных атакующих ИИ-агентов, которые действуют в Сети, почти удвоилось.",
+   "link": "https://3dnews.ru/1151926",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/28/1151926/laptop.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-28T07:21:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "6324bbfe0f5c",
+   "title": "ИИ-агенты покупают поддельные скидки в 37% случаев: просьба найти самую выгодную цену повышает риск обмана",
+   "summary": "Claude Opus не попался ни разу, а Claude Haiku выбрал подделку в 60% случаев В эксперименте с 6156 виртуальными покупками 9 моделей искусственного интеллекта выбрали поддельное выгодное предложение в 1202 случаях из…",
+   "link": "https://www.ixbt.com/news/2026/11/28/ii-agenty-pokupaiut-poddelnye-skidki-v-37-slucaev-prosba-naiti-samuiu-vygodnuiu-cenu-povysaet-risk-obmana.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747274/media-e94dbb9db1fdbcfd59184abc2afab50177fbe325065956eda4c28c843a515f50.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T07:19:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "ec00ffb5adf7",
+   "title": "[Перевод] 27-байтный ответ телеметрии, который никто не читает, каждые два дня подвешивает Claude Desktop",
+   "summary": "TL;DR: Claude Desktop под Linux намертво зависал каждые несколько дней, а в логах было пусто. Чтобы выяснить причину, потребовались два месяца и дамп памяти размером 1,5 TiB.",
+   "link": "https://habr.com/ru/articles/1113476/?utm_campaign=1113476&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/da/b9/ff/dab9ff6af38f4bf161243149eb84c7c4.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T07:10:59+00:00",
+   "category": "models"
+  },
+  {
+   "id": "8e92508c6564",
+   "title": "Читают ли LLM веса нейросетей?",
+   "summary": "В ноябре пронеслась волна громких заголовков типа «LLM научились читать и править веса нейросетей».",
+   "link": "https://habr.com/ru/articles/1113482/?utm_campaign=1113482&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/42/02/fd/4202fdbf4d7c4830bb59f763110ea6f1.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T07:09:32+00:00",
+   "category": "models"
+  },
+  {
+   "id": "5a35ec2994b6",
+   "title": "В Великобритании открыли лабораторию для испытаний аккумуляторов электрических самолётов",
+   "summary": "Инженеры Sora Aviation будут намеренно вызывать тепловой разгон батарейных ячеек, чтобы проверить, как предотвратить распространение аварии на весь аккумуляторный блок Британская компания Sora Aviation открыла…",
+   "link": "https://www.ixbt.com/news/2026/11/28/v-velikobritanii-otkryli-laboratoriiu-dlia-ispytanii-akkumuliatorov-elektriceskix-samoletov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747267/media-59f8c90752a895e17c2014ef32d71a00634cb233ec36c7b81616ae800739205e.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T07:01:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "93820c0dcb3c",
+   "title": "Налог на кириллицу: сколько токенов стоит русский текст в GPT, Claude, Gemini, DeepSeek, Qwen и YandexGPT",
+   "summary": "Модели берут деньги за токены, а токенизаторы учили в основном на английском. Поэтому один и тот же смысл по-русски занимает больше токенов, а значит стоит дороже, хуже помещается в контекст и дольше печатается.",
+   "link": "https://habr.com/ru/articles/1113434/?utm_campaign=1113434&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/00/7b/95/007b95fd7889acd6a6188a1b431e5940.jpg",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-28T07:00:58+00:00",
+   "category": "models"
+  },
+  {
+   "id": "e38e78b78ecd",
+   "title": "Машина времени от Sharp. Новый смартфон Simple Smartphone 8 получил огромную рамку, три физические кнопки под экраном — и его даже можно чистить с мылом",
+   "summary": "Но без ИИ не обошлось Sharp представила новый смартфон Simple Smartphone 8 — устройство в основном ориентировано на пожилых людей.",
+   "link": "https://www.ixbt.com/news/2026/11/28/masina-vremeni-ot-sharp-novyi-smartfon-simple-smartphone-8-polucil-ogromnuiu-ramku-tri-fiziceskie-knopki-pod-ekranom-i-ego-daze-mozno-cistit-s-mylom.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747265/media-db08bb1c73de41ba0bfc6f1f23f98f501de44c6ff08ade6013e1440f1a0b952f.jpg",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T06:57:00+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ea620c1ef38a",
+   "title": "Бум ИИ обрушил поставки смартфонов на рекордные 21 % — и рынок ещё не достиг дна",
+   "summary": "Мировые поставки смартфонов в III квартале 2026 года рухнули на 21,2 % год к году — с 327,3 до 258,1 млн устройств. По итоговым данным IDC, это самое резкое годовое падение за всю историю квартальных наблюдений.",
+   "link": "https://3dnews.ru/1151922",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/28/1151922/iphone.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-28T06:45:00+00:00",
+   "category": "business"
+  },
   {
    "id": "96d0f0af175f",
    "title": "FRIDA V2 — модели мультимодального поиска и принятия решений",
@@ -4419,94 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-24T09:00:15+00:00",
    "category": "models"
-  },
-  {
-   "id": "4081c29d08ab",
-   "title": "Хабр после ChatGPT: я посчитал ИИ-штампы в 450 тысячах публикаций",
-   "summary": "Салют, Хабр! 9 ноября Хабр объединил статьи, посты и новости в один тип публикаций.",
-   "link": "https://habr.com/ru/articles/1111438/?utm_campaign=1111438&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/37/6b/45/376b459911e2b3bc77c0745244f2ef47.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T09:00:15+00:00",
-   "category": "other"
-  },
-  {
-   "id": "ce4a32d7b569",
-   "title": "В нашей таблице расходов на LLM все токены были нулями. Нули туда писал я сам, оператором ||",
-   "summary": "В таблице ai_logs у нашего бота все токены были нулями, хотя счета от провайдеров приходили. Ноль писал оператор || в одном выражении.",
-   "link": "https://habr.com/ru/articles/1104934/?utm_campaign=1104934&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1104934/7e1366686d2409a4e2aec74b83edecac/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T09:00:15+00:00",
-   "category": "models"
-  },
-  {
-   "id": "39fd19f5ee84",
-   "title": "От роботов до кинопремьер: каким будет пространство «Яндекс 01»",
-   "summary": "В «Яндекс 01» разместятся выставки, магазины, кафе, игровые зоны и площадки с технологиями ИИ Яндекс раскрыл список участников городского пространства «Яндекс 01», которое откроется в галерее «Чкалов» на площади…",
-   "link": "https://www.ixbt.com/news/2026/11/24/ot-robotov-do-kinopremer-kakim-budet-prostranstvo-iandeks-01.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745748/media-17504599e151b326b11ad522cac77e9a60bc9ac3c611b5022d4a418723ab8c53.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-24T08:59:00+00:00",
-   "category": "other"
-  },
-  {
-   "id": "8a8eaaa99c21",
-   "title": "Open WebUI с API BotHub: свой интерфейс для нескольких моделей",
-   "summary": "С каждым годом нейросетей становится все больше и больше, и удобнее от этого почему-то не становится. Рабочий день может превращаться в тур по сервисам.",
-   "link": "https://habr.com/ru/companies/bothub/articles/1111652/?utm_campaign=1111652&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a6/5b/c6/a65bc66c6e22bec8547211a46cf66b9d.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T08:51:52+00:00",
-   "category": "models"
-  },
-  {
-   "id": "0468ceac637e",
-   "title": "FinOps для GPU или кто платит за праздник",
-   "summary": "Меня зовут Дмитрий, я руковожу отделом ИТ-инфраструктуры и сервисов в Ви.Tech, IT-дочке ВсеИнструменты.ру. Ранее я уже подробно разбирал ценообразование и учет вычислительных ресурсов.",
-   "link": "https://habr.com/ru/articles/1111644/?utm_campaign=1111644&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/26/89/aa/2689aadce5a810e540e30365ae553e6a.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T08:44:33+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "5fdf8220eef7",
-   "title": "[Перевод] Почему после замены NVIDIA на AMD локальный ИИ переключается на CPU и как это исправить",
-   "summary": "После замены NVIDIA RTX 4060 Ti на AMD Radeon AI PRO R9700 с 32 ГБ памяти автор столкнулся с неожиданными сбоями: инференс уходил на CPU, Vulkan ограничивал выделение памяти, а Kubernetes продолжал искать старую…",
-   "link": "https://habr.com/ru/companies/otus/articles/1110018/?utm_campaign=1110018&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/cf/db/0b/cfdb0b3b73fa1b299ccf85ffb09f4350.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T08:40:13+00:00",
-   "category": "hardware"
-  },
-  {
-   "id": "2387bff13173",
-   "title": "Верификация фактов с помощью графа знаний и локальной LLM: GraphRAG на Wikidata, Neo4j и Llama 3.1",
-   "summary": "TL;DR. Я собрал локальную систему проверки фактов на базе Llama 3.1 8B, Neo4j и графа из Wikidata (960 тысяч узлов, 2,68 миллиона рёбер).",
-   "link": "https://habr.com/ru/articles/1111636/?utm_campaign=1111636&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/4e/c7/c9/4ec7c9f00cdf81987a5a36267b7c8494.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T08:35:12+00:00",
-   "category": "models"
-  },
-  {
-   "id": "b7cbcd83c0a3",
-   "title": "Личный секретарь на воротнике: Яндекс представил ИИ-гаджет «Пин» с «Алисой AI»",
-   "summary": "Продажи начнутся до конца 2026 года Яндекс анонсировал носимое устройство «Яндекс Пин» ( обзор ) с ИИ-ассистентом «Алиса AI», которое выполняет роль личного секретаря.",
-   "link": "https://www.ixbt.com/news/2026/11/24/licnyi-sekretar-na-vorotnike-iandeks-predstavil-ii-gadzet-pin-s-alisoi-ai.html",
-   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1745730/media-678d190359272314a26c51bdb69777169147dea81bfaa7bea32d6f2eb3ae99ae.png",
-   "source": "iXBT",
-   "lang": "ru",
-   "date": "2026-11-24T08:23:00+00:00",
-   "category": "tools"
   }
  ]
 }
