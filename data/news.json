@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:28:53.244686+00:00",
+ "updated": "2026-11-28T09:02:25.138039+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -108,6 +108,61 @@
   }
  ],
  "items": [
+  {
+   "id": "c118011fdb1a",
+   "title": "Herdr 2 на Windows: среда для нескольких ИИ-агентов в терминале",
+   "summary": "Когда одновременно работают три-четыре консольных ИИ-агента, обычный терминал быстро перестаёт справляться.",
+   "link": "https://habr.com/ru/articles/1113488/?utm_campaign=1113488&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/d6/44/29/d644299fd66653e8b83f01d0a7f8f27e.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T08:31:23+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "c3cbe3036575",
+   "title": "Квантование с нуля: как из 16 бит получаются 4, и почему на двух все разваливается",
+   "summary": "В списке файлов почти у любой GGUF-сборки на Hugging Face лежит десяток вариантов одного и того же: Q8_0, Q6_K, Q5_K_M, Q4_K_M, Q4_K_S, IQ4_XS, Q3_K_L, Q2_K.",
+   "link": "https://habr.com/ru/companies/selectel/articles/1111748/?utm_campaign=1111748&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/92/f6/d1/92f6d12e43cc436d699cfe77408bad63.jpg",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T08:00:03+00:00",
+   "category": "other"
+  },
+  {
+   "id": "ee726af716dc",
+   "title": "Фотонный процессор Q.ANT начал пилотную работу в облаке провайдера: ИИ-вычисления выполняют с помощью света",
+   "summary": "Немецкая компания разместила свои чипы в инфраструктуре облачного провайдера и привлекла более 30 инженерных команд к разработке моделей для фотонных вычислений Немецкая компания Q.ANT начала пилотную эксплуатацию…",
+   "link": "https://www.ixbt.com/news/2026/11/28/fotonnyi-processor-qant-nacal-pilotnuiu-rabotu-v-oblake-provaidera-ii-vycisleniia-vypolniaiut-s-pomoshhiu-sveta.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747285/media-9e1bad4ecf06609f755a78391cc03ee0d7c5dce4dcaaba647cd882864956e668.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T07:50:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "7d217dbe1c70",
+   "title": "Fujitsu везёт в Европу серверы Monaka с 2-нм процессорами: охлаждение потребляет на 80% меньше энергии",
+   "summary": "Заказы на серверы для ИИ-инференса начнут принимать в декабре 2026 года Европейское подразделение Fsas Technologies, дочерней компании Fujitsu, объявило о выходе серверов Fujitsu Monaka на европейский рынок.",
+   "link": "https://www.ixbt.com/news/2026/11/28/fujitsu-vezet-v-evropu-servery-monaka-s-2-nm-processorami-oxlazdenie-potrebliaet-na-80-mense-energii.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747282/media-a4c27de30ad6d8777c9b9a567d1e79575c6a64eff3b96db0de90821b25adda58.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T07:29:00+00:00",
+   "category": "hardware"
+  },
+  {
+   "id": "c6ab58e704b0",
+   "title": "Сейчас вам станет по-настоящему страшно. That’s a promise",
+   "summary": "Пишу, сам удивленный до глубины души. Ну что, пока вы переживали, что нейросети отнимут у вас работу, они провернули трюк поинтереснее.",
+   "link": "https://habr.com/ru/articles/1113448/?utm_campaign=1113448&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/37/28/c3/3728c3ee9c7702aac9aba5c71ba989b4.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T07:24:03+00:00",
+   "category": "other"
+  },
   {
    "id": "390e046716f8",
    "title": "ИИ-агенты начали атаковать критическую инфраструктуру — Швейцария подтвердила три инцидента",
@@ -4452,61 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-24T09:16:11+00:00",
    "category": "other"
-  },
-  {
-   "id": "6782c7cf390c",
-   "title": "Когда DFlash ускоряет Qwen3.5 4B на RTX 3060 и что показывает KernelCache",
-   "summary": "В прошлой статье я сравнила Ollama 0.40.14 и Magnitude 0.2.16 на своей RTX 3060 с 12 ГБ видеопамяти. Оба движка работали с одинаковыми весами Qwen3.5 4B.",
-   "link": "https://habr.com/ru/companies/first/articles/1110318/?utm_campaign=1110318&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/63/2b/26/632b2672e96258995fa87a6fc07ef8f4.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T09:13:19+00:00",
-   "category": "models"
-  },
-  {
-   "id": "a50d90040c19",
-   "title": "Любви все серверы покорны: люди по всему миру строят отношения с ИИ",
-   "summary": "The Guardian рассказывает истории нескольких людей, которые находятся или находились в отношениях с ИИ-ботами. Кроме романтических чувств и приятных бесед эти отношения оказались наполнены и изменами.",
-   "link": "https://habr.com/ru/articles/1111670/?utm_campaign=1111670&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b3/38/a7/b338a79e06f3c50dce6837d0deacaf2a.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T09:08:26+00:00",
-   "category": "other"
-  },
-  {
-   "id": "ad7581a3de6f",
-   "title": "Моя игра: проблемы с Яндекс Играми и публикация на Google Play",
-   "summary": "«Через три недели ваша игра пропадет с Яндекс Игр» — письмо с таким заголовком пришло мне 18 июня. Через месяц после выхода игры консоль показывала мировой рейтинг 8 при пороге снятия 30. Привет, Хабр!",
-   "link": "https://habr.com/ru/companies/korus_consulting/articles/1111632/?utm_campaign=1111632&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/0f/61/39/0f6139386ad07fac29d551fb61afc57a.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T09:06:36+00:00",
-   "category": "other"
-  },
-  {
-   "id": "9df7b7666156",
-   "title": "Память AI‑агентов: как я её организовал в своём Harness",
-   "summary": "В последнее время часто встречаю статьи на тему организации памяти агентов.",
-   "link": "https://habr.com/ru/articles/1111662/?utm_campaign=1111662&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/72/0c/0b/720c0b1d2618eaa0f43ff0560acd1f4c.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T09:05:18+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "65e000e7b8c8",
-   "title": "Sarvam-105B-1711 — индийская модель, на которую стоит обратить внимание",
-   "summary": "22 ноября индийская компания Sarvam AI опубликовала новую версию своей модели SARVAM-105B-1711.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1111400/?utm_campaign=1111400&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/41/7c/a3/417ca35f83d76b389375e73a76e749e0.png",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T09:00:15+00:00",
-   "category": "models"
   }
  ]
 }
