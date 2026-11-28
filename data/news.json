@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T14:59:00.458657+00:00",
+ "updated": "2026-11-28T16:59:28.663198+00:00",
  "categories": [
   {
    "id": "models",
@@ -43,8 +43,8 @@
   },
   {
    "source": "DeepMind",
-   "ok": true,
-   "count": 4
+   "ok": false,
+   "count": 0
   },
   {
    "source": "Google AI",
@@ -108,6 +108,17 @@
   }
  ],
  "items": [
+  {
+   "id": "980a6fb832fd",
+   "title": "Убрать пол и возраст из скоринга мало: 9 ловушек аудита предвзятости через SHAP и LIME",
+   "summary": "Банк убирает из GBDT-скоринга колонки gender и age , комплаенс ставит галочку, модель уходит в прод.",
+   "link": "https://habr.com/ru/articles/1113578/?utm_campaign=1113578&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/1c/e8/f1/1ce8f124ab62ccef4aded6b5743857a3.png",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-28T15:53:14+00:00",
+   "category": "models"
+  },
   {
    "id": "37efe7ecca9c",
    "title": "Terence Tao sees AI ushering in \"Big Math,\" but calls major tech firms' proofs \"toxic waste\"",
@@ -4496,17 +4507,6 @@
    "lang": "en",
    "date": "2026-11-24T13:00:00+00:00",
    "category": "models"
-  },
-  {
-   "id": "b05292f410b7",
-   "title": "Код подешевел, проверка подорожала: девять руководителей техкомпаний о том, что теперь делает инженер",
-   "summary": "Я делаю журнал «Сигнал» : мы пересказываем на русском длинные интервью людей, которые строят технологическую индустрию.",
-   "link": "https://habr.com/ru/articles/1111530/?utm_campaign=1111530&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/09/9b/5b/099b5ba16c17c113571f5d837ca834a0.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T12:59:57+00:00",
-   "category": "other"
   }
  ]
 }
