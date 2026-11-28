@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T16:59:28.663198+00:00",
+ "updated": "2026-11-28T19:05:20.255192+00:00",
  "categories": [
   {
    "id": "models",
@@ -49,12 +49,12 @@
   {
    "source": "Google AI",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "source": "Hugging Face",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "source": "MIT Tech Review",
@@ -108,6 +108,127 @@
   }
  ],
  "items": [
+  {
+   "id": "73f44d865de3",
+   "title": "Samsung is testing a feature that changes the angle of photos you’ve already taken",
+   "summary": "Android Authority found code in the beta for One UI 9.5 referring to a feature called Recompose that might let you change the angle of a photo after you've taken it.",
+   "link": "https://www.theverge.com/tech/1045337/samsung-recompose-ai-camera",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/samsung-galaxy-s26-plus-7.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+   "source": "The Verge",
+   "lang": "en",
+   "date": "2026-11-28T18:54:58+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "380020463020",
+   "title": "New study casts doubt on how AI companies test the safety systems meant to keep their agents in check",
+   "summary": "The UK AI Security Institute is questioning whether simulated sabotage tests for AI monitors actually prove anything.",
+   "link": "https://the-decoder.com/new-study-casts-doubt-on-how-ai-companies-test-the-safety-systems-meant-to-keep-their-agents-in-check/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/safety_issues.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-28T18:46:09+00:00",
+   "category": "policy"
+  },
+  {
+   "id": "4ac2a230baa9",
+   "title": "Google научила ИИ определять молекулы по масс-спектрам с точностью 97% — без специальных инструментов было меньше 4%",
+   "summary": "Решающую роль сыграла связка Gemini с готовыми инструментами масс-спектрометрии и химическими базами данных Google DeepMind представила Mass Spec Skills — набор специализированных инструментов, с помощью которых…",
+   "link": "https://www.ixbt.com/news/2026/11/28/google-naucila-ii-opredeliat-molekuly-po-mass-spektram-s-tocnostiu-97-bez-specialnyx-instrumentov-bylo-mense-4.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747473/media-6cede264e062e72662749ac3153f7e1994933262471bf85324dfb085b7017f0b.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T18:37:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "258e167f58fd",
+   "title": "Siemens создаёт ИИ-робота, который самостоятельно распаковывает поставки электронных компонентов",
+   "summary": "Машина учится справляться с коробками разных размеров и типов — задачей, которую не могут выполнять обычные промышленные роботы с фиксированными программами Siemens разрабатывает робота с моделями искусственного…",
+   "link": "https://www.ixbt.com/news/2026/11/28/siemens-sozdaet-ii-robota-kotoryi-samostoiatelno-raspakovyvaet-postavki-elektronnyx-komponentov.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747469/media-8deebfc4b65f36ebb3dacedb65b8b6bc24017adba6a4a89ec83feed6527d8e77.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T18:18:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "900269d576f0",
+   "title": "Claude переписал API, через который работает сам Claude, на Rust. Проверка заняла месяцы",
+   "summary": "После перехода на Rust нагрузка на процессор снизилась примерно на 70%, а потребление памяти — более чем на 80% Anthropic перенесла основной API с Python на Rust, поручив значительную часть разработки и исправлений…",
+   "link": "https://www.ixbt.com/news/2026/11/28/claude-perepisal-api-cerez-kotoryi-rabotaet-sam-claude-na-rust-proverka-zaniala-mesiacy.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747466/media-96bf90f76c7bf9dbaecb24ae5220c8f663a2205c13518ef71b90c3ea7dd78cd7.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T18:12:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "33fb4e04036d",
+   "title": "OpenAI тестирует ИИ с защитой корпоративных запросов прямо во время обработки",
+   "summary": "Private Inference использует технологию конфиденциальных вычислений, чтобы защищать запросы компаний и ответы моделей OpenAI начала закрытое альфа-тестирование инструмента Private Inference для защиты данных, которые…",
+   "link": "https://www.ixbt.com/news/2026/11/28/openai-testiruet-ii-s-zashhitoi-korporativnyx-zaprosov-priamo-vo-vremia-obrabotki.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747462/ai-image-yhfqirjij39hhwh6gabq6htw.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T18:05:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "29d911ec003b",
+   "title": "Perplexity научила ИИ искать в интернете так, будто он ещё не знает будущего",
+   "summary": "Новый инструмент Time Machine позволяет ИИ-агентам обращаться к архивным версиям веб-страниц и проверять, насколько хорошо модели предсказывают события, не подглядывая в уже известные результаты Perplexity добавила Time…",
+   "link": "https://www.ixbt.com/news/2026/11/28/perplexity-naucila-ii-iskat-v-internete-tak-budto-on-eshhe-ne-znaet-budushhego.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747457/ai-image-i4kgylmkcirsoqr3cdinbtvr.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T18:01:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "1983e4add325",
+   "title": "ИИ решил проблему квантовой гравитации? Физик из Стэнфордского университета* вместе с GPT-6 Astra создал новую конструкцию",
+   "summary": "На эту работу уже обратили внимание руководители OpenAI 25 ноября 2026 года на сервере научных препринтов arXiv появилась работа «Алгебраическое квантование гравитации на основе светового конуса» (An algebraic…",
+   "link": "https://www.ixbt.com/news/2026/11/28/ii-resil-problemu-kvantovoi-gravitacii-fizik-iz-stenfordskogo-universiteta-vmeste-s-gpt-6-astra-sozdal-novuiu-konstrukciiu.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747453/ai-image-ohf6pfbc9cesvfbdlqrakzts.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T17:56:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "b6dcab297456",
+   "title": "Lenovo начала предустанавливать на некоторые свои ПК ChatGPT, а OpenAI предлагает бонусы покупателям таких систем",
+   "summary": "Пока для компаний Компания Lenovo начала предустанавливать на некоторые свои ПК приложение ChatGPT. Речь идёт, вероятно, пока что лишь о компьютерах под управлением Windows 11, ориентированных на корпоративный сегмент.",
+   "link": "https://www.ixbt.com/news/2026/11/28/lenovo-nacala-predustanavlivat-na-nekotorye-svoi-pk-chatgpt-a-openai-predlagaet-bonusy-pokupateliam-takix-sistem.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747454/media-88986591b26db9f84667738ce4043f4c3b41d2337df6a0ba7e9af8f068888897.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T17:51:00+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "5abb7c783700",
+   "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+   "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
+   "link": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-28T17:46:47+00:00",
+   "category": "tools"
+  },
+  {
+   "id": "80c39f0d30a9",
+   "title": "ПО Gigabyte Control Center нарушало работу видеокарт Nvidia. Компания исправила проблему и уволила команду разработки",
+   "summary": "Всё дело в подсветке Компания Gigabyte уволила целую команду разработчиков своего ПО Control Center. И речь вовсе не в замене этих людей на ИИ, а в ошибке, допущенной при разработке.",
+   "link": "https://www.ixbt.com/news/2026/11/28/po-gigabyte-control-center-narusalo-rabotu-videokart-nvidia-kompaniia-ispravila-problemu-i-uvolila-komandu-razrabotki.html",
+   "image": "https://media.ixbt.com/fit-in/1600x1200/jpeg/ixbt-images/1747447/media-655ec613da1d60f4e8a36d174c89aad39213d59972dc0c05c89f8246fa14dfb2.png",
+   "source": "iXBT",
+   "lang": "ru",
+   "date": "2026-11-28T17:32:00+00:00",
+   "category": "hardware"
+  },
   {
    "id": "980a6fb832fd",
    "title": "Убрать пол и возраст из скоринга мало: 9 ловушек аудита предвзятости через SHAP и LIME",
@@ -4386,127 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-24T14:05:12+00:00",
    "category": "tools"
-  },
-  {
-   "id": "fce8d06d3346",
-   "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
-   "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled.",
-   "link": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png",
-   "source": "The Decoder",
-   "lang": "en",
-   "date": "2026-11-24T14:02:31+00:00",
-   "category": "models"
-  },
-  {
-   "id": "c44342ba2380",
-   "title": "Вышла Claude Ship — теперь ИИ и пишет, и проверяет свой код",
-   "summary": "23 ноября компания Anthropic выпустила Claude Ship — инструмент для автоматизации работы с кодом в GitHub. Он объединяет в себе поверку, согласование изменений с командой, исправление кода.",
-   "link": "https://habr.com/ru/companies/selectel/articles/1111792/?utm_campaign=1111792&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/18/92/44/189244e70c90d1d2d9bb5a6cd0de0c3b.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T14:00:02+00:00",
-   "category": "models"
-  },
-  {
-   "id": "f00fd44f4724",
-   "title": "CCE: пытаюсь научить coding‑агента не забывать задачу после compaction",
-   "summary": "Code Context Engine, Pi, SQLite, Tree-sitter, локальные LLM и несколько экспериментов, которые пошли не по плану. С чего всё началось Я использую локальные языковые модели для своих задач, автоматизации и скриптов.",
-   "link": "https://habr.com/ru/articles/1111838/?utm_campaign=1111838&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habr.com/share/publication/1111838/f29a2f919d9d39e2fdb2e35bf8f7189e/",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T13:33:00+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3ef2a6558bcd",
-   "title": "43 тысячи вакансий с ИИ: кто требует нейросети и платят ли за них больше?",
-   "summary": "Решил, значится, посмотреть, как у нас обстоят дела с нейронками и их частотой присутствия в вакансиях на платформах поиска работы, таких как hh.",
-   "link": "https://habr.com/ru/articles/1111836/?utm_campaign=1111836&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/58/6a/1d/586a1dad06dcb22f99862788d5395d02.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T13:29:49+00:00",
-   "category": "other"
-  },
-  {
-   "id": "49e717283922",
-   "title": "Курсовые и дипломы в эпоху ИИ-агентов",
-   "summary": "Ещё год назад на кафедре студентов ругали за ИИ и обсуждали детекторы нейрослопа (тогда мы ещё так это не называли). Теперь думаю: а зачем?",
-   "link": "https://habr.com/ru/articles/1111828/?utm_campaign=1111828&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/e6/ee/7f/e6ee7f01e4a3559a7d2dd009f8b341ed.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T13:22:41+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "e3a98558c06b",
-   "title": "Как запустить ИИ внутрь 1С, но не открыть ему лишнего",
-   "summary": "После обновления 1С чувствуешь себя как в Хогвартсе с его движущимися лестницами. Идёшь в «Безналичные платежи» проверить оплату по договору, а оказываешься в «НСИ и администрировании».",
-   "link": "https://habr.com/ru/companies/k2tech/articles/1111826/?utm_campaign=1111826&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/7c/bb/0b/7cbb0be2e379e2b12d98c9b863f51077.gif",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T13:21:57+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "98b97c8bf387",
-   "title": "Терминалы для ИИ-агентов: iTerm2, Rex, Warp, Ghostty и ещё шесть — кто слышит сигналы Claude Code и Codex",
-   "summary": "Агент в соседней вкладке закончил работу или ждёт разрешения, но узнает ли об этом терминал?",
-   "link": "https://habr.com/ru/articles/1111822/?utm_campaign=1111822&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/44/e9/8e/44e98e78dde018300ea7309b107e0b1e.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T13:17:56+00:00",
-   "category": "models"
-  },
-  {
-   "id": "dd94f7af62fb",
-   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-   "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
-   "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-   "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo",
-   "source": "DeepMind",
-   "lang": "en",
-   "date": "2026-11-24T13:07:53+00:00",
-   "category": "research"
-  },
-  {
-   "id": "0040bda0e8ee",
-   "title": "Где искать слабые места в API, LLM и инфраструктуре: 22 технических разбора",
-   "summary": "Даже в хорошо защищённой системе могут оставаться уязвимости, о которых команда узнаёт только после инцидента. А с внедрением ИИ появляются ещё и новые сценарии атак, которые важно учитывать.",
-   "link": "https://habr.com/ru/companies/otus/articles/1111812/?utm_campaign=1111812&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/88/6d/1a/886d1a23fbb7239b10f6951a04a02711.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T13:02:46+00:00",
-   "category": "models"
-  },
-  {
-   "id": "376af073ff82",
-   "title": "Как сделать looped LLM: от архитектуры до обучения с подкреплением",
-   "summary": "Обычно, чтобы улучшить качество языковых моделей, увеличивают количество параметров, объём обучающих данных или длину цепочек рассуждений.",
-   "link": "https://habr.com/ru/companies/sberbank/articles/1111372/?utm_campaign=1111372&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/b7/71/4e/b7714ef8d16aa251ec1eea35786fdaa2.jpg",
-   "source": "Хабр · ML",
-   "lang": "ru",
-   "date": "2026-11-24T13:00:57+00:00",
-   "category": "models"
-  },
-  {
-   "id": "3c6728c1bfd1",
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-   "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
-   "source": "OpenAI",
-   "lang": "en",
-   "date": "2026-11-24T13:00:00+00:00",
-   "category": "models"
   }
  ]
 }
