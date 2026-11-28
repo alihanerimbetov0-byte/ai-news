@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T09:02:25.138039+00:00",
+ "updated": "2026-11-28T10:59:27.580029+00:00",
  "categories": [
   {
    "id": "models",
@@ -59,7 +59,7 @@
   {
    "source": "MIT Tech Review",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "source": "OpenAI",
@@ -108,6 +108,50 @@
   }
  ],
  "items": [
+  {
+   "id": "2709044ad7d0",
+   "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+   "summary": "Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor skills in simulation.",
+   "link": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/embo_logo.png",
+   "source": "The Decoder",
+   "lang": "en",
+   "date": "2026-11-28T10:48:18+00:00",
+   "category": "models"
+  },
+  {
+   "id": "5a510b368e11",
+   "title": "Доказательство гипотезы Римана сократили в 150 раз — и снова без Claude не обошлось",
+   "summary": "Формальное доказательство гипотезы Римана, найденное математиком Левентом Алпёге (Levent Alpöge) при помощи ИИ-модели Claude, сократили примерно в 150 раз. Компактная версия занимает около 113 тыс.",
+   "link": "https://3dnews.ru/1151928",
+   "image": "https://3dnews.ru/assets/external/illustrations/2026/11/28/1151928/math_1.jpg",
+   "source": "3DNews",
+   "lang": "ru",
+   "date": "2026-11-28T10:38:00+00:00",
+   "category": "models"
+  },
+  {
+   "id": "cfb68f24a4e6",
+   "title": "ИИ‑агенты стали управлять частью вычислительных мощностей DeepMind для экспериментов с Gemini",
+   "summary": "Google DeepMind предоставляет ИИ‑агентам возможность самостоятельно проводить эксперименты для создания следующей версии модели Gemini.",
+   "link": "https://habr.com/ru/articles/1113502/?utm_campaign=1113502&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/8a/bf/89/8abf895e2a692922a413d7c1ff8d6adc.jfif",
+   "source": "Хабр · ML",
+   "lang": "ru",
+   "date": "2026-11-28T09:47:11+00:00",
+   "category": "models"
+  },
+  {
+   "id": "36beef77cbfe",
+   "title": "Делаем игровые ассеты в стиле Героев III с помощью Пейнта и Nano Banana 2 Lite",
+   "summary": "Сегодня обратимся еще к одной олдскульной легенде, за игрой в которую было потрачено немало часов.",
+   "link": "https://habr.com/ru/companies/studyai/articles/1113498/?utm_campaign=1113498&utm_source=habrahabr&utm_medium=rss",
+   "image": "https://habrastorage.org/extt/9b/79/66/9b796694c930a2f970a832cf56473770.png",
+   "source": "Хабр · ИИ",
+   "lang": "ru",
+   "date": "2026-11-28T09:18:15+00:00",
+   "category": "policy"
+  },
   {
    "id": "c118011fdb1a",
    "title": "Herdr 2 на Windows: среда для нескольких ИИ-агентов в терминале",
@@ -4463,50 +4507,6 @@
    "lang": "ru",
    "date": "2026-11-24T09:51:00+00:00",
    "category": "hardware"
-  },
-  {
-   "id": "c1210789a785",
-   "title": "Почему ваш ИИ-проект умрёт в первом квартале",
-   "summary": "Три года запускаю продукты, которые должны были изменить поведение людей. CRM, аналитика, мобильные приложения. Каждый раз одна история: технология работает, люди — нет.",
-   "link": "https://habr.com/ru/articles/1109830/?utm_campaign=1109830&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/ae/01/41/ae014168f59036123e4e012811b9f612.jpg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T09:37:02+00:00",
-   "category": "tools"
-  },
-  {
-   "id": "b30e349803ff",
-   "title": "Что такое TDD: четыре мифа, короткая обратная связь и чистый код",
-   "summary": "Когда я впервые услышал про test-driven development, расшифровка показалась мне очевидной: сначала нужно написать все тесты.",
-   "link": "https://habr.com/ru/companies/oleg-bunin/articles/1111692/?utm_campaign=1111692&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/c1/2f/e2/c12fe2dc437e9c73e9e315f7726c2869.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T09:36:32+00:00",
-   "category": "other"
-  },
-  {
-   "id": "c9fa23c859e3",
-   "title": "Команда AI VK собирает второй RecSys Meetup",
-   "summary": "3 и 4 декабря снова собираем в Москве ML-инженеров, исследователей и всех, кто занимается рекомендательными системами.",
-   "link": "https://habr.com/ru/companies/vk/articles/1111654/?utm_campaign=1111654&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/a6/44/e7/a644e7ee0c2cc193c22af74386444dd9.png",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T09:30:23+00:00",
-   "category": "research"
-  },
-  {
-   "id": "e998a67f998f",
-   "title": "Вакансия: Требуется senior! Разобрать то, что мы полгода вайбкодили…",
-   "summary": "Представим вакансию: Ищем сильного backend-разработчика. Задачи: аудит архитектуры, стабилизация продукта, устранение технического долга. Нужен самостоятельный человек, способный разобраться в сложной системе.",
-   "link": "https://habr.com/ru/articles/1111676/?utm_campaign=1111676&utm_source=habrahabr&utm_medium=rss",
-   "image": "https://habrastorage.org/extt/9f/15/f6/9f15f69dbbb13bdaeb7d5a1d370caf87.jpeg",
-   "source": "Хабр · ИИ",
-   "lang": "ru",
-   "date": "2026-11-24T09:16:11+00:00",
-   "category": "other"
   }
  ]
 }
